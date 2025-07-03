@@ -1,0 +1,97 @@
+
+H4.png
+size: 580,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00
+  rotate: true
+  xy: 467, 89
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 546, 115
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+dizi
+  rotate: true
+  xy: 2, 5
+  size: 165, 145
+  orig: 165, 145
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: true
+  xy: 149, 5
+  size: 165, 145
+  orig: 165, 145
+  offset: 0, 0
+  index: -1
+mugun
+  rotate: true
+  xy: 296, 9
+  size: 161, 90
+  orig: 161, 90
+  offset: 0, 0
+  index: -1
+shen
+  rotate: false
+  xy: 388, 73
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 484, 2
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 484, 49
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+youzhua
+  rotate: false
+  xy: 484, 19
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+youzhua2
+  rotate: true
+  xy: 388, 12
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 525, 43
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+zuozhua
+  rotate: false
+  xy: 441, 3
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+zuozhua2
+  rotate: false
+  xy: 546, 75
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1

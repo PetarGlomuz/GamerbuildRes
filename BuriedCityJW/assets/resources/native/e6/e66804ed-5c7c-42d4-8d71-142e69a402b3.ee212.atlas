@@ -1,0 +1,215 @@
+
+ngfg_bg.png
+size: 2048,2046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangban
+  rotate: false
+  xy: 1565, 1665
+  size: 412, 379
+  orig: 438, 438
+  offset: 12, 38
+  index: -1
+huoshang/huoshang_00
+  rotate: false
+  xy: 171, 25
+  size: 166, 152
+  orig: 396, 328
+  offset: 33, 14
+  index: -1
+huoshang/huoshang_01
+  rotate: false
+  xy: 1734, 600
+  size: 165, 152
+  orig: 396, 328
+  offset: 33, 14
+  index: -1
+huoshang/huoshang_02
+  rotate: false
+  xy: 1564, 292
+  size: 166, 152
+  orig: 396, 328
+  offset: 32, 14
+  index: -1
+huoshang/huoshang_03
+  rotate: false
+  xy: 2, 25
+  size: 167, 152
+  orig: 396, 328
+  offset: 32, 14
+  index: -1
+huoshang/huoshang_04
+  rotate: false
+  xy: 339, 26
+  size: 167, 151
+  orig: 396, 328
+  offset: 32, 14
+  index: -1
+huoshang/huoshang_05
+  rotate: false
+  xy: 508, 26
+  size: 167, 151
+  orig: 396, 328
+  offset: 32, 14
+  index: -1
+huoshang/huoshang_06
+  rotate: false
+  xy: 1565, 600
+  size: 167, 152
+  orig: 396, 328
+  offset: 32, 14
+  index: -1
+huoshang/huoshang_07
+  rotate: false
+  xy: 1564, 446
+  size: 167, 152
+  orig: 396, 328
+  offset: 32, 14
+  index: -1
+huoshang/huoshang_08
+  rotate: false
+  xy: 677, 26
+  size: 167, 151
+  orig: 396, 328
+  offset: 32, 14
+  index: -1
+huoshang/huoshang_09
+  rotate: true
+  xy: 1763, 773
+  size: 167, 152
+  orig: 396, 328
+  offset: 32, 14
+  index: -1
+huoshang/huoshang_10
+  rotate: false
+  xy: 846, 25
+  size: 166, 152
+  orig: 396, 328
+  offset: 33, 14
+  index: -1
+huoshang/huoshang_11
+  rotate: false
+  xy: 1014, 25
+  size: 166, 152
+  orig: 396, 328
+  offset: 33, 14
+  index: -1
+huoshang/huoshang_12
+  rotate: false
+  xy: 1182, 25
+  size: 166, 152
+  orig: 396, 328
+  offset: 33, 14
+  index: -1
+huoshang/huoshang_13
+  rotate: false
+  xy: 1564, 139
+  size: 166, 151
+  orig: 396, 328
+  offset: 33, 14
+  index: -1
+huoshang/huoshang_14
+  rotate: false
+  xy: 1350, 25
+  size: 166, 152
+  orig: 396, 328
+  offset: 33, 14
+  index: -1
+huoshang/huoshang_15
+  rotate: false
+  xy: 1732, 139
+  size: 166, 151
+  orig: 396, 328
+  offset: 33, 14
+  index: -1
+huoshang/huoshang_17
+  rotate: false
+  xy: 1733, 446
+  size: 166, 152
+  orig: 396, 328
+  offset: 33, 14
+  index: -1
+huoshang/huoshang_18
+  rotate: false
+  xy: 1732, 292
+  size: 166, 152
+  orig: 396, 328
+  offset: 33, 14
+  index: -1
+ri_bei
+  rotate: false
+  xy: 2, 1323
+  size: 1561, 721
+  orig: 1561, 721
+  offset: 0, 0
+  index: -1
+ri_taiyang
+  rotate: false
+  xy: 1565, 754
+  size: 196, 186
+  orig: 196, 188
+  offset: 0, 1
+  index: -1
+ri_yun
+  rotate: true
+  xy: 1979, 1823
+  size: 221, 50
+  orig: 223, 52
+  offset: 1, 1
+  index: -1
+star
+  rotate: true
+  xy: 1917, 815
+  size: 125, 129
+  orig: 125, 129
+  offset: 0, 0
+  index: -1
+xianguang_00
+  rotate: true
+  xy: 1926, 1082
+  size: 228, 88
+  orig: 242, 88
+  offset: 13, 0
+  index: -1
+xiaoyangguang_00
+  rotate: false
+  xy: 1565, 1312
+  size: 401, 351
+  orig: 512, 512
+  offset: 65, 94
+  index: -1
+yue_bei
+  rotate: false
+  xy: 2, 600
+  size: 1561, 721
+  orig: 1561, 721
+  offset: 0, 0
+  index: -1
+yue_xingxing1
+  rotate: false
+  xy: 2, 179
+  size: 1560, 419
+  orig: 1560, 419
+  offset: 0, 0
+  index: -1
+yue_yueliang
+  rotate: false
+  xy: 1565, 942
+  size: 359, 368
+  orig: 379, 383
+  offset: 3, 2
+  index: -1
+
+ngfg_bg2.png
+size: 170,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoshang/huoshang_16
+  rotate: false
+  xy: 2, 15
+  size: 166, 151
+  orig: 396, 328
+  offset: 33, 14
+  index: -1

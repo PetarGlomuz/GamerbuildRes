@@ -1,0 +1,188 @@
+
+Map_jiedian.png
+size: 950,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g/g_00
+  rotate: false
+  xy: 584, 123
+  size: 91, 91
+  orig: 153, 125
+  offset: 29, 16
+  index: -1
+g/g_01
+  rotate: false
+  xy: 677, 110
+  size: 105, 105
+  orig: 153, 125
+  offset: 22, 9
+  index: -1
+g/g_02
+  rotate: true
+  xy: 493, 216
+  size: 117, 119
+  orig: 153, 125
+  offset: 16, 2
+  index: -1
+g/g_03
+  rotate: true
+  xy: 370, 215
+  size: 118, 121
+  orig: 153, 125
+  offset: 15, 1
+  index: -1
+g/g_04
+  rotate: false
+  xy: 128, 211
+  size: 118, 122
+  orig: 153, 125
+  offset: 15, 1
+  index: -1
+g/g_05
+  rotate: false
+  xy: 2, 86
+  size: 119, 122
+  orig: 153, 125
+  offset: 14, 1
+  index: -1
+g/g_06
+  rotate: true
+  xy: 614, 217
+  size: 116, 118
+  orig: 153, 125
+  offset: 15, 4
+  index: -1
+g/g_07
+  rotate: false
+  xy: 734, 217
+  size: 116, 116
+  orig: 153, 125
+  offset: 16, 4
+  index: -1
+g/g_08
+  rotate: false
+  xy: 248, 213
+  size: 120, 120
+  orig: 153, 125
+  offset: 15, 1
+  index: -1
+g/g_09
+  rotate: false
+  xy: 2, 210
+  size: 124, 123
+  orig: 153, 125
+  offset: 13, 0
+  index: -1
+g/g_10
+  rotate: false
+  xy: 123, 2
+  size: 102, 108
+  orig: 153, 125
+  offset: 20, 11
+  index: -1
+g/g_11
+  rotate: true
+  xy: 248, 112
+  size: 99, 106
+  orig: 153, 125
+  offset: 21, 13
+  index: -1
+g/g_12
+  rotate: false
+  xy: 329, 4
+  size: 100, 106
+  orig: 153, 125
+  offset: 20, 13
+  index: -1
+g/g_13
+  rotate: true
+  xy: 477, 113
+  size: 100, 105
+  orig: 153, 125
+  offset: 19, 13
+  index: -1
+g/g_14
+  rotate: true
+  xy: 370, 112
+  size: 101, 105
+  orig: 153, 125
+  offset: 18, 13
+  index: -1
+g/g_15
+  rotate: false
+  xy: 742, 4
+  size: 103, 104
+  orig: 153, 125
+  offset: 16, 13
+  index: -1
+g/g_16
+  rotate: false
+  xy: 635, 4
+  size: 105, 104
+  orig: 153, 125
+  offset: 15, 12
+  index: -1
+g/g_17
+  rotate: true
+  xy: 431, 4
+  size: 106, 102
+  orig: 153, 125
+  offset: 14, 12
+  index: -1
+g/g_18
+  rotate: true
+  xy: 227, 3
+  size: 107, 100
+  orig: 153, 125
+  offset: 14, 12
+  index: -1
+g/g_19
+  rotate: true
+  xy: 535, 2
+  size: 109, 98
+  orig: 153, 125
+  offset: 13, 11
+  index: -1
+g/g_20
+  rotate: false
+  xy: 128, 112
+  size: 110, 97
+  orig: 153, 125
+  offset: 12, 11
+  index: -1
+g/g_21
+  rotate: true
+  xy: 852, 223
+  size: 110, 96
+  orig: 153, 125
+  offset: 12, 11
+  index: -1
+g/g_22
+  rotate: true
+  xy: 852, 112
+  size: 109, 96
+  orig: 153, 125
+  offset: 13, 11
+  index: -1
+x3_00000
+  rotate: true
+  xy: 784, 140
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+xin1
+  rotate: false
+  xy: 847, 44
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+xin2
+  rotate: false
+  xy: 2, 12
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1

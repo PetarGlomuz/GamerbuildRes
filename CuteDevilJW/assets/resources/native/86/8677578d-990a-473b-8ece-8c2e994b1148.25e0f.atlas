@@ -1,0 +1,153 @@
+
+JP_diban.png
+size: 894,677
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizi2
+  rotate: false
+  xy: 2, 117
+  size: 832, 558
+  orig: 832, 558
+  offset: 0, 0
+  index: -1
+lizi/lizi_00000
+  rotate: false
+  xy: 836, 132
+  size: 55, 101
+  orig: 64, 126
+  offset: 8, 10
+  index: -1
+lizi/lizi_00001
+  rotate: true
+  xy: 354, 59
+  size: 56, 114
+  orig: 64, 126
+  offset: 7, 11
+  index: -1
+lizi/lizi_00002
+  rotate: true
+  xy: 582, 59
+  size: 56, 105
+  orig: 64, 126
+  offset: 7, 9
+  index: -1
+lizi/lizi_00003
+  rotate: true
+  xy: 672, 2
+  size: 55, 107
+  orig: 64, 126
+  offset: 7, 8
+  index: -1
+lizi/lizi_00004
+  rotate: true
+  xy: 781, 2
+  size: 55, 107
+  orig: 64, 126
+  offset: 7, 9
+  index: -1
+lizi/lizi_00005
+  rotate: false
+  xy: 836, 451
+  size: 55, 106
+  orig: 64, 126
+  offset: 7, 11
+  index: -1
+lizi/lizi_00006
+  rotate: true
+  xy: 452, 2
+  size: 55, 108
+  orig: 64, 126
+  offset: 7, 8
+  index: -1
+lizi/lizi_00007
+  rotate: true
+  xy: 562, 2
+  size: 55, 108
+  orig: 64, 126
+  offset: 7, 9
+  index: -1
+lizi/lizi_00008
+  rotate: false
+  xy: 836, 343
+  size: 55, 106
+  orig: 64, 126
+  offset: 7, 10
+  index: -1
+lizi/lizi_00009
+  rotate: false
+  xy: 836, 235
+  size: 55, 106
+  orig: 64, 126
+  offset: 7, 11
+  index: -1
+lizi/lizi_00010
+  rotate: true
+  xy: 228, 2
+  size: 55, 110
+  orig: 64, 126
+  offset: 7, 8
+  index: -1
+lizi/lizi_00011
+  rotate: true
+  xy: 340, 2
+  size: 55, 110
+  orig: 64, 126
+  offset: 7, 9
+  index: -1
+lizi/lizi_00012
+  rotate: true
+  xy: 2, 2
+  size: 55, 111
+  orig: 64, 126
+  offset: 7, 9
+  index: -1
+lizi/lizi_00013
+  rotate: true
+  xy: 115, 2
+  size: 55, 111
+  orig: 64, 126
+  offset: 7, 10
+  index: -1
+lizi/lizi_00014
+  rotate: true
+  xy: 470, 59
+  size: 56, 110
+  orig: 64, 126
+  offset: 7, 12
+  index: -1
+lizi/lizi_00015
+  rotate: true
+  xy: 120, 59
+  size: 56, 115
+  orig: 64, 126
+  offset: 7, 8
+  index: -1
+lizi/lizi_00016
+  rotate: true
+  xy: 2, 59
+  size: 56, 116
+  orig: 64, 126
+  offset: 7, 8
+  index: -1
+lizi/lizi_00017
+  rotate: false
+  xy: 836, 559
+  size: 56, 116
+  orig: 64, 126
+  offset: 7, 9
+  index: -1
+lizi/lizi_00018
+  rotate: true
+  xy: 237, 59
+  size: 56, 115
+  orig: 64, 126
+  offset: 7, 11
+  index: -1
+lizi/lizi_00019
+  rotate: true
+  xy: 689, 59
+  size: 56, 105
+  orig: 64, 126
+  offset: 7, 9
+  index: -1

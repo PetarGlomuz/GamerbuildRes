@@ -1,0 +1,118 @@
+
+BookOfGod_TY_Btn.png
+size: 937,358
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btng_00
+  rotate: true
+  xy: 918, 132
+  size: 28, 10
+  orig: 317, 125
+  offset: 145, 56
+  index: -1
+btng_01
+  rotate: true
+  xy: 832, 7
+  size: 84, 29
+  orig: 317, 125
+  offset: 117, 47
+  index: -1
+btng_02
+  rotate: true
+  xy: 868, 22
+  size: 138, 48
+  orig: 317, 125
+  offset: 90, 37
+  index: -1
+btng_03
+  rotate: true
+  xy: 869, 162
+  size: 194, 66
+  orig: 317, 125
+  offset: 62, 28
+  index: -1
+btng_04
+  rotate: false
+  xy: 580, 7
+  size: 250, 84
+  orig: 317, 125
+  offset: 34, 19
+  index: -1
+btng_05
+  rotate: false
+  xy: 580, 180
+  size: 285, 87
+  orig: 317, 125
+  offset: 18, 16
+  index: -1
+btng_06
+  rotate: false
+  xy: 2, 269
+  size: 287, 87
+  orig: 317, 125
+  offset: 17, 16
+  index: -1
+btng_07
+  rotate: false
+  xy: 2, 180
+  size: 287, 87
+  orig: 317, 125
+  offset: 17, 16
+  index: -1
+btng_08
+  rotate: false
+  xy: 291, 269
+  size: 287, 87
+  orig: 317, 125
+  offset: 17, 16
+  index: -1
+btng_09
+  rotate: false
+  xy: 2, 91
+  size: 287, 87
+  orig: 317, 125
+  offset: 17, 16
+  index: -1
+btng_10
+  rotate: false
+  xy: 291, 180
+  size: 287, 87
+  orig: 317, 125
+  offset: 17, 16
+  index: -1
+btng_11
+  rotate: false
+  xy: 580, 269
+  size: 287, 87
+  orig: 317, 125
+  offset: 17, 16
+  index: -1
+btng_12
+  rotate: false
+  xy: 2, 2
+  size: 287, 87
+  orig: 317, 125
+  offset: 17, 16
+  index: -1
+btng_13
+  rotate: false
+  xy: 291, 91
+  size: 287, 87
+  orig: 317, 125
+  offset: 17, 16
+  index: -1
+btng_14
+  rotate: false
+  xy: 291, 3
+  size: 286, 86
+  orig: 317, 125
+  offset: 18, 17
+  index: -1
+btng_15
+  rotate: false
+  xy: 580, 93
+  size: 286, 85
+  orig: 317, 125
+  offset: 18, 18
+  index: -1

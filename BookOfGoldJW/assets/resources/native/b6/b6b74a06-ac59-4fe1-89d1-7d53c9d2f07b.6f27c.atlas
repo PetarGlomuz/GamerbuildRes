@@ -1,0 +1,216 @@
+
+NG_H4.png
+size: 845,843
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_chibang
+  rotate: false
+  xy: 709, 242
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+L_chibangjin
+  rotate: false
+  xy: 658, 241
+  size: 49, 87
+  orig: 49, 87
+  offset: 0, 0
+  index: -1
+R_chibang
+  rotate: false
+  xy: 730, 549
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+R_chibangjin
+  rotate: false
+  xy: 730, 637
+  size: 49, 87
+  orig: 49, 87
+  offset: 0, 0
+  index: -1
+jing
+  rotate: true
+  xy: 553, 26
+  size: 185, 146
+  orig: 185, 146
+  offset: 0, 0
+  index: -1
+jingjin
+  rotate: true
+  xy: 697, 330
+  size: 185, 146
+  orig: 185, 146
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: true
+  xy: 548, 330
+  size: 185, 147
+  orig: 185, 147
+  offset: 0, 0
+  index: -1
+kuangjin
+  rotate: false
+  xy: 366, 42
+  size: 185, 147
+  orig: 185, 147
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00000
+  rotate: false
+  xy: 2, 680
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00001
+  rotate: false
+  xy: 2, 517
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00002
+  rotate: false
+  xy: 184, 680
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00003
+  rotate: false
+  xy: 2, 354
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00004
+  rotate: false
+  xy: 184, 517
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00005
+  rotate: false
+  xy: 366, 680
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00006
+  rotate: false
+  xy: 2, 191
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00007
+  rotate: false
+  xy: 184, 354
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00008
+  rotate: false
+  xy: 366, 517
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00009
+  rotate: false
+  xy: 548, 680
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00010
+  rotate: false
+  xy: 2, 28
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00011
+  rotate: false
+  xy: 184, 191
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00012
+  rotate: false
+  xy: 366, 354
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00013
+  rotate: false
+  xy: 548, 517
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00014
+  rotate: false
+  xy: 184, 28
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00015
+  rotate: false
+  xy: 366, 191
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+xx_1
+  rotate: false
+  xy: 781, 674
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+xx_1x
+  rotate: false
+  xy: 760, 278
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: false
+  xy: 730, 726
+  size: 108, 115
+  orig: 108, 115
+  offset: 0, 0
+  index: -1
+zhutijin
+  rotate: false
+  xy: 548, 213
+  size: 108, 115
+  orig: 108, 115
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: false
+  xy: 658, 215
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+zhuzijin
+  rotate: false
+  xy: 2, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1

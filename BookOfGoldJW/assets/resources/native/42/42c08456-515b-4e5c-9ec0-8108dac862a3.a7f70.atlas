@@ -1,0 +1,174 @@
+
+NG_symbol.png
+size: 337,337
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/lizi_00
+  rotate: false
+  xy: 206, 200
+  size: 70, 60
+  orig: 75, 67
+  offset: 3, 0
+  index: -1
+lizi/lizi_01
+  rotate: false
+  xy: 130, 124
+  size: 72, 61
+  orig: 75, 67
+  offset: 2, 0
+  index: -1
+lizi/lizi_02
+  rotate: true
+  xy: 142, 187
+  size: 73, 62
+  orig: 75, 67
+  offset: 2, 0
+  index: -1
+lizi/lizi_03
+  rotate: false
+  xy: 2, 272
+  size: 73, 63
+  orig: 75, 67
+  offset: 2, 0
+  index: -1
+lizi/lizi_04
+  rotate: true
+  xy: 77, 262
+  size: 73, 63
+  orig: 75, 67
+  offset: 2, 0
+  index: -1
+lizi/lizi_05
+  rotate: true
+  xy: 2, 197
+  size: 73, 63
+  orig: 75, 67
+  offset: 2, 0
+  index: -1
+lizi/lizi_06
+  rotate: false
+  xy: 67, 197
+  size: 73, 63
+  orig: 75, 67
+  offset: 2, 0
+  index: -1
+lizi/lizi_07
+  rotate: true
+  xy: 142, 262
+  size: 73, 63
+  orig: 75, 67
+  offset: 2, 0
+  index: -1
+lizi/lizi_08
+  rotate: true
+  xy: 2, 122
+  size: 73, 62
+  orig: 75, 67
+  offset: 2, 1
+  index: -1
+lizi/lizi_09
+  rotate: true
+  xy: 66, 124
+  size: 71, 62
+  orig: 75, 67
+  offset: 3, 1
+  index: -1
+lizi/lizi_10
+  rotate: true
+  xy: 204, 114
+  size: 71, 61
+  orig: 75, 67
+  offset: 3, 2
+  index: -1
+lizi/lizi_11
+  rotate: false
+  xy: 207, 275
+  size: 69, 60
+  orig: 75, 67
+  offset: 4, 3
+  index: -1
+lizi/lizi_12
+  rotate: false
+  xy: 66, 63
+  size: 68, 59
+  orig: 75, 67
+  offset: 5, 4
+  index: -1
+lizi/lizi_13
+  rotate: true
+  xy: 2, 54
+  size: 66, 59
+  orig: 75, 67
+  offset: 6, 4
+  index: -1
+lizi/lizi_14
+  rotate: true
+  xy: 136, 56
+  size: 66, 58
+  orig: 75, 67
+  offset: 6, 5
+  index: -1
+lizi/lizi_15
+  rotate: false
+  xy: 63, 4
+  size: 64, 57
+  orig: 75, 67
+  offset: 7, 6
+  index: -1
+lizi/lizi_16
+  rotate: false
+  xy: 196, 56
+  size: 64, 56
+  orig: 75, 67
+  offset: 7, 7
+  index: -1
+lizi/lizi_17
+  rotate: true
+  xy: 262, 49
+  size: 63, 55
+  orig: 75, 67
+  offset: 7, 8
+  index: -1
+lizi/lizi_18
+  rotate: true
+  xy: 267, 136
+  size: 62, 54
+  orig: 75, 67
+  offset: 8, 9
+  index: -1
+lizi/lizi_19
+  rotate: true
+  xy: 278, 274
+  size: 61, 53
+  orig: 75, 67
+  offset: 8, 10
+  index: -1
+lizi/lizi_20
+  rotate: false
+  xy: 129, 2
+  size: 61, 52
+  orig: 75, 67
+  offset: 8, 11
+  index: -1
+lizi/lizi_21
+  rotate: false
+  xy: 192, 3
+  size: 61, 51
+  orig: 75, 67
+  offset: 8, 12
+  index: -1
+lizi/lizi_22
+  rotate: false
+  xy: 2, 2
+  size: 59, 50
+  orig: 75, 67
+  offset: 9, 13
+  index: -1
+lizi/lizi_23
+  rotate: true
+  xy: 278, 213
+  size: 59, 49
+  orig: 75, 67
+  offset: 9, 14
+  index: -1

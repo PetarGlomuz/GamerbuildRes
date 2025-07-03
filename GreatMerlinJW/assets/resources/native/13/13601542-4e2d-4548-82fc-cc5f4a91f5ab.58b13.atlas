@@ -1,0 +1,384 @@
+
+MAP_Numbercard_flip.png
+size: 1951,835
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Num_1
+  rotate: false
+  xy: 1354, 601
+  size: 179, 232
+  orig: 179, 232
+  offset: 0, 0
+  index: -1
+Num_2
+  rotate: false
+  xy: 988, 600
+  size: 181, 233
+  orig: 181, 233
+  offset: 0, 0
+  index: -1
+Num_3
+  rotate: false
+  xy: 1535, 602
+  size: 179, 231
+  orig: 179, 231
+  offset: 0, 0
+  index: -1
+Num_4
+  rotate: false
+  xy: 1171, 600
+  size: 181, 233
+  orig: 181, 233
+  offset: 0, 0
+  index: -1
+Num_5
+  rotate: false
+  xy: 620, 599
+  size: 182, 234
+  orig: 182, 234
+  offset: 0, 0
+  index: -1
+Num_6
+  rotate: false
+  xy: 804, 599
+  size: 182, 234
+  orig: 182, 234
+  offset: 0, 0
+  index: -1
+Num_back
+  rotate: false
+  xy: 425, 582
+  size: 193, 251
+  orig: 193, 251
+  offset: 0, 0
+  index: -1
+Num_backp
+  rotate: false
+  xy: 231, 579
+  size: 192, 254
+  orig: 192, 254
+  offset: 0, 0
+  index: -1
+cardguang/cardguang_00
+  rotate: false
+  xy: 1241, 443
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+cardguang/cardguang_01
+  rotate: false
+  xy: 1241, 286
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+cardguang/cardguang_02
+  rotate: false
+  xy: 1584, 241
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+cardguang/cardguang_03
+  rotate: false
+  xy: 1078, 209
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+cardguang/cardguang_04
+  rotate: true
+  xy: 169, 2
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+cardguang/cardguang_05
+  rotate: false
+  xy: 707, 41
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+cardguang/cardguang_06
+  rotate: true
+  xy: 911, 25
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+cardguang/cardguang_07
+  rotate: true
+  xy: 1214, 150
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+cardguang/cardguang_08
+  rotate: true
+  xy: 1371, 144
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+cardguang/cardguang_09
+  rotate: false
+  xy: 1078, 52
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+cardguang/cardguang_10
+  rotate: true
+  xy: 1214, 14
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+clickguang1/backzi_00
+  rotate: true
+  xy: 156, 342
+  size: 205, 115
+  orig: 205, 115
+  offset: 0, 0
+  index: -1
+clickguang1/backzi_01
+  rotate: false
+  xy: 620, 482
+  size: 205, 115
+  orig: 205, 115
+  offset: 0, 0
+  index: -1
+clickguang1/backzi_02
+  rotate: false
+  xy: 607, 365
+  size: 205, 115
+  orig: 205, 115
+  offset: 0, 0
+  index: -1
+clickguang1/backzi_03
+  rotate: false
+  xy: 827, 482
+  size: 205, 115
+  orig: 205, 115
+  offset: 0, 0
+  index: -1
+clickguang1/backzi_04
+  rotate: false
+  xy: 814, 365
+  size: 205, 115
+  orig: 205, 115
+  offset: 0, 0
+  index: -1
+clickguang1/backzi_05
+  rotate: false
+  xy: 1034, 483
+  size: 205, 115
+  orig: 205, 115
+  offset: 0, 0
+  index: -1
+clickguang1/backzi_06
+  rotate: false
+  xy: 1034, 366
+  size: 205, 115
+  orig: 205, 115
+  offset: 0, 0
+  index: -1
+clickguang1/backzi_07
+  rotate: false
+  xy: 1377, 280
+  size: 205, 115
+  orig: 205, 115
+  offset: 0, 0
+  index: -1
+clickguang1/click1_00
+  rotate: false
+  xy: 1716, 631
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/click1_01
+  rotate: false
+  xy: 2, 44
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/click1_02
+  rotate: false
+  xy: 273, 375
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/click1_03
+  rotate: false
+  xy: 440, 378
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/click1_04
+  rotate: false
+  xy: 1377, 397
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/click1_05
+  rotate: false
+  xy: 1544, 398
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/click1_06
+  rotate: false
+  xy: 1711, 398
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/click1_07
+  rotate: false
+  xy: 1720, 194
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/click1_08
+  rotate: false
+  xy: 169, 138
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/click1_09
+  rotate: false
+  xy: 336, 171
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/click1_10
+  rotate: true
+  xy: 503, 198
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/click1_11
+  rotate: true
+  xy: 707, 198
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/click1_12
+  rotate: false
+  xy: 911, 161
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/click1_13
+  rotate: true
+  xy: 503, 31
+  size: 165, 202
+  orig: 165, 202
+  offset: 0, 0
+  index: -1
+clickguang1/clicklizi_00
+  rotate: false
+  xy: 1883, 654
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+clickguang1/clicklizi_01
+  rotate: false
+  xy: 843, 17
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+clickguang1/clicklizi_02
+  rotate: true
+  xy: 1371, 76
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+clickguang1/clicklizi_03
+  rotate: true
+  xy: 1371, 8
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+clickguang1/clicklizi_04
+  rotate: true
+  xy: 1528, 173
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+clickguang1/clicklizi_05
+  rotate: true
+  xy: 1552, 105
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+clickguang1/clicklizi_06
+  rotate: true
+  xy: 1552, 37
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+clickguang1/clicklizi_07
+  rotate: false
+  xy: 1733, 13
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+clickguang1/clicklizi_08
+  rotate: false
+  xy: 1801, 13
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+clickguang1/clicklizi_09
+  rotate: false
+  xy: 1869, 13
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+clickguang1/clicklizi_10
+  rotate: false
+  xy: 1878, 450
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+kuangidle_00
+  rotate: false
+  xy: 2, 549
+  size: 227, 284
+  orig: 227, 284
+  offset: 0, 0
+  index: -1
+shine_00
+  rotate: false
+  xy: 2, 248
+  size: 152, 299
+  orig: 152, 299
+  offset: 0, 0
+  index: -1

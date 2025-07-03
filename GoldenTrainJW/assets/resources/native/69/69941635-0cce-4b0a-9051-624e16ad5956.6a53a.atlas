@@ -1,0 +1,152 @@
+
+NG_beijing.png
+size: 2048,2038
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ding
+  rotate: false
+  xy: 2, 718
+  size: 1927, 1318
+  orig: 1927, 1318
+  offset: 0, 0
+  index: -1
+fangzi
+  rotate: false
+  xy: 2, 300
+  size: 1715, 416
+  orig: 1715, 419
+  offset: 0, 3
+  index: -1
+shangkuangng
+  rotate: true
+  xy: 1931, 819
+  size: 1217, 95
+  orig: 1217, 95
+  offset: 0, 0
+  index: -1
+shanng
+  rotate: false
+  xy: 2, 71
+  size: 1671, 227
+  orig: 1671, 227
+  offset: 0, 0
+  index: -1
+youchuanglian1ng
+  rotate: true
+  xy: 141, 12
+  size: 57, 136
+  orig: 57, 137
+  offset: 0, 0
+  index: -1
+youchuanglianxinng
+  rotate: false
+  xy: 1719, 286
+  size: 233, 430
+  orig: 233, 430
+  offset: 0, 0
+  index: -1
+yun05
+  rotate: false
+  xy: 1675, 2
+  size: 277, 110
+  orig: 278, 110
+  offset: 1, 0
+  index: -1
+zuochuanglian1ng
+  rotate: true
+  xy: 2, 11
+  size: 58, 137
+  orig: 58, 137
+  offset: 0, 0
+  index: -1
+zuochuanglian2ng
+  rotate: true
+  xy: 1675, 114
+  size: 170, 371
+  orig: 170, 371
+  offset: 0, 0
+  index: -1
+
+NG_beijing2.png
+size: 2045,2043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilian
+  rotate: true
+  xy: 1826, 481
+  size: 1560, 210
+  orig: 1562, 223
+  offset: 1, 13
+  index: -1
+huiyingng
+  rotate: false
+  xy: 2, 871
+  size: 1560, 1170
+  orig: 1560, 1170
+  offset: 0, 0
+  index: -1
+tiankong
+  rotate: false
+  xy: 2, 312
+  size: 1560, 557
+  orig: 1561, 691
+  offset: 0, 134
+  index: -1
+youchaungng
+  rotate: false
+  xy: 1799, 124
+  size: 244, 355
+  orig: 244, 355
+  offset: 0, 0
+  index: -1
+youchuanglian2ng
+  rotate: true
+  xy: 359, 141
+  size: 169, 371
+  orig: 169, 371
+  offset: 0, 0
+  index: -1
+yun
+  rotate: true
+  xy: 1564, 481
+  size: 1560, 260
+  orig: 1560, 260
+  offset: 0, 0
+  index: -1
+yun00
+  rotate: false
+  xy: 1799, 24
+  size: 234, 98
+  orig: 234, 98
+  offset: 0, 0
+  index: -1
+yun01
+  rotate: false
+  xy: 359, 2
+  size: 327, 137
+  orig: 327, 137
+  offset: 0, 0
+  index: -1
+yun02
+  rotate: false
+  xy: 688, 43
+  size: 234, 96
+  orig: 234, 96
+  offset: 0, 0
+  index: -1
+zuochuanglianxinng
+  rotate: false
+  xy: 1564, 49
+  size: 233, 430
+  orig: 233, 430
+  offset: 0, 0
+  index: -1
+zuochuangng
+  rotate: true
+  xy: 2, 68
+  size: 242, 355
+  orig: 242, 355
+  offset: 0, 0
+  index: -1

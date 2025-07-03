@@ -1,0 +1,398 @@
+
+L2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiguang
+  rotate: false
+  xy: 2, 53
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+biankuang
+  rotate: false
+  xy: 2, 118
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 82, 194
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+k_sg/k_sg_01
+  rotate: true
+  xy: 226, 151
+  size: 36, 5
+  orig: 58, 56
+  offset: 11, 40
+  index: -1
+k_sg/k_sg_02
+  rotate: false
+  xy: 106, 3
+  size: 38, 7
+  orig: 58, 56
+  offset: 10, 38
+  index: -1
+k_sg/k_sg_03
+  rotate: false
+  xy: 454, 215
+  size: 38, 9
+  orig: 58, 56
+  offset: 10, 36
+  index: -1
+k_sg/k_sg_04
+  rotate: false
+  xy: 81, 118
+  size: 38, 11
+  orig: 58, 56
+  offset: 10, 34
+  index: -1
+k_sg/k_sg_05
+  rotate: false
+  xy: 66, 4
+  size: 38, 14
+  orig: 58, 56
+  offset: 10, 31
+  index: -1
+k_sg/k_sg_06
+  rotate: false
+  xy: 67, 53
+  size: 39, 20
+  orig: 58, 56
+  offset: 10, 29
+  index: -1
+k_sg/k_sg_07
+  rotate: true
+  xy: 67, 75
+  size: 41, 25
+  orig: 58, 56
+  offset: 9, 27
+  index: -1
+k_sg/k_sg_08
+  rotate: false
+  xy: 454, 226
+  size: 46, 28
+  orig: 58, 56
+  offset: 7, 25
+  index: -1
+k_sg/k_sg_09
+  rotate: true
+  xy: 2, 2
+  size: 49, 28
+  orig: 58, 56
+  offset: 5, 23
+  index: -1
+k_sg/k_sg_10
+  rotate: false
+  xy: 257, 224
+  size: 50, 30
+  orig: 58, 56
+  offset: 5, 21
+  index: -1
+k_sg/k_sg_11
+  rotate: false
+  xy: 153, 222
+  size: 50, 32
+  orig: 58, 56
+  offset: 5, 19
+  index: -1
+k_sg/k_sg_12
+  rotate: false
+  xy: 205, 223
+  size: 50, 31
+  orig: 58, 56
+  offset: 5, 17
+  index: -1
+k_sg/k_sg_13
+  rotate: false
+  xy: 309, 224
+  size: 50, 30
+  orig: 58, 56
+  offset: 5, 15
+  index: -1
+k_sg/k_sg_14
+  rotate: true
+  xy: 32, 4
+  size: 47, 32
+  orig: 58, 56
+  offset: 7, 13
+  index: -1
+k_sg/k_sg_15
+  rotate: false
+  xy: 361, 222
+  size: 46, 32
+  orig: 58, 56
+  offset: 8, 12
+  index: -1
+k_sg/k_sg_16
+  rotate: false
+  xy: 409, 222
+  size: 43, 32
+  orig: 58, 56
+  offset: 10, 11
+  index: -1
+k_sg/k_sg_17
+  rotate: false
+  xy: 153, 191
+  size: 43, 29
+  orig: 58, 56
+  offset: 10, 11
+  index: -1
+k_sg/k_sg_18
+  rotate: false
+  xy: 82, 165
+  size: 41, 27
+  orig: 58, 56
+  offset: 10, 11
+  index: -1
+k_sg/k_sg_19
+  rotate: true
+  xy: 94, 78
+  size: 38, 27
+  orig: 58, 56
+  offset: 10, 9
+  index: -1
+k_sg/k_sg_20
+  rotate: true
+  xy: 125, 154
+  size: 38, 26
+  orig: 58, 56
+  offset: 10, 8
+  index: -1
+k_sg/k_sg_21
+  rotate: false
+  xy: 193, 123
+  size: 36, 26
+  orig: 58, 56
+  offset: 11, 6
+  index: -1
+k_sg/k_sg_22
+  rotate: true
+  xy: 121, 118
+  size: 34, 26
+  orig: 58, 56
+  offset: 12, 4
+  index: -1
+k_sg/k_sg_23
+  rotate: false
+  xy: 229, 19
+  size: 32, 24
+  orig: 58, 56
+  offset: 13, 4
+  index: -1
+k_sg/k_sg_24
+  rotate: false
+  xy: 146, 2
+  size: 30, 15
+  orig: 58, 56
+  offset: 14, 11
+  index: -1
+k_sg/k_sg_25
+  rotate: true
+  xy: 231, 123
+  size: 26, 13
+  orig: 58, 56
+  offset: 16, 11
+  index: -1
+k_sg/k_sg_26
+  rotate: false
+  xy: 233, 210
+  size: 22, 11
+  orig: 58, 56
+  offset: 18, 11
+  index: -1
+k_sg/k_sg_27
+  rotate: true
+  xy: 246, 190
+  size: 18, 9
+  orig: 58, 56
+  offset: 20, 11
+  index: -1
+k_sg/k_sg_28
+  rotate: true
+  xy: 502, 240
+  size: 14, 7
+  orig: 58, 56
+  offset: 22, 11
+  index: -1
+k_sg/k_sg_29
+  rotate: false
+  xy: 179, 39
+  size: 8, 5
+  orig: 58, 56
+  offset: 25, 11
+  index: -1
+star1
+  rotate: true
+  xy: 178, 2
+  size: 15, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+star2
+  rotate: true
+  xy: 146, 19
+  size: 24, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+wenli_add
+  rotate: false
+  xy: 81, 131
+  size: 38, 32
+  orig: 58, 56
+  offset: 10, 13
+  index: -1
+wenli_glow/wenli_glow_00
+  rotate: true
+  xy: 156, 46
+  size: 37, 31
+  orig: 58, 56
+  offset: 11, 13
+  index: -1
+wenli_glow/wenli_glow_01
+  rotate: true
+  xy: 229, 84
+  size: 37, 31
+  orig: 58, 56
+  offset: 11, 13
+  index: -1
+wenli_glow/wenli_glow_02
+  rotate: true
+  xy: 229, 45
+  size: 37, 31
+  orig: 58, 56
+  offset: 11, 13
+  index: -1
+wenli_glow/wenli_glow_03
+  rotate: false
+  xy: 153, 158
+  size: 38, 31
+  orig: 58, 56
+  offset: 10, 13
+  index: -1
+wenli_glow/wenli_glow_04
+  rotate: true
+  xy: 123, 78
+  size: 38, 31
+  orig: 58, 56
+  offset: 10, 13
+  index: -1
+wenli_glow/wenli_glow_05
+  rotate: false
+  xy: 66, 20
+  size: 38, 31
+  orig: 58, 56
+  offset: 10, 13
+  index: -1
+wenli_glow/wenli_glow_06
+  rotate: false
+  xy: 108, 45
+  size: 38, 31
+  orig: 58, 56
+  offset: 10, 13
+  index: -1
+wenli_glow/wenli_glow_07
+  rotate: false
+  xy: 106, 12
+  size: 38, 31
+  orig: 58, 56
+  offset: 10, 13
+  index: -1
+wenli_glow/wenli_glow_08
+  rotate: false
+  xy: 153, 125
+  size: 38, 31
+  orig: 58, 56
+  offset: 10, 13
+  index: -1
+wenli_glow/wenli_glow_09
+  rotate: true
+  xy: 156, 85
+  size: 38, 31
+  orig: 58, 56
+  offset: 10, 13
+  index: -1
+wenli_glow/wenli_glow_10
+  rotate: true
+  xy: 193, 151
+  size: 38, 31
+  orig: 58, 56
+  offset: 10, 13
+  index: -1
+wenli_glow/wenli_glow_11
+  rotate: false
+  xy: 189, 90
+  size: 38, 31
+  orig: 58, 56
+  offset: 10, 13
+  index: -1
+wenli_glow/wenli_glow_12
+  rotate: false
+  xy: 189, 57
+  size: 38, 31
+  orig: 58, 56
+  offset: 10, 13
+  index: -1
+wenli_glow/wenli_glow_13
+  rotate: false
+  xy: 189, 24
+  size: 38, 31
+  orig: 58, 56
+  offset: 10, 13
+  index: -1
+wenli_glow/wenli_glow_14
+  rotate: false
+  xy: 257, 191
+  size: 37, 31
+  orig: 58, 56
+  offset: 11, 13
+  index: -1
+wenli_glow/wenli_glow_15
+  rotate: false
+  xy: 296, 191
+  size: 37, 31
+  orig: 58, 56
+  offset: 11, 13
+  index: -1
+wenli_glow/wenli_glow_16
+  rotate: false
+  xy: 335, 189
+  size: 37, 31
+  orig: 58, 56
+  offset: 11, 13
+  index: -1
+wenli_glow/wenli_glow_17
+  rotate: false
+  xy: 452, 182
+  size: 36, 31
+  orig: 58, 56
+  offset: 11, 13
+  index: -1
+wenli_glow/wenli_glow_18
+  rotate: false
+  xy: 374, 189
+  size: 37, 31
+  orig: 58, 56
+  offset: 11, 13
+  index: -1
+wenli_glow/wenli_glow_19
+  rotate: false
+  xy: 413, 189
+  size: 37, 31
+  orig: 58, 56
+  offset: 11, 13
+  index: -1
+yy
+  rotate: false
+  xy: 2, 187
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1

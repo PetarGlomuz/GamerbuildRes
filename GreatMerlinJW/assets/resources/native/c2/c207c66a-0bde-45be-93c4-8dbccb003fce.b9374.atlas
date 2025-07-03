@@ -1,0 +1,160 @@
+
+FG_tanchuang_di.png
+size: 1730,1120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+board_grand
+  rotate: false
+  xy: 2, 473
+  size: 720, 645
+  orig: 720, 645
+  offset: 0, 0
+  index: -1
+diG_00000
+  rotate: false
+  xy: 724, 701
+  size: 783, 417
+  orig: 875, 435
+  offset: 47, 0
+  index: -1
+lizi/1_00000
+  rotate: false
+  xy: 262, 240
+  size: 255, 231
+  orig: 297, 269
+  offset: 12, 12
+  index: -1
+lizi/1_00001
+  rotate: false
+  xy: 2, 240
+  size: 258, 231
+  orig: 297, 269
+  offset: 13, 12
+  index: -1
+lizi/1_00002
+  rotate: false
+  xy: 1239, 480
+  size: 257, 219
+  orig: 297, 269
+  offset: 13, 12
+  index: -1
+lizi/1_00003
+  rotate: true
+  xy: 1509, 859
+  size: 259, 219
+  orig: 297, 269
+  offset: 13, 13
+  index: -1
+lizi/1_00004
+  rotate: false
+  xy: 724, 476
+  size: 257, 223
+  orig: 297, 269
+  offset: 14, 13
+  index: -1
+lizi/1_00005
+  rotate: false
+  xy: 983, 475
+  size: 254, 224
+  orig: 297, 269
+  offset: 14, 14
+  index: -1
+lizi/1_00006
+  rotate: true
+  xy: 519, 226
+  size: 245, 226
+  orig: 297, 269
+  offset: 21, 15
+  index: -1
+lizi/1_00007
+  rotate: true
+  xy: 1299, 7
+  size: 240, 226
+  orig: 297, 269
+  offset: 22, 16
+  index: -1
+lizi/1_00008
+  rotate: false
+  xy: 438, 2
+  size: 238, 220
+  orig: 297, 269
+  offset: 23, 17
+  index: -1
+lizi/1_00009
+  rotate: true
+  xy: 2, 2
+  size: 236, 219
+  orig: 297, 269
+  offset: 23, 18
+  index: -1
+lizi/1_00010
+  rotate: true
+  xy: 223, 2
+  size: 236, 213
+  orig: 297, 269
+  offset: 24, 19
+  index: -1
+lizi/1_00011
+  rotate: true
+  xy: 1103, 5
+  size: 235, 194
+  orig: 297, 269
+  offset: 25, 39
+  index: -1
+lizi/1_00012
+  rotate: true
+  xy: 1527, 140
+  size: 235, 194
+  orig: 297, 269
+  offset: 26, 40
+  index: -1
+lizi/1_00013
+  rotate: true
+  xy: 908, 6
+  size: 216, 193
+  orig: 297, 269
+  offset: 45, 42
+  index: -1
+lizi/1_00014
+  rotate: false
+  xy: 1509, 630
+  size: 219, 227
+  orig: 297, 269
+  offset: 42, 11
+  index: -1
+lizi/1_00015
+  rotate: true
+  xy: 678, 3
+  size: 219, 228
+  orig: 297, 269
+  offset: 42, 11
+  index: -1
+lizi/1_00016
+  rotate: false
+  xy: 1239, 249
+  size: 252, 229
+  orig: 297, 269
+  offset: 14, 11
+  index: -1
+lizi/1_00017
+  rotate: true
+  xy: 1498, 377
+  size: 251, 230
+  orig: 297, 269
+  offset: 14, 11
+  index: -1
+lizi/1_00018
+  rotate: true
+  xy: 747, 224
+  size: 250, 231
+  orig: 297, 269
+  offset: 15, 11
+  index: -1
+lizi/1_00019
+  rotate: false
+  xy: 980, 242
+  size: 251, 231
+  orig: 297, 269
+  offset: 13, 11
+  index: -1

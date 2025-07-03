@@ -1,0 +1,293 @@
+
+Map_beijing.png
+size: 1930,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/g_00
+  rotate: true
+  xy: 2, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_01
+  rotate: true
+  xy: 91, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_02
+  rotate: true
+  xy: 180, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_03
+  rotate: true
+  xy: 269, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_04
+  rotate: true
+  xy: 358, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_05
+  rotate: true
+  xy: 447, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_06
+  rotate: true
+  xy: 536, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_07
+  rotate: true
+  xy: 625, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_08
+  rotate: true
+  xy: 714, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_09
+  rotate: true
+  xy: 803, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_10
+  rotate: true
+  xy: 892, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_11
+  rotate: true
+  xy: 981, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_12
+  rotate: true
+  xy: 1070, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_13
+  rotate: true
+  xy: 1159, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_14
+  rotate: true
+  xy: 1248, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_15
+  rotate: true
+  xy: 1337, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_16
+  rotate: true
+  xy: 1426, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_17
+  rotate: true
+  xy: 1515, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_18
+  rotate: true
+  xy: 1604, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_19
+  rotate: true
+  xy: 1693, 162
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+lizi/lizi_00000
+  rotate: true
+  xy: 1694, 3
+  size: 90, 145
+  orig: 106, 175
+  offset: 5, 14
+  index: -1
+lizi/lizi_00001
+  rotate: false
+  xy: 945, 5
+  size: 91, 155
+  orig: 106, 175
+  offset: 5, 5
+  index: -1
+lizi/lizi_00002
+  rotate: false
+  xy: 1038, 5
+  size: 91, 155
+  orig: 106, 175
+  offset: 5, 5
+  index: -1
+lizi/lizi_00003
+  rotate: false
+  xy: 475, 4
+  size: 92, 156
+  orig: 106, 175
+  offset: 4, 5
+  index: -1
+lizi/lizi_00004
+  rotate: false
+  xy: 757, 5
+  size: 92, 155
+  orig: 106, 175
+  offset: 4, 6
+  index: -1
+lizi/lizi_00005
+  rotate: false
+  xy: 569, 4
+  size: 92, 156
+  orig: 106, 175
+  offset: 4, 6
+  index: -1
+lizi/lizi_00006
+  rotate: false
+  xy: 851, 5
+  size: 92, 155
+  orig: 106, 175
+  offset: 4, 7
+  index: -1
+lizi/lizi_00007
+  rotate: false
+  xy: 663, 4
+  size: 92, 156
+  orig: 106, 175
+  offset: 4, 7
+  index: -1
+lizi/lizi_00008
+  rotate: false
+  xy: 287, 3
+  size: 92, 157
+  orig: 106, 175
+  offset: 4, 6
+  index: -1
+lizi/lizi_00009
+  rotate: false
+  xy: 381, 3
+  size: 92, 157
+  orig: 106, 175
+  offset: 4, 7
+  index: -1
+lizi/lizi_00010
+  rotate: false
+  xy: 2, 2
+  size: 93, 158
+  orig: 106, 175
+  offset: 4, 7
+  index: -1
+lizi/lizi_00011
+  rotate: false
+  xy: 97, 3
+  size: 93, 157
+  orig: 106, 175
+  offset: 4, 8
+  index: -1
+lizi/lizi_00012
+  rotate: false
+  xy: 192, 3
+  size: 93, 157
+  orig: 106, 175
+  offset: 4, 9
+  index: -1
+lizi/lizi_00013
+  rotate: false
+  xy: 1314, 14
+  size: 93, 146
+  orig: 106, 175
+  offset: 4, 9
+  index: -1
+lizi/lizi_00014
+  rotate: false
+  xy: 1409, 14
+  size: 93, 146
+  orig: 106, 175
+  offset: 4, 10
+  index: -1
+lizi/lizi_00015
+  rotate: true
+  xy: 1782, 190
+  size: 93, 145
+  orig: 106, 175
+  offset: 4, 11
+  index: -1
+lizi/lizi_00016
+  rotate: false
+  xy: 1504, 14
+  size: 93, 146
+  orig: 106, 175
+  offset: 4, 11
+  index: -1
+lizi/lizi_00017
+  rotate: true
+  xy: 1782, 95
+  size: 93, 145
+  orig: 106, 175
+  offset: 4, 12
+  index: -1
+lizi/lizi_00018
+  rotate: false
+  xy: 1599, 14
+  size: 93, 146
+  orig: 106, 175
+  offset: 4, 12
+  index: -1
+lizi/lizi_00019
+  rotate: true
+  xy: 1782, 285
+  size: 93, 146
+  orig: 106, 175
+  offset: 4, 13
+  index: -1
+xin
+  rotate: true
+  xy: 1131, 8
+  size: 152, 181
+  orig: 152, 181
+  offset: 0, 0
+  index: -1

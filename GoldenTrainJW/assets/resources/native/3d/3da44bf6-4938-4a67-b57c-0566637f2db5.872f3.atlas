@@ -1,0 +1,167 @@
+
+TC_FG_anniu.png
+size: 320,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu/anniu_00
+  rotate: true
+  xy: 2, 492
+  size: 40, 47
+  orig: 301, 103
+  offset: 78, 31
+  index: -1
+anniu/anniu_01
+  rotate: false
+  xy: 2, 299
+  size: 51, 47
+  orig: 301, 103
+  offset: 78, 31
+  index: -1
+anniu/anniu_02
+  rotate: false
+  xy: 154, 298
+  size: 63, 47
+  orig: 301, 103
+  offset: 78, 31
+  index: -1
+anniu/anniu_03
+  rotate: false
+  xy: 219, 298
+  size: 74, 47
+  orig: 301, 103
+  offset: 78, 31
+  index: -1
+anniu/anniu_04
+  rotate: false
+  xy: 2, 250
+  size: 86, 47
+  orig: 301, 103
+  offset: 78, 31
+  index: -1
+anniu/anniu_05
+  rotate: false
+  xy: 90, 249
+  size: 97, 47
+  orig: 301, 103
+  offset: 78, 31
+  index: -1
+anniu/anniu_06
+  rotate: false
+  xy: 189, 249
+  size: 108, 47
+  orig: 301, 103
+  offset: 78, 31
+  index: -1
+anniu/anniu_07
+  rotate: false
+  xy: 2, 200
+  size: 120, 47
+  orig: 301, 103
+  offset: 78, 31
+  index: -1
+anniu/anniu_08
+  rotate: false
+  xy: 124, 200
+  size: 131, 47
+  orig: 301, 103
+  offset: 78, 31
+  index: -1
+anniu/anniu_09
+  rotate: false
+  xy: 99, 486
+  size: 140, 46
+  orig: 301, 103
+  offset: 78, 31
+  index: -1
+anniu/anniu_10
+  rotate: false
+  xy: 67, 395
+  size: 140, 46
+  orig: 301, 103
+  offset: 83, 31
+  index: -1
+anniu/anniu_11
+  rotate: false
+  xy: 56, 347
+  size: 131, 46
+  orig: 301, 103
+  offset: 92, 31
+  index: -1
+anniu/anniu_12
+  rotate: false
+  xy: 189, 347
+  size: 120, 46
+  orig: 301, 103
+  offset: 103, 31
+  index: -1
+anniu/anniu_13
+  rotate: false
+  xy: 209, 395
+  size: 109, 46
+  orig: 301, 103
+  offset: 114, 31
+  index: -1
+anniu/anniu_14
+  rotate: false
+  xy: 55, 299
+  size: 97, 46
+  orig: 301, 103
+  offset: 126, 31
+  index: -1
+anniu/anniu_15
+  rotate: false
+  xy: 2, 444
+  size: 86, 46
+  orig: 301, 103
+  offset: 137, 31
+  index: -1
+anniu/anniu_16
+  rotate: false
+  xy: 241, 486
+  size: 74, 46
+  orig: 301, 103
+  offset: 149, 31
+  index: -1
+anniu/anniu_17
+  rotate: false
+  xy: 2, 396
+  size: 63, 46
+  orig: 301, 103
+  offset: 160, 31
+  index: -1
+anniu/anniu_18
+  rotate: false
+  xy: 2, 348
+  size: 52, 46
+  orig: 301, 103
+  offset: 171, 31
+  index: -1
+anniu/anniu_19
+  rotate: true
+  xy: 51, 492
+  size: 40, 46
+  orig: 301, 103
+  offset: 183, 31
+  index: -1
+anniu1
+  rotate: false
+  xy: 2, 107
+  size: 289, 91
+  orig: 289, 91
+  offset: 0, 0
+  index: -1
+coll-10
+  rotate: false
+  xy: 2, 2
+  size: 301, 103
+  orig: 301, 103
+  offset: 0, 0
+  index: -1
+collect
+  rotate: false
+  xy: 90, 443
+  size: 226, 41
+  orig: 226, 41
+  offset: 0, 0
+  index: -1

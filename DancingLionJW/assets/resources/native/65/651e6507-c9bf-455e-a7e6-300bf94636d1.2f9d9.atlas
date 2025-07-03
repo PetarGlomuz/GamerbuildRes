@@ -1,0 +1,111 @@
+
+NG_ShouJiLiZi.png
+size: 284,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jbz/jbz_000
+  rotate: false
+  xy: 2, 121
+  size: 65, 62
+  orig: 70, 70
+  offset: 2, 4
+  index: -1
+images/jbz/jbz_002
+  rotate: false
+  xy: 134, 121
+  size: 61, 62
+  orig: 70, 70
+  offset: 2, 4
+  index: -1
+images/jbz/jbz_004
+  rotate: true
+  xy: 66, 6
+  size: 49, 62
+  orig: 70, 70
+  offset: 7, 4
+  index: -1
+images/jbz/jbz_006
+  rotate: false
+  xy: 255, 121
+  size: 27, 62
+  orig: 70, 70
+  offset: 19, 4
+  index: -1
+images/jbz/jbz_008
+  rotate: true
+  xy: 194, 35
+  size: 20, 62
+  orig: 70, 70
+  offset: 23, 4
+  index: -1
+images/jbz/jbz_010
+  rotate: false
+  xy: 194, 57
+  size: 44, 62
+  orig: 70, 70
+  offset: 10, 4
+  index: -1
+images/jbz/jbz_012
+  rotate: false
+  xy: 133, 57
+  size: 59, 62
+  orig: 70, 70
+  offset: 3, 4
+  index: -1
+images/jbz/jbz_014
+  rotate: false
+  xy: 2, 57
+  size: 64, 62
+  orig: 70, 70
+  offset: 3, 4
+  index: -1
+images/jbz/jbz_016
+  rotate: false
+  xy: 69, 121
+  size: 63, 62
+  orig: 70, 70
+  offset: 5, 4
+  index: -1
+images/jbz/jbz_018
+  rotate: true
+  xy: 2, 2
+  size: 53, 62
+  orig: 70, 70
+  offset: 12, 4
+  index: -1
+images/jbz/jbz_020
+  rotate: false
+  xy: 240, 57
+  size: 33, 62
+  orig: 70, 70
+  offset: 22, 4
+  index: -1
+images/jbz/jbz_022
+  rotate: true
+  xy: 194, 19
+  size: 14, 64
+  orig: 70, 70
+  offset: 27, 3
+  index: -1
+images/jbz/jbz_024
+  rotate: true
+  xy: 130, 16
+  size: 39, 62
+  orig: 70, 70
+  offset: 19, 4
+  index: -1
+images/jbz/jbz_026
+  rotate: false
+  xy: 197, 121
+  size: 56, 62
+  orig: 70, 70
+  offset: 10, 4
+  index: -1
+images/jbz/jbz_028
+  rotate: false
+  xy: 68, 57
+  size: 63, 62
+  orig: 70, 70
+  offset: 4, 4
+  index: -1

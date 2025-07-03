@@ -1,0 +1,230 @@
+
+TC_jpwheel_jackpot.png
+size: 543,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jackpot_CN
+  rotate: false
+  xy: 2, 271
+  size: 434, 141
+  orig: 434, 141
+  offset: 0, 0
+  index: -1
+jackpot_CN/j1_00
+  rotate: true
+  xy: 406, 2
+  size: 47, 53
+  orig: 434, 141
+  offset: 113, 47
+  index: -1
+jackpot_CN/j1_01
+  rotate: true
+  xy: 468, 160
+  size: 61, 54
+  orig: 434, 141
+  offset: 113, 46
+  index: -1
+jackpot_CN/j1_02
+  rotate: false
+  xy: 374, 214
+  size: 82, 55
+  orig: 434, 141
+  offset: 113, 45
+  index: -1
+jackpot_CN/j1_03
+  rotate: false
+  xy: 371, 157
+  size: 95, 55
+  orig: 434, 141
+  offset: 113, 45
+  index: -1
+jackpot_CN/j1_04
+  rotate: false
+  xy: 126, 159
+  size: 113, 54
+  orig: 434, 141
+  offset: 114, 46
+  index: -1
+jackpot_CN/j1_05
+  rotate: false
+  xy: 2, 159
+  size: 122, 54
+  orig: 434, 141
+  offset: 121, 46
+  index: -1
+jackpot_CN/j1_06
+  rotate: false
+  xy: 127, 215
+  size: 122, 54
+  orig: 434, 141
+  offset: 138, 46
+  index: -1
+jackpot_CN/j1_07
+  rotate: false
+  xy: 2, 103
+  size: 121, 54
+  orig: 434, 141
+  offset: 156, 46
+  index: -1
+jackpot_CN/j1_08
+  rotate: false
+  xy: 2, 215
+  size: 123, 54
+  orig: 434, 141
+  offset: 170, 46
+  index: -1
+jackpot_CN/j1_09
+  rotate: true
+  xy: 472, 418
+  size: 123, 55
+  orig: 434, 141
+  offset: 186, 45
+  index: -1
+jackpot_CN/j1_10
+  rotate: false
+  xy: 2, 45
+  size: 116, 56
+  orig: 434, 141
+  offset: 203, 45
+  index: -1
+jackpot_CN/j1_11
+  rotate: false
+  xy: 361, 100
+  size: 98, 55
+  orig: 434, 141
+  offset: 222, 46
+  index: -1
+jackpot_CN/j1_12
+  rotate: false
+  xy: 124, 5
+  size: 82, 54
+  orig: 434, 141
+  offset: 239, 46
+  index: -1
+jackpot_CN/j1_13
+  rotate: true
+  xy: 458, 223
+  size: 68, 54
+  orig: 434, 141
+  offset: 253, 46
+  index: -1
+jackpot_CN/j1_14
+  rotate: false
+  xy: 461, 102
+  size: 49, 53
+  orig: 434, 141
+  offset: 272, 46
+  index: -1
+jackpot_EN
+  rotate: false
+  xy: 2, 414
+  size: 468, 127
+  orig: 468, 127
+  offset: 0, 0
+  index: -1
+jackpot_EN/j2_00
+  rotate: false
+  xy: 431, 52
+  size: 42, 46
+  orig: 468, 127
+  offset: 122, 44
+  index: -1
+jackpot_EN/j2_01
+  rotate: false
+  xy: 350, 2
+  size: 54, 47
+  orig: 468, 127
+  offset: 122, 43
+  index: -1
+jackpot_EN/j2_02
+  rotate: false
+  xy: 350, 51
+  size: 79, 47
+  orig: 468, 127
+  offset: 122, 43
+  index: -1
+jackpot_EN/j2_03
+  rotate: false
+  xy: 125, 61
+  size: 96, 47
+  orig: 468, 127
+  offset: 122, 43
+  index: -1
+jackpot_EN/j2_04
+  rotate: false
+  xy: 125, 110
+  size: 113, 47
+  orig: 468, 127
+  offset: 123, 43
+  index: -1
+jackpot_EN/j2_05
+  rotate: false
+  xy: 251, 224
+  size: 121, 45
+  orig: 468, 127
+  offset: 133, 45
+  index: -1
+jackpot_EN/j2_06
+  rotate: true
+  xy: 438, 293
+  size: 119, 42
+  orig: 468, 127
+  offset: 153, 48
+  index: -1
+jackpot_EN/j2_07
+  rotate: true
+  xy: 482, 297
+  size: 119, 41
+  orig: 468, 127
+  offset: 171, 49
+  index: -1
+jackpot_EN/j2_08
+  rotate: false
+  xy: 251, 180
+  size: 118, 42
+  orig: 468, 127
+  offset: 189, 48
+  index: -1
+jackpot_EN/j2_09
+  rotate: false
+  xy: 2, 2
+  size: 120, 41
+  orig: 468, 127
+  offset: 207, 49
+  index: -1
+jackpot_EN/j2_10
+  rotate: false
+  xy: 241, 137
+  size: 118, 41
+  orig: 468, 127
+  offset: 225, 49
+  index: -1
+jackpot_EN/j2_11
+  rotate: false
+  xy: 240, 93
+  size: 100, 42
+  orig: 468, 127
+  offset: 245, 48
+  index: -1
+jackpot_EN/j2_12
+  rotate: false
+  xy: 223, 49
+  size: 82, 42
+  orig: 468, 127
+  offset: 264, 48
+  index: -1
+jackpot_EN/j2_13
+  rotate: false
+  xy: 208, 6
+  size: 65, 41
+  orig: 468, 127
+  offset: 281, 49
+  index: -1
+jackpot_EN/j2_14
+  rotate: true
+  xy: 307, 42
+  size: 49, 41
+  orig: 468, 127
+  offset: 297, 49
+  index: -1

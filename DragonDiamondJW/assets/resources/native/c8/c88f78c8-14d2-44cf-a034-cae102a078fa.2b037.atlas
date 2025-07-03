@@ -1,0 +1,118 @@
+
+TingPai.png
+size: 530,1130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/KI/K_I_000
+  rotate: false
+  xy: 397, 12
+  size: 130, 273
+  orig: 130, 280
+  offset: 0, 5
+  index: -1
+images/KI/K_I_001
+  rotate: false
+  xy: 133, 7
+  size: 130, 275
+  orig: 130, 280
+  offset: 0, 5
+  index: -1
+images/KI/K_I_002
+  rotate: false
+  xy: 265, 9
+  size: 130, 274
+  orig: 130, 280
+  offset: 0, 4
+  index: -1
+images/KI/K_I_003
+  rotate: false
+  xy: 398, 569
+  size: 129, 278
+  orig: 130, 280
+  offset: 0, 2
+  index: -1
+images/KI/K_I_004
+  rotate: false
+  xy: 2, 2
+  size: 129, 280
+  orig: 130, 280
+  offset: 0, 0
+  index: -1
+images/KI/K_I_005
+  rotate: false
+  xy: 2, 848
+  size: 130, 280
+  orig: 130, 280
+  offset: 0, 0
+  index: -1
+images/KI/K_I_006
+  rotate: false
+  xy: 134, 285
+  size: 130, 279
+  orig: 130, 280
+  offset: 0, 1
+  index: -1
+images/KI/K_I_007
+  rotate: false
+  xy: 266, 567
+  size: 130, 279
+  orig: 130, 280
+  offset: 0, 1
+  index: -1
+images/KI/K_I_008
+  rotate: false
+  xy: 2, 566
+  size: 130, 280
+  orig: 130, 280
+  offset: 0, 0
+  index: -1
+images/KI/K_I_009
+  rotate: false
+  xy: 266, 287
+  size: 130, 278
+  orig: 130, 280
+  offset: 0, 0
+  index: -1
+images/KI/K_I_010
+  rotate: false
+  xy: 134, 848
+  size: 130, 280
+  orig: 130, 280
+  offset: 0, 0
+  index: -1
+images/KI/K_I_011
+  rotate: false
+  xy: 2, 284
+  size: 130, 280
+  orig: 130, 280
+  offset: 0, 0
+  index: -1
+images/KI/K_I_012
+  rotate: false
+  xy: 134, 566
+  size: 130, 280
+  orig: 130, 280
+  offset: 0, 0
+  index: -1
+images/KI/K_I_013
+  rotate: false
+  xy: 266, 848
+  size: 130, 280
+  orig: 130, 280
+  offset: 0, 0
+  index: -1
+images/KI/K_I_014
+  rotate: false
+  xy: 398, 849
+  size: 130, 279
+  orig: 130, 280
+  offset: 0, 1
+  index: -1
+images/KI/K_I_015
+  rotate: false
+  xy: 398, 291
+  size: 130, 276
+  orig: 130, 280
+  offset: 0, 4
+  index: -1

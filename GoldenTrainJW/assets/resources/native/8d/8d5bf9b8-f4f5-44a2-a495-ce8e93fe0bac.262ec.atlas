@@ -1,0 +1,160 @@
+
+TC_FGjiesuan_anniu.png
+size: 313,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu/anniu_00
+  rotate: false
+  xy: 265, 6
+  size: 32, 37
+  orig: 241, 82
+  offset: 62, 25
+  index: -1
+anniu/anniu_01
+  rotate: false
+  xy: 233, 45
+  size: 41, 37
+  orig: 241, 82
+  offset: 62, 25
+  index: -1
+anniu/anniu_02
+  rotate: true
+  xy: 194, 76
+  size: 50, 37
+  orig: 241, 82
+  offset: 62, 25
+  index: -1
+anniu/anniu_03
+  rotate: true
+  xy: 187, 15
+  size: 59, 37
+  orig: 241, 82
+  offset: 62, 25
+  index: -1
+anniu/anniu_04
+  rotate: true
+  xy: 148, 5
+  size: 69, 37
+  orig: 241, 82
+  offset: 62, 25
+  index: -1
+anniu/anniu_05
+  rotate: true
+  xy: 116, 94
+  size: 78, 37
+  orig: 241, 82
+  offset: 62, 25
+  index: -1
+anniu/anniu_06
+  rotate: true
+  xy: 235, 194
+  size: 87, 37
+  orig: 241, 82
+  offset: 62, 25
+  index: -1
+anniu/anniu_07
+  rotate: true
+  xy: 274, 185
+  size: 96, 37
+  orig: 241, 82
+  offset: 62, 25
+  index: -1
+anniu/anniu_08
+  rotate: false
+  xy: 2, 57
+  size: 105, 37
+  orig: 241, 82
+  offset: 62, 25
+  index: -1
+anniu/anniu_09
+  rotate: false
+  xy: 2, 135
+  size: 112, 37
+  orig: 241, 82
+  offset: 62, 25
+  index: -1
+anniu/anniu_10
+  rotate: false
+  xy: 2, 96
+  size: 112, 37
+  orig: 241, 82
+  offset: 67, 25
+  index: -1
+anniu/anniu_11
+  rotate: false
+  xy: 2, 18
+  size: 105, 37
+  orig: 241, 82
+  offset: 74, 25
+  index: -1
+anniu/anniu_12
+  rotate: true
+  xy: 155, 76
+  size: 96, 37
+  orig: 241, 82
+  offset: 83, 25
+  index: -1
+anniu/anniu_13
+  rotate: true
+  xy: 109, 5
+  size: 87, 37
+  orig: 241, 82
+  offset: 92, 25
+  index: -1
+anniu/anniu_14
+  rotate: true
+  xy: 194, 128
+  size: 78, 37
+  orig: 241, 82
+  offset: 101, 25
+  index: -1
+anniu/anniu_15
+  rotate: true
+  xy: 233, 123
+  size: 69, 37
+  orig: 241, 82
+  offset: 110, 25
+  index: -1
+anniu/anniu_16
+  rotate: true
+  xy: 272, 123
+  size: 60, 37
+  orig: 241, 82
+  offset: 119, 25
+  index: -1
+anniu/anniu_17
+  rotate: false
+  xy: 233, 84
+  size: 50, 37
+  orig: 241, 82
+  offset: 129, 25
+  index: -1
+anniu/anniu_18
+  rotate: true
+  xy: 226, 2
+  size: 41, 37
+  orig: 241, 82
+  offset: 138, 25
+  index: -1
+anniu/anniu_19
+  rotate: false
+  xy: 276, 45
+  size: 32, 37
+  orig: 241, 82
+  offset: 147, 25
+  index: -1
+coll-10
+  rotate: false
+  xy: 2, 208
+  size: 231, 73
+  orig: 231, 73
+  offset: 0, 0
+  index: -1
+collect
+  rotate: false
+  xy: 2, 174
+  size: 180, 32
+  orig: 180, 32
+  offset: 0, 0
+  index: -1

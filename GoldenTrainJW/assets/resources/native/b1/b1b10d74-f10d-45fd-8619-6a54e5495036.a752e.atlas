@@ -1,0 +1,277 @@
+
+FG_beijing.png
+size: 2033,2039
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+difg
+  rotate: false
+  xy: 2, 719
+  size: 1927, 1318
+  orig: 1927, 1318
+  offset: 0, 0
+  index: -1
+fangzifg
+  rotate: false
+  xy: 2, 301
+  size: 1680, 416
+  orig: 1680, 419
+  offset: 0, 3
+  index: -1
+kafeifg
+  rotate: true
+  xy: 1919, 298
+  size: 140, 110
+  orig: 140, 110
+  offset: 0, 0
+  index: -1
+shangkuangfg
+  rotate: true
+  xy: 1931, 817
+  size: 1220, 95
+  orig: 1220, 95
+  offset: 0, 0
+  index: -1
+yan/yan_00
+  rotate: false
+  xy: 1931, 780
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_02
+  rotate: true
+  xy: 1968, 722
+  size: 19, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_04
+  rotate: false
+  xy: 2, 2
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_06
+  rotate: false
+  xy: 1931, 743
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_08
+  rotate: false
+  xy: 1953, 780
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_10
+  rotate: false
+  xy: 24, 2
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_12
+  rotate: false
+  xy: 1953, 743
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_14
+  rotate: true
+  xy: 1931, 721
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_16
+  rotate: false
+  xy: 1975, 780
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_18
+  rotate: false
+  xy: 46, 2
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_20
+  rotate: false
+  xy: 90, 2
+  size: 19, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_22
+  rotate: false
+  xy: 1975, 743
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_24
+  rotate: false
+  xy: 1997, 780
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_26
+  rotate: false
+  xy: 68, 2
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+yan/yan_28
+  rotate: false
+  xy: 1997, 743
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+youchaungfg
+  rotate: true
+  xy: 1564, 41
+  size: 244, 355
+  orig: 244, 355
+  offset: 0, 0
+  index: -1
+youchaunglianxinfg
+  rotate: false
+  xy: 1684, 287
+  size: 233, 430
+  orig: 233, 430
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 2, 39
+  size: 1560, 260
+  orig: 1560, 260
+  offset: 0, 0
+  index: -1
+yun02fg
+  rotate: true
+  xy: 1921, 19
+  size: 277, 110
+  orig: 278, 110
+  offset: 1, 0
+  index: -1
+yun05
+  rotate: true
+  xy: 1919, 440
+  size: 277, 110
+  orig: 278, 110
+  offset: 1, 0
+  index: -1
+
+FG_beijing2.png
+size: 2045,2044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background_ipad适配12122
+  rotate: true
+  xy: 1564, 367
+  size: 1675, 419
+  orig: 1675, 1170
+  offset: 0, 365
+  index: -1
+dilianfg
+  rotate: false
+  xy: 2, 174
+  size: 1560, 220
+  orig: 1562, 223
+  offset: 1, 0
+  index: -1
+huiyingfg
+  rotate: false
+  xy: 2, 872
+  size: 1560, 1170
+  orig: 1560, 1170
+  offset: 0, 0
+  index: -1
+tiankongfg
+  rotate: false
+  xy: 2, 396
+  size: 1560, 474
+  orig: 1560, 474
+  offset: 0, 0
+  index: -1
+youchuanglian1fg
+  rotate: true
+  xy: 1313, 115
+  size: 57, 136
+  orig: 57, 137
+  offset: 0, 0
+  index: -1
+youchuanglian2fg
+  rotate: true
+  xy: 375, 3
+  size: 169, 371
+  orig: 169, 371
+  offset: 0, 0
+  index: -1
+yun00fg
+  rotate: false
+  xy: 1077, 74
+  size: 234, 98
+  orig: 234, 98
+  offset: 0, 0
+  index: -1
+yun01fg
+  rotate: false
+  xy: 748, 35
+  size: 327, 137
+  orig: 327, 137
+  offset: 0, 0
+  index: -1
+zuochaunglian2fg
+  rotate: true
+  xy: 2, 2
+  size: 170, 371
+  orig: 170, 371
+  offset: 0, 0
+  index: -1
+zuochaunglianxinfg
+  rotate: true
+  xy: 1564, 133
+  size: 232, 430
+  orig: 232, 430
+  offset: 0, 0
+  index: -1
+zuochuanglian1fg
+  rotate: false
+  xy: 1985, 1905
+  size: 58, 137
+  orig: 58, 137
+  offset: 0, 0
+  index: -1
+
+FG_beijing3.png
+size: 1923,359
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanfg
+  rotate: false
+  xy: 2, 7
+  size: 1675, 350
+  orig: 1675, 367
+  offset: 0, 13
+  index: -1
+zuochaungfg
+  rotate: false
+  xy: 1679, 2
+  size: 242, 355
+  orig: 242, 355
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+Map_xiaoyu_bao.png
+size: 958,455
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoguang_00000
+  rotate: false
+  xy: 814, 167
+  size: 120, 120
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+xin_4zha/xin_4zha_01
+  rotate: false
+  xy: 662, 155
+  size: 150, 147
+  orig: 171, 149
+  offset: 14, 0
+  index: -1
+xin_4zha/xin_4zha_02
+  rotate: false
+  xy: 663, 304
+  size: 157, 149
+  orig: 171, 149
+  offset: 11, 0
+  index: -1
+xin_4zha/xin_4zha_03
+  rotate: false
+  xy: 2, 304
+  size: 164, 149
+  orig: 171, 149
+  offset: 7, 0
+  index: -1
+xin_4zha/xin_4zha_04
+  rotate: false
+  xy: 2, 153
+  size: 164, 149
+  orig: 171, 149
+  offset: 6, 0
+  index: -1
+xin_4zha/xin_4zha_05
+  rotate: false
+  xy: 499, 304
+  size: 162, 149
+  orig: 171, 149
+  offset: 7, 0
+  index: -1
+xin_4zha/xin_4zha_06
+  rotate: false
+  xy: 168, 153
+  size: 163, 149
+  orig: 171, 149
+  offset: 7, 0
+  index: -1
+xin_4zha/xin_4zha_07
+  rotate: false
+  xy: 333, 2
+  size: 162, 149
+  orig: 171, 149
+  offset: 8, 0
+  index: -1
+xin_4zha/xin_4zha_08
+  rotate: false
+  xy: 498, 153
+  size: 162, 149
+  orig: 171, 149
+  offset: 8, 0
+  index: -1
+xin_4zha/xin_4zha_09
+  rotate: false
+  xy: 334, 304
+  size: 163, 149
+  orig: 171, 149
+  offset: 8, 0
+  index: -1
+xin_4zha/xin_4zha_10
+  rotate: false
+  xy: 168, 2
+  size: 163, 149
+  orig: 171, 149
+  offset: 8, 0
+  index: -1
+xin_4zha/xin_4zha_11
+  rotate: false
+  xy: 333, 153
+  size: 163, 149
+  orig: 171, 149
+  offset: 8, 0
+  index: -1
+xin_4zha/xin_4zha_12
+  rotate: false
+  xy: 168, 304
+  size: 164, 149
+  orig: 171, 149
+  offset: 7, 0
+  index: -1
+xin_4zha/xin_4zha_13
+  rotate: false
+  xy: 2, 2
+  size: 164, 149
+  orig: 171, 149
+  offset: 7, 0
+  index: -1
+xin_4zha/xin_4zha_14
+  rotate: false
+  xy: 497, 13
+  size: 164, 138
+  orig: 171, 149
+  offset: 7, 5
+  index: -1
+xin_4zha/xin_4zha_15
+  rotate: true
+  xy: 822, 289
+  size: 164, 134
+  orig: 171, 149
+  offset: 7, 8
+  index: -1
+xin_4zha/xin_4zha_16
+  rotate: false
+  xy: 663, 20
+  size: 163, 133
+  orig: 171, 149
+  offset: 8, 8
+  index: -1
+yangguang_01
+  rotate: true
+  xy: 828, 44
+  size: 121, 119
+  orig: 128, 128
+  offset: 2, 4
+  index: -1

@@ -1,0 +1,132 @@
+
+L1.png
+size: 427,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/l1
+  rotate: false
+  xy: 204, 131
+  size: 82, 71
+  orig: 112, 104
+  offset: 15, 16
+  index: -1
+images/l1sg/l1sg_000
+  rotate: true
+  xy: 351, 30
+  size: 16, 9
+  orig: 56, 56
+  offset: 8, 11
+  index: -1
+images/l1sg/l1sg_001
+  rotate: true
+  xy: 403, 68
+  size: 29, 22
+  orig: 56, 56
+  offset: 3, 5
+  index: -1
+images/l1sg/l1sg_002
+  rotate: true
+  xy: 362, 15
+  size: 37, 39
+  orig: 56, 56
+  offset: 0, 2
+  index: -1
+images/l1sg/l1sg_003
+  rotate: false
+  xy: 362, 54
+  size: 39, 43
+  orig: 56, 56
+  offset: 0, 2
+  index: -1
+images/l1sg/l1sg_004
+  rotate: false
+  xy: 311, 48
+  size: 49, 46
+  orig: 56, 56
+  offset: 1, 2
+  index: -1
+images/l1sg/l1sg_005
+  rotate: true
+  xy: 261, 76
+  size: 53, 48
+  orig: 56, 56
+  offset: 1, 2
+  index: -1
+images/l1sg/l1sg_006
+  rotate: true
+  xy: 204, 18
+  size: 56, 49
+  orig: 56, 56
+  offset: 0, 2
+  index: -1
+images/l1sg/l1sg_007
+  rotate: false
+  xy: 288, 151
+  size: 56, 51
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+images/l1sg/l1sg_008
+  rotate: false
+  xy: 204, 76
+  size: 55, 53
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+images/l1sg/l1sg_009
+  rotate: true
+  xy: 346, 151
+  size: 51, 53
+  orig: 56, 56
+  offset: 4, 1
+  index: -1
+images/l1sg/l1sg_010
+  rotate: false
+  xy: 255, 21
+  size: 48, 53
+  orig: 56, 56
+  offset: 8, 1
+  index: -1
+images/l1sg/l1sg_011
+  rotate: false
+  xy: 311, 96
+  size: 46, 53
+  orig: 56, 56
+  offset: 10, 1
+  index: -1
+images/l1sg/l1sg_012
+  rotate: false
+  xy: 359, 99
+  size: 43, 50
+  orig: 56, 56
+  offset: 13, 3
+  index: -1
+images/l1sg/l1sg_013
+  rotate: true
+  xy: 305, 11
+  size: 35, 44
+  orig: 56, 56
+  offset: 18, 7
+  index: -1
+images/l1sg/l1sg_014
+  rotate: true
+  xy: 403, 49
+  size: 17, 22
+  orig: 56, 56
+  offset: 27, 24
+  index: -1
+images/l1sg/l1sg_015
+  rotate: false
+  xy: 359, 96
+  size: 1, 1
+  orig: 56, 56
+  offset: 38, 29
+  index: -1
+images/star_000
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

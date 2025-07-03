@@ -1,0 +1,265 @@
+
+FG_normal.png
+size: 1059,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangzhu
+  rotate: false
+  xy: 2, 469
+  size: 344, 66
+  orig: 344, 66
+  offset: 0, 0
+  index: -1
+lizi/lizi_00
+  rotate: false
+  xy: 859, 18
+  size: 189, 34
+  orig: 225, 61
+  offset: 17, 12
+  index: -1
+lizi/lizi_01
+  rotate: false
+  xy: 659, 10
+  size: 198, 38
+  orig: 225, 61
+  offset: 13, 9
+  index: -1
+lizi/lizi_02
+  rotate: false
+  xy: 453, 4
+  size: 204, 44
+  orig: 225, 61
+  offset: 10, 7
+  index: -1
+lizi/lizi_03
+  rotate: false
+  xy: 329, 63
+  size: 209, 47
+  orig: 225, 61
+  offset: 7, 5
+  index: -1
+lizi/lizi_04
+  rotate: true
+  xy: 894, 121
+  size: 214, 52
+  orig: 225, 61
+  offset: 5, 3
+  index: -1
+lizi/lizi_05
+  rotate: false
+  xy: 540, 50
+  size: 217, 55
+  orig: 225, 61
+  offset: 4, 2
+  index: -1
+lizi/lizi_06
+  rotate: false
+  xy: 556, 107
+  size: 219, 56
+  orig: 225, 61
+  offset: 3, 2
+  index: -1
+lizi/lizi_07
+  rotate: false
+  xy: 557, 165
+  size: 220, 58
+  orig: 225, 61
+  offset: 2, 1
+  index: -1
+lizi/lizi_08
+  rotate: false
+  xy: 228, 2
+  size: 223, 59
+  orig: 225, 61
+  offset: 1, 1
+  index: -1
+lizi/lizi_09
+  rotate: false
+  xy: 2, 2
+  size: 224, 59
+  orig: 225, 61
+  offset: 0, 1
+  index: -1
+lizi/lizi_10
+  rotate: false
+  xy: 330, 174
+  size: 225, 61
+  orig: 225, 61
+  offset: 0, 0
+  index: -1
+lizi/lizi_11
+  rotate: false
+  xy: 330, 112
+  size: 224, 60
+  orig: 225, 61
+  offset: 1, 1
+  index: -1
+lizi/lizi_12
+  rotate: false
+  xy: 582, 225
+  size: 221, 61
+  orig: 225, 61
+  offset: 3, 0
+  index: -1
+lizi/lizi_13
+  rotate: true
+  xy: 832, 123
+  size: 212, 60
+  orig: 225, 61
+  offset: 3, 1
+  index: -1
+lizi/lizi_14
+  rotate: true
+  xy: 948, 177
+  size: 209, 60
+  orig: 225, 61
+  offset: 6, 1
+  index: -1
+lizi/lizi_15
+  rotate: false
+  xy: 759, 54
+  size: 206, 51
+  orig: 225, 61
+  offset: 7, 9
+  index: -1
+zouguang/zouguang_00
+  rotate: true
+  xy: 1010, 206
+  size: 329, 47
+  orig: 331, 51
+  offset: 1, 2
+  index: -1
+zouguang/zouguang_01
+  rotate: false
+  xy: 2, 318
+  size: 328, 47
+  orig: 331, 51
+  offset: 2, 2
+  index: -1
+zouguang/zouguang_02
+  rotate: false
+  xy: 2, 418
+  size: 330, 49
+  orig: 331, 51
+  offset: 1, 1
+  index: -1
+zouguang/zouguang_03
+  rotate: false
+  xy: 348, 486
+  size: 330, 49
+  orig: 331, 51
+  offset: 1, 1
+  index: -1
+zouguang/zouguang_04
+  rotate: false
+  xy: 2, 367
+  size: 328, 49
+  orig: 331, 51
+  offset: 2, 1
+  index: -1
+zouguang/zouguang_05
+  rotate: false
+  xy: 680, 486
+  size: 328, 49
+  orig: 331, 51
+  offset: 2, 1
+  index: -1
+zouguang/zouguang_06
+  rotate: false
+  xy: 332, 337
+  size: 323, 49
+  orig: 331, 51
+  offset: 5, 1
+  index: -1
+zouguang/zouguang_07
+  rotate: false
+  xy: 330, 237
+  size: 250, 49
+  orig: 331, 51
+  offset: 41, 1
+  index: -1
+zouguang/zouguang_08
+  rotate: false
+  xy: 657, 337
+  size: 261, 49
+  orig: 331, 51
+  offset: 36, 1
+  index: -1
+zouguang/zouguang_09
+  rotate: false
+  xy: 2, 63
+  size: 325, 49
+  orig: 331, 51
+  offset: 4, 1
+  index: -1
+zouguang/zouguang_10
+  rotate: false
+  xy: 2, 267
+  size: 326, 49
+  orig: 331, 51
+  offset: 3, 1
+  index: -1
+zouguang/zouguang_11
+  rotate: false
+  xy: 2, 216
+  size: 326, 49
+  orig: 331, 51
+  offset: 3, 1
+  index: -1
+zouguang/zouguang_12
+  rotate: false
+  xy: 2, 165
+  size: 326, 49
+  orig: 331, 51
+  offset: 3, 1
+  index: -1
+zouguang/zouguang_13
+  rotate: false
+  xy: 2, 114
+  size: 326, 49
+  orig: 331, 51
+  offset: 3, 1
+  index: -1
+zouguang/zouguang_14
+  rotate: false
+  xy: 678, 437
+  size: 326, 47
+  orig: 331, 51
+  offset: 3, 2
+  index: -1
+zouguang/zouguang_15
+  rotate: false
+  xy: 334, 388
+  size: 324, 47
+  orig: 331, 51
+  offset: 4, 2
+  index: -1
+zouguang/zouguang_16
+  rotate: false
+  xy: 660, 388
+  size: 313, 47
+  orig: 331, 51
+  offset: 10, 2
+  index: -1
+zouguang/zouguang_17
+  rotate: false
+  xy: 591, 288
+  size: 239, 47
+  orig: 331, 51
+  offset: 47, 2
+  index: -1
+zouguang/zouguang_18
+  rotate: false
+  xy: 332, 288
+  size: 257, 47
+  orig: 331, 51
+  offset: 38, 2
+  index: -1
+zouguang/zouguang_19
+  rotate: false
+  xy: 348, 437
+  size: 328, 47
+  orig: 331, 51
+  offset: 2, 2
+  index: -1

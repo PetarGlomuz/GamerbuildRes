@@ -1,0 +1,153 @@
+
+TC_zhongFG_board.png
+size: 2017,920
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+board/sg_00
+  rotate: false
+  xy: 1909, 113
+  size: 66, 267
+  orig: 872, 531
+  offset: 218, 132
+  index: -1
+board/sg_01
+  rotate: true
+  xy: 564, 2
+  size: 105, 267
+  orig: 872, 531
+  offset: 217, 132
+  index: -1
+board/sg_02
+  rotate: true
+  xy: 1640, 71
+  size: 143, 267
+  orig: 872, 531
+  offset: 217, 132
+  index: -1
+board/sg_03
+  rotate: true
+  xy: 1371, 209
+  size: 181, 267
+  orig: 872, 531
+  offset: 217, 132
+  index: -1
+board/sg_04
+  rotate: true
+  xy: 1640, 430
+  size: 219, 267
+  orig: 872, 531
+  offset: 217, 132
+  index: -1
+board/sg_05
+  rotate: true
+  xy: 1371, 392
+  size: 257, 267
+  orig: 872, 531
+  offset: 217, 132
+  index: -1
+board/sg_06
+  rotate: true
+  xy: 1102, 354
+  size: 295, 267
+  orig: 872, 531
+  offset: 217, 132
+  index: -1
+board/sg_07
+  rotate: false
+  xy: 1102, 651
+  size: 333, 267
+  orig: 872, 531
+  offset: 217, 132
+  index: -1
+board/sg_08
+  rotate: true
+  xy: 833, 548
+  size: 370, 267
+  orig: 872, 531
+  offset: 218, 132
+  index: -1
+board/sg_09
+  rotate: true
+  xy: 564, 512
+  size: 406, 267
+  orig: 872, 531
+  offset: 219, 132
+  index: -1
+board/sg_10
+  rotate: true
+  xy: 564, 109
+  size: 401, 267
+  orig: 872, 531
+  offset: 252, 132
+  index: -1
+board/sg_11
+  rotate: true
+  xy: 833, 183
+  size: 363, 267
+  orig: 872, 531
+  offset: 290, 132
+  index: -1
+board/sg_12
+  rotate: false
+  xy: 1437, 651
+  size: 326, 267
+  orig: 872, 531
+  offset: 328, 132
+  index: -1
+board/sg_13
+  rotate: true
+  xy: 1102, 64
+  size: 288, 267
+  orig: 872, 531
+  offset: 366, 132
+  index: -1
+board/sg_14
+  rotate: false
+  xy: 1765, 651
+  size: 250, 267
+  orig: 872, 531
+  offset: 404, 132
+  index: -1
+board/sg_15
+  rotate: true
+  xy: 1640, 216
+  size: 212, 267
+  orig: 872, 531
+  offset: 442, 132
+  index: -1
+board/sg_16
+  rotate: true
+  xy: 833, 7
+  size: 174, 267
+  orig: 872, 531
+  offset: 480, 132
+  index: -1
+board/sg_17
+  rotate: true
+  xy: 1371, 71
+  size: 136, 267
+  orig: 872, 531
+  offset: 518, 132
+  index: -1
+board/sg_18
+  rotate: false
+  xy: 1909, 382
+  size: 98, 267
+  orig: 872, 531
+  offset: 556, 132
+  index: -1
+board/sg_19
+  rotate: true
+  xy: 1102, 2
+  size: 60, 266
+  orig: 872, 531
+  offset: 594, 133
+  index: -1
+boardzhong
+  rotate: true
+  xy: 2, 7
+  size: 911, 560
+  orig: 911, 560
+  offset: 0, 0
+  index: -1

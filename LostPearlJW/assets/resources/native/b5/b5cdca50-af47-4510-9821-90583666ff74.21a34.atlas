@@ -1,0 +1,194 @@
+
+tc_jp_bg.png
+size: 2048,2041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi_faguang
+  rotate: false
+  xy: 1565, 1782
+  size: 462, 257
+  orig: 504, 294
+  offset: 20, 19
+  index: -1
+btn_collect_common
+  rotate: true
+  xy: 1909, 1395
+  size: 385, 101
+  orig: 385, 101
+  offset: 0, 0
+  index: -1
+gd_dig
+  rotate: false
+  xy: 2, 1318
+  size: 1561, 721
+  orig: 1561, 721
+  offset: 0, 0
+  index: -1
+gd_fish10
+  rotate: false
+  xy: 1567, 464
+  size: 96, 56
+  orig: 97, 56
+  offset: 0, 0
+  index: -1
+gd_fish4
+  rotate: false
+  xy: 910, 19
+  size: 112, 46
+  orig: 112, 46
+  offset: 0, 0
+  index: -1
+gd_fish8
+  rotate: true
+  xy: 1909, 1272
+  size: 121, 80
+  orig: 121, 80
+  offset: 0, 0
+  index: -1
+gd_hc_r
+  rotate: false
+  xy: 1813, 610
+  size: 209, 260
+  orig: 209, 261
+  offset: 0, 0
+  index: -1
+gd_paosan_liz/gd_paosan_lizi_00
+  rotate: true
+  xy: 1821, 358
+  size: 250, 175
+  orig: 250, 196
+  offset: 0, 19
+  index: -1
+gd_sh_l
+  rotate: false
+  xy: 1567, 522
+  size: 244, 348
+  orig: 244, 348
+  offset: 0, 0
+  index: -1
+grand_1_beike_shang
+  rotate: false
+  xy: 2, 660
+  size: 906, 656
+  orig: 908, 658
+  offset: 1, 1
+  index: -1
+grand_di_gai
+  rotate: false
+  xy: 910, 67
+  size: 909, 341
+  orig: 910, 341
+  offset: 1, 0
+  index: -1
+hg_00000
+  rotate: false
+  xy: 1821, 140
+  size: 215, 216
+  orig: 332, 341
+  offset: 58, 63
+  index: -1
+major_1_bk_shang
+  rotate: false
+  xy: 2, 2
+  size: 906, 656
+  orig: 908, 658
+  offset: 1, 1
+  index: -1
+major_di_gai
+  rotate: true
+  xy: 1567, 872
+  size: 908, 340
+  orig: 908, 340
+  offset: 0, 0
+  index: -1
+minor_1_bk_shang
+  rotate: true
+  xy: 910, 410
+  size: 906, 655
+  orig: 908, 657
+  offset: 1, 1
+  index: -1
+paopao_s
+  rotate: false
+  xy: 1821, 94
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+xd
+  rotate: true
+  xy: 2029, 2020
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+
+tc_jp_bg2.png
+size: 1933,1545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aa_5
+  rotate: true
+  xy: 910, 903
+  size: 640, 528
+  orig: 640, 640
+  offset: 0, 63
+  index: -1
+grand_di_di
+  rotate: false
+  xy: 685, 616
+  size: 902, 285
+  orig: 902, 285
+  offset: 0, 0
+  index: -1
+major_di_di
+  rotate: false
+  xy: 685, 333
+  size: 901, 281
+  orig: 901, 281
+  offset: 0, 0
+  index: -1
+mini_1_bk_shang
+  rotate: false
+  xy: 2, 913
+  size: 906, 630
+  orig: 908, 630
+  offset: 1, 0
+  index: -1
+mini_di_di
+  rotate: false
+  xy: 685, 55
+  size: 901, 276
+  orig: 901, 276
+  offset: 0, 0
+  index: -1
+mini_gai
+  rotate: true
+  xy: 343, 3
+  size: 908, 340
+  orig: 908, 340
+  offset: 0, 0
+  index: -1
+minor_di_di
+  rotate: true
+  xy: 1589, 147
+  size: 902, 282
+  orig: 902, 282
+  offset: 0, 0
+  index: -1
+minor_gai
+  rotate: true
+  xy: 2, 2
+  size: 909, 339
+  orig: 909, 339
+  offset: 0, 0
+  index: -1
+zhenzhu
+  rotate: true
+  xy: 1440, 1051
+  size: 492, 491
+  orig: 492, 491
+  offset: 0, 0
+  index: -1

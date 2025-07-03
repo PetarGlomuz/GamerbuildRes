@@ -1,0 +1,272 @@
+
+NG_L4.png
+size: 426,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshi
+  rotate: false
+  xy: 68, 16
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 271
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 343
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00000
+  rotate: false
+  xy: 85, 362
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00001
+  rotate: false
+  xy: 2, 207
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00002
+  rotate: false
+  xy: 151, 362
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00003
+  rotate: false
+  xy: 2, 143
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00004
+  rotate: false
+  xy: 217, 362
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00005
+  rotate: false
+  xy: 2, 79
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00006
+  rotate: false
+  xy: 283, 362
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00007
+  rotate: false
+  xy: 2, 15
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00008
+  rotate: false
+  xy: 349, 362
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00009
+  rotate: false
+  xy: 85, 298
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00010
+  rotate: false
+  xy: 151, 298
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00011
+  rotate: false
+  xy: 217, 298
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00012
+  rotate: false
+  xy: 283, 298
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00013
+  rotate: false
+  xy: 349, 298
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00014
+  rotate: false
+  xy: 75, 234
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang/yaoshi1/yaoshi1_00015
+  rotate: false
+  xy: 141, 234
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00000
+  rotate: false
+  xy: 207, 234
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00001
+  rotate: false
+  xy: 273, 234
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00002
+  rotate: false
+  xy: 339, 234
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00003
+  rotate: false
+  xy: 68, 170
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00004
+  rotate: false
+  xy: 68, 106
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00005
+  rotate: false
+  xy: 134, 170
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00006
+  rotate: false
+  xy: 68, 42
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00007
+  rotate: false
+  xy: 134, 106
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00008
+  rotate: false
+  xy: 200, 170
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00009
+  rotate: false
+  xy: 134, 42
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00010
+  rotate: false
+  xy: 200, 106
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00011
+  rotate: false
+  xy: 266, 170
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00012
+  rotate: false
+  xy: 200, 42
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00013
+  rotate: false
+  xy: 266, 106
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00014
+  rotate: false
+  xy: 332, 170
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+saoguang1/yaoshi1/yaoshi1_00015
+  rotate: false
+  xy: 266, 42
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+xx_1
+  rotate: false
+  xy: 332, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+xx_1x
+  rotate: false
+  xy: 332, 54
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yaoshi1
+  rotate: false
+  xy: 332, 106
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1

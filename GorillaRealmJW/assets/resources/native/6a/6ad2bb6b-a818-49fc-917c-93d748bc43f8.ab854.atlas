@@ -1,0 +1,160 @@
+
+FG_dabanmian.png
+size: 846,845
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/da_ban
+  rotate: false
+  xy: 2, 314
+  size: 760, 529
+  orig: 760, 529
+  offset: 0, 0
+  index: -1
+wenjian/daban_g/daban_g_00
+  rotate: true
+  xy: 2, 2
+  size: 45, 76
+  orig: 190, 132
+  offset: 0, 8
+  index: -1
+wenjian/daban_g/daban_g_01
+  rotate: false
+  xy: 764, 325
+  size: 56, 86
+  orig: 190, 132
+  offset: 0, 6
+  index: -1
+wenjian/daban_g/daban_g_02
+  rotate: false
+  xy: 764, 508
+  size: 69, 101
+  orig: 190, 132
+  offset: 0, 3
+  index: -1
+wenjian/daban_g/daban_g_03
+  rotate: false
+  xy: 764, 723
+  size: 80, 120
+  orig: 190, 132
+  offset: 0, 1
+  index: -1
+wenjian/daban_g/daban_g_04
+  rotate: false
+  xy: 534, 63
+  size: 91, 122
+  orig: 190, 132
+  offset: 0, 0
+  index: -1
+wenjian/daban_g/daban_g_05
+  rotate: false
+  xy: 230, 57
+  size: 98, 123
+  orig: 190, 132
+  offset: 4, 0
+  index: -1
+wenjian/daban_g/daban_g_06
+  rotate: false
+  xy: 330, 59
+  size: 103, 123
+  orig: 190, 132
+  offset: 9, 0
+  index: -1
+wenjian/daban_g/daban_g_07
+  rotate: false
+  xy: 118, 55
+  size: 110, 125
+  orig: 190, 132
+  offset: 11, 0
+  index: -1
+wenjian/daban_g/daban_g_08
+  rotate: false
+  xy: 354, 184
+  size: 116, 128
+  orig: 190, 132
+  offset: 14, 0
+  index: -1
+wenjian/daban_g/daban_g_09
+  rotate: false
+  xy: 2, 49
+  size: 114, 130
+  orig: 190, 132
+  offset: 25, 0
+  index: -1
+wenjian/daban_g/daban_g_10
+  rotate: false
+  xy: 2, 181
+  size: 114, 131
+  orig: 190, 132
+  offset: 35, 1
+  index: -1
+wenjian/daban_g/daban_g_11
+  rotate: false
+  xy: 118, 182
+  size: 115, 130
+  orig: 190, 132
+  offset: 44, 2
+  index: -1
+wenjian/daban_g/daban_g_12
+  rotate: false
+  xy: 235, 184
+  size: 117, 128
+  orig: 190, 132
+  offset: 52, 4
+  index: -1
+wenjian/daban_g/daban_g_13
+  rotate: false
+  xy: 472, 187
+  size: 116, 125
+  orig: 190, 132
+  offset: 61, 7
+  index: -1
+wenjian/daban_g/daban_g_14
+  rotate: false
+  xy: 590, 188
+  size: 108, 124
+  orig: 190, 132
+  offset: 70, 8
+  index: -1
+wenjian/daban_g/daban_g_15
+  rotate: false
+  xy: 700, 188
+  size: 102, 124
+  orig: 190, 132
+  offset: 80, 8
+  index: -1
+wenjian/daban_g/daban_g_16
+  rotate: false
+  xy: 435, 59
+  size: 97, 123
+  orig: 190, 132
+  offset: 90, 9
+  index: -1
+wenjian/daban_g/daban_g_17
+  rotate: false
+  xy: 627, 64
+  size: 89, 122
+  orig: 190, 132
+  offset: 101, 10
+  index: -1
+wenjian/daban_g/daban_g_18
+  rotate: false
+  xy: 764, 611
+  size: 79, 110
+  orig: 190, 132
+  offset: 111, 22
+  index: -1
+wenjian/daban_g/daban_g_19
+  rotate: false
+  xy: 764, 413
+  size: 67, 93
+  orig: 190, 132
+  offset: 123, 36
+  index: -1
+wenjian/daban_g/daban_g_20
+  rotate: false
+  xy: 718, 103
+  size: 55, 83
+  orig: 190, 132
+  offset: 135, 43
+  index: -1

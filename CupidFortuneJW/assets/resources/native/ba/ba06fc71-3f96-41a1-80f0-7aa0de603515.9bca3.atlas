@@ -1,0 +1,104 @@
+
+Map_duigou.png
+size: 893,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gou/gou_01
+  rotate: true
+  xy: 815, 12
+  size: 67, 58
+  orig: 196, 169
+  offset: 0, 44
+  index: -1
+gou/gou_02
+  rotate: false
+  xy: 815, 81
+  size: 76, 71
+  orig: 196, 169
+  offset: 0, 31
+  index: -1
+gou/gou_03
+  rotate: true
+  xy: 319, 19
+  size: 85, 84
+  orig: 196, 169
+  offset: 0, 18
+  index: -1
+gou/gou_04
+  rotate: false
+  xy: 223, 4
+  size: 94, 100
+  orig: 196, 169
+  offset: 0, 2
+  index: -1
+gou/gou_05
+  rotate: true
+  xy: 121, 2
+  size: 102, 100
+  orig: 196, 169
+  offset: 0, 2
+  index: -1
+gou/gou_06
+  rotate: false
+  xy: 2, 4
+  size: 117, 100
+  orig: 196, 169
+  offset: 0, 2
+  index: -1
+gou/gou_07
+  rotate: true
+  xy: 705, 11
+  size: 130, 108
+  orig: 196, 169
+  offset: 0, 2
+  index: -1
+gou/gou_08
+  rotate: false
+  xy: 405, 13
+  size: 142, 120
+  orig: 196, 169
+  offset: 0, 2
+  index: -1
+gou/gou_09
+  rotate: false
+  xy: 549, 9
+  size: 154, 132
+  orig: 196, 169
+  offset: 0, 2
+  index: -1
+gou/gou_10
+  rotate: false
+  xy: 717, 154
+  size: 167, 143
+  orig: 196, 169
+  offset: 0, 2
+  index: -1
+gou/gou_11
+  rotate: false
+  xy: 535, 143
+  size: 180, 154
+  orig: 196, 169
+  offset: 0, 2
+  index: -1
+gou/gou_12
+  rotate: false
+  xy: 340, 135
+  size: 193, 162
+  orig: 196, 169
+  offset: 0, 2
+  index: -1
+gou/gou_13
+  rotate: true
+  xy: 2, 106
+  size: 191, 167
+  orig: 196, 169
+  offset: 0, 2
+  index: -1
+gou/gou_14
+  rotate: true
+  xy: 171, 106
+  size: 191, 167
+  orig: 196, 169
+  offset: 0, 2
+  index: -1

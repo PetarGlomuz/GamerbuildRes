@@ -1,0 +1,118 @@
+
+NG_diyingfen.png
+size: 760,554
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ciguang_00006
+  rotate: true
+  xy: 2, 79
+  size: 473, 129
+  orig: 662, 138
+  offset: 118, 9
+  index: -1
+guangyun_00003
+  rotate: true
+  xy: 133, 104
+  size: 448, 111
+  orig: 497, 146
+  offset: 28, 26
+  index: -1
+lz/lz_1
+  rotate: true
+  xy: 315, 271
+  size: 281, 71
+  orig: 555, 145
+  offset: 142, 30
+  index: -1
+lz/lz_10
+  rotate: true
+  xy: 264, 2
+  size: 266, 69
+  orig: 555, 145
+  offset: 145, 38
+  index: -1
+lz/lz_11
+  rotate: true
+  xy: 246, 270
+  size: 282, 67
+  orig: 555, 145
+  offset: 146, 38
+  index: -1
+lz/lz_12
+  rotate: true
+  xy: 457, 271
+  size: 281, 66
+  orig: 555, 145
+  offset: 147, 38
+  index: -1
+lz/lz_13
+  rotate: true
+  xy: 388, 271
+  size: 281, 67
+  orig: 555, 145
+  offset: 147, 38
+  index: -1
+lz/lz_14
+  rotate: true
+  xy: 525, 271
+  size: 281, 64
+  orig: 555, 145
+  offset: 146, 38
+  index: -1
+lz/lz_2
+  rotate: true
+  xy: 591, 272
+  size: 280, 70
+  orig: 555, 145
+  offset: 143, 33
+  index: -1
+lz/lz_3
+  rotate: false
+  xy: 480, 200
+  size: 278, 69
+  orig: 555, 145
+  offset: 145, 36
+  index: -1
+lz/lz_4
+  rotate: false
+  xy: 480, 128
+  size: 275, 70
+  orig: 555, 145
+  offset: 147, 36
+  index: -1
+lz/lz_5
+  rotate: true
+  xy: 663, 293
+  size: 259, 71
+  orig: 555, 145
+  offset: 149, 36
+  index: -1
+lz/lz_6
+  rotate: false
+  xy: 2, 5
+  size: 260, 72
+  orig: 555, 145
+  offset: 148, 36
+  index: -1
+lz/lz_7
+  rotate: false
+  xy: 480, 55
+  size: 263, 71
+  orig: 555, 145
+  offset: 147, 37
+  index: -1
+lz/lz_8
+  rotate: true
+  xy: 335, 4
+  size: 265, 71
+  orig: 555, 145
+  offset: 146, 37
+  index: -1
+lz/lz_9
+  rotate: true
+  xy: 408, 4
+  size: 265, 70
+  orig: 555, 145
+  offset: 146, 38
+  index: -1

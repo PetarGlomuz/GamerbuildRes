@@ -1,0 +1,132 @@
+
+tc_fg_light1.png
+size: 1781,832
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg
+  rotate: true
+  xy: 1154, 489
+  size: 341, 180
+  orig: 350, 200
+  offset: 3, 10
+  index: -1
+fg01
+  rotate: false
+  xy: 336, 24
+  size: 373, 155
+  orig: 373, 155
+  offset: 0, 0
+  index: -1
+light_1/light_10
+  rotate: false
+  xy: 597, 233
+  size: 555, 597
+  orig: 820, 694
+  offset: 123, 69
+  index: -1
+light_1/light_12
+  rotate: false
+  xy: 2, 181
+  size: 593, 649
+  orig: 820, 694
+  offset: 91, 45
+  index: -1
+zha_light/light_1_03
+  rotate: false
+  xy: 1610, 90
+  size: 122, 104
+  orig: 410, 347
+  offset: 152, 130
+  index: -1
+zha_light/light_1_04
+  rotate: false
+  xy: 1406, 277
+  size: 146, 127
+  orig: 410, 347
+  offset: 141, 119
+  index: -1
+zha_light/light_1_05
+  rotate: true
+  xy: 2, 11
+  size: 168, 137
+  orig: 410, 347
+  offset: 129, 117
+  index: -1
+zha_light/light_1_06
+  rotate: true
+  xy: 1406, 406
+  size: 184, 146
+  orig: 410, 347
+  offset: 120, 114
+  index: -1
+zha_light/light_1_07
+  rotate: false
+  xy: 141, 13
+  size: 193, 166
+  orig: 410, 347
+  offset: 112, 99
+  index: -1
+zha_light/light_1_08
+  rotate: false
+  xy: 1406, 11
+  size: 202, 183
+  orig: 410, 347
+  offset: 105, 85
+  index: -1
+zha_light/light_1_09
+  rotate: false
+  xy: 1554, 196
+  size: 214, 197
+  orig: 410, 347
+  offset: 98, 72
+  index: -1
+zha_light/light_1_10
+  rotate: false
+  xy: 1556, 395
+  size: 222, 211
+  orig: 410, 347
+  offset: 93, 61
+  index: -1
+zha_light/light_1_11
+  rotate: false
+  xy: 1556, 608
+  size: 223, 222
+  orig: 410, 347
+  offset: 88, 50
+  index: -1
+zha_light/light_1_12
+  rotate: true
+  xy: 711, 2
+  size: 229, 233
+  orig: 410, 347
+  offset: 85, 42
+  index: -1
+zha_light/light_1_13
+  rotate: false
+  xy: 1336, 592
+  size: 218, 238
+  orig: 410, 347
+  offset: 98, 38
+  index: -1
+zha_light/light_1_14
+  rotate: true
+  xy: 946, 2
+  size: 229, 217
+  orig: 410, 347
+  offset: 91, 59
+  index: -1
+zha_light/light_1_15
+  rotate: false
+  xy: 1165, 12
+  size: 239, 223
+  orig: 410, 347
+  offset: 84, 59
+  index: -1
+zha_light/light_1_16
+  rotate: true
+  xy: 1154, 237
+  size: 250, 238
+  orig: 410, 347
+  offset: 76, 52
+  index: -1

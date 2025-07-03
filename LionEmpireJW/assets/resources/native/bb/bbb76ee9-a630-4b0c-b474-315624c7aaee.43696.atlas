@@ -1,0 +1,146 @@
+
+BG_path.png
+size: 880,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+path/path_01
+  rotate: true
+  xy: 757, 82
+  size: 35, 121
+  orig: 57, 215
+  offset: 11, 4
+  index: -1
+path/path_02
+  rotate: true
+  xy: 192, 14
+  size: 45, 169
+  orig: 57, 215
+  offset: 6, 3
+  index: -1
+path/path_03
+  rotate: true
+  xy: 2, 118
+  size: 54, 211
+  orig: 57, 215
+  offset: 1, 4
+  index: -1
+path/path_04
+  rotate: true
+  xy: 2, 62
+  size: 54, 201
+  orig: 57, 215
+  offset: 1, 10
+  index: -1
+path/path_05
+  rotate: true
+  xy: 215, 118
+  size: 54, 196
+  orig: 57, 215
+  offset: 1, 15
+  index: -1
+path/path_06
+  rotate: true
+  xy: 2, 6
+  size: 54, 188
+  orig: 57, 215
+  offset: 1, 23
+  index: -1
+path/path_07
+  rotate: true
+  xy: 205, 61
+  size: 55, 178
+  orig: 57, 215
+  offset: 0, 31
+  index: -1
+path/path_08
+  rotate: true
+  xy: 413, 117
+  size: 55, 171
+  orig: 57, 215
+  offset: 0, 39
+  index: -1
+path/path_09
+  rotate: true
+  xy: 586, 117
+  size: 55, 169
+  orig: 57, 215
+  offset: 0, 43
+  index: -1
+path/path_10
+  rotate: true
+  xy: 385, 60
+  size: 55, 158
+  orig: 57, 215
+  offset: 0, 53
+  index: -1
+path/path_11
+  rotate: true
+  xy: 545, 60
+  size: 55, 144
+  orig: 57, 215
+  offset: 0, 66
+  index: -1
+path/path_12
+  rotate: true
+  xy: 363, 3
+  size: 55, 131
+  orig: 57, 215
+  offset: 0, 73
+  index: -1
+path/path_13
+  rotate: true
+  xy: 496, 3
+  size: 55, 125
+  orig: 57, 215
+  offset: 1, 79
+  index: -1
+path/path_14
+  rotate: true
+  xy: 757, 119
+  size: 53, 120
+  orig: 57, 215
+  offset: 1, 84
+  index: -1
+path/path_15
+  rotate: true
+  xy: 623, 31
+  size: 27, 112
+  orig: 57, 215
+  offset: 15, 90
+  index: -1
+path/path_16
+  rotate: true
+  xy: 623, 2
+  size: 27, 109
+  orig: 57, 215
+  offset: 15, 96
+  index: -1
+path/path_17
+  rotate: true
+  xy: 774, 55
+  size: 25, 96
+  orig: 57, 215
+  offset: 17, 104
+  index: -1
+path/path_18
+  rotate: true
+  xy: 737, 28
+  size: 25, 91
+  orig: 57, 215
+  offset: 17, 110
+  index: -1
+path/path_19
+  rotate: true
+  xy: 691, 60
+  size: 20, 81
+  orig: 57, 215
+  offset: 17, 117
+  index: -1
+path/path_20
+  rotate: true
+  xy: 734, 6
+  size: 20, 73
+  orig: 57, 215
+  offset: 17, 129
+  index: -1

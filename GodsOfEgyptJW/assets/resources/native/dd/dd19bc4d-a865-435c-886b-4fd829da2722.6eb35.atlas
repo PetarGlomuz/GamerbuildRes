@@ -1,0 +1,146 @@
+
+slot_botton_win.png
+size: 1870,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dyf/1_00000
+  rotate: true
+  xy: 1790, 5
+  size: 285, 78
+  orig: 339, 134
+  offset: 28, 16
+  index: -1
+dyf/1_00001
+  rotate: true
+  xy: 1144, 5
+  size: 285, 91
+  orig: 339, 134
+  offset: 28, 16
+  index: -1
+dyf/1_00002
+  rotate: true
+  xy: 1237, 5
+  size: 285, 91
+  orig: 339, 134
+  offset: 28, 16
+  index: -1
+dyf/1_00003
+  rotate: true
+  xy: 865, 3
+  size: 287, 91
+  orig: 339, 134
+  offset: 26, 16
+  index: -1
+dyf/1_00004
+  rotate: true
+  xy: 1330, 5
+  size: 285, 91
+  orig: 339, 134
+  offset: 28, 16
+  index: -1
+dyf/1_00005
+  rotate: true
+  xy: 1051, 4
+  size: 286, 91
+  orig: 339, 134
+  offset: 27, 16
+  index: -1
+dyf/1_00006
+  rotate: true
+  xy: 2, 2
+  size: 288, 95
+  orig: 339, 134
+  offset: 25, 16
+  index: -1
+dyf/1_00007
+  rotate: true
+  xy: 99, 2
+  size: 288, 95
+  orig: 339, 134
+  offset: 25, 16
+  index: -1
+dyf/1_00008
+  rotate: true
+  xy: 196, 2
+  size: 288, 95
+  orig: 339, 134
+  offset: 25, 16
+  index: -1
+dyf/1_00009
+  rotate: true
+  xy: 293, 2
+  size: 288, 95
+  orig: 339, 134
+  offset: 25, 16
+  index: -1
+dyf/1_00010
+  rotate: true
+  xy: 1423, 3
+  size: 287, 90
+  orig: 339, 134
+  offset: 26, 16
+  index: -1
+dyf/1_00011
+  rotate: true
+  xy: 486, 3
+  size: 287, 93
+  orig: 339, 134
+  offset: 26, 16
+  index: -1
+dyf/1_00012
+  rotate: true
+  xy: 581, 3
+  size: 287, 93
+  orig: 339, 134
+  offset: 26, 16
+  index: -1
+dyf/1_00013
+  rotate: true
+  xy: 958, 3
+  size: 287, 91
+  orig: 339, 134
+  offset: 26, 16
+  index: -1
+dyf/1_00014
+  rotate: true
+  xy: 676, 3
+  size: 287, 93
+  orig: 339, 134
+  offset: 25, 16
+  index: -1
+dyf/1_00015
+  rotate: true
+  xy: 390, 3
+  size: 287, 94
+  orig: 339, 134
+  offset: 25, 16
+  index: -1
+dyf/1_00016
+  rotate: true
+  xy: 771, 2
+  size: 288, 92
+  orig: 339, 134
+  offset: 24, 16
+  index: -1
+dyf/1_00017
+  rotate: true
+  xy: 1515, 3
+  size: 287, 90
+  orig: 339, 134
+  offset: 24, 16
+  index: -1
+dyf/1_00018
+  rotate: true
+  xy: 1607, 6
+  size: 284, 90
+  orig: 339, 134
+  offset: 25, 16
+  index: -1
+dyf/1_00019
+  rotate: true
+  xy: 1699, 6
+  size: 284, 89
+  orig: 339, 134
+  offset: 24, 16
+  index: -1

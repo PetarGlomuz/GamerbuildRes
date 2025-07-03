@@ -1,0 +1,111 @@
+
+BG_DuFaiZhongJiang.png
+size: 750,563
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/zhuan/zhuan_00
+  rotate: true
+  xy: 500, 353
+  size: 208, 121
+  orig: 330, 210
+  offset: 52, 38
+  index: -1
+images/zhuan/zhuan_01
+  rotate: true
+  xy: 379, 351
+  size: 210, 119
+  orig: 330, 210
+  offset: 51, 39
+  index: -1
+images/zhuan/zhuan_02
+  rotate: true
+  xy: 498, 139
+  size: 210, 119
+  orig: 330, 210
+  offset: 51, 39
+  index: -1
+images/zhuan/zhuan_03
+  rotate: true
+  xy: 377, 136
+  size: 211, 119
+  orig: 330, 210
+  offset: 50, 39
+  index: -1
+images/zhuan/zhuan_04
+  rotate: true
+  xy: 256, 349
+  size: 212, 121
+  orig: 330, 210
+  offset: 50, 38
+  index: -1
+images/zhuan/zhuan_05
+  rotate: true
+  xy: 252, 135
+  size: 212, 123
+  orig: 330, 210
+  offset: 50, 37
+  index: -1
+images/zhuan/zhuan_06
+  rotate: true
+  xy: 2, 131
+  size: 213, 123
+  orig: 330, 210
+  offset: 49, 37
+  index: -1
+images/zhuan/zhuan_07
+  rotate: true
+  xy: 127, 131
+  size: 213, 123
+  orig: 330, 210
+  offset: 49, 37
+  index: -1
+images/zhuan/zhuan_08
+  rotate: true
+  xy: 2, 346
+  size: 215, 125
+  orig: 330, 210
+  offset: 48, 36
+  index: -1
+images/zhuan/zhuan_09
+  rotate: true
+  xy: 129, 349
+  size: 212, 125
+  orig: 330, 210
+  offset: 50, 36
+  index: -1
+images/zhuan/zhuan_10
+  rotate: true
+  xy: 623, 149
+  size: 204, 125
+  orig: 330, 210
+  offset: 54, 36
+  index: -1
+images/zhuan/zhuan_11
+  rotate: true
+  xy: 623, 355
+  size: 206, 125
+  orig: 330, 210
+  offset: 53, 36
+  index: -1
+images/zhuan/zhuan_12
+  rotate: false
+  xy: 2, 2
+  size: 206, 127
+  orig: 330, 210
+  offset: 53, 35
+  index: -1
+images/zhuan/zhuan_13
+  rotate: false
+  xy: 210, 4
+  size: 207, 125
+  orig: 330, 210
+  offset: 52, 36
+  index: -1
+images/zhuan/zhuan_14
+  rotate: false
+  xy: 419, 9
+  size: 207, 125
+  orig: 330, 210
+  offset: 52, 36
+  index: -1

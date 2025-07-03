@@ -1,0 +1,139 @@
+
+FG_guochang.png
+size: 982,715
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 193, 194
+  orig: 288, 288
+  offset: 48, 46
+  index: -1
+1_add
+  rotate: false
+  xy: 806, 11
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 198
+  size: 253, 253
+  orig: 288, 288
+  offset: 17, 18
+  index: -1
+di_add
+  rotate: false
+  xy: 264, 324
+  size: 188, 187
+  orig: 200, 200
+  offset: 6, 8
+  index: -1
+glow
+  rotate: true
+  xy: 386, 3
+  size: 154, 159
+  orig: 160, 160
+  offset: 3, 1
+  index: -1
+lizi/lizi_04
+  rotate: true
+  xy: 257, 199
+  size: 123, 126
+  orig: 200, 200
+  offset: 39, 37
+  index: -1
+lizi/lizi_05
+  rotate: true
+  xy: 839, 577
+  size: 136, 141
+  orig: 200, 200
+  offset: 32, 29
+  index: -1
+lizi/lizi_06
+  rotate: false
+  xy: 547, 3
+  size: 148, 154
+  orig: 200, 200
+  offset: 26, 22
+  index: -1
+lizi/lizi_07
+  rotate: false
+  xy: 806, 173
+  size: 158, 165
+  orig: 200, 200
+  offset: 20, 17
+  index: -1
+lizi/lizi_08
+  rotate: false
+  xy: 637, 160
+  size: 167, 174
+  orig: 200, 200
+  offset: 15, 12
+  index: -1
+lizi/lizi_09
+  rotate: true
+  xy: 454, 159
+  size: 175, 181
+  orig: 200, 200
+  offset: 11, 9
+  index: -1
+lizi/lizi_10
+  rotate: true
+  xy: 646, 340
+  size: 183, 186
+  orig: 200, 200
+  offset: 7, 7
+  index: -1
+lizi/lizi_11
+  rotate: false
+  xy: 197, 6
+  size: 187, 190
+  orig: 200, 200
+  offset: 4, 4
+  index: -1
+lizi/lizi_12
+  rotate: false
+  xy: 456, 517
+  size: 188, 196
+  orig: 200, 200
+  offset: 3, 0
+  index: -1
+lizi/lizi_13
+  rotate: false
+  xy: 264, 513
+  size: 190, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lizi/lizi_14
+  rotate: false
+  xy: 646, 525
+  size: 191, 188
+  orig: 200, 200
+  offset: 0, 3
+  index: -1
+lizi/lizi_15
+  rotate: false
+  xy: 456, 336
+  size: 183, 179
+  orig: 200, 200
+  offset: 6, 12
+  index: -1
+lizi/lizi_16
+  rotate: true
+  xy: 839, 410
+  size: 165, 140
+  orig: 200, 200
+  offset: 13, 30
+  index: -1
+yy
+  rotate: false
+  xy: 2, 453
+  size: 260, 260
+  orig: 288, 288
+  offset: 14, 12
+  index: -1

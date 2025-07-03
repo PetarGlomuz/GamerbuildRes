@@ -1,0 +1,139 @@
+
+tc_fg_yfk.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_frame
+  rotate: false
+  xy: 2, 787
+  size: 764, 233
+  orig: 764, 233
+  offset: 0, 0
+  index: -1
+yfk_1/yfk_01
+  rotate: false
+  xy: 96, 2
+  size: 113, 97
+  orig: 382, 117
+  offset: 9, 13
+  index: -1
+yfk_1/yfk_02
+  rotate: true
+  xy: 211, 12
+  size: 137, 96
+  orig: 382, 117
+  offset: 9, 13
+  index: -1
+yfk_1/yfk_03
+  rotate: false
+  xy: 289, 590
+  size: 161, 97
+  orig: 382, 117
+  offset: 9, 13
+  index: -1
+yfk_1/yfk_04
+  rotate: true
+  xy: 194, 151
+  size: 185, 97
+  orig: 382, 117
+  offset: 9, 13
+  index: -1
+yfk_1/yfk_05
+  rotate: false
+  xy: 291, 689
+  size: 209, 96
+  orig: 382, 117
+  offset: 9, 13
+  index: -1
+yfk_1/yfk_06
+  rotate: false
+  xy: 768, 827
+  size: 233, 97
+  orig: 382, 117
+  offset: 9, 13
+  index: -1
+yfk_1/yfk_07
+  rotate: true
+  xy: 190, 338
+  size: 257, 97
+  orig: 382, 117
+  offset: 9, 13
+  index: -1
+yfk_1/yfk_08
+  rotate: false
+  xy: 2, 597
+  size: 281, 95
+  orig: 382, 117
+  offset: 9, 14
+  index: -1
+yfk_1/yfk_09
+  rotate: false
+  xy: 2, 694
+  size: 287, 91
+  orig: 382, 117
+  offset: 28, 14
+  index: -1
+yfk_1/yfk_10
+  rotate: true
+  xy: 2, 311
+  size: 284, 92
+  orig: 382, 117
+  offset: 55, 13
+  index: -1
+yfk_1/yfk_11
+  rotate: true
+  xy: 2, 25
+  size: 284, 92
+  orig: 382, 117
+  offset: 78, 13
+  index: -1
+yfk_1/yfk_12
+  rotate: true
+  xy: 96, 325
+  size: 270, 92
+  orig: 382, 117
+  offset: 102, 13
+  index: -1
+yfk_1/yfk_13
+  rotate: false
+  xy: 768, 926
+  size: 246, 94
+  orig: 382, 117
+  offset: 126, 13
+  index: -1
+yfk_1/yfk_14
+  rotate: true
+  xy: 96, 101
+  size: 222, 96
+  orig: 382, 117
+  offset: 150, 13
+  index: -1
+yfk_1/yfk_15
+  rotate: false
+  xy: 502, 688
+  size: 198, 97
+  orig: 382, 117
+  offset: 175, 13
+  index: -1
+yfk_1/yfk_16
+  rotate: false
+  xy: 768, 728
+  size: 175, 97
+  orig: 382, 117
+  offset: 198, 13
+  index: -1
+yfk_1/yfk_17
+  rotate: false
+  xy: 289, 491
+  size: 152, 97
+  orig: 382, 117
+  offset: 221, 13
+  index: -1
+yfk_1/yfk_18
+  rotate: false
+  xy: 289, 392
+  size: 126, 97
+  orig: 382, 117
+  offset: 247, 13
+  index: -1

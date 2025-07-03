@@ -1,0 +1,209 @@
+
+TC_MAP_diban.png
+size: 1268,570
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+board
+  rotate: false
+  xy: 2, 2
+  size: 970, 566
+  orig: 970, 566
+  offset: 0, 0
+  index: -1
+sg/sg2_00
+  rotate: true
+  xy: 1040, 43
+  size: 22, 11
+  orig: 218, 188
+  offset: 65, 101
+  index: -1
+sg/sg2_01
+  rotate: false
+  xy: 974, 2
+  size: 64, 63
+  orig: 218, 188
+  offset: 63, 52
+  index: -1
+sg/sg2_02
+  rotate: false
+  xy: 1054, 23
+  size: 69, 78
+  orig: 218, 188
+  offset: 63, 47
+  index: -1
+sg/sg2_03
+  rotate: false
+  xy: 1141, 179
+  size: 72, 82
+  orig: 218, 188
+  offset: 63, 46
+  index: -1
+sg/sg2_04
+  rotate: true
+  xy: 1126, 263
+  size: 79, 85
+  orig: 218, 188
+  offset: 64, 46
+  index: -1
+sg/sg2_05
+  rotate: false
+  xy: 974, 67
+  size: 78, 87
+  orig: 218, 188
+  offset: 66, 46
+  index: -1
+sg/sg2_06
+  rotate: true
+  xy: 1143, 344
+  size: 76, 87
+  orig: 218, 188
+  offset: 68, 47
+  index: -1
+sg/sg2_07
+  rotate: true
+  xy: 1054, 187
+  size: 74, 85
+  orig: 218, 188
+  offset: 75, 49
+  index: -1
+sg/sg2_08
+  rotate: false
+  xy: 1054, 103
+  size: 68, 82
+  orig: 218, 188
+  offset: 85, 52
+  index: -1
+sg/sg2_09
+  rotate: false
+  xy: 1125, 23
+  size: 61, 81
+  orig: 218, 188
+  offset: 94, 54
+  index: -1
+sg/sg2_10
+  rotate: false
+  xy: 1203, 112
+  size: 58, 65
+  orig: 218, 188
+  offset: 99, 71
+  index: -1
+sg/sg2_11
+  rotate: false
+  xy: 1213, 281
+  size: 51, 61
+  orig: 218, 188
+  offset: 107, 75
+  index: -1
+sg/sg2_12
+  rotate: true
+  xy: 1215, 184
+  size: 41, 51
+  orig: 218, 188
+  offset: 117, 85
+  index: -1
+sg/sg2_13
+  rotate: true
+  xy: 1232, 4
+  size: 30, 27
+  orig: 218, 188
+  offset: 127, 109
+  index: -1
+sg/sg_00
+  rotate: true
+  xy: 1232, 392
+  size: 28, 27
+  orig: 218, 188
+  offset: 115, 102
+  index: -1
+sg/sg_01
+  rotate: false
+  xy: 1188, 3
+  size: 42, 31
+  orig: 218, 188
+  offset: 104, 102
+  index: -1
+sg/sg_02
+  rotate: true
+  xy: 1215, 227
+  size: 52, 49
+  orig: 218, 188
+  offset: 94, 85
+  index: -1
+sg/sg_03
+  rotate: false
+  xy: 1188, 36
+  size: 62, 68
+  orig: 218, 188
+  offset: 85, 69
+  index: -1
+sg/sg_04
+  rotate: true
+  xy: 1124, 106
+  size: 71, 77
+  orig: 218, 188
+  offset: 75, 61
+  index: -1
+sg/sg_05
+  rotate: false
+  xy: 1062, 366
+  size: 79, 98
+  orig: 218, 188
+  offset: 66, 40
+  index: -1
+sg/sg_06
+  rotate: false
+  xy: 974, 468
+  size: 86, 100
+  orig: 218, 188
+  offset: 56, 39
+  index: -1
+sg/sg_07
+  rotate: false
+  xy: 974, 366
+  size: 86, 100
+  orig: 218, 188
+  offset: 56, 39
+  index: -1
+sg/sg_08
+  rotate: false
+  xy: 1062, 466
+  size: 81, 102
+  orig: 218, 188
+  offset: 53, 37
+  index: -1
+sg/sg_09
+  rotate: false
+  xy: 974, 260
+  size: 78, 104
+  orig: 218, 188
+  offset: 52, 36
+  index: -1
+sg/sg_10
+  rotate: true
+  xy: 1145, 491
+  size: 77, 105
+  orig: 218, 188
+  offset: 52, 36
+  index: -1
+sg/sg_11
+  rotate: false
+  xy: 974, 156
+  size: 77, 102
+  orig: 218, 188
+  offset: 52, 39
+  index: -1
+sg/sg_12
+  rotate: false
+  xy: 1054, 263
+  size: 70, 101
+  orig: 218, 188
+  offset: 53, 39
+  index: -1
+sg/sg_13
+  rotate: true
+  xy: 1145, 422
+  size: 67, 97
+  orig: 218, 188
+  offset: 55, 40
+  index: -1

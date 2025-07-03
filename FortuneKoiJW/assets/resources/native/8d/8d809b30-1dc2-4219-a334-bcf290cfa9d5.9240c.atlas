@@ -1,0 +1,111 @@
+
+BG_guochang.png
+size: 981,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_xuanzhuan/coin_xuanzhuan_00
+  rotate: false
+  xy: 2, 188
+  size: 176, 176
+  orig: 200, 200
+  offset: 12, 12
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_01
+  rotate: false
+  xy: 2, 10
+  size: 174, 176
+  orig: 200, 200
+  offset: 16, 12
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_02
+  rotate: true
+  xy: 356, 198
+  size: 166, 178
+  orig: 200, 200
+  offset: 23, 11
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_03
+  rotate: true
+  xy: 716, 212
+  size: 152, 178
+  orig: 200, 200
+  offset: 33, 11
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_04
+  rotate: false
+  xy: 332, 6
+  size: 132, 180
+  orig: 200, 200
+  offset: 44, 10
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_05
+  rotate: false
+  xy: 600, 16
+  size: 106, 180
+  orig: 200, 200
+  offset: 57, 10
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_06
+  rotate: false
+  xy: 896, 184
+  size: 76, 180
+  orig: 200, 200
+  offset: 70, 10
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_07
+  rotate: false
+  xy: 708, 16
+  size: 42, 180
+  orig: 200, 200
+  offset: 83, 10
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_08
+  rotate: false
+  xy: 938, 2
+  size: 41, 180
+  orig: 200, 200
+  offset: 75, 10
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_09
+  rotate: false
+  xy: 860, 2
+  size: 76, 180
+  orig: 200, 200
+  offset: 54, 10
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_10
+  rotate: false
+  xy: 752, 30
+  size: 106, 180
+  orig: 200, 200
+  offset: 37, 10
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_11
+  rotate: false
+  xy: 466, 16
+  size: 132, 180
+  orig: 200, 200
+  offset: 24, 10
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_12
+  rotate: false
+  xy: 178, 8
+  size: 152, 178
+  orig: 200, 200
+  offset: 15, 11
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_13
+  rotate: true
+  xy: 536, 198
+  size: 166, 178
+  orig: 200, 200
+  offset: 11, 11
+  index: -1
+coin_xuanzhuan/coin_xuanzhuan_14
+  rotate: false
+  xy: 180, 188
+  size: 174, 176
+  orig: 200, 200
+  offset: 10, 12
+  index: -1

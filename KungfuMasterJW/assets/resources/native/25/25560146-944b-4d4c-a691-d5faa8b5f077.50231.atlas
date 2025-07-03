@@ -1,0 +1,146 @@
+
+anniu.png
+size: 897,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/sg/1_00000
+  rotate: false
+  xy: 294, 2
+  size: 37, 40
+  orig: 206, 214
+  offset: 52, 122
+  index: -1
+image/sg/1_00001
+  rotate: true
+  xy: 828, 15
+  size: 61, 66
+  orig: 206, 214
+  offset: 51, 98
+  index: -1
+image/sg/1_00002
+  rotate: false
+  xy: 480, 56
+  size: 79, 83
+  orig: 206, 214
+  offset: 51, 81
+  index: -1
+image/sg/1_00003
+  rotate: false
+  xy: 387, 45
+  size: 91, 94
+  orig: 206, 214
+  offset: 51, 70
+  index: -1
+image/sg/1_00004
+  rotate: false
+  xy: 90, 37
+  size: 100, 102
+  orig: 206, 214
+  offset: 51, 62
+  index: -1
+image/sg/1_00005
+  rotate: false
+  xy: 192, 37
+  size: 100, 102
+  orig: 206, 214
+  offset: 55, 60
+  index: -1
+image/sg/1_00006
+  rotate: false
+  xy: 294, 44
+  size: 91, 95
+  orig: 206, 214
+  offset: 64, 60
+  index: -1
+image/sg/1_00007
+  rotate: false
+  xy: 561, 56
+  size: 78, 83
+  orig: 206, 214
+  offset: 77, 60
+  index: -1
+image/sg/1_00008
+  rotate: true
+  xy: 828, 78
+  size: 61, 67
+  orig: 206, 214
+  offset: 94, 60
+  index: -1
+image/sg/1_00009
+  rotate: false
+  xy: 333, 3
+  size: 35, 39
+  orig: 206, 214
+  offset: 118, 63
+  index: -1
+image/sg2/1_00000
+  rotate: false
+  xy: 24, 22
+  size: 4, 117
+  orig: 166, 253
+  offset: 125, 75
+  index: -1
+image/sg2/1_00001
+  rotate: false
+  xy: 2, 4
+  size: 20, 135
+  orig: 166, 253
+  offset: 109, 66
+  index: -1
+image/sg2/1_00002
+  rotate: true
+  xy: 370, 7
+  size: 35, 141
+  orig: 166, 253
+  offset: 94, 63
+  index: -1
+image/sg2/1_00003
+  rotate: true
+  xy: 513, 3
+  size: 51, 141
+  orig: 166, 253
+  offset: 78, 63
+  index: -1
+image/sg2/1_00004
+  rotate: true
+  xy: 685, 74
+  size: 65, 141
+  orig: 166, 253
+  offset: 62, 63
+  index: -1
+image/sg2/1_00005
+  rotate: true
+  xy: 685, 6
+  size: 66, 140
+  orig: 166, 253
+  offset: 46, 64
+  index: -1
+image/sg2/1_00006
+  rotate: false
+  xy: 30, 29
+  size: 58, 110
+  orig: 166, 253
+  offset: 38, 79
+  index: -1
+image/sg2/1_00007
+  rotate: false
+  xy: 641, 61
+  size: 42, 78
+  orig: 166, 253
+  offset: 38, 95
+  index: -1
+image/sg2/1_00008
+  rotate: true
+  xy: 90, 9
+  size: 26, 48
+  orig: 166, 253
+  offset: 38, 109
+  index: -1
+image/sg2/1_00009
+  rotate: false
+  xy: 24, 4
+  size: 10, 16
+  orig: 166, 253
+  offset: 38, 125
+  index: -1

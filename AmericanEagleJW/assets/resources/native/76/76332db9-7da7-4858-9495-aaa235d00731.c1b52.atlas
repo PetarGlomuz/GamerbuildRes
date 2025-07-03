@@ -1,0 +1,132 @@
+
+L4.png
+size: 316,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/l4
+  rotate: false
+  xy: 204, 197
+  size: 71, 70
+  orig: 112, 104
+  offset: 21, 15
+  index: -1
+images/l4sg/l4sg_000
+  rotate: false
+  xy: 313, 266
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/l4sg/l4sg_001
+  rotate: false
+  xy: 277, 210
+  size: 23, 23
+  orig: 56, 56
+  offset: 4, 4
+  index: -1
+images/l4sg/l4sg_002
+  rotate: false
+  xy: 213, 2
+  size: 36, 31
+  orig: 56, 56
+  offset: 2, 1
+  index: -1
+images/l4sg/l4sg_003
+  rotate: true
+  xy: 265, 47
+  size: 44, 42
+  orig: 56, 56
+  offset: 2, 1
+  index: -1
+images/l4sg/l4sg_004
+  rotate: false
+  xy: 258, 145
+  size: 46, 50
+  orig: 56, 56
+  offset: 3, 1
+  index: -1
+images/l4sg/l4sg_005
+  rotate: false
+  xy: 163, 13
+  size: 48, 52
+  orig: 56, 56
+  offset: 4, 1
+  index: -1
+images/l4sg/l4sg_006
+  rotate: false
+  xy: 110, 13
+  size: 51, 52
+  orig: 56, 56
+  offset: 3, 1
+  index: -1
+images/l4sg/l4sg_007
+  rotate: false
+  xy: 204, 143
+  size: 52, 52
+  orig: 56, 56
+  offset: 2, 1
+  index: -1
+images/l4sg/l4sg_008
+  rotate: false
+  xy: 56, 13
+  size: 52, 52
+  orig: 56, 56
+  offset: 1, 1
+  index: -1
+images/l4sg/l4sg_009
+  rotate: false
+  xy: 2, 11
+  size: 52, 54
+  orig: 56, 56
+  offset: 2, 0
+  index: -1
+images/l4sg/l4sg_010
+  rotate: false
+  xy: 204, 88
+  size: 51, 53
+  orig: 56, 56
+  offset: 3, 0
+  index: -1
+images/l4sg/l4sg_011
+  rotate: false
+  xy: 213, 35
+  size: 50, 51
+  orig: 56, 56
+  offset: 4, 2
+  index: -1
+images/l4sg/l4sg_012
+  rotate: true
+  xy: 257, 93
+  size: 48, 46
+  orig: 56, 56
+  offset: 6, 8
+  index: -1
+images/l4sg/l4sg_013
+  rotate: true
+  xy: 265, 2
+  size: 43, 38
+  orig: 56, 56
+  offset: 12, 16
+  index: -1
+images/l4sg/l4sg_014
+  rotate: false
+  xy: 277, 235
+  size: 34, 32
+  orig: 56, 56
+  offset: 21, 21
+  index: -1
+images/l4sg/l4sg_015
+  rotate: false
+  xy: 251, 16
+  size: 8, 17
+  orig: 56, 56
+  offset: 40, 28
+  index: -1
+images/star_000
+  rotate: false
+  xy: 2, 67
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

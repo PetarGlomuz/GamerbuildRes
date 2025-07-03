@@ -1,0 +1,41 @@
+
+NG_L3.png
+size: 160,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban1_04
+  rotate: false
+  xy: 84, 60
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ban1_06
+  rotate: false
+  xy: 116, 60
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 2
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+guangyun1
+  rotate: false
+  xy: 2, 77
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+huashen
+  rotate: false
+  xy: 84, 92
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1

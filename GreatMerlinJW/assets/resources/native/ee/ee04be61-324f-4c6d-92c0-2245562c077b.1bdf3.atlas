@@ -1,0 +1,286 @@
+
+Map_zhongjp.png
+size: 1938,612
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+board/board_00000
+  rotate: false
+  xy: 2, 490
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00001
+  rotate: false
+  xy: 2, 368
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00002
+  rotate: false
+  xy: 244, 490
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00003
+  rotate: false
+  xy: 2, 246
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00004
+  rotate: false
+  xy: 244, 368
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00005
+  rotate: false
+  xy: 486, 490
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00006
+  rotate: false
+  xy: 2, 124
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00007
+  rotate: false
+  xy: 244, 246
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00008
+  rotate: false
+  xy: 486, 368
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00009
+  rotate: false
+  xy: 728, 490
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00010
+  rotate: false
+  xy: 2, 2
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00011
+  rotate: false
+  xy: 244, 124
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00012
+  rotate: false
+  xy: 486, 246
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00013
+  rotate: false
+  xy: 728, 368
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00014
+  rotate: false
+  xy: 970, 490
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00015
+  rotate: false
+  xy: 244, 2
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00016
+  rotate: false
+  xy: 486, 124
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00017
+  rotate: false
+  xy: 728, 246
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00018
+  rotate: false
+  xy: 970, 368
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/board_00019
+  rotate: false
+  xy: 1212, 490
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00000
+  rotate: false
+  xy: 486, 2
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00001
+  rotate: false
+  xy: 728, 124
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00002
+  rotate: false
+  xy: 970, 246
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00003
+  rotate: false
+  xy: 1212, 368
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00004
+  rotate: false
+  xy: 1454, 490
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00005
+  rotate: false
+  xy: 728, 2
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00006
+  rotate: false
+  xy: 970, 124
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00007
+  rotate: false
+  xy: 1212, 246
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00008
+  rotate: false
+  xy: 1454, 368
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00009
+  rotate: false
+  xy: 1696, 490
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00010
+  rotate: false
+  xy: 970, 2
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00011
+  rotate: false
+  xy: 1212, 124
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00012
+  rotate: false
+  xy: 1454, 246
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00013
+  rotate: false
+  xy: 1696, 368
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00014
+  rotate: false
+  xy: 1212, 2
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00015
+  rotate: false
+  xy: 1454, 124
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00016
+  rotate: false
+  xy: 1696, 246
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00017
+  rotate: false
+  xy: 1454, 2
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00018
+  rotate: false
+  xy: 1696, 124
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+board/lizi_00019
+  rotate: false
+  xy: 1696, 2
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1

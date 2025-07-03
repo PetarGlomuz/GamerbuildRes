@@ -1,0 +1,20 @@
+
+MAP_Numbercard_collect.png
+size: 361,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Smallshine_00
+  rotate: true
+  xy: 2, 2
+  size: 216, 260
+  orig: 216, 260
+  offset: 0, 0
+  index: -1
+purplezi_00
+  rotate: true
+  xy: 264, 61
+  size: 157, 95
+  orig: 157, 95
+  offset: 0, 0
+  index: -1

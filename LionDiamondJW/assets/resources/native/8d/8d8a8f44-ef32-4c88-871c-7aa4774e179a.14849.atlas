@@ -1,0 +1,111 @@
+
+FanKui.png
+size: 347,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Symbol11
+  rotate: false
+  xy: 254, 236
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+images/gq_000
+  rotate: false
+  xy: 262, 109
+  size: 68, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+images/sj_g2_000
+  rotate: true
+  xy: 253, 146
+  size: 88, 90
+  orig: 90, 90
+  offset: 1, 0
+  index: -1
+images/sj_g_lizi/sj_g_lizi_000
+  rotate: false
+  xy: 326, 516
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/sj_g_lizi/sj_g_lizi_011
+  rotate: false
+  xy: 326, 516
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/sj_g_lizi/sj_g_lizi_001
+  rotate: true
+  xy: 94, 2
+  size: 148, 81
+  orig: 160, 90
+  offset: 6, 3
+  index: -1
+images/sj_g_lizi/sj_g_lizi_002
+  rotate: false
+  xy: 94, 152
+  size: 157, 89
+  orig: 160, 90
+  offset: 1, 0
+  index: -1
+images/sj_g_lizi/sj_g_lizi_003
+  rotate: false
+  xy: 2, 427
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+images/sj_g_lizi/sj_g_lizi_004
+  rotate: false
+  xy: 164, 427
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+images/sj_g_lizi/sj_g_lizi_005
+  rotate: false
+  xy: 2, 335
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+images/sj_g_lizi/sj_g_lizi_006
+  rotate: false
+  xy: 164, 335
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+images/sj_g_lizi/sj_g_lizi_007
+  rotate: true
+  xy: 2, 173
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+images/sj_g_lizi/sj_g_lizi_008
+  rotate: true
+  xy: 2, 11
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+images/sj_g_lizi/sj_g_lizi_009
+  rotate: false
+  xy: 94, 243
+  size: 158, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+images/sj_g_lizi/sj_g_lizi_010
+  rotate: true
+  xy: 177, 2
+  size: 142, 83
+  orig: 160, 90
+  offset: 13, 4
+  index: -1

@@ -1,0 +1,300 @@
+
+TC_zhongfg_title.png
+size: 1844,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/zhongfg_cn/1_00
+  rotate: true
+  xy: 1154, 2
+  size: 49, 56
+  orig: 477, 125
+  offset: 120, 34
+  index: -1
+images/zhongfg_cn/1_01
+  rotate: false
+  xy: 1073, 68
+  size: 71, 58
+  orig: 477, 125
+  offset: 120, 33
+  index: -1
+images/zhongfg_cn/1_02
+  rotate: false
+  xy: 1112, 129
+  size: 89, 59
+  orig: 477, 125
+  offset: 120, 32
+  index: -1
+images/zhongfg_cn/1_03
+  rotate: false
+  xy: 1046, 2
+  size: 106, 61
+  orig: 477, 125
+  offset: 119, 32
+  index: -1
+images/zhongfg_cn/1_04
+  rotate: false
+  xy: 942, 65
+  size: 129, 61
+  orig: 477, 125
+  offset: 119, 32
+  index: -1
+images/zhongfg_cn/1_05
+  rotate: false
+  xy: 895, 2
+  size: 149, 61
+  orig: 477, 125
+  offset: 119, 32
+  index: -1
+images/zhongfg_cn/1_06
+  rotate: false
+  xy: 737, 127
+  size: 166, 61
+  orig: 477, 125
+  offset: 120, 32
+  index: -1
+images/zhongfg_cn/1_07
+  rotate: false
+  xy: 707, 2
+  size: 186, 61
+  orig: 477, 125
+  offset: 120, 32
+  index: -1
+images/zhongfg_cn/1_08
+  rotate: false
+  xy: 1205, 177
+  size: 205, 62
+  orig: 477, 125
+  offset: 120, 32
+  index: -1
+images/zhongfg_cn/1_09
+  rotate: false
+  xy: 481, 2
+  size: 224, 61
+  orig: 477, 125
+  offset: 121, 33
+  index: -1
+images/zhongfg_cn/1_10
+  rotate: false
+  xy: 481, 65
+  size: 233, 60
+  orig: 477, 125
+  offset: 122, 33
+  index: -1
+images/zhongfg_cn/1_11
+  rotate: false
+  xy: 716, 65
+  size: 224, 60
+  orig: 477, 125
+  offset: 132, 34
+  index: -1
+images/zhongfg_cn/1_12
+  rotate: false
+  xy: 905, 128
+  size: 205, 60
+  orig: 477, 125
+  offset: 152, 34
+  index: -1
+images/zhongfg_cn/1_13
+  rotate: false
+  xy: 1203, 115
+  size: 181, 60
+  orig: 477, 125
+  offset: 176, 33
+  index: -1
+images/zhongfg_cn/1_14
+  rotate: false
+  xy: 1154, 53
+  size: 165, 60
+  orig: 477, 125
+  offset: 192, 33
+  index: -1
+images/zhongfg_cn/1_15
+  rotate: false
+  xy: 1687, 118
+  size: 144, 60
+  orig: 477, 125
+  offset: 213, 33
+  index: -1
+images/zhongfg_cn/1_16
+  rotate: false
+  xy: 1710, 236
+  size: 122, 59
+  orig: 477, 125
+  offset: 235, 34
+  index: -1
+images/zhongfg_cn/1_17
+  rotate: false
+  xy: 1560, 69
+  size: 103, 57
+  orig: 477, 125
+  offset: 254, 34
+  index: -1
+images/zhongfg_cn/1_18
+  rotate: false
+  xy: 1614, 182
+  size: 81, 57
+  orig: 477, 125
+  offset: 276, 34
+  index: -1
+images/zhongfg_cn/1_19
+  rotate: false
+  xy: 1662, 4
+  size: 62, 56
+  orig: 477, 125
+  offset: 295, 35
+  index: -1
+images/zhongfg_en/1_00
+  rotate: false
+  xy: 1321, 65
+  size: 63, 48
+  orig: 733, 113
+  offset: 184, 30
+  index: -1
+images/zhongfg_en/1_01
+  rotate: false
+  xy: 1599, 130
+  size: 86, 50
+  orig: 733, 113
+  offset: 184, 29
+  index: -1
+images/zhongfg_en/1_02
+  rotate: false
+  xy: 1548, 14
+  size: 112, 53
+  orig: 733, 113
+  offset: 184, 29
+  index: -1
+images/zhongfg_en/1_03
+  rotate: false
+  xy: 1665, 62
+  size: 137, 54
+  orig: 733, 113
+  offset: 183, 29
+  index: -1
+images/zhongfg_en/1_04
+  rotate: false
+  xy: 1386, 16
+  size: 160, 54
+  orig: 733, 113
+  offset: 184, 29
+  index: -1
+images/zhongfg_en/1_05
+  rotate: false
+  xy: 1412, 128
+  size: 185, 54
+  orig: 733, 113
+  offset: 184, 29
+  index: -1
+images/zhongfg_en/1_06
+  rotate: false
+  xy: 993, 190
+  size: 210, 54
+  orig: 733, 113
+  offset: 184, 29
+  index: -1
+images/zhongfg_en/1_07
+  rotate: false
+  xy: 1248, 241
+  size: 232, 54
+  orig: 733, 113
+  offset: 186, 30
+  index: -1
+images/zhongfg_en/1_08
+  rotate: false
+  xy: 737, 242
+  size: 254, 53
+  orig: 733, 113
+  offset: 189, 31
+  index: -1
+images/zhongfg_en/1_09
+  rotate: false
+  xy: 737, 190
+  size: 253, 50
+  orig: 733, 113
+  offset: 215, 34
+  index: -1
+images/zhongfg_en/1_10
+  rotate: false
+  xy: 993, 246
+  size: 253, 49
+  orig: 733, 113
+  offset: 241, 35
+  index: -1
+images/zhongfg_en/1_11
+  rotate: false
+  xy: 2, 4
+  size: 254, 50
+  orig: 733, 113
+  offset: 268, 34
+  index: -1
+images/zhongfg_en/1_12
+  rotate: false
+  xy: 481, 127
+  size: 251, 53
+  orig: 733, 113
+  offset: 295, 31
+  index: -1
+images/zhongfg_en/1_13
+  rotate: false
+  xy: 1482, 241
+  size: 226, 54
+  orig: 733, 113
+  offset: 322, 30
+  index: -1
+images/zhongfg_en/1_14
+  rotate: false
+  xy: 1412, 184
+  size: 200, 55
+  orig: 733, 113
+  offset: 349, 29
+  index: -1
+images/zhongfg_en/1_15
+  rotate: false
+  xy: 1386, 72
+  size: 172, 54
+  orig: 733, 113
+  offset: 377, 29
+  index: -1
+images/zhongfg_en/1_16
+  rotate: false
+  xy: 1697, 180
+  size: 145, 54
+  orig: 733, 113
+  offset: 404, 28
+  index: -1
+images/zhongfg_en/1_17
+  rotate: false
+  xy: 258, 2
+  size: 116, 52
+  orig: 733, 113
+  offset: 433, 29
+  index: -1
+images/zhongfg_en/1_18
+  rotate: false
+  xy: 376, 4
+  size: 87, 50
+  orig: 733, 113
+  offset: 462, 29
+  index: -1
+images/zhongfg_en/1_19
+  rotate: false
+  xy: 1212, 3
+  size: 60, 48
+  orig: 733, 113
+  offset: 489, 29
+  index: -1
+images/zhongfg_title_CN
+  rotate: false
+  xy: 2, 56
+  size: 477, 124
+  orig: 477, 125
+  offset: 0, 1
+  index: -1
+images/zhongfg_title_EN
+  rotate: false
+  xy: 2, 182
+  size: 733, 113
+  orig: 733, 113
+  offset: 0, 0
+  index: -1

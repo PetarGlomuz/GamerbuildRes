@@ -1,0 +1,230 @@
+
+TC_jpwheel_garand.png
+size: 653,653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+garand_CN/sg_00
+  rotate: true
+  xy: 351, 67
+  size: 33, 73
+  orig: 302, 183
+  offset: 82, 59
+  index: -1
+garand_CN/sg_01
+  rotate: true
+  xy: 522, 356
+  size: 50, 78
+  orig: 302, 183
+  offset: 81, 54
+  index: -1
+garand_CN/sg_02
+  rotate: false
+  xy: 585, 571
+  size: 65, 80
+  orig: 302, 183
+  offset: 81, 52
+  index: -1
+garand_CN/sg_03
+  rotate: true
+  xy: 103, 2
+  size: 83, 82
+  orig: 302, 183
+  offset: 81, 51
+  index: -1
+garand_CN/sg_04
+  rotate: false
+  xy: 2, 2
+  size: 99, 83
+  orig: 302, 183
+  offset: 81, 51
+  index: -1
+garand_CN/sg_05
+  rotate: true
+  xy: 265, 70
+  size: 115, 84
+  orig: 302, 183
+  offset: 81, 50
+  index: -1
+garand_CN/sg_06
+  rotate: true
+  xy: 323, 218
+  size: 129, 84
+  orig: 302, 183
+  offset: 82, 50
+  index: -1
+garand_CN/sg_07
+  rotate: true
+  xy: 162, 186
+  size: 137, 84
+  orig: 302, 183
+  offset: 83, 50
+  index: -1
+garand_CN/sg_08
+  rotate: false
+  xy: 2, 87
+  size: 136, 85
+  orig: 302, 183
+  offset: 86, 49
+  index: -1
+garand_CN/sg_09
+  rotate: false
+  xy: 140, 87
+  size: 123, 85
+  orig: 302, 183
+  offset: 99, 49
+  index: -1
+garand_CN/sg_10
+  rotate: true
+  xy: 426, 109
+  size: 108, 85
+  orig: 302, 183
+  offset: 115, 49
+  index: -1
+garand_CN/sg_11
+  rotate: false
+  xy: 450, 413
+  size: 92, 85
+  orig: 302, 183
+  offset: 131, 49
+  index: -1
+garand_CN/sg_12
+  rotate: false
+  xy: 563, 269
+  size: 71, 85
+  orig: 302, 183
+  offset: 152, 49
+  index: -1
+garand_CN/sg_13
+  rotate: true
+  xy: 263, 8
+  size: 60, 85
+  orig: 302, 183
+  offset: 163, 49
+  index: -1
+garand_CN/sg_14
+  rotate: true
+  xy: 426, 65
+  size: 42, 81
+  orig: 302, 183
+  offset: 180, 50
+  index: -1
+garand_EN/sg00
+  rotate: false
+  xy: 585, 504
+  size: 34, 65
+  orig: 518, 173
+  offset: 135, 59
+  index: -1
+garand_EN/sg01
+  rotate: true
+  xy: 447, 353
+  size: 58, 73
+  orig: 518, 173
+  offset: 134, 52
+  index: -1
+garand_EN/sg02
+  rotate: true
+  xy: 187, 3
+  size: 82, 74
+  orig: 518, 173
+  offset: 134, 51
+  index: -1
+garand_EN/sg03
+  rotate: true
+  xy: 486, 250
+  size: 101, 75
+  orig: 518, 173
+  offset: 134, 50
+  index: -1
+garand_EN/sg04
+  rotate: true
+  xy: 409, 219
+  size: 128, 75
+  orig: 518, 173
+  offset: 135, 50
+  index: -1
+garand_EN/sg05
+  rotate: true
+  xy: 509, 501
+  size: 150, 74
+  orig: 518, 173
+  offset: 136, 51
+  index: -1
+garand_EN/sg06
+  rotate: false
+  xy: 2, 249
+  size: 158, 74
+  orig: 518, 173
+  offset: 152, 51
+  index: -1
+garand_EN/sg07
+  rotate: false
+  xy: 290, 424
+  size: 158, 74
+  orig: 518, 173
+  offset: 176, 51
+  index: -1
+garand_EN/sg08
+  rotate: false
+  xy: 2, 174
+  size: 158, 73
+  orig: 518, 173
+  offset: 200, 51
+  index: -1
+garand_EN/sg09
+  rotate: false
+  xy: 290, 349
+  size: 155, 73
+  orig: 518, 173
+  offset: 223, 51
+  index: -1
+garand_EN/sg10
+  rotate: true
+  xy: 248, 187
+  size: 136, 73
+  orig: 518, 173
+  offset: 247, 51
+  index: -1
+garand_EN/sg11
+  rotate: true
+  xy: 351, 102
+  size: 114, 73
+  orig: 518, 173
+  offset: 270, 51
+  index: -1
+garand_EN/sg12
+  rotate: true
+  xy: 544, 408
+  size: 91, 73
+  orig: 518, 173
+  offset: 294, 51
+  index: -1
+garand_EN/sg13
+  rotate: false
+  xy: 513, 175
+  size: 67, 73
+  orig: 518, 173
+  offset: 318, 51
+  index: -1
+garand_EN/sg14
+  rotate: true
+  xy: 350, 21
+  size: 44, 71
+  orig: 518, 173
+  offset: 341, 52
+  index: -1
+grand_CN
+  rotate: false
+  xy: 2, 325
+  size: 286, 173
+  orig: 302, 183
+  offset: 10, 5
+  index: -1
+grand_EN
+  rotate: false
+  xy: 2, 500
+  size: 505, 151
+  orig: 518, 173
+  offset: 7, 13
+  index: -1

@@ -1,0 +1,146 @@
+
+FG_title_EN.png
+size: 946,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg/sg_EN_01
+  rotate: false
+  xy: 898, 47
+  size: 32, 28
+  orig: 349, 89
+  offset: 14, 18
+  index: -1
+sg/sg_EN_02
+  rotate: true
+  xy: 862, 13
+  size: 51, 34
+  orig: 349, 89
+  offset: 14, 18
+  index: -1
+sg/sg_EN_03
+  rotate: false
+  xy: 586, 8
+  size: 71, 39
+  orig: 349, 89
+  offset: 14, 18
+  index: -1
+sg/sg_EN_04
+  rotate: true
+  xy: 901, 77
+  size: 86, 43
+  orig: 349, 89
+  offset: 14, 18
+  index: -1
+sg/sg_EN_05
+  rotate: false
+  xy: 663, 71
+  size: 109, 47
+  orig: 349, 89
+  offset: 14, 18
+  index: -1
+sg/sg_EN_06
+  rotate: false
+  xy: 663, 120
+  size: 117, 43
+  orig: 349, 89
+  offset: 31, 24
+  index: -1
+sg/sg_EN_07
+  rotate: false
+  xy: 782, 126
+  size: 116, 37
+  orig: 349, 89
+  offset: 55, 31
+  index: -1
+sg/sg_EN_08
+  rotate: false
+  xy: 467, 14
+  size: 117, 33
+  orig: 349, 89
+  offset: 77, 36
+  index: -1
+sg/sg_EN_09
+  rotate: false
+  xy: 663, 42
+  size: 110, 27
+  orig: 349, 89
+  offset: 107, 42
+  index: -1
+sg/sg_EN_10
+  rotate: false
+  xy: 775, 66
+  size: 115, 26
+  orig: 349, 89
+  offset: 125, 43
+  index: -1
+sg/sg_EN_11
+  rotate: false
+  xy: 782, 94
+  size: 117, 30
+  orig: 349, 89
+  offset: 147, 39
+  index: -1
+sg/sg_EN_12
+  rotate: false
+  xy: 348, 13
+  size: 117, 34
+  orig: 349, 89
+  offset: 169, 35
+  index: -1
+sg/sg_EN_13
+  rotate: false
+  xy: 229, 8
+  size: 117, 39
+  orig: 349, 89
+  offset: 192, 29
+  index: -1
+sg/sg_EN_14
+  rotate: false
+  xy: 2, 2
+  size: 117, 45
+  orig: 349, 89
+  offset: 214, 22
+  index: -1
+sg/sg_EN_15
+  rotate: false
+  xy: 121, 2
+  size: 106, 45
+  orig: 349, 89
+  offset: 235, 19
+  index: -1
+sg/sg_EN_16
+  rotate: false
+  xy: 775, 22
+  size: 85, 42
+  orig: 349, 89
+  offset: 256, 19
+  index: -1
+sg/sg_EN_17
+  rotate: false
+  xy: 659, 3
+  size: 66, 37
+  orig: 349, 89
+  offset: 275, 19
+  index: -1
+sg/sg_EN_18
+  rotate: false
+  xy: 727, 9
+  size: 45, 31
+  orig: 349, 89
+  offset: 296, 19
+  index: -1
+sg/sg_EN_19
+  rotate: false
+  xy: 898, 18
+  size: 30, 27
+  orig: 349, 89
+  offset: 311, 19
+  index: -1
+title_EN
+  rotate: false
+  xy: 2, 49
+  size: 659, 114
+  orig: 698, 177
+  offset: 26, 22
+  index: -1

@@ -1,0 +1,230 @@
+
+tc_ty_yfk.png
+size: 1981,195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_frame
+  rotate: false
+  xy: 2, 2
+  size: 1003, 191
+  orig: 1003, 191
+  offset: 0, 0
+  index: -1
+glow3
+  rotate: true
+  xy: 1887, 32
+  size: 43, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1
+jf_zuo/jf_zuo_00000
+  rotate: true
+  xy: 1887, 19
+  size: 11, 91
+  orig: 251, 95
+  offset: 240, 3
+  index: -1
+jf_zuo/jf_zuo_00001
+  rotate: true
+  xy: 1887, 77
+  size: 22, 92
+  orig: 251, 95
+  offset: 229, 2
+  index: -1
+jf_zuo/jf_zuo_00002
+  rotate: true
+  xy: 1887, 126
+  size: 32, 92
+  orig: 251, 95
+  offset: 219, 2
+  index: -1
+jf_zuo/jf_zuo_00003
+  rotate: false
+  xy: 1842, 7
+  size: 43, 92
+  orig: 251, 95
+  offset: 208, 2
+  index: -1
+jf_zuo/jf_zuo_00004
+  rotate: false
+  xy: 1786, 101
+  size: 53, 92
+  orig: 251, 95
+  offset: 198, 2
+  index: -1
+jf_zuo/jf_zuo_00005
+  rotate: false
+  xy: 1719, 7
+  size: 64, 92
+  orig: 251, 95
+  offset: 187, 2
+  index: -1
+jf_zuo/jf_zuo_00006
+  rotate: false
+  xy: 1643, 7
+  size: 74, 92
+  orig: 251, 95
+  offset: 177, 2
+  index: -1
+jf_zuo/jf_zuo_00007
+  rotate: false
+  xy: 1007, 101
+  size: 78, 92
+  orig: 251, 95
+  offset: 166, 2
+  index: -1
+jf_zuo/jf_zuo_00008
+  rotate: false
+  xy: 1327, 101
+  size: 77, 92
+  orig: 251, 95
+  offset: 156, 2
+  index: -1
+jf_zuo/jf_zuo_00009
+  rotate: false
+  xy: 1007, 7
+  size: 78, 92
+  orig: 251, 95
+  offset: 145, 2
+  index: -1
+jf_zuo/jf_zuo_00010
+  rotate: false
+  xy: 1327, 7
+  size: 77, 92
+  orig: 251, 95
+  offset: 135, 2
+  index: -1
+jf_zuo/jf_zuo_00011
+  rotate: false
+  xy: 1087, 101
+  size: 78, 92
+  orig: 251, 95
+  offset: 124, 2
+  index: -1
+jf_zuo/jf_zuo_00012
+  rotate: false
+  xy: 1406, 101
+  size: 77, 92
+  orig: 251, 95
+  offset: 114, 2
+  index: -1
+jf_zuo/jf_zuo_00013
+  rotate: false
+  xy: 1087, 7
+  size: 78, 92
+  orig: 251, 95
+  offset: 103, 2
+  index: -1
+jf_zuo/jf_zuo_00014
+  rotate: false
+  xy: 1406, 7
+  size: 77, 92
+  orig: 251, 95
+  offset: 93, 2
+  index: -1
+jf_zuo/jf_zuo_00015
+  rotate: false
+  xy: 1167, 101
+  size: 78, 92
+  orig: 251, 95
+  offset: 82, 2
+  index: -1
+jf_zuo/jf_zuo_00016
+  rotate: false
+  xy: 1485, 101
+  size: 77, 92
+  orig: 251, 95
+  offset: 72, 2
+  index: -1
+jf_zuo/jf_zuo_00017
+  rotate: false
+  xy: 1167, 7
+  size: 78, 92
+  orig: 251, 95
+  offset: 61, 2
+  index: -1
+jf_zuo/jf_zuo_00018
+  rotate: false
+  xy: 1485, 7
+  size: 77, 92
+  orig: 251, 95
+  offset: 51, 2
+  index: -1
+jf_zuo/jf_zuo_00019
+  rotate: false
+  xy: 1247, 101
+  size: 78, 92
+  orig: 251, 95
+  offset: 40, 2
+  index: -1
+jf_zuo/jf_zuo_00020
+  rotate: false
+  xy: 1564, 101
+  size: 77, 92
+  orig: 251, 95
+  offset: 30, 2
+  index: -1
+jf_zuo/jf_zuo_00021
+  rotate: false
+  xy: 1247, 7
+  size: 78, 92
+  orig: 251, 95
+  offset: 19, 2
+  index: -1
+jf_zuo/jf_zuo_00022
+  rotate: false
+  xy: 1564, 7
+  size: 77, 92
+  orig: 251, 95
+  offset: 9, 2
+  index: -1
+jf_zuo/jf_zuo_00023
+  rotate: false
+  xy: 1643, 101
+  size: 75, 92
+  orig: 251, 95
+  offset: 1, 2
+  index: -1
+jf_zuo/jf_zuo_00024
+  rotate: false
+  xy: 1720, 101
+  size: 64, 92
+  orig: 251, 95
+  offset: 1, 2
+  index: -1
+jf_zuo/jf_zuo_00025
+  rotate: false
+  xy: 1785, 7
+  size: 55, 92
+  orig: 251, 95
+  offset: 0, 2
+  index: -1
+jf_zuo/jf_zuo_00026
+  rotate: false
+  xy: 1841, 101
+  size: 44, 92
+  orig: 251, 95
+  offset: 0, 2
+  index: -1
+jf_zuo/jf_zuo_00027
+  rotate: true
+  xy: 1887, 160
+  size: 33, 91
+  orig: 251, 95
+  offset: 0, 3
+  index: -1
+jf_zuo/jf_zuo_00028
+  rotate: true
+  xy: 1887, 101
+  size: 23, 90
+  orig: 251, 95
+  offset: 0, 3
+  index: -1
+jf_zuo/jf_zuo_00029
+  rotate: true
+  xy: 1887, 6
+  size: 11, 72
+  orig: 251, 95
+  offset: 1, 12
+  index: -1

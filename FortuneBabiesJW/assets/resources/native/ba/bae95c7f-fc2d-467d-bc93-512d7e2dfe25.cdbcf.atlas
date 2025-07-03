@@ -1,0 +1,62 @@
+
+CoinGlow.png
+size: 1473,207
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grand2_quan
+  rotate: false
+  xy: 813, 42
+  size: 163, 163
+  orig: 225, 225
+  offset: 31, 31
+  index: -1
+grand3_quan
+  rotate: true
+  xy: 410, 4
+  size: 201, 200
+  orig: 207, 207
+  offset: 3, 3
+  index: -1
+major2_quan
+  rotate: false
+  xy: 978, 42
+  size: 163, 163
+  orig: 225, 225
+  offset: 31, 31
+  index: -1
+major3_quan
+  rotate: true
+  xy: 612, 5
+  size: 200, 199
+  orig: 207, 207
+  offset: 4, 4
+  index: -1
+mini2_quan
+  rotate: false
+  xy: 1143, 42
+  size: 163, 163
+  orig: 225, 225
+  offset: 31, 31
+  index: -1
+mini_quan
+  rotate: false
+  xy: 207, 3
+  size: 201, 202
+  orig: 207, 207
+  offset: 3, 2
+  index: -1
+minor2_quan
+  rotate: false
+  xy: 1308, 42
+  size: 163, 163
+  orig: 225, 225
+  offset: 31, 31
+  index: -1
+minor_quan
+  rotate: false
+  xy: 2, 2
+  size: 203, 203
+  orig: 207, 207
+  offset: 2, 2
+  index: -1

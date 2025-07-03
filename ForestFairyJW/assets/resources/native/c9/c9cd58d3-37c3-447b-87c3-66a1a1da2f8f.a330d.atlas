@@ -1,0 +1,104 @@
+
+PaoPao.png
+size: 1985,1331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/li/li_001
+  rotate: true
+  xy: 1338, 466
+  size: 195, 202
+  orig: 220, 220
+  offset: 12, 5
+  index: -1
+images/li/li_002
+  rotate: false
+  xy: 1542, 468
+  size: 195, 193
+  orig: 220, 220
+  offset: 12, 14
+  index: -1
+images/li/li_003
+  rotate: true
+  xy: 1338, 96
+  size: 182, 184
+  orig: 220, 220
+  offset: 17, 17
+  index: -1
+images/li/li_004
+  rotate: true
+  xy: 1739, 291
+  size: 182, 191
+  orig: 220, 220
+  offset: 20, 12
+  index: -1
+images/li/li_005
+  rotate: true
+  xy: 1730, 112
+  size: 177, 193
+  orig: 220, 220
+  offset: 22, 9
+  index: -1
+images/li/li_006
+  rotate: true
+  xy: 1525, 98
+  size: 181, 188
+  orig: 220, 220
+  offset: 19, 17
+  index: -1
+images/li/li_007
+  rotate: false
+  xy: 1338, 280
+  size: 185, 184
+  orig: 220, 220
+  offset: 18, 16
+  index: -1
+images/li/li_008
+  rotate: true
+  xy: 1542, 281
+  size: 185, 186
+  orig: 220, 220
+  offset: 19, 15
+  index: -1
+images/li/li_009
+  rotate: true
+  xy: 1739, 475
+  size: 186, 190
+  orig: 220, 220
+  offset: 16, 11
+  index: -1
+images/pao
+  rotate: true
+  xy: 2, 663
+  size: 666, 659
+  orig: 666, 666
+  offset: 0, 4
+  index: -1
+images/paoh_000
+  rotate: false
+  xy: 2, 2
+  size: 666, 659
+  orig: 666, 666
+  offset: 0, 4
+  index: -1
+images/paol_000
+  rotate: true
+  xy: 663, 663
+  size: 666, 659
+  orig: 666, 666
+  offset: 0, 4
+  index: -1
+images/paov_000
+  rotate: false
+  xy: 670, 2
+  size: 666, 659
+  orig: 666, 666
+  offset: 0, 4
+  index: -1
+images/paoz_000
+  rotate: true
+  xy: 1324, 663
+  size: 666, 659
+  orig: 666, 666
+  offset: 0, 4
+  index: -1

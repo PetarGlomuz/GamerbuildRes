@@ -1,0 +1,139 @@
+
+TC_button.png
+size: 311,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg/sg_01
+  rotate: false
+  xy: 291, 83
+  size: 18, 33
+  orig: 120, 48
+  offset: 4, 12
+  index: -1
+sg/sg_02
+  rotate: true
+  xy: 217, 41
+  size: 27, 39
+  orig: 120, 48
+  offset: 4, 6
+  index: -1
+sg/sg_03
+  rotate: true
+  xy: 260, 3
+  size: 35, 41
+  orig: 120, 48
+  offset: 4, 4
+  index: -1
+sg/sg_04
+  rotate: false
+  xy: 217, 70
+  size: 44, 41
+  orig: 120, 48
+  offset: 4, 4
+  index: -1
+sg/sg_05
+  rotate: true
+  xy: 174, 29
+  size: 52, 41
+  orig: 120, 48
+  offset: 4, 4
+  index: -1
+sg/sg_06
+  rotate: true
+  xy: 88, 14
+  size: 61, 41
+  orig: 120, 48
+  offset: 4, 4
+  index: -1
+sg/sg_07
+  rotate: true
+  xy: 45, 7
+  size: 68, 41
+  orig: 120, 48
+  offset: 5, 4
+  index: -1
+sg/sg_08
+  rotate: true
+  xy: 131, 79
+  size: 75, 41
+  orig: 120, 48
+  offset: 7, 4
+  index: -1
+sg/sg_09
+  rotate: true
+  xy: 2, 77
+  size: 77, 41
+  orig: 120, 48
+  offset: 13, 4
+  index: -1
+sg/sg_10
+  rotate: true
+  xy: 45, 77
+  size: 77, 41
+  orig: 120, 48
+  offset: 22, 4
+  index: -1
+sg/sg_11
+  rotate: true
+  xy: 88, 77
+  size: 77, 41
+  orig: 120, 48
+  offset: 30, 4
+  index: -1
+sg/sg_12
+  rotate: true
+  xy: 131, 3
+  size: 74, 41
+  orig: 120, 48
+  offset: 39, 4
+  index: -1
+sg/sg_13
+  rotate: true
+  xy: 2, 6
+  size: 69, 41
+  orig: 120, 48
+  offset: 47, 4
+  index: -1
+sg/sg_14
+  rotate: false
+  xy: 174, 113
+  size: 60, 41
+  orig: 120, 48
+  offset: 56, 4
+  index: -1
+sg/sg_15
+  rotate: false
+  xy: 236, 113
+  size: 53, 41
+  orig: 120, 48
+  offset: 64, 4
+  index: -1
+sg/sg_16
+  rotate: false
+  xy: 263, 40
+  size: 44, 41
+  orig: 120, 48
+  offset: 73, 4
+  index: -1
+sg/sg_17
+  rotate: true
+  xy: 217, 2
+  size: 36, 41
+  orig: 120, 48
+  offset: 81, 4
+  index: -1
+sg/sg_18
+  rotate: true
+  xy: 174, 84
+  size: 27, 41
+  orig: 120, 48
+  offset: 90, 4
+  index: -1
+sg/sg_19
+  rotate: false
+  xy: 291, 118
+  size: 18, 36
+  orig: 120, 48
+  offset: 98, 4
+  index: -1

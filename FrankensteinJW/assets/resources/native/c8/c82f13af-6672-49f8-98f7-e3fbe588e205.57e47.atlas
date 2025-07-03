@@ -1,0 +1,258 @@
+
+TC_TY_coinframe.png
+size: 1682,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Coingear1
+  rotate: false
+  xy: 1411, 90
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+Coingear2
+  rotate: false
+  xy: 1542, 90
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+Coinkuang
+  rotate: false
+  xy: 725, 43
+  size: 684, 176
+  orig: 684, 177
+  offset: 0, 0
+  index: -1
+cion_frame
+  rotate: false
+  xy: 2, 15
+  size: 721, 204
+  orig: 721, 204
+  offset: 0, 0
+  index: -1
+flash1/flash1_00
+  rotate: false
+  xy: 16, 2
+  size: 11, 11
+  orig: 91, 62
+  offset: 68, 36
+  index: -1
+flash1/flash1_01
+  rotate: false
+  xy: 1317, 29
+  size: 14, 12
+  orig: 91, 62
+  offset: 62, 37
+  index: -1
+flash1/flash1_02
+  rotate: false
+  xy: 1292, 27
+  size: 23, 14
+  orig: 91, 62
+  offset: 52, 36
+  index: -1
+flash1/flash1_03
+  rotate: false
+  xy: 937, 8
+  size: 37, 33
+  orig: 91, 62
+  offset: 45, 28
+  index: -1
+flash1/flash1_04
+  rotate: false
+  xy: 1611, 55
+  size: 49, 33
+  orig: 91, 62
+  offset: 31, 29
+  index: -1
+flash1/flash1_05
+  rotate: false
+  xy: 754, 9
+  size: 47, 32
+  orig: 91, 62
+  offset: 32, 30
+  index: -1
+flash1/flash1_06
+  rotate: false
+  xy: 1053, 20
+  size: 40, 21
+  orig: 91, 62
+  offset: 25, 32
+  index: -1
+flash1/flash1_07
+  rotate: false
+  xy: 1563, 47
+  size: 46, 41
+  orig: 91, 62
+  offset: 14, 17
+  index: -1
+flash1/flash1_08
+  rotate: false
+  xy: 1466, 46
+  size: 47, 42
+  orig: 91, 62
+  offset: 10, 16
+  index: -1
+flash1/flash1_09
+  rotate: false
+  xy: 1411, 43
+  size: 53, 45
+  orig: 91, 62
+  offset: 0, 9
+  index: -1
+flash1/flash1_10
+  rotate: false
+  xy: 1515, 45
+  size: 46, 43
+  orig: 91, 62
+  offset: 0, 8
+  index: -1
+flash1/flash1_11
+  rotate: false
+  xy: 1466, 2
+  size: 37, 42
+  orig: 91, 62
+  offset: 0, 7
+  index: -1
+flash1/flash1_12
+  rotate: false
+  xy: 1570, 8
+  size: 35, 37
+  orig: 91, 62
+  offset: 0, 14
+  index: -1
+flash1/flash1_13
+  rotate: true
+  xy: 1138, 15
+  size: 26, 34
+  orig: 91, 62
+  offset: 3, 14
+  index: -1
+flash1/flash1_14
+  rotate: false
+  xy: 1505, 2
+  size: 33, 41
+  orig: 91, 62
+  offset: 0, 8
+  index: -1
+flash1/flash1_15
+  rotate: true
+  xy: 976, 9
+  size: 32, 37
+  orig: 91, 62
+  offset: 0, 7
+  index: -1
+flash2/flash2_00
+  rotate: false
+  xy: 29, 2
+  size: 11, 11
+  orig: 106, 62
+  offset: 2, 33
+  index: -1
+flash2/flash2_01
+  rotate: true
+  xy: 913, 2
+  size: 13, 16
+  orig: 106, 62
+  offset: 2, 27
+  index: -1
+flash2/flash2_02
+  rotate: false
+  xy: 1242, 22
+  size: 25, 19
+  orig: 106, 62
+  offset: 1, 20
+  index: -1
+flash2/flash2_03
+  rotate: true
+  xy: 1662, 53
+  size: 35, 18
+  orig: 106, 62
+  offset: 2, 21
+  index: -1
+flash2/flash2_04
+  rotate: false
+  xy: 1095, 22
+  size: 41, 19
+  orig: 106, 62
+  offset: 6, 20
+  index: -1
+flash2/flash2_05
+  rotate: false
+  xy: 803, 13
+  size: 45, 28
+  orig: 106, 62
+  offset: 9, 9
+  index: -1
+flash2/flash2_06
+  rotate: true
+  xy: 1540, 2
+  size: 41, 28
+  orig: 106, 62
+  offset: 19, 10
+  index: -1
+flash2/flash2_07
+  rotate: false
+  xy: 1015, 13
+  size: 36, 28
+  orig: 106, 62
+  offset: 30, 12
+  index: -1
+flash2/flash2_08
+  rotate: false
+  xy: 893, 17
+  size: 42, 24
+  orig: 106, 62
+  offset: 39, 16
+  index: -1
+flash2/flash2_09
+  rotate: true
+  xy: 725, 2
+  size: 39, 27
+  orig: 106, 62
+  offset: 47, 16
+  index: -1
+flash2/flash2_10
+  rotate: false
+  xy: 850, 13
+  size: 41, 28
+  orig: 106, 62
+  offset: 54, 16
+  index: -1
+flash2/flash2_11
+  rotate: false
+  xy: 1174, 17
+  size: 32, 24
+  orig: 106, 62
+  offset: 65, 19
+  index: -1
+flash2/flash2_12
+  rotate: false
+  xy: 1208, 20
+  size: 32, 21
+  orig: 106, 62
+  offset: 66, 21
+  index: -1
+flash2/flash2_13
+  rotate: false
+  xy: 1269, 24
+  size: 21, 17
+  orig: 106, 62
+  offset: 77, 24
+  index: -1
+flash2/flash2_14
+  rotate: false
+  xy: 893, 2
+  size: 18, 13
+  orig: 106, 62
+  offset: 81, 27
+  index: -1
+flash2/flash2_15
+  rotate: false
+  xy: 2, 2
+  size: 12, 11
+  orig: 106, 62
+  offset: 90, 28
+  index: -1

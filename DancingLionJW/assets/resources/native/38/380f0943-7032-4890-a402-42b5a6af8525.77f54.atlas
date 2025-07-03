@@ -1,0 +1,111 @@
+
+TC_BG_qiu.png
+size: 1237,310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/2_00000
+  rotate: false
+  xy: 159, 156
+  size: 153, 152
+  orig: 200, 200
+  offset: 27, 25
+  index: -1
+image/2_00001
+  rotate: false
+  xy: 469, 155
+  size: 152, 153
+  orig: 200, 200
+  offset: 27, 24
+  index: -1
+image/2_00002
+  rotate: true
+  xy: 470, 2
+  size: 151, 153
+  orig: 200, 200
+  offset: 27, 24
+  index: -1
+image/2_00003
+  rotate: false
+  xy: 931, 157
+  size: 151, 151
+  orig: 200, 200
+  offset: 28, 25
+  index: -1
+image/2_00004
+  rotate: false
+  xy: 780, 2
+  size: 150, 152
+  orig: 200, 200
+  offset: 28, 25
+  index: -1
+image/2_00005
+  rotate: false
+  xy: 1084, 157
+  size: 151, 151
+  orig: 200, 200
+  offset: 26, 26
+  index: -1
+image/2_00006
+  rotate: false
+  xy: 932, 6
+  size: 152, 149
+  orig: 200, 200
+  offset: 25, 27
+  index: -1
+image/2_00007
+  rotate: false
+  xy: 2, 2
+  size: 154, 152
+  orig: 200, 200
+  offset: 25, 25
+  index: -1
+image/2_00008
+  rotate: false
+  xy: 2, 156
+  size: 155, 152
+  orig: 200, 200
+  offset: 24, 26
+  index: -1
+image/2_00009
+  rotate: false
+  xy: 158, 2
+  size: 154, 152
+  orig: 200, 200
+  offset: 25, 26
+  index: -1
+image/2_00010
+  rotate: true
+  xy: 623, 155
+  size: 153, 152
+  orig: 200, 200
+  offset: 24, 26
+  index: -1
+image/2_00011
+  rotate: false
+  xy: 314, 155
+  size: 153, 153
+  orig: 200, 200
+  offset: 24, 26
+  index: -1
+image/2_00012
+  rotate: false
+  xy: 777, 156
+  size: 152, 152
+  orig: 200, 200
+  offset: 25, 26
+  index: -1
+image/2_00013
+  rotate: false
+  xy: 625, 2
+  size: 153, 151
+  orig: 200, 200
+  offset: 25, 27
+  index: -1
+image/2_00014
+  rotate: false
+  xy: 314, 2
+  size: 154, 151
+  orig: 200, 200
+  offset: 26, 27
+  index: -1

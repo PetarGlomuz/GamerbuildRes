@@ -1,0 +1,265 @@
+
+tc_fg_bg.png
+size: 2001,897
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_di_start_brtn
+  rotate: false
+  xy: 451, 19
+  size: 339, 89
+  orig: 339, 89
+  offset: 0, 0
+  index: -1
+di_bw
+  rotate: false
+  xy: 2, 286
+  size: 864, 609
+  orig: 864, 611
+  offset: 0, 1
+  index: -1
+hg_00000
+  rotate: true
+  xy: 1777, 680
+  size: 215, 216
+  orig: 332, 341
+  offset: 58, 63
+  index: -1
+jiaju_fg_num
+  rotate: false
+  xy: 1676, 48
+  size: 303, 190
+  orig: 303, 190
+  offset: 0, 0
+  index: -1
+jiesuan_coin_frame
+  rotate: false
+  xy: 868, 707
+  size: 907, 188
+  orig: 907, 188
+  offset: 0, 0
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_00
+  rotate: true
+  xy: 1567, 60
+  size: 116, 86
+  orig: 454, 94
+  offset: 168, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_01
+  rotate: false
+  xy: 1422, 2
+  size: 118, 86
+  orig: 454, 94
+  offset: 175, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_02
+  rotate: false
+  xy: 1283, 2
+  size: 137, 86
+  orig: 454, 94
+  offset: 165, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_03
+  rotate: false
+  xy: 1135, 100
+  size: 156, 86
+  orig: 454, 94
+  offset: 155, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_04
+  rotate: false
+  xy: 1105, 12
+  size: 176, 86
+  orig: 454, 94
+  offset: 144, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_05
+  rotate: false
+  xy: 1766, 416
+  size: 195, 86
+  orig: 454, 94
+  offset: 134, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_06
+  rotate: false
+  xy: 1767, 592
+  size: 214, 86
+  orig: 454, 94
+  offset: 124, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_07
+  rotate: false
+  xy: 1766, 504
+  size: 233, 86
+  orig: 454, 94
+  offset: 114, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_08
+  rotate: false
+  xy: 1745, 328
+  size: 253, 86
+  orig: 454, 94
+  offset: 104, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_09
+  rotate: false
+  xy: 1293, 90
+  size: 272, 86
+  orig: 454, 94
+  offset: 94, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_10
+  rotate: false
+  xy: 1706, 240
+  size: 291, 86
+  orig: 454, 94
+  offset: 84, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_11
+  rotate: false
+  xy: 792, 12
+  size: 311, 86
+  orig: 454, 94
+  offset: 73, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_12
+  rotate: false
+  xy: 803, 100
+  size: 330, 86
+  orig: 454, 94
+  offset: 63, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_13
+  rotate: false
+  xy: 452, 110
+  size: 349, 86
+  orig: 454, 94
+  offset: 53, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_14
+  rotate: false
+  xy: 1306, 178
+  size: 368, 86
+  orig: 454, 94
+  offset: 43, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_15
+  rotate: false
+  xy: 1317, 266
+  size: 387, 86
+  orig: 454, 94
+  offset: 33, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_16
+  rotate: false
+  xy: 452, 198
+  size: 407, 86
+  orig: 454, 94
+  offset: 22, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_17
+  rotate: false
+  xy: 1317, 354
+  size: 426, 87
+  orig: 454, 94
+  offset: 12, 6
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_18
+  rotate: false
+  xy: 861, 188
+  size: 443, 87
+  orig: 454, 94
+  offset: 4, 6
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_19
+  rotate: false
+  xy: 868, 351
+  size: 446, 87
+  orig: 454, 94
+  offset: 4, 6
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_20
+  rotate: false
+  xy: 2, 108
+  size: 447, 87
+  orig: 454, 94
+  offset: 4, 6
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_21
+  rotate: false
+  xy: 868, 529
+  size: 447, 87
+  orig: 454, 94
+  offset: 4, 6
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_22
+  rotate: false
+  xy: 1318, 618
+  size: 447, 87
+  orig: 454, 94
+  offset: 4, 6
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_23
+  rotate: false
+  xy: 2, 197
+  size: 448, 87
+  orig: 454, 94
+  offset: 3, 6
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_24
+  rotate: false
+  xy: 868, 618
+  size: 448, 87
+  orig: 454, 94
+  offset: 3, 6
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_25
+  rotate: false
+  xy: 2, 19
+  size: 447, 87
+  orig: 454, 94
+  offset: 4, 6
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_26
+  rotate: false
+  xy: 868, 440
+  size: 447, 87
+  orig: 454, 94
+  offset: 4, 6
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_27
+  rotate: false
+  xy: 1317, 529
+  size: 447, 87
+  orig: 454, 94
+  offset: 4, 6
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_28
+  rotate: false
+  xy: 1317, 443
+  size: 447, 84
+  orig: 454, 94
+  offset: 4, 7
+  index: -1
+jiesuan_yfk_sg/jiesuan_yfk_sg_29
+  rotate: false
+  xy: 868, 277
+  size: 447, 72
+  orig: 454, 94
+  offset: 4, 12
+  index: -1
+pao
+  rotate: false
+  xy: 2, 6
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+paopao_s
+  rotate: false
+  xy: 1542, 14
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1

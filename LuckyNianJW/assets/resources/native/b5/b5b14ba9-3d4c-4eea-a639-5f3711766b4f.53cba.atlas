@@ -1,0 +1,76 @@
+
+L_symbol.png
+size: 747,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 3
+  size: 119, 104
+  orig: 176, 148
+  offset: 27, 19
+  index: -1
+10_1_00000
+  rotate: true
+  xy: 461, 116
+  size: 157, 146
+  orig: 164, 151
+  offset: 5, 1
+  index: -1
+A
+  rotate: false
+  xy: 609, 9
+  size: 120, 111
+  orig: 176, 148
+  offset: 31, 15
+  index: -1
+A_1_00000
+  rotate: true
+  xy: 2, 109
+  size: 164, 151
+  orig: 164, 151
+  offset: 0, 0
+  index: -1
+J
+  rotate: true
+  xy: 238, 29
+  size: 78, 114
+  orig: 176, 148
+  offset: 50, 15
+  index: -1
+J_1_00000
+  rotate: false
+  xy: 609, 122
+  size: 136, 151
+  orig: 164, 151
+  offset: 16, 0
+  index: -1
+K
+  rotate: false
+  xy: 123, 2
+  size: 113, 105
+  orig: 176, 148
+  offset: 27, 16
+  index: -1
+K_1_00000
+  rotate: true
+  xy: 155, 109
+  size: 164, 151
+  orig: 164, 151
+  offset: 0, 0
+  index: -1
+Q
+  rotate: true
+  xy: 461, 4
+  size: 110, 115
+  orig: 176, 148
+  offset: 33, 10
+  index: -1
+Q_1_00000
+  rotate: true
+  xy: 308, 113
+  size: 160, 151
+  orig: 164, 151
+  offset: 4, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+tc_bg_title1_EN.png
+size: 1772,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+volcano_EN
+  rotate: false
+  xy: 2, 12
+  size: 1050, 302
+  orig: 1052, 302
+  offset: 1, 0
+  index: -1
+volcano_EN/volcano_EN_00000
+  rotate: false
+  xy: 1707, 96
+  size: 41, 34
+  orig: 263, 76
+  offset: 2, 42
+  index: -1
+volcano_EN/volcano_EN_00001
+  rotate: true
+  xy: 1707, 132
+  size: 53, 34
+  orig: 263, 76
+  offset: 2, 42
+  index: -1
+volcano_EN/volcano_EN_00002
+  rotate: true
+  xy: 1654, 177
+  size: 62, 34
+  orig: 263, 76
+  offset: 1, 42
+  index: -1
+volcano_EN/volcano_EN_00003
+  rotate: true
+  xy: 1656, 16
+  size: 75, 34
+  orig: 263, 76
+  offset: 1, 42
+  index: -1
+volcano_EN/volcano_EN_00004
+  rotate: true
+  xy: 1421, 2
+  size: 88, 70
+  orig: 263, 76
+  offset: 2, 6
+  index: -1
+volcano_EN/volcano_EN_00005
+  rotate: false
+  xy: 1536, 92
+  size: 97, 72
+  orig: 263, 76
+  offset: 2, 4
+  index: -1
+volcano_EN/volcano_EN_00006
+  rotate: false
+  xy: 1544, 166
+  size: 108, 73
+  orig: 263, 76
+  offset: 2, 3
+  index: -1
+volcano_EN/volcano_EN_00007
+  rotate: false
+  xy: 1299, 16
+  size: 116, 73
+  orig: 263, 76
+  offset: 2, 3
+  index: -1
+volcano_EN/volcano_EN_00008
+  rotate: false
+  xy: 1054, 241
+  size: 122, 73
+  orig: 263, 76
+  offset: 6, 3
+  index: -1
+volcano_EN/volcano_EN_00009
+  rotate: false
+  xy: 1054, 166
+  size: 122, 73
+  orig: 263, 76
+  offset: 16, 3
+  index: -1
+volcano_EN/volcano_EN_00010
+  rotate: false
+  xy: 1178, 166
+  size: 121, 73
+  orig: 263, 76
+  offset: 27, 3
+  index: -1
+volcano_EN/volcano_EN_00011
+  rotate: false
+  xy: 1302, 241
+  size: 121, 73
+  orig: 263, 76
+  offset: 37, 3
+  index: -1
+volcano_EN/volcano_EN_00012
+  rotate: false
+  xy: 1300, 91
+  size: 119, 73
+  orig: 263, 76
+  offset: 48, 3
+  index: -1
+volcano_EN/volcano_EN_00013
+  rotate: false
+  xy: 1178, 91
+  size: 120, 73
+  orig: 263, 76
+  offset: 58, 3
+  index: -1
+volcano_EN/volcano_EN_00014
+  rotate: false
+  xy: 1301, 166
+  size: 120, 73
+  orig: 263, 76
+  offset: 68, 3
+  index: -1
+volcano_EN/volcano_EN_00015
+  rotate: false
+  xy: 1425, 241
+  size: 120, 73
+  orig: 263, 76
+  offset: 79, 3
+  index: -1
+volcano_EN/volcano_EN_00016
+  rotate: false
+  xy: 1423, 166
+  size: 119, 73
+  orig: 263, 76
+  offset: 89, 3
+  index: -1
+volcano_EN/volcano_EN_00017
+  rotate: false
+  xy: 1547, 241
+  size: 118, 73
+  orig: 263, 76
+  offset: 101, 3
+  index: -1
+volcano_EN/volcano_EN_00018
+  rotate: false
+  xy: 1054, 16
+  size: 121, 73
+  orig: 263, 76
+  offset: 108, 3
+  index: -1
+volcano_EN/volcano_EN_00019
+  rotate: false
+  xy: 1177, 16
+  size: 120, 73
+  orig: 263, 76
+  offset: 119, 3
+  index: -1
+volcano_EN/volcano_EN_00020
+  rotate: false
+  xy: 1178, 241
+  size: 122, 73
+  orig: 263, 76
+  offset: 128, 3
+  index: -1
+volcano_EN/volcano_EN_00021
+  rotate: false
+  xy: 1054, 91
+  size: 122, 73
+  orig: 263, 76
+  offset: 138, 3
+  index: -1
+volcano_EN/volcano_EN_00022
+  rotate: false
+  xy: 1421, 92
+  size: 113, 72
+  orig: 263, 76
+  offset: 148, 4
+  index: -1
+volcano_EN/volcano_EN_00023
+  rotate: false
+  xy: 1667, 242
+  size: 103, 72
+  orig: 263, 76
+  offset: 158, 4
+  index: -1
+volcano_EN/volcano_EN_00024
+  rotate: false
+  xy: 1493, 19
+  size: 95, 71
+  orig: 263, 76
+  offset: 166, 5
+  index: -1
+volcano_EN/volcano_EN_00025
+  rotate: true
+  xy: 1590, 5
+  size: 85, 64
+  orig: 263, 76
+  offset: 177, 12
+  index: -1
+volcano_EN/volcano_EN_00026
+  rotate: true
+  xy: 1635, 93
+  size: 71, 34
+  orig: 263, 76
+  offset: 191, 42
+  index: -1
+volcano_EN/volcano_EN_00027
+  rotate: true
+  xy: 1671, 114
+  size: 61, 34
+  orig: 263, 76
+  offset: 201, 42
+  index: -1
+volcano_EN/volcano_EN_00028
+  rotate: false
+  xy: 1692, 60
+  size: 49, 34
+  orig: 263, 76
+  offset: 213, 42
+  index: -1
+volcano_EN/volcano_EN_00029
+  rotate: false
+  xy: 1692, 24
+  size: 39, 34
+  orig: 263, 76
+  offset: 222, 42
+  index: -1
+xxx
+  rotate: false
+  xy: 1690, 187
+  size: 54, 53
+  orig: 56, 55
+  offset: 1, 1
+  index: -1

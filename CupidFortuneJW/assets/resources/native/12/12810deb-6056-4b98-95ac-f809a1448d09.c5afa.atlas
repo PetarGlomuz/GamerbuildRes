@@ -1,0 +1,160 @@
+
+NG_L2.png
+size: 747,747
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gong
+  rotate: false
+  xy: 165, 29
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 89, 21
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 8
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 223, 43
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00000
+  rotate: false
+  xy: 2, 421
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00001
+  rotate: false
+  xy: 184, 584
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00002
+  rotate: false
+  xy: 2, 258
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00003
+  rotate: false
+  xy: 184, 421
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00004
+  rotate: false
+  xy: 366, 584
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00005
+  rotate: false
+  xy: 2, 95
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00006
+  rotate: false
+  xy: 184, 258
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00007
+  rotate: false
+  xy: 366, 421
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00008
+  rotate: false
+  xy: 548, 584
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00009
+  rotate: false
+  xy: 184, 95
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00010
+  rotate: false
+  xy: 366, 258
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00011
+  rotate: false
+  xy: 548, 421
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00012
+  rotate: false
+  xy: 366, 95
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00013
+  rotate: false
+  xy: 548, 258
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00014
+  rotate: false
+  xy: 548, 95
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang1/Symbol111112/Symbol111112_00015
+  rotate: false
+  xy: 2, 584
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+shanggongxuan
+  rotate: true
+  xy: 730, 707
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+xiagongxuan
+  rotate: true
+  xy: 2, 2
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1

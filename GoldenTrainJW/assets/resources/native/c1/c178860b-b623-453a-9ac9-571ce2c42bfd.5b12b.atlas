@@ -1,0 +1,153 @@
+
+TC_FGjiesuan_title.png
+size: 1275,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tot
+  rotate: false
+  xy: 2, 7
+  size: 722, 130
+  orig: 722, 130
+  offset: 0, 0
+  index: -1
+tot/tot_00
+  rotate: true
+  xy: 1186, 2
+  size: 33, 30
+  orig: 722, 127
+  offset: 271, 50
+  index: -1
+tot/tot_01
+  rotate: false
+  xy: 1209, 38
+  size: 49, 31
+  orig: 722, 127
+  offset: 271, 49
+  index: -1
+tot/tot_02
+  rotate: false
+  xy: 1143, 37
+  size: 64, 32
+  orig: 722, 127
+  offset: 271, 48
+  index: -1
+tot/tot_03
+  rotate: false
+  xy: 1187, 71
+  size: 80, 32
+  orig: 722, 127
+  offset: 271, 48
+  index: -1
+tot/tot_04
+  rotate: false
+  xy: 935, 3
+  size: 96, 32
+  orig: 722, 127
+  offset: 271, 48
+  index: -1
+tot/tot_05
+  rotate: false
+  xy: 726, 3
+  size: 104, 32
+  orig: 722, 127
+  offset: 271, 48
+  index: -1
+tot/tot_06
+  rotate: false
+  xy: 1057, 71
+  size: 128, 32
+  orig: 722, 127
+  offset: 271, 48
+  index: -1
+tot/tot_07
+  rotate: false
+  xy: 1073, 105
+  size: 145, 32
+  orig: 722, 127
+  offset: 271, 48
+  index: -1
+tot/tot_08
+  rotate: false
+  xy: 726, 37
+  size: 161, 32
+  orig: 722, 127
+  offset: 271, 48
+  index: -1
+tot/tot_09
+  rotate: false
+  xy: 726, 71
+  size: 177, 32
+  orig: 722, 127
+  offset: 271, 48
+  index: -1
+tot/tot_10
+  rotate: false
+  xy: 726, 105
+  size: 178, 32
+  orig: 722, 127
+  offset: 273, 48
+  index: -1
+tot/tot_11
+  rotate: false
+  xy: 906, 105
+  size: 165, 32
+  orig: 722, 127
+  offset: 286, 48
+  index: -1
+tot/tot_12
+  rotate: false
+  xy: 905, 71
+  size: 150, 32
+  orig: 722, 127
+  offset: 301, 48
+  index: -1
+tot/tot_13
+  rotate: false
+  xy: 889, 37
+  size: 133, 32
+  orig: 722, 127
+  offset: 318, 48
+  index: -1
+tot/tot_14
+  rotate: false
+  xy: 1024, 37
+  size: 117, 32
+  orig: 722, 127
+  offset: 334, 48
+  index: -1
+tot/tot_15
+  rotate: false
+  xy: 832, 3
+  size: 101, 32
+  orig: 722, 127
+  offset: 350, 48
+  index: -1
+tot/tot_16
+  rotate: false
+  xy: 1033, 3
+  size: 86, 32
+  orig: 722, 127
+  offset: 365, 48
+  index: -1
+tot/tot_17
+  rotate: false
+  xy: 1121, 3
+  size: 63, 32
+  orig: 722, 127
+  offset: 388, 48
+  index: -1
+tot/tot_18
+  rotate: false
+  xy: 1220, 105
+  size: 53, 32
+  orig: 722, 127
+  offset: 398, 48
+  index: -1
+tot/tot_19
+  rotate: false
+  xy: 1218, 5
+  size: 36, 31
+  orig: 722, 127
+  offset: 415, 49
+  index: -1

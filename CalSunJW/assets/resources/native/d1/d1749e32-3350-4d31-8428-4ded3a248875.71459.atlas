@@ -1,0 +1,132 @@
+
+MiniGame_Symbol.png
+size: 1007,315
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2XDiamond
+  rotate: true
+  xy: 548, 159
+  size: 154, 126
+  orig: 174, 134
+  offset: 10, 2
+  index: -1
+2XDiamond_add
+  rotate: true
+  xy: 2, 150
+  size: 163, 135
+  orig: 200, 150
+  offset: 19, 6
+  index: -1
+2bar
+  rotate: false
+  xy: 867, 21
+  size: 138, 88
+  orig: 174, 134
+  offset: 18, 23
+  index: -1
+2bar_add
+  rotate: true
+  xy: 342, 2
+  size: 146, 98
+  orig: 200, 150
+  offset: 27, 26
+  index: -1
+3XDiamond
+  rotate: true
+  xy: 612, 3
+  size: 154, 126
+  orig: 174, 134
+  offset: 10, 2
+  index: -1
+3XDiamond_add
+  rotate: true
+  xy: 139, 150
+  size: 163, 135
+  orig: 200, 150
+  offset: 19, 6
+  index: -1
+3bar
+  rotate: false
+  xy: 867, 111
+  size: 138, 92
+  orig: 174, 134
+  offset: 18, 21
+  index: -1
+3bar_add
+  rotate: true
+  xy: 238, 2
+  size: 146, 102
+  orig: 200, 150
+  offset: 27, 24
+  index: -1
+5XDiamond
+  rotate: true
+  xy: 740, 3
+  size: 154, 125
+  orig: 174, 134
+  offset: 10, 2
+  index: -1
+5XDiamond_add
+  rotate: true
+  xy: 413, 151
+  size: 162, 133
+  orig: 200, 150
+  offset: 19, 6
+  index: -1
+7blue
+  rotate: true
+  xy: 502, 11
+  size: 138, 108
+  orig: 174, 134
+  offset: 18, 13
+  index: -1
+7blue_add
+  rotate: true
+  xy: 2, 2
+  size: 146, 116
+  orig: 200, 150
+  offset: 27, 17
+  index: -1
+7red
+  rotate: false
+  xy: 867, 205
+  size: 138, 108
+  orig: 174, 134
+  offset: 18, 13
+  index: -1
+7red_add
+  rotate: true
+  xy: 120, 2
+  size: 146, 116
+  orig: 200, 150
+  offset: 27, 17
+  index: -1
+WildDiamond
+  rotate: true
+  xy: 676, 159
+  size: 154, 126
+  orig: 174, 134
+  offset: 10, 2
+  index: -1
+WildDiamond_add
+  rotate: true
+  xy: 276, 150
+  size: 163, 135
+  orig: 200, 150
+  offset: 19, 6
+  index: -1
+bar
+  rotate: true
+  xy: 804, 175
+  size: 138, 48
+  orig: 174, 134
+  offset: 18, 43
+  index: -1
+bar_add
+  rotate: true
+  xy: 442, 3
+  size: 146, 58
+  orig: 200, 150
+  offset: 27, 46
+  index: -1

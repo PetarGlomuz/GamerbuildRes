@@ -1,0 +1,13 @@
+
+FG_guochang.png
+size: 367,337
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua
+  rotate: false
+  xy: 2, 2
+  size: 363, 333
+  orig: 400, 400
+  offset: 19, 33
+  index: -1

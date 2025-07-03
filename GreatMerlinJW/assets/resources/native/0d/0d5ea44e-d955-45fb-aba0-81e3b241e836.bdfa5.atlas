@@ -1,0 +1,223 @@
+
+qpk_jili.png
+size: 1815,1313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang01
+  rotate: false
+  xy: 1300, 296
+  size: 72, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+xg01
+  rotate: true
+  xy: 2, 244
+  size: 646, 136
+  orig: 683, 154
+  offset: 18, 11
+  index: -1
+xg02
+  rotate: false
+  xy: 648, 258
+  size: 650, 103
+  orig: 683, 154
+  offset: 14, 11
+  index: -1
+xg03
+  rotate: false
+  xy: 2, 13
+  size: 651, 106
+  orig: 683, 154
+  offset: 13, 11
+  index: -1
+xg04
+  rotate: false
+  xy: 2, 121
+  size: 652, 111
+  orig: 683, 154
+  offset: 11, 10
+  index: -1
+xg05
+  rotate: false
+  xy: 665, 1065
+  size: 662, 115
+  orig: 683, 154
+  offset: 9, 9
+  index: -1
+xg06
+  rotate: false
+  xy: 656, 68
+  size: 662, 89
+  orig: 683, 154
+  offset: 8, 9
+  index: -1
+xg07
+  rotate: true
+  xy: 1720, 647
+  size: 664, 93
+  orig: 683, 154
+  offset: 6, 10
+  index: -1
+xg08
+  rotate: true
+  xy: 1279, 398
+  size: 665, 98
+  orig: 683, 154
+  offset: 5, 10
+  index: -1
+xg09
+  rotate: true
+  xy: 968, 398
+  size: 665, 104
+  orig: 683, 154
+  offset: 4, 9
+  index: -1
+xg10
+  rotate: true
+  xy: 858, 398
+  size: 665, 108
+  orig: 683, 154
+  offset: 3, 10
+  index: -1
+xg11
+  rotate: true
+  xy: 1379, 2
+  size: 642, 113
+  orig: 683, 154
+  offset: 29, 9
+  index: -1
+xg12
+  rotate: true
+  xy: 1599, 668
+  size: 643, 119
+  orig: 683, 154
+  offset: 30, 8
+  index: -1
+xg13
+  rotate: true
+  xy: 523, 243
+  size: 647, 123
+  orig: 683, 154
+  offset: 27, 7
+  index: -1
+xg14
+  rotate: true
+  xy: 140, 243
+  size: 647, 129
+  orig: 683, 154
+  offset: 27, 6
+  index: -1
+xg15
+  rotate: true
+  xy: 1592, 7
+  size: 655, 93
+  orig: 683, 154
+  offset: 15, 5
+  index: -1
+xg16
+  rotate: true
+  xy: 1494, 2
+  size: 660, 96
+  orig: 683, 154
+  offset: 12, 4
+  index: -1
+xg17
+  rotate: false
+  xy: 656, 159
+  size: 662, 97
+  orig: 683, 154
+  offset: 12, 4
+  index: -1
+xg18
+  rotate: true
+  xy: 1379, 646
+  size: 665, 99
+  orig: 683, 154
+  offset: 12, 4
+  index: -1
+xg19
+  rotate: true
+  xy: 1179, 395
+  size: 668, 98
+  orig: 683, 154
+  offset: 12, 5
+  index: -1
+xg20
+  rotate: true
+  xy: 648, 363
+  size: 671, 99
+  orig: 683, 154
+  offset: 11, 8
+  index: -1
+xg21
+  rotate: true
+  xy: 1074, 392
+  size: 671, 103
+  orig: 683, 154
+  offset: 12, 9
+  index: -1
+xg22
+  rotate: true
+  xy: 749, 394
+  size: 669, 107
+  orig: 683, 154
+  offset: 14, 10
+  index: -1
+xg23
+  rotate: true
+  xy: 1687, 3
+  size: 642, 111
+  orig: 683, 154
+  offset: 31, 11
+  index: -1
+xg24
+  rotate: true
+  xy: 1480, 664
+  size: 647, 117
+  orig: 683, 154
+  offset: 29, 10
+  index: -1
+xg25
+  rotate: true
+  xy: 399, 239
+  size: 651, 122
+  orig: 683, 154
+  offset: 27, 10
+  index: -1
+xg26
+  rotate: true
+  xy: 271, 234
+  size: 656, 126
+  orig: 683, 154
+  offset: 25, 11
+  index: -1
+xg27
+  rotate: false
+  xy: 665, 1182
+  size: 661, 129
+  orig: 683, 154
+  offset: 22, 13
+  index: -1
+xg28
+  rotate: false
+  xy: 2, 1036
+  size: 659, 135
+  orig: 683, 154
+  offset: 24, 12
+  index: -1
+xg29
+  rotate: false
+  xy: 2, 1173
+  size: 661, 138
+  orig: 683, 154
+  offset: 22, 13
+  index: -1
+xg30
+  rotate: false
+  xy: 2, 892
+  size: 644, 142
+  orig: 683, 154
+  offset: 20, 12
+  index: -1

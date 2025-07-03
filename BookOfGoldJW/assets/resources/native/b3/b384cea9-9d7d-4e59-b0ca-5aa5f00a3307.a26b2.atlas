@@ -1,0 +1,111 @@
+
+NG_L5.png
+size: 314,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L5
+  rotate: false
+  xy: 2, 208
+  size: 118, 102
+  orig: 118, 102
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00000
+  rotate: false
+  xy: 170, 94
+  size: 6, 10
+  orig: 180, 161
+  offset: 39, 33
+  index: -1
+saoguang/Symbol111112/Symbol111112_00001
+  rotate: true
+  xy: 170, 13
+  size: 21, 29
+  orig: 180, 161
+  offset: 39, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00002
+  rotate: true
+  xy: 170, 36
+  size: 39, 73
+  orig: 180, 161
+  offset: 31, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00003
+  rotate: true
+  xy: 220, 205
+  size: 39, 90
+  orig: 180, 161
+  offset: 31, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00004
+  rotate: false
+  xy: 95, 6
+  size: 73, 98
+  orig: 180, 161
+  offset: 31, 31
+  index: -1
+saoguang/Symbol111112/Symbol111112_00005
+  rotate: false
+  xy: 100, 106
+  size: 87, 100
+  orig: 180, 161
+  offset: 31, 29
+  index: -1
+saoguang/Symbol111112/Symbol111112_00006
+  rotate: false
+  xy: 2, 106
+  size: 96, 100
+  orig: 180, 161
+  offset: 32, 29
+  index: -1
+saoguang/Symbol111112/Symbol111112_00007
+  rotate: false
+  xy: 122, 210
+  size: 96, 100
+  orig: 180, 161
+  offset: 41, 29
+  index: -1
+saoguang/Symbol111112/Symbol111112_00008
+  rotate: false
+  xy: 2, 4
+  size: 91, 100
+  orig: 180, 161
+  offset: 53, 30
+  index: -1
+saoguang/Symbol111112/Symbol111112_00009
+  rotate: true
+  xy: 189, 133
+  size: 70, 99
+  orig: 180, 161
+  offset: 78, 33
+  index: -1
+saoguang/Symbol111112/Symbol111112_00010
+  rotate: true
+  xy: 220, 246
+  size: 64, 92
+  orig: 180, 161
+  offset: 85, 40
+  index: -1
+saoguang/Symbol111112/Symbol111112_00011
+  rotate: true
+  xy: 189, 77
+  size: 54, 81
+  orig: 180, 161
+  offset: 95, 51
+  index: -1
+saoguang/Symbol111112/Symbol111112_00012
+  rotate: false
+  xy: 245, 10
+  size: 41, 65
+  orig: 180, 161
+  offset: 108, 66
+  index: -1
+saoguang/Symbol111112/Symbol111112_00013
+  rotate: true
+  xy: 272, 107
+  size: 24, 40
+  orig: 180, 161
+  offset: 124, 87
+  index: -1

@@ -1,0 +1,174 @@
+
+BG_shoujijifen.png
+size: 2034,1703
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baokai_00013
+  rotate: false
+  xy: 646, 2
+  size: 313, 87
+  orig: 552, 232
+  offset: 127, 62
+  index: -1
+baokai_00014
+  rotate: false
+  xy: 1597, 227
+  size: 313, 87
+  orig: 552, 232
+  offset: 127, 62
+  index: -1
+baokai_00015
+  rotate: true
+  xy: 1912, 221
+  size: 313, 92
+  orig: 552, 232
+  offset: 127, 57
+  index: -1
+baokai_00016
+  rotate: false
+  xy: 1587, 128
+  size: 313, 97
+  orig: 552, 232
+  offset: 127, 53
+  index: -1
+baokai_00017
+  rotate: false
+  xy: 1592, 23
+  size: 313, 103
+  orig: 552, 232
+  offset: 127, 49
+  index: -1
+baokai_00018
+  rotate: false
+  xy: 1277, 19
+  size: 313, 107
+  orig: 552, 232
+  offset: 127, 46
+  index: -1
+baokai_00019
+  rotate: false
+  xy: 1274, 128
+  size: 311, 111
+  orig: 552, 232
+  offset: 128, 44
+  index: -1
+baokai_00020
+  rotate: false
+  xy: 961, 6
+  size: 314, 114
+  orig: 552, 232
+  offset: 125, 42
+  index: -1
+baokai_00021
+  rotate: true
+  xy: 1893, 536
+  size: 316, 115
+  orig: 552, 232
+  offset: 123, 41
+  index: -1
+baokai_00022
+  rotate: false
+  xy: 958, 122
+  size: 314, 117
+  orig: 552, 232
+  offset: 124, 40
+  index: -1
+baokai_00023
+  rotate: true
+  xy: 1477, 244
+  size: 310, 118
+  orig: 552, 232
+  offset: 125, 39
+  index: -1
+baokai_00024
+  rotate: false
+  xy: 1597, 316
+  size: 305, 120
+  orig: 552, 232
+  offset: 125, 38
+  index: -1
+shandian2_00012
+  rotate: false
+  xy: 1636, 438
+  size: 255, 414
+  orig: 720, 1560
+  offset: 328, 720
+  index: -1
+shandian2_00013
+  rotate: false
+  xy: 2, 783
+  size: 360, 918
+  orig: 720, 1560
+  offset: 220, 238
+  index: -1
+shandian2_00014
+  rotate: true
+  xy: 752, 556
+  size: 296, 882
+  orig: 720, 1560
+  offset: 261, 238
+  index: -1
+shandian2_00015
+  rotate: false
+  xy: 364, 811
+  size: 386, 890
+  orig: 720, 1560
+  offset: 180, 231
+  index: -1
+shandian2_00016
+  rotate: true
+  xy: 1160, 1395
+  size: 306, 872
+  orig: 720, 1560
+  offset: 297, 248
+  index: -1
+shandian2_00017
+  rotate: true
+  xy: 1160, 1084
+  size: 309, 860
+  orig: 720, 1560
+  offset: 302, 247
+  index: -1
+shandian2_00018
+  rotate: true
+  xy: 1160, 854
+  size: 228, 851
+  orig: 720, 1560
+  offset: 334, 248
+  index: -1
+shandian2_00019
+  rotate: true
+  xy: 646, 241
+  size: 313, 829
+  orig: 720, 1560
+  offset: 303, 241
+  index: -1
+shandian2_00020
+  rotate: false
+  xy: 752, 902
+  size: 406, 799
+  orig: 720, 1560
+  offset: 188, 244
+  index: -1
+shandian2_00021
+  rotate: false
+  xy: 2, 5
+  size: 322, 776
+  orig: 720, 1560
+  offset: 290, 245
+  index: -1
+shandian2_00022
+  rotate: false
+  xy: 326, 20
+  size: 318, 761
+  orig: 720, 1560
+  offset: 288, 245
+  index: -1
+shandian2_00023
+  rotate: true
+  xy: 646, 91
+  size: 148, 310
+  orig: 720, 1560
+  offset: 287, 508
+  index: -1

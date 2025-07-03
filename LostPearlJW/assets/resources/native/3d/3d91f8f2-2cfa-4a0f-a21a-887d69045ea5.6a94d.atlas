@@ -1,0 +1,111 @@
+
+ng_tp.png
+size: 1769,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/33_00
+  rotate: false
+  xy: 816, 435
+  size: 188, 586
+  orig: 500, 720
+  offset: 229, 48
+  index: -1
+images/33_01
+  rotate: false
+  xy: 1006, 449
+  size: 177, 572
+  orig: 500, 720
+  offset: 229, 56
+  index: -1
+images/33_02
+  rotate: false
+  xy: 1563, 256
+  size: 189, 567
+  orig: 500, 720
+  offset: 229, 55
+  index: -1
+images/33_03
+  rotate: true
+  xy: 611, 213
+  size: 202, 572
+  orig: 500, 720
+  offset: 229, 47
+  index: -1
+images/33_04
+  rotate: false
+  xy: 1371, 244
+  size: 190, 579
+  orig: 500, 720
+  offset: 229, 40
+  index: -1
+images/33_05
+  rotate: true
+  xy: 1193, 35
+  size: 188, 574
+  orig: 500, 720
+  offset: 229, 62
+  index: -1
+images/33_06
+  rotate: true
+  xy: 1185, 825
+  size: 196, 563
+  orig: 500, 720
+  offset: 229, 56
+  index: -1
+images/33_07
+  rotate: true
+  xy: 2, 198
+  size: 207, 607
+  orig: 500, 720
+  offset: 229, 49
+  index: -1
+images/33_08
+  rotate: false
+  xy: 211, 423
+  size: 197, 598
+  orig: 500, 720
+  offset: 229, 58
+  index: -1
+images/33_09
+  rotate: false
+  xy: 410, 417
+  size: 188, 604
+  orig: 500, 720
+  offset: 229, 51
+  index: -1
+images/33_10
+  rotate: false
+  xy: 2, 407
+  size: 207, 614
+  orig: 500, 720
+  offset: 229, 40
+  index: -1
+images/33_11
+  rotate: true
+  xy: 614, 16
+  size: 195, 577
+  orig: 500, 720
+  offset: 229, 78
+  index: -1
+images/33_12
+  rotate: true
+  xy: 2, 2
+  size: 194, 610
+  orig: 500, 720
+  offset: 229, 41
+  index: -1
+images/33_13
+  rotate: false
+  xy: 611, 417
+  size: 203, 604
+  orig: 500, 720
+  offset: 229, 41
+  index: -1
+images/33_14
+  rotate: false
+  xy: 1185, 225
+  size: 184, 598
+  orig: 500, 720
+  offset: 229, 41
+  index: -1

@@ -1,0 +1,160 @@
+
+JP_chengbei.png
+size: 1946,597
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g/g_01
+  rotate: false
+  xy: 2, 2
+  size: 254, 212
+  orig: 406, 218
+  offset: 61, 4
+  index: -1
+g/g_02
+  rotate: false
+  xy: 610, 7
+  size: 208, 208
+  orig: 406, 218
+  offset: 84, 6
+  index: -1
+g/g_03
+  rotate: false
+  xy: 1783, 56
+  size: 161, 160
+  orig: 406, 218
+  offset: 107, 29
+  index: -1
+g/g_04
+  rotate: false
+  xy: 1806, 484
+  size: 111, 111
+  orig: 406, 218
+  offset: 132, 54
+  index: -1
+g/g_05
+  rotate: true
+  xy: 1806, 414
+  size: 68, 74
+  orig: 406, 218
+  offset: 154, 72
+  index: -1
+g/g_06
+  rotate: true
+  xy: 1526, 217
+  size: 378, 83
+  orig: 406, 218
+  offset: 10, 67
+  index: -1
+g/g_07
+  rotate: true
+  xy: 104, 216
+  size: 379, 92
+  orig: 406, 218
+  offset: 9, 63
+  index: -1
+g/g_08
+  rotate: true
+  xy: 2, 216
+  size: 379, 100
+  orig: 406, 218
+  offset: 9, 59
+  index: -1
+g/g_09
+  rotate: true
+  xy: 1415, 217
+  size: 378, 109
+  orig: 406, 218
+  offset: 10, 54
+  index: -1
+g/g_10
+  rotate: true
+  xy: 1295, 217
+  size: 378, 118
+  orig: 406, 218
+  offset: 10, 50
+  index: -1
+g/g_11
+  rotate: true
+  xy: 1165, 217
+  size: 378, 128
+  orig: 406, 218
+  offset: 10, 45
+  index: -1
+g/g_12
+  rotate: true
+  xy: 1026, 217
+  size: 378, 137
+  orig: 406, 218
+  offset: 10, 40
+  index: -1
+g/g_13
+  rotate: true
+  xy: 880, 217
+  size: 378, 144
+  orig: 406, 218
+  offset: 10, 36
+  index: -1
+g/g_14
+  rotate: true
+  xy: 724, 217
+  size: 378, 154
+  orig: 406, 218
+  offset: 10, 32
+  index: -1
+g/g_15
+  rotate: true
+  xy: 558, 217
+  size: 378, 164
+  orig: 406, 218
+  offset: 10, 27
+  index: -1
+g/g_16
+  rotate: true
+  xy: 383, 217
+  size: 378, 173
+  orig: 406, 218
+  offset: 10, 23
+  index: -1
+g/g_17
+  rotate: true
+  xy: 198, 217
+  size: 378, 183
+  orig: 406, 218
+  offset: 10, 18
+  index: -1
+g/g_18
+  rotate: true
+  xy: 1611, 218
+  size: 377, 193
+  orig: 406, 218
+  offset: 11, 13
+  index: -1
+g/g_19
+  rotate: false
+  xy: 820, 12
+  size: 370, 203
+  orig: 406, 218
+  offset: 12, 8
+  index: -1
+g/g_20
+  rotate: false
+  xy: 258, 7
+  size: 350, 208
+  orig: 406, 218
+  offset: 13, 8
+  index: -1
+g/g_21
+  rotate: false
+  xy: 1489, 18
+  size: 292, 197
+  orig: 406, 218
+  offset: 44, 4
+  index: -1
+g/g_22
+  rotate: false
+  xy: 1192, 16
+  size: 295, 199
+  orig: 406, 218
+  offset: 43, 4
+  index: -1

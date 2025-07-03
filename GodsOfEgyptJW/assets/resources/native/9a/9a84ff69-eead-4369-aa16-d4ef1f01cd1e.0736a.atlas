@@ -1,0 +1,188 @@
+
+tc_ty_button.png
+size: 568,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_1/btn_02
+  rotate: false
+  xy: 527, 191
+  size: 36, 48
+  orig: 174, 58
+  offset: 3, 4
+  index: -1
+btn_1/btn_03
+  rotate: true
+  xy: 489, 16
+  size: 47, 53
+  orig: 174, 58
+  offset: 3, 4
+  index: -1
+btn_1/btn_04
+  rotate: false
+  xy: 371, 69
+  size: 59, 55
+  orig: 174, 58
+  offset: 3, 3
+  index: -1
+btn_1/btn_05
+  rotate: false
+  xy: 421, 126
+  size: 70, 55
+  orig: 174, 58
+  offset: 3, 3
+  index: -1
+btn_1/btn_06
+  rotate: true
+  xy: 432, 43
+  size: 81, 55
+  orig: 174, 58
+  offset: 3, 3
+  index: -1
+btn_1/btn_07
+  rotate: false
+  xy: 337, 12
+  size: 93, 55
+  orig: 174, 58
+  offset: 3, 3
+  index: -1
+btn_1/btn_08
+  rotate: false
+  xy: 264, 69
+  size: 105, 55
+  orig: 174, 58
+  offset: 3, 3
+  index: -1
+btn_1/btn_09
+  rotate: false
+  xy: 303, 126
+  size: 116, 55
+  orig: 174, 58
+  offset: 3, 3
+  index: -1
+btn_1/btn_10
+  rotate: false
+  xy: 2, 12
+  size: 127, 55
+  orig: 174, 58
+  offset: 3, 3
+  index: -1
+btn_1/btn_11
+  rotate: false
+  xy: 162, 126
+  size: 139, 55
+  orig: 174, 58
+  offset: 3, 3
+  index: -1
+btn_1/btn_12
+  rotate: false
+  xy: 329, 240
+  size: 150, 55
+  orig: 174, 58
+  offset: 3, 3
+  index: -1
+btn_1/btn_13
+  rotate: false
+  xy: 169, 240
+  size: 158, 55
+  orig: 174, 58
+  offset: 3, 3
+  index: -1
+btn_1/btn_14
+  rotate: false
+  xy: 2, 183
+  size: 164, 55
+  orig: 174, 58
+  offset: 3, 3
+  index: -1
+btn_1/btn_15
+  rotate: false
+  xy: 2, 240
+  size: 165, 55
+  orig: 174, 58
+  offset: 4, 3
+  index: -1
+btn_1/btn_16
+  rotate: false
+  xy: 2, 126
+  size: 158, 55
+  orig: 174, 58
+  offset: 12, 3
+  index: -1
+btn_1/btn_17
+  rotate: false
+  xy: 168, 183
+  size: 151, 55
+  orig: 174, 58
+  offset: 20, 3
+  index: -1
+btn_1/btn_18
+  rotate: false
+  xy: 2, 69
+  size: 140, 55
+  orig: 174, 58
+  offset: 31, 3
+  index: -1
+btn_1/btn_19
+  rotate: false
+  xy: 321, 183
+  size: 129, 55
+  orig: 174, 58
+  offset: 42, 3
+  index: -1
+btn_1/btn_20
+  rotate: false
+  xy: 144, 69
+  size: 118, 55
+  orig: 174, 58
+  offset: 53, 3
+  index: -1
+btn_1/btn_21
+  rotate: false
+  xy: 131, 12
+  size: 106, 55
+  orig: 174, 58
+  offset: 65, 3
+  index: -1
+btn_1/btn_22
+  rotate: false
+  xy: 239, 13
+  size: 96, 54
+  orig: 174, 58
+  offset: 76, 4
+  index: -1
+btn_1/btn_23
+  rotate: false
+  xy: 481, 241
+  size: 85, 54
+  orig: 174, 58
+  offset: 87, 4
+  index: -1
+btn_1/btn_24
+  rotate: false
+  xy: 452, 184
+  size: 73, 54
+  orig: 174, 58
+  offset: 99, 4
+  index: -1
+btn_1/btn_25
+  rotate: true
+  xy: 493, 120
+  size: 62, 54
+  orig: 174, 58
+  offset: 110, 4
+  index: -1
+btn_1/btn_26
+  rotate: false
+  xy: 489, 65
+  size: 51, 53
+  orig: 174, 58
+  offset: 121, 5
+  index: -1
+btn_1/btn_27
+  rotate: true
+  xy: 432, 2
+  size: 39, 51
+  orig: 174, 58
+  offset: 133, 7
+  index: -1

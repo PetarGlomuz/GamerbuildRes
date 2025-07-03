@@ -1,0 +1,146 @@
+
+ng_jp_board.png
+size: 882,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dj/1_00
+  rotate: false
+  xy: 844, 125
+  size: 33, 55
+  orig: 997, 133
+  offset: 252, 42
+  index: -1
+images/dj/1_01
+  rotate: false
+  xy: 760, 3
+  size: 74, 57
+  orig: 997, 133
+  offset: 252, 40
+  index: -1
+images/dj/1_02
+  rotate: false
+  xy: 643, 2
+  size: 115, 58
+  orig: 997, 133
+  offset: 252, 39
+  index: -1
+images/dj/1_03
+  rotate: false
+  xy: 686, 182
+  size: 156, 58
+  orig: 997, 133
+  offset: 252, 39
+  index: -1
+images/dj/1_04
+  rotate: false
+  xy: 567, 62
+  size: 197, 58
+  orig: 997, 133
+  offset: 252, 39
+  index: -1
+images/dj/1_05
+  rotate: false
+  xy: 283, 2
+  size: 238, 58
+  orig: 997, 133
+  offset: 252, 39
+  index: -1
+images/dj/1_06
+  rotate: false
+  xy: 2, 2
+  size: 279, 58
+  orig: 997, 133
+  offset: 252, 39
+  index: -1
+images/dj/1_07
+  rotate: false
+  xy: 2, 62
+  size: 320, 58
+  orig: 997, 133
+  offset: 252, 39
+  index: -1
+images/dj/1_08
+  rotate: false
+  xy: 2, 122
+  size: 354, 58
+  orig: 997, 133
+  offset: 259, 39
+  index: -1
+images/dj/1_09
+  rotate: false
+  xy: 2, 242
+  size: 356, 58
+  orig: 997, 133
+  offset: 298, 39
+  index: -1
+images/dj/1_10
+  rotate: false
+  xy: 2, 182
+  size: 356, 58
+  orig: 997, 133
+  offset: 339, 39
+  index: -1
+images/dj/1_11
+  rotate: false
+  xy: 360, 242
+  size: 356, 58
+  orig: 997, 133
+  offset: 380, 39
+  index: -1
+images/dj/1_12
+  rotate: false
+  xy: 360, 182
+  size: 324, 58
+  orig: 997, 133
+  offset: 421, 39
+  index: -1
+images/dj/1_13
+  rotate: false
+  xy: 358, 122
+  size: 282, 58
+  orig: 997, 133
+  offset: 463, 39
+  index: -1
+images/dj/1_14
+  rotate: false
+  xy: 324, 62
+  size: 241, 58
+  orig: 997, 133
+  offset: 504, 39
+  index: -1
+images/dj/1_15
+  rotate: false
+  xy: 642, 122
+  size: 200, 58
+  orig: 997, 133
+  offset: 545, 39
+  index: -1
+images/dj/1_16
+  rotate: false
+  xy: 718, 242
+  size: 159, 58
+  orig: 997, 133
+  offset: 586, 39
+  index: -1
+images/dj/1_17
+  rotate: false
+  xy: 523, 2
+  size: 118, 58
+  orig: 997, 133
+  offset: 627, 39
+  index: -1
+images/dj/1_18
+  rotate: false
+  xy: 766, 62
+  size: 77, 58
+  orig: 997, 133
+  offset: 668, 39
+  index: -1
+images/dj/1_19
+  rotate: false
+  xy: 844, 182
+  size: 36, 58
+  orig: 997, 133
+  offset: 709, 39
+  index: -1

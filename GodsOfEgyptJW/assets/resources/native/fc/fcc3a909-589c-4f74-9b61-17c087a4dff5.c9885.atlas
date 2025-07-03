@@ -1,0 +1,69 @@
+
+tc_fg_light2.png
+size: 2034,1041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg01
+  rotate: false
+  xy: 742, 408
+  size: 373, 155
+  orig: 373, 155
+  offset: 0, 0
+  index: -1
+fg_1_2
+  rotate: false
+  xy: 742, 565
+  size: 474, 474
+  orig: 1000, 550
+  offset: 263, 38
+  index: -1
+light_2_1/light_2_12
+  rotate: true
+  xy: 1702, 11
+  size: 669, 330
+  orig: 900, 500
+  offset: 108, 92
+  index: -1
+light_2_1/light_2_13
+  rotate: false
+  xy: 674, 13
+  size: 672, 338
+  orig: 900, 500
+  offset: 109, 88
+  index: -1
+light_2_1/light_2_14
+  rotate: false
+  xy: 2, 2
+  size: 670, 345
+  orig: 900, 500
+  offset: 113, 84
+  index: -1
+light_2_1/light_2_15
+  rotate: true
+  xy: 1348, 6
+  size: 674, 352
+  orig: 900, 500
+  offset: 113, 80
+  index: -1
+light_2_1/light_2_16
+  rotate: false
+  xy: 1348, 682
+  size: 682, 357
+  orig: 900, 500
+  offset: 110, 77
+  index: -1
+light_2_1/light_2_17
+  rotate: true
+  xy: 375, 353
+  size: 686, 365
+  orig: 900, 500
+  offset: 110, 72
+  index: -1
+light_2_1/light_2_18
+  rotate: true
+  xy: 2, 349
+  size: 690, 371
+  orig: 900, 500
+  offset: 110, 68
+  index: -1

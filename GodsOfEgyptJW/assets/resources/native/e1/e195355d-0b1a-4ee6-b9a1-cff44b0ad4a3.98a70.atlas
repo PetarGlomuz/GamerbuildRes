@@ -1,0 +1,118 @@
+
+fg_spins_add.png
+size: 554,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/klizi/1_00
+  rotate: true
+  xy: 349, 11
+  size: 15, 97
+  orig: 256, 256
+  offset: 121, 80
+  index: -1
+images/klizi/1_01
+  rotate: true
+  xy: 229, 48
+  size: 39, 109
+  orig: 256, 256
+  offset: 109, 72
+  index: -1
+images/klizi/1_02
+  rotate: true
+  xy: 340, 69
+  size: 44, 122
+  orig: 256, 256
+  offset: 107, 63
+  index: -1
+images/klizi/1_03
+  rotate: true
+  xy: 340, 165
+  size: 46, 123
+  orig: 256, 256
+  offset: 105, 63
+  index: -1
+images/klizi/1_04
+  rotate: false
+  xy: 229, 89
+  size: 55, 122
+  orig: 256, 256
+  offset: 102, 65
+  index: -1
+images/klizi/1_05
+  rotate: false
+  xy: 286, 90
+  size: 52, 121
+  orig: 256, 256
+  offset: 104, 67
+  index: -1
+images/klizi/1_06
+  rotate: true
+  xy: 340, 115
+  size: 48, 120
+  orig: 256, 256
+  offset: 106, 69
+  index: -1
+images/klizi/1_07
+  rotate: true
+  xy: 229, 2
+  size: 44, 118
+  orig: 256, 256
+  offset: 109, 72
+  index: -1
+images/klizi/1_08
+  rotate: true
+  xy: 349, 28
+  size: 39, 117
+  orig: 256, 256
+  offset: 112, 74
+  index: -1
+images/klizi/1_09
+  rotate: false
+  xy: 468, 25
+  size: 37, 116
+  orig: 256, 256
+  offset: 112, 76
+  index: -1
+images/klizi/1_10
+  rotate: true
+  xy: 465, 177
+  size: 34, 71
+  orig: 256, 256
+  offset: 112, 100
+  index: -1
+images/klizi/1_11
+  rotate: true
+  xy: 465, 143
+  size: 32, 66
+  orig: 256, 256
+  offset: 112, 102
+  index: -1
+images/klizi/1_12
+  rotate: false
+  xy: 507, 79
+  size: 30, 62
+  orig: 256, 256
+  offset: 112, 104
+  index: -1
+images/klizi/1_13
+  rotate: false
+  xy: 538, 153
+  size: 14, 58
+  orig: 256, 256
+  offset: 125, 105
+  index: -1
+images/klizi/1_14
+  rotate: true
+  xy: 349, 2
+  size: 7, 43
+  orig: 256, 256
+  offset: 130, 118
+  index: -1
+images/kuang_00
+  rotate: false
+  xy: 2, 2
+  size: 225, 209
+  orig: 256, 256
+  offset: 12, 29
+  index: -1

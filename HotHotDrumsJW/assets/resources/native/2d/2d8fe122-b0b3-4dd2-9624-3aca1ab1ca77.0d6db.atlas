@@ -1,0 +1,195 @@
+
+136_cp_logo_01.png
+size: 971,971
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuguang01_0/liuguang01_0
+  rotate: false
+  xy: 889, 535
+  size: 68, 108
+  orig: 318, 183
+  offset: 16, 12
+  index: -1
+liuguang01_0/liuguang01_1
+  rotate: false
+  xy: 885, 341
+  size: 84, 136
+  orig: 318, 183
+  offset: 16, 12
+  index: -1
+liuguang01_0/liuguang01_10
+  rotate: false
+  xy: 275, 483
+  size: 230, 160
+  orig: 318, 183
+  offset: 16, 11
+  index: -1
+liuguang01_0/liuguang01_11
+  rotate: false
+  xy: 309, 645
+  size: 245, 161
+  orig: 318, 183
+  offset: 16, 11
+  index: -1
+liuguang01_0/liuguang01_12
+  rotate: false
+  xy: 2, 302
+  size: 257, 161
+  orig: 318, 183
+  offset: 18, 11
+  index: -1
+liuguang01_0/liuguang01_13
+  rotate: false
+  xy: 576, 808
+  size: 259, 161
+  orig: 318, 183
+  offset: 22, 11
+  index: -1
+liuguang01_0/liuguang01_14
+  rotate: false
+  xy: 309, 808
+  size: 265, 161
+  orig: 318, 183
+  offset: 22, 11
+  index: -1
+liuguang01_0/liuguang01_15
+  rotate: false
+  xy: 2, 628
+  size: 271, 162
+  orig: 318, 183
+  offset: 25, 10
+  index: -1
+liuguang01_0/liuguang01_16
+  rotate: false
+  xy: 2, 465
+  size: 262, 161
+  orig: 318, 183
+  offset: 37, 10
+  index: -1
+liuguang01_0/liuguang01_17
+  rotate: false
+  xy: 2, 139
+  size: 246, 161
+  orig: 318, 183
+  offset: 54, 10
+  index: -1
+liuguang01_0/liuguang01_18
+  rotate: false
+  xy: 556, 645
+  size: 231, 161
+  orig: 318, 183
+  offset: 70, 10
+  index: -1
+liuguang01_0/liuguang01_19
+  rotate: false
+  xy: 507, 483
+  size: 219, 160
+  orig: 318, 183
+  offset: 85, 11
+  index: -1
+liuguang01_0/liuguang01_2
+  rotate: false
+  xy: 601, 4
+  size: 100, 153
+  orig: 318, 183
+  offset: 16, 12
+  index: -1
+liuguang01_0/liuguang01_20
+  rotate: false
+  xy: 481, 320
+  size: 204, 161
+  orig: 318, 183
+  offset: 101, 11
+  index: -1
+liuguang01_0/liuguang01_21
+  rotate: false
+  xy: 250, 139
+  size: 187, 161
+  orig: 318, 183
+  offset: 118, 11
+  index: -1
+liuguang01_0/liuguang01_22
+  rotate: false
+  xy: 789, 645
+  size: 171, 161
+  orig: 318, 183
+  offset: 134, 11
+  index: -1
+liuguang01_0/liuguang01_23
+  rotate: true
+  xy: 439, 2
+  size: 155, 160
+  orig: 318, 183
+  offset: 150, 12
+  index: -1
+liuguang01_0/liuguang01_24
+  rotate: false
+  xy: 781, 155
+  size: 137, 160
+  orig: 318, 183
+  offset: 169, 12
+  index: -1
+liuguang01_0/liuguang01_25
+  rotate: true
+  xy: 2, 13
+  size: 124, 157
+  orig: 318, 183
+  offset: 182, 14
+  index: -1
+liuguang01_0/liuguang01_3
+  rotate: true
+  xy: 161, 20
+  size: 117, 157
+  orig: 318, 183
+  offset: 16, 11
+  index: -1
+liuguang01_0/liuguang01_4
+  rotate: false
+  xy: 837, 811
+  size: 132, 158
+  orig: 318, 183
+  offset: 16, 11
+  index: -1
+liuguang01_0/liuguang01_5
+  rotate: true
+  xy: 620, 166
+  size: 149, 159
+  orig: 318, 183
+  offset: 16, 11
+  index: -1
+liuguang01_0/liuguang01_6
+  rotate: true
+  xy: 728, 479
+  size: 164, 159
+  orig: 318, 183
+  offset: 16, 11
+  index: -1
+liuguang01_0/liuguang01_7
+  rotate: false
+  xy: 439, 159
+  size: 179, 159
+  orig: 318, 183
+  offset: 16, 11
+  index: -1
+liuguang01_0/liuguang01_8
+  rotate: false
+  xy: 687, 317
+  size: 196, 160
+  orig: 318, 183
+  offset: 16, 11
+  index: -1
+liuguang01_0/liuguang01_9
+  rotate: false
+  xy: 266, 321
+  size: 213, 160
+  orig: 318, 183
+  offset: 16, 11
+  index: -1
+theme136_logo
+  rotate: false
+  xy: 2, 792
+  size: 305, 177
+  orig: 305, 177
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+MAP_tanchuang_Bonus.png
+size: 1752,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUSSG/1_00000
+  rotate: false
+  xy: 1720, 14
+  size: 22, 46
+  orig: 624, 136
+  offset: 44, 31
+  index: -1
+BONUSSG/1_00001
+  rotate: false
+  xy: 1429, 6
+  size: 109, 52
+  orig: 624, 136
+  offset: 44, 31
+  index: -1
+BONUSSG/1_00002
+  rotate: false
+  xy: 1346, 60
+  size: 192, 55
+  orig: 624, 136
+  offset: 44, 31
+  index: -1
+BONUSSG/1_00003
+  rotate: false
+  xy: 1144, 2
+  size: 283, 56
+  orig: 624, 136
+  offset: 44, 31
+  index: -1
+BONUSSG/1_00004
+  rotate: false
+  xy: 461, 2
+  size: 370, 56
+  orig: 624, 136
+  offset: 44, 31
+  index: -1
+BONUSSG/1_00005
+  rotate: false
+  xy: 2, 3
+  size: 457, 55
+  orig: 624, 136
+  offset: 44, 32
+  index: -1
+BONUSSG/1_00006
+  rotate: false
+  xy: 2, 117
+  size: 538, 55
+  orig: 624, 136
+  offset: 45, 32
+  index: -1
+BONUSSG/1_00007
+  rotate: false
+  xy: 543, 174
+  size: 536, 55
+  orig: 624, 136
+  offset: 48, 32
+  index: -1
+BONUSSG/1_00008
+  rotate: false
+  xy: 2, 60
+  size: 526, 55
+  orig: 624, 136
+  offset: 58, 32
+  index: -1
+BONUSSG/1_00009
+  rotate: false
+  xy: 542, 117
+  size: 512, 55
+  orig: 624, 136
+  offset: 72, 32
+  index: -1
+BONUSSG/1_00010
+  rotate: false
+  xy: 1081, 174
+  size: 504, 55
+  orig: 624, 136
+  offset: 80, 32
+  index: -1
+BONUSSG/1_00011
+  rotate: false
+  xy: 530, 60
+  size: 454, 55
+  orig: 624, 136
+  offset: 130, 32
+  index: -1
+BONUSSG/1_00012
+  rotate: false
+  xy: 1056, 117
+  size: 407, 55
+  orig: 624, 136
+  offset: 177, 32
+  index: -1
+BONUSSG/1_00013
+  rotate: false
+  xy: 986, 60
+  size: 358, 55
+  orig: 624, 136
+  offset: 226, 32
+  index: -1
+BONUSSG/1_00014
+  rotate: false
+  xy: 833, 3
+  size: 309, 55
+  orig: 624, 136
+  offset: 275, 32
+  index: -1
+BONUSSG/1_00015
+  rotate: false
+  xy: 1465, 118
+  size: 260, 54
+  orig: 624, 136
+  offset: 324, 32
+  index: -1
+BONUSSG/1_00016
+  rotate: false
+  xy: 1540, 62
+  size: 210, 54
+  orig: 624, 136
+  offset: 374, 32
+  index: -1
+BONUSSG/1_00017
+  rotate: false
+  xy: 1587, 176
+  size: 162, 53
+  orig: 624, 136
+  offset: 422, 32
+  index: -1
+BONUSSG/1_00018
+  rotate: false
+  xy: 1540, 9
+  size: 112, 51
+  orig: 624, 136
+  offset: 472, 32
+  index: -1
+BONUSSG/1_00019
+  rotate: false
+  xy: 1654, 12
+  size: 64, 48
+  orig: 624, 136
+  offset: 520, 32
+  index: -1
+MAGICPAIRBONUS
+  rotate: false
+  xy: 2, 174
+  size: 539, 55
+  orig: 539, 55
+  offset: 0, 0
+  index: -1

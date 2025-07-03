@@ -1,0 +1,13 @@
+
+H5.png
+size: 83,102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h5_2
+  rotate: false
+  xy: 2, 2
+  size: 79, 98
+  orig: 81, 98
+  offset: 1, 0
+  index: -1

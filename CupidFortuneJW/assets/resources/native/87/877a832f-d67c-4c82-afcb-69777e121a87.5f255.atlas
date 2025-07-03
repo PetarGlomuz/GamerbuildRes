@@ -1,0 +1,230 @@
+
+TC_jpwheel_jackot.png
+size: 560,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jackot__CN
+  rotate: false
+  xy: 2, 280
+  size: 279, 158
+  orig: 279, 158
+  offset: 0, 0
+  index: -1
+jackot__CN/sg_00
+  rotate: false
+  xy: 518, 310
+  size: 19, 52
+  orig: 279, 158
+  offset: 72, 64
+  index: -1
+jackot__CN/sg_01
+  rotate: false
+  xy: 515, 488
+  size: 37, 68
+  orig: 279, 158
+  offset: 72, 49
+  index: -1
+jackot__CN/sg_02
+  rotate: false
+  xy: 357, 62
+  size: 55, 74
+  orig: 279, 158
+  offset: 72, 44
+  index: -1
+jackot__CN/sg_03
+  rotate: true
+  xy: 153, 4
+  size: 67, 74
+  orig: 279, 158
+  offset: 72, 44
+  index: -1
+jackot__CN/sg_04
+  rotate: false
+  xy: 438, 364
+  size: 89, 74
+  orig: 279, 158
+  offset: 72, 44
+  index: -1
+jackot__CN/sg_05
+  rotate: false
+  xy: 135, 128
+  size: 107, 74
+  orig: 279, 158
+  offset: 72, 44
+  index: -1
+jackot__CN/sg_06
+  rotate: false
+  xy: 138, 204
+  size: 122, 74
+  orig: 279, 158
+  offset: 72, 44
+  index: -1
+jackot__CN/sg_07
+  rotate: false
+  xy: 2, 204
+  size: 134, 74
+  orig: 279, 158
+  offset: 72, 44
+  index: -1
+jackot__CN/sg_08
+  rotate: false
+  xy: 2, 128
+  size: 131, 74
+  orig: 279, 158
+  offset: 76, 44
+  index: -1
+jackot__CN/sg_09
+  rotate: false
+  xy: 2, 52
+  size: 117, 74
+  orig: 279, 158
+  offset: 90, 44
+  index: -1
+jackot__CN/sg_10
+  rotate: false
+  xy: 256, 63
+  size: 99, 73
+  orig: 279, 158
+  offset: 108, 45
+  index: -1
+jackot__CN/sg_11
+  rotate: false
+  xy: 437, 289
+  size: 79, 73
+  orig: 279, 158
+  offset: 128, 45
+  index: -1
+jackot__CN/sg_12
+  rotate: false
+  xy: 397, 159
+  size: 64, 73
+  orig: 279, 158
+  offset: 143, 45
+  index: -1
+jackot__CN/sg_13
+  rotate: false
+  xy: 463, 163
+  size: 46, 69
+  orig: 279, 158
+  offset: 161, 45
+  index: -1
+jackot__CN/sg_14
+  rotate: false
+  xy: 529, 379
+  size: 29, 59
+  orig: 279, 158
+  offset: 178, 45
+  index: -1
+jackot__EN
+  rotate: false
+  xy: 2, 440
+  size: 511, 116
+  orig: 511, 116
+  offset: 0, 0
+  index: -1
+jackot__EN/sg_00
+  rotate: false
+  xy: 356, 138
+  size: 39, 53
+  orig: 511, 116
+  offset: 130, 33
+  index: -1
+jackot__EN/sg_01
+  rotate: true
+  xy: 414, 99
+  size: 58, 53
+  orig: 511, 116
+  offset: 130, 33
+  index: -1
+jackot__EN/sg_02
+  rotate: false
+  xy: 435, 234
+  size: 86, 53
+  orig: 511, 116
+  offset: 130, 33
+  index: -1
+jackot__EN/sg_03
+  rotate: false
+  xy: 244, 138
+  size: 110, 53
+  orig: 511, 116
+  offset: 130, 33
+  index: -1
+jackot__EN/sg_04
+  rotate: false
+  xy: 121, 73
+  size: 133, 53
+  orig: 511, 116
+  offset: 130, 33
+  index: -1
+jackot__EN/sg_05
+  rotate: false
+  xy: 283, 385
+  size: 153, 53
+  orig: 511, 116
+  offset: 134, 33
+  index: -1
+jackot__EN/sg_06
+  rotate: false
+  xy: 2, 4
+  size: 149, 46
+  orig: 511, 116
+  offset: 159, 40
+  index: -1
+jackot__EN/sg_07
+  rotate: false
+  xy: 283, 337
+  size: 152, 46
+  orig: 511, 116
+  offset: 182, 40
+  index: -1
+jackot__EN/sg_08
+  rotate: false
+  xy: 283, 289
+  size: 152, 46
+  orig: 511, 116
+  offset: 206, 40
+  index: -1
+jackot__EN/sg_09
+  rotate: false
+  xy: 283, 241
+  size: 150, 46
+  orig: 511, 116
+  offset: 230, 40
+  index: -1
+jackot__EN/sg_10
+  rotate: false
+  xy: 262, 193
+  size: 128, 46
+  orig: 511, 116
+  offset: 253, 40
+  index: -1
+jackot__EN/sg_11
+  rotate: false
+  xy: 229, 15
+  size: 105, 46
+  orig: 511, 116
+  offset: 276, 40
+  index: -1
+jackot__EN/sg_12
+  rotate: false
+  xy: 336, 14
+  size: 76, 46
+  orig: 511, 116
+  offset: 305, 40
+  index: -1
+jackot__EN/sg_13
+  rotate: true
+  xy: 414, 39
+  size: 58, 46
+  orig: 511, 116
+  offset: 323, 40
+  index: -1
+jackot__EN/sg_14
+  rotate: false
+  xy: 515, 440
+  size: 30, 46
+  orig: 511, 116
+  offset: 351, 40
+  index: -1

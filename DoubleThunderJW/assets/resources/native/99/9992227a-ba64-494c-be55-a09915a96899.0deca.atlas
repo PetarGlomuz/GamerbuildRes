@@ -1,0 +1,27 @@
+
+guochang.png
+size: 1618,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_yun
+  rotate: true
+  xy: 2, 2
+  size: 450, 780
+  orig: 450, 780
+  offset: 0, 0
+  index: -1
+R_yun
+  rotate: true
+  xy: 784, 28
+  size: 424, 780
+  orig: 450, 780
+  offset: 26, 0
+  index: -1
+zhezhao
+  rotate: false
+  xy: 1566, 402
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

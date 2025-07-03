@@ -1,0 +1,167 @@
+
+TC_FGzhongjiang_anniu.png
+size: 1343,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 586, 61
+  size: 347, 109
+  orig: 347, 109
+  offset: 0, 0
+  index: -1
+anniu/anniu_00
+  rotate: false
+  xy: 1177, 3
+  size: 48, 56
+  orig: 361, 124
+  offset: 93, 38
+  index: -1
+anniu/anniu_01
+  rotate: true
+  xy: 1284, 108
+  size: 62, 57
+  orig: 361, 124
+  offset: 93, 37
+  index: -1
+anniu/anniu_02
+  rotate: false
+  xy: 866, 2
+  size: 76, 57
+  orig: 361, 124
+  offset: 93, 37
+  index: -1
+anniu/anniu_03
+  rotate: false
+  xy: 775, 2
+  size: 89, 57
+  orig: 361, 124
+  offset: 93, 37
+  index: -1
+anniu/anniu_04
+  rotate: false
+  xy: 670, 2
+  size: 103, 57
+  orig: 361, 124
+  offset: 93, 37
+  index: -1
+anniu/anniu_05
+  rotate: true
+  xy: 469, 53
+  size: 117, 57
+  orig: 361, 124
+  offset: 93, 37
+  index: -1
+anniu/anniu_06
+  rotate: true
+  xy: 352, 40
+  size: 130, 57
+  orig: 361, 124
+  offset: 93, 37
+  index: -1
+anniu/anniu_07
+  rotate: true
+  xy: 235, 26
+  size: 144, 57
+  orig: 361, 124
+  offset: 93, 37
+  index: -1
+anniu/anniu_08
+  rotate: true
+  xy: 176, 13
+  size: 157, 57
+  orig: 361, 124
+  offset: 93, 37
+  index: -1
+anniu/anniu_09
+  rotate: true
+  xy: 60, 3
+  size: 167, 56
+  orig: 361, 124
+  offset: 94, 37
+  index: -1
+anniu/anniu_10
+  rotate: true
+  xy: 2, 2
+  size: 168, 56
+  orig: 361, 124
+  offset: 100, 37
+  index: -1
+anniu/anniu_11
+  rotate: true
+  xy: 118, 12
+  size: 158, 56
+  orig: 361, 124
+  offset: 110, 37
+  index: -1
+anniu/anniu_12
+  rotate: true
+  xy: 294, 26
+  size: 144, 56
+  orig: 361, 124
+  offset: 124, 37
+  index: -1
+anniu/anniu_13
+  rotate: true
+  xy: 411, 40
+  size: 130, 56
+  orig: 361, 124
+  offset: 138, 37
+  index: -1
+anniu/anniu_14
+  rotate: true
+  xy: 528, 54
+  size: 116, 56
+  orig: 361, 124
+  offset: 152, 37
+  index: -1
+anniu/anniu_15
+  rotate: true
+  xy: 1284, 3
+  size: 103, 56
+  orig: 361, 124
+  offset: 165, 37
+  index: -1
+anniu/anniu_16
+  rotate: false
+  xy: 944, 3
+  size: 89, 56
+  orig: 361, 124
+  offset: 179, 37
+  index: -1
+anniu/anniu_17
+  rotate: false
+  xy: 1035, 3
+  size: 76, 56
+  orig: 361, 124
+  offset: 192, 37
+  index: -1
+anniu/anniu_18
+  rotate: false
+  xy: 1113, 3
+  size: 62, 56
+  orig: 361, 124
+  offset: 206, 37
+  index: -1
+anniu/anniu_19
+  rotate: false
+  xy: 1227, 3
+  size: 48, 56
+  orig: 361, 124
+  offset: 220, 37
+  index: -1
+anniu1
+  rotate: false
+  xy: 935, 61
+  size: 347, 109
+  orig: 347, 109
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 469, 2
+  size: 199, 49
+  orig: 199, 49
+  offset: 0, 0
+  index: -1

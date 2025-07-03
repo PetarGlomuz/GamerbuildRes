@@ -1,0 +1,41 @@
+
+L3.png
+size: 585,350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+landi
+  rotate: false
+  xy: 2, 14
+  size: 334, 334
+  orig: 334, 334
+  offset: 0, 0
+  index: -1
+ticket01
+  rotate: false
+  xy: 338, 174
+  size: 245, 174
+  orig: 245, 174
+  offset: 0, 0
+  index: -1
+xx_2
+  rotate: false
+  xy: 431, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yingying01
+  rotate: false
+  xy: 338, 54
+  size: 236, 118
+  orig: 236, 119
+  offset: 0, 0
+  index: -1
+yinying02
+  rotate: false
+  xy: 338, 13
+  size: 91, 39
+  orig: 93, 40
+  offset: 1, 1
+  index: -1

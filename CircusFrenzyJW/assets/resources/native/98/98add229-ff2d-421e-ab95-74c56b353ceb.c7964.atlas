@@ -1,0 +1,48 @@
+
+TC_JP_beijing.png
+size: 1933,854
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/k1
+  rotate: false
+  xy: 2, 223
+  size: 667, 629
+  orig: 670, 629
+  offset: 3, 0
+  index: -1
+images/k2
+  rotate: false
+  xy: 671, 428
+  size: 629, 424
+  orig: 630, 440
+  offset: 0, 10
+  index: -1
+images/k3
+  rotate: false
+  xy: 1302, 428
+  size: 629, 424
+  orig: 630, 440
+  offset: 0, 10
+  index: -1
+images/k4
+  rotate: false
+  xy: 671, 2
+  size: 629, 424
+  orig: 630, 440
+  offset: 0, 10
+  index: -1
+images/k5
+  rotate: false
+  xy: 1302, 2
+  size: 629, 424
+  orig: 630, 440
+  offset: 0, 10
+  index: -1
+images/qiu2_000
+  rotate: false
+  xy: 2, 211
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

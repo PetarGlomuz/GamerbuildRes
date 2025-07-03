@@ -1,0 +1,160 @@
+
+BG_shouji_bao.png
+size: 393,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozha_08
+  rotate: true
+  xy: 96, 2
+  size: 66, 69
+  orig: 77, 78
+  offset: 6, 6
+  index: -1
+baozha/baozha_09
+  rotate: true
+  xy: 96, 70
+  size: 68, 69
+  orig: 77, 78
+  offset: 5, 6
+  index: -1
+baozha/baozha_10
+  rotate: true
+  xy: 236, 3
+  size: 66, 69
+  orig: 77, 78
+  offset: 5, 6
+  index: -1
+baozha/baozha_11
+  rotate: true
+  xy: 167, 71
+  size: 67, 70
+  orig: 77, 78
+  offset: 5, 5
+  index: -1
+baozha/baozha_12
+  rotate: false
+  xy: 239, 71
+  size: 67, 67
+  orig: 77, 78
+  offset: 5, 8
+  index: -1
+baozha/baozha_13
+  rotate: false
+  xy: 308, 71
+  size: 67, 67
+  orig: 77, 78
+  offset: 5, 8
+  index: -1
+baozha/baozha_14
+  rotate: false
+  xy: 167, 2
+  size: 67, 67
+  orig: 77, 78
+  offset: 5, 8
+  index: -1
+bo_00000
+  rotate: false
+  xy: 2, 50
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+lizi/lizi_00000
+  rotate: false
+  xy: 76, 29
+  size: 18, 19
+  orig: 38, 38
+  offset: 8, 9
+  index: -1
+lizi/lizi_00001
+  rotate: false
+  xy: 2, 2
+  size: 21, 21
+  orig: 38, 38
+  offset: 7, 7
+  index: -1
+lizi/lizi_00002
+  rotate: false
+  xy: 2, 25
+  size: 23, 23
+  orig: 38, 38
+  offset: 5, 6
+  index: -1
+lizi/lizi_00003
+  rotate: false
+  xy: 334, 16
+  size: 23, 24
+  orig: 38, 38
+  offset: 5, 5
+  index: -1
+lizi/lizi_00004
+  rotate: true
+  xy: 307, 16
+  size: 24, 25
+  orig: 38, 38
+  offset: 4, 5
+  index: -1
+lizi/lizi_00005
+  rotate: false
+  xy: 365, 43
+  size: 26, 26
+  orig: 38, 38
+  offset: 3, 4
+  index: -1
+lizi/lizi_00006
+  rotate: false
+  xy: 337, 42
+  size: 26, 27
+  orig: 38, 38
+  offset: 3, 4
+  index: -1
+lizi/lizi_00007
+  rotate: true
+  xy: 307, 42
+  size: 27, 28
+  orig: 38, 38
+  offset: 3, 4
+  index: -1
+lizi/lizi_00008
+  rotate: false
+  xy: 365, 13
+  size: 24, 28
+  orig: 38, 38
+  offset: 6, 4
+  index: -1
+lizi/lizi_00009
+  rotate: false
+  xy: 53, 20
+  size: 21, 28
+  orig: 38, 38
+  offset: 9, 4
+  index: -1
+lizi/lizi_00010
+  rotate: true
+  xy: 27, 26
+  size: 22, 24
+  orig: 38, 38
+  offset: 9, 9
+  index: -1
+lizi/lizi_00011
+  rotate: true
+  xy: 27, 5
+  size: 19, 24
+  orig: 38, 38
+  offset: 9, 9
+  index: -1
+lizi/lizi_00012
+  rotate: false
+  xy: 359, 37
+  size: 3, 3
+  orig: 38, 38
+  offset: 11, 30
+  index: -1
+lizi/lizi_00013
+  rotate: false
+  xy: 359, 32
+  size: 3, 3
+  orig: 38, 38
+  offset: 11, 30
+  index: -1

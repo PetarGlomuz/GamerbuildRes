@@ -1,0 +1,209 @@
+
+Fly_glow.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow/glow_01
+  rotate: false
+  xy: 45, 3
+  size: 39, 40
+  orig: 80, 70
+  offset: 21, 15
+  index: -1
+glow/glow_02
+  rotate: false
+  xy: 2, 2
+  size: 41, 41
+  orig: 80, 70
+  offset: 20, 15
+  index: -1
+glow/glow_03
+  rotate: false
+  xy: 442, 455
+  size: 44, 44
+  orig: 80, 70
+  offset: 19, 13
+  index: -1
+glow/glow_04
+  rotate: false
+  xy: 298, 326
+  size: 47, 47
+  orig: 80, 70
+  offset: 17, 12
+  index: -1
+glow/glow_05
+  rotate: false
+  xy: 224, 251
+  size: 51, 51
+  orig: 80, 70
+  offset: 15, 10
+  index: -1
+glow/glow_06
+  rotate: false
+  xy: 150, 181
+  size: 55, 55
+  orig: 80, 70
+  offset: 13, 8
+  index: -1
+glow/glow_07
+  rotate: false
+  xy: 76, 111
+  size: 60, 58
+  orig: 80, 70
+  offset: 11, 6
+  index: -1
+glow/glow_08
+  rotate: false
+  xy: 2, 45
+  size: 65, 58
+  orig: 80, 70
+  offset: 8, 6
+  index: -1
+glow/glow_09
+  rotate: false
+  xy: 298, 375
+  size: 68, 58
+  orig: 80, 70
+  offset: 6, 6
+  index: -1
+glow/glow_10
+  rotate: false
+  xy: 372, 441
+  size: 68, 58
+  orig: 80, 70
+  offset: 6, 6
+  index: -1
+glow/glow_11
+  rotate: false
+  xy: 150, 238
+  size: 72, 63
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_12
+  rotate: false
+  xy: 2, 435
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_13
+  rotate: false
+  xy: 2, 369
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_14
+  rotate: false
+  xy: 76, 435
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_15
+  rotate: false
+  xy: 2, 303
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_16
+  rotate: false
+  xy: 76, 369
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_17
+  rotate: false
+  xy: 150, 435
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_18
+  rotate: false
+  xy: 2, 237
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_19
+  rotate: false
+  xy: 76, 303
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_20
+  rotate: false
+  xy: 150, 369
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_21
+  rotate: false
+  xy: 224, 435
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_22
+  rotate: false
+  xy: 2, 171
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_23
+  rotate: false
+  xy: 76, 237
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_24
+  rotate: false
+  xy: 150, 303
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_25
+  rotate: false
+  xy: 224, 369
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_26
+  rotate: false
+  xy: 298, 435
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_27
+  rotate: false
+  xy: 2, 105
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_28
+  rotate: false
+  xy: 76, 171
+  size: 72, 64
+  orig: 80, 70
+  offset: 4, 3
+  index: -1
+glow/glow_29
+  rotate: false
+  xy: 224, 304
+  size: 72, 63
+  orig: 80, 70
+  offset: 4, 3
+  index: -1

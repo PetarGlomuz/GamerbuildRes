@@ -1,0 +1,27 @@
+
+bg_fish4.png
+size: 569,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_yu4_1
+  rotate: true
+  xy: 2, 2
+  size: 409, 187
+  orig: 409, 187
+  offset: 0, 0
+  index: -1
+BG_yu4_2
+  rotate: true
+  xy: 191, 2
+  size: 409, 187
+  orig: 409, 187
+  offset: 0, 0
+  index: -1
+BG_yu4_3
+  rotate: true
+  xy: 380, 2
+  size: 409, 187
+  orig: 409, 187
+  offset: 0, 0
+  index: -1

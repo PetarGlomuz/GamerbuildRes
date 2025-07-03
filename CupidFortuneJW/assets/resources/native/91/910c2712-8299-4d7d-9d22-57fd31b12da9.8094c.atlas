@@ -1,0 +1,20 @@
+
+TC_FG_diban.png
+size: 760,587
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diban
+  rotate: false
+  xy: 2, 2
+  size: 719, 583
+  orig: 719, 583
+  offset: 0, 0
+  index: -1
+xin
+  rotate: true
+  xy: 723, 547
+  size: 38, 35
+  orig: 50, 50
+  offset: 6, 8
+  index: -1

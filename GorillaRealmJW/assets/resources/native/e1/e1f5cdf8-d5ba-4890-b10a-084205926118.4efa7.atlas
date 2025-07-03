@@ -1,0 +1,146 @@
+
+JP_minor_zi.png
+size: 444,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/MINOR
+  rotate: false
+  xy: 2, 335
+  size: 378, 107
+  orig: 387, 112
+  offset: 5, 4
+  index: -1
+wenjian/minor_g/minor_g_00
+  rotate: false
+  xy: 323, 69
+  size: 75, 51
+  orig: 194, 56
+  offset: 2, 5
+  index: -1
+wenjian/minor_g/minor_g_01
+  rotate: false
+  xy: 323, 122
+  size: 89, 51
+  orig: 194, 56
+  offset: 2, 5
+  index: -1
+wenjian/minor_g/minor_g_02
+  rotate: false
+  xy: 323, 175
+  size: 102, 51
+  orig: 194, 56
+  offset: 2, 5
+  index: -1
+wenjian/minor_g/minor_g_03
+  rotate: true
+  xy: 382, 333
+  size: 109, 51
+  orig: 194, 56
+  offset: 2, 5
+  index: -1
+wenjian/minor_g/minor_g_04
+  rotate: false
+  xy: 195, 70
+  size: 126, 51
+  orig: 194, 56
+  offset: 3, 5
+  index: -1
+wenjian/minor_g/minor_g_05
+  rotate: false
+  xy: 55, 70
+  size: 138, 51
+  orig: 194, 56
+  offset: 3, 5
+  index: -1
+wenjian/minor_g/minor_g_06
+  rotate: false
+  xy: 170, 176
+  size: 151, 51
+  orig: 194, 56
+  offset: 3, 5
+  index: -1
+wenjian/minor_g/minor_g_07
+  rotate: false
+  xy: 180, 229
+  size: 162, 51
+  orig: 194, 56
+  offset: 4, 5
+  index: -1
+wenjian/minor_g/minor_g_08
+  rotate: false
+  xy: 183, 282
+  size: 174, 51
+  orig: 194, 56
+  offset: 5, 5
+  index: -1
+wenjian/minor_g/minor_g_09
+  rotate: false
+  xy: 2, 282
+  size: 179, 51
+  orig: 194, 56
+  offset: 7, 5
+  index: -1
+wenjian/minor_g/minor_g_10
+  rotate: false
+  xy: 2, 229
+  size: 176, 51
+  orig: 194, 56
+  offset: 12, 5
+  index: -1
+wenjian/minor_g/minor_g_11
+  rotate: false
+  xy: 2, 176
+  size: 166, 51
+  orig: 194, 56
+  offset: 24, 5
+  index: -1
+wenjian/minor_g/minor_g_12
+  rotate: false
+  xy: 2, 123
+  size: 153, 51
+  orig: 194, 56
+  offset: 38, 5
+  index: -1
+wenjian/minor_g/minor_g_13
+  rotate: false
+  xy: 157, 123
+  size: 142, 51
+  orig: 194, 56
+  offset: 49, 5
+  index: -1
+wenjian/minor_g/minor_g_14
+  rotate: false
+  xy: 55, 17
+  size: 131, 51
+  orig: 194, 56
+  offset: 61, 5
+  index: -1
+wenjian/minor_g/minor_g_15
+  rotate: true
+  xy: 2, 2
+  size: 119, 51
+  orig: 194, 56
+  offset: 73, 5
+  index: -1
+wenjian/minor_g/minor_g_16
+  rotate: false
+  xy: 188, 17
+  size: 107, 51
+  orig: 194, 56
+  offset: 85, 5
+  index: -1
+wenjian/minor_g/minor_g_17
+  rotate: false
+  xy: 344, 228
+  size: 94, 51
+  orig: 194, 56
+  offset: 98, 5
+  index: -1
+wenjian/minor_g/minor_g_18
+  rotate: false
+  xy: 359, 281
+  size: 83, 50
+  orig: 194, 56
+  offset: 109, 6
+  index: -1

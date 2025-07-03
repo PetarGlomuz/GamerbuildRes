@@ -1,0 +1,90 @@
+
+BG_lizi.png
+size: 328,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/lizi_00000
+  rotate: true
+  xy: 2, 3
+  size: 36, 37
+  orig: 75, 75
+  offset: 16, 17
+  index: -1
+lizi/lizi_00001
+  rotate: false
+  xy: 112, 2
+  size: 41, 40
+  orig: 75, 75
+  offset: 13, 15
+  index: -1
+lizi/lizi_00002
+  rotate: false
+  xy: 221, 2
+  size: 44, 43
+  orig: 75, 75
+  offset: 11, 13
+  index: -1
+lizi/lizi_00003
+  rotate: false
+  xy: 271, 48
+  size: 46, 46
+  orig: 75, 75
+  offset: 9, 11
+  index: -1
+lizi/lizi_00004
+  rotate: true
+  xy: 221, 47
+  size: 47, 48
+  orig: 75, 75
+  offset: 8, 10
+  index: -1
+lizi/lizi_00005
+  rotate: false
+  xy: 112, 44
+  size: 50, 50
+  orig: 75, 75
+  offset: 7, 9
+  index: -1
+lizi/lizi_00006
+  rotate: false
+  xy: 58, 42
+  size: 52, 52
+  orig: 75, 75
+  offset: 6, 9
+  index: -1
+lizi/lizi_00007
+  rotate: true
+  xy: 2, 41
+  size: 53, 54
+  orig: 75, 75
+  offset: 6, 8
+  index: -1
+lizi/lizi_00008
+  rotate: true
+  xy: 164, 46
+  size: 48, 55
+  orig: 75, 75
+  offset: 11, 8
+  index: -1
+lizi/lizi_00009
+  rotate: true
+  xy: 271, 4
+  size: 42, 55
+  orig: 75, 75
+  offset: 18, 8
+  index: -1
+lizi/lizi_00010
+  rotate: true
+  xy: 164, 2
+  size: 42, 46
+  orig: 75, 75
+  offset: 18, 18
+  index: -1
+lizi/lizi_00011
+  rotate: true
+  xy: 58, 2
+  size: 38, 45
+  orig: 75, 75
+  offset: 18, 19
+  index: -1

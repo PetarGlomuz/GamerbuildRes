@@ -1,0 +1,111 @@
+
+ng_tp2.png
+size: 1160,788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tp/1_00
+  rotate: false
+  xy: 152, 3
+  size: 151, 390
+  orig: 250, 500
+  offset: 52, 61
+  index: -1
+images/tp/1_01
+  rotate: false
+  xy: 617, 10
+  size: 151, 387
+  orig: 250, 500
+  offset: 52, 61
+  index: -1
+images/tp/1_02
+  rotate: false
+  xy: 619, 400
+  size: 151, 386
+  orig: 250, 500
+  offset: 52, 61
+  index: -1
+images/tp/1_03
+  rotate: true
+  xy: 772, 483
+  size: 151, 385
+  orig: 250, 500
+  offset: 51, 61
+  index: -1
+images/tp/1_04
+  rotate: true
+  xy: 772, 331
+  size: 150, 385
+  orig: 250, 500
+  offset: 51, 61
+  index: -1
+images/tp/1_05
+  rotate: true
+  xy: 770, 29
+  size: 150, 384
+  orig: 250, 500
+  offset: 51, 61
+  index: -1
+images/tp/1_06
+  rotate: true
+  xy: 770, 181
+  size: 148, 385
+  orig: 250, 500
+  offset: 53, 60
+  index: -1
+images/tp/1_07
+  rotate: true
+  xy: 772, 636
+  size: 150, 386
+  orig: 250, 500
+  offset: 52, 59
+  index: -1
+images/tp/1_08
+  rotate: false
+  xy: 465, 399
+  size: 152, 387
+  orig: 250, 500
+  offset: 51, 58
+  index: -1
+images/tp/1_09
+  rotate: false
+  xy: 461, 8
+  size: 154, 387
+  orig: 250, 500
+  offset: 50, 58
+  index: -1
+images/tp/1_10
+  rotate: false
+  xy: 156, 397
+  size: 155, 389
+  orig: 250, 500
+  offset: 50, 57
+  index: -1
+images/tp/1_11
+  rotate: false
+  xy: 305, 6
+  size: 154, 389
+  orig: 250, 500
+  offset: 49, 57
+  index: -1
+images/tp/1_12
+  rotate: false
+  xy: 2, 395
+  size: 152, 391
+  orig: 250, 500
+  offset: 51, 56
+  index: -1
+images/tp/1_13
+  rotate: false
+  xy: 2, 2
+  size: 148, 391
+  orig: 250, 500
+  offset: 54, 56
+  index: -1
+images/tp/1_14
+  rotate: false
+  xy: 313, 397
+  size: 150, 389
+  orig: 250, 500
+  offset: 53, 58
+  index: -1

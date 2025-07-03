@@ -1,0 +1,20 @@
+
+FG_XiaLuo.png
+size: 380,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Symbol11
+  rotate: true
+  xy: 2, 2
+  size: 181, 194
+  orig: 182, 194
+  offset: 0, 0
+  index: -1
+images/sj_g1_000
+  rotate: false
+  xy: 198, 3
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1

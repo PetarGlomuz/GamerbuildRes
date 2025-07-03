@@ -1,0 +1,62 @@
+
+long.png
+size: 599,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huan_00
+  rotate: false
+  xy: 469, 6
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+images/huan
+  rotate: false
+  xy: 357, 15
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+images/kuang
+  rotate: false
+  xy: 0, 1
+  size: 126, 124
+  orig: 126, 124
+  offset: 0, 0
+  index: -1
+images/longshen
+  rotate: false
+  xy: 243, 0
+  size: 112, 125
+  orig: 112, 125
+  offset: 0, 0
+  index: -1
+images/longtoushang
+  rotate: false
+  xy: 533, 1
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+images/longwei
+  rotate: false
+  xy: 469, 70
+  size: 105, 55
+  orig: 105, 55
+  offset: 0, 0
+  index: -1
+images/longzhua
+  rotate: false
+  xy: 576, 100
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+images/xingguang
+  rotate: false
+  xy: 128, 1
+  size: 113, 124
+  orig: 113, 124
+  offset: 0, 0
+  index: -1

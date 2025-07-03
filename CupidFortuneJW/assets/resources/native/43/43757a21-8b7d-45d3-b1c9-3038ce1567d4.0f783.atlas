@@ -1,0 +1,118 @@
+
+TC_jpwheel_wheel_board.png
+size: 1018,1018
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+board
+  rotate: false
+  xy: 2, 478
+  size: 774, 538
+  orig: 774, 538
+  offset: 0, 0
+  index: -1
+board/board_00
+  rotate: false
+  xy: 640, 109
+  size: 167, 32
+  orig: 373, 280
+  offset: 8, 244
+  index: -1
+board/board_01
+  rotate: true
+  xy: 957, 375
+  size: 282, 52
+  orig: 373, 280
+  offset: 8, 224
+  index: -1
+board/board_02
+  rotate: true
+  xy: 930, 659
+  size: 357, 76
+  orig: 373, 280
+  offset: 8, 200
+  index: -1
+board/board_03
+  rotate: false
+  xy: 334, 237
+  size: 345, 101
+  orig: 373, 280
+  offset: 20, 175
+  index: -1
+board/board_04
+  rotate: false
+  xy: 306, 21
+  size: 332, 125
+  orig: 373, 280
+  offset: 33, 151
+  index: -1
+board/board_05
+  rotate: true
+  xy: 778, 689
+  size: 327, 150
+  orig: 373, 280
+  offset: 38, 126
+  index: -1
+board/board_06
+  rotate: false
+  xy: 2, 157
+  size: 317, 158
+  orig: 373, 280
+  offset: 38, 101
+  index: -1
+board/board_07
+  rotate: false
+  xy: 2, 2
+  size: 302, 153
+  orig: 373, 280
+  offset: 37, 80
+  index: -1
+board/board_08
+  rotate: false
+  xy: 681, 185
+  size: 306, 158
+  orig: 373, 280
+  offset: 32, 50
+  index: -1
+board/board_09
+  rotate: false
+  xy: 2, 317
+  size: 330, 159
+  orig: 373, 280
+  offset: 8, 24
+  index: -1
+board/board_10
+  rotate: false
+  xy: 334, 340
+  size: 334, 136
+  orig: 373, 280
+  offset: 8, 23
+  index: -1
+board/board_11
+  rotate: true
+  xy: 778, 345
+  size: 342, 112
+  orig: 373, 280
+  offset: 8, 23
+  index: -1
+board/board_12
+  rotate: false
+  xy: 321, 148
+  size: 357, 87
+  orig: 373, 280
+  offset: 8, 23
+  index: -1
+board/board_13
+  rotate: true
+  xy: 892, 347
+  size: 310, 63
+  orig: 373, 280
+  offset: 55, 23
+  index: -1
+board/board_14
+  rotate: false
+  xy: 680, 143
+  size: 195, 40
+  orig: 373, 280
+  offset: 170, 23
+  index: -1

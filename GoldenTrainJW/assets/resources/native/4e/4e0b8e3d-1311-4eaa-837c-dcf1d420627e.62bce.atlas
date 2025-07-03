@@ -1,0 +1,146 @@
+
+TC_JP_anniu.png
+size: 726,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniusg/anniusg_00
+  rotate: false
+  xy: 686, 71
+  size: 38, 46
+  orig: 156, 58
+  offset: 2, 2
+  index: -1
+anniusg/anniusg_01
+  rotate: true
+  xy: 633, 59
+  size: 54, 51
+  orig: 156, 58
+  offset: 2, 2
+  index: -1
+anniusg/anniusg_02
+  rotate: false
+  xy: 619, 5
+  size: 69, 52
+  orig: 156, 58
+  offset: 2, 2
+  index: -1
+anniusg/anniusg_03
+  rotate: false
+  xy: 458, 6
+  size: 85, 52
+  orig: 156, 58
+  offset: 2, 2
+  index: -1
+anniusg/anniusg_04
+  rotate: false
+  xy: 573, 115
+  size: 101, 53
+  orig: 156, 58
+  offset: 2, 2
+  index: -1
+anniusg/anniusg_05
+  rotate: false
+  xy: 288, 5
+  size: 117, 53
+  orig: 156, 58
+  offset: 2, 2
+  index: -1
+anniusg/anniusg_06
+  rotate: false
+  xy: 304, 60
+  size: 132, 53
+  orig: 156, 58
+  offset: 2, 2
+  index: -1
+anniusg/anniusg_07
+  rotate: false
+  xy: 306, 115
+  size: 145, 53
+  orig: 156, 58
+  offset: 2, 2
+  index: -1
+anniusg/anniusg_08
+  rotate: false
+  xy: 2, 115
+  size: 151, 53
+  orig: 156, 58
+  offset: 2, 2
+  index: -1
+anniusg/anniusg_09
+  rotate: false
+  xy: 2, 60
+  size: 151, 53
+  orig: 156, 58
+  offset: 3, 2
+  index: -1
+anniusg/anniusg_10
+  rotate: false
+  xy: 155, 115
+  size: 149, 53
+  orig: 156, 58
+  offset: 5, 2
+  index: -1
+anniusg/anniusg_11
+  rotate: false
+  xy: 2, 5
+  size: 149, 53
+  orig: 156, 58
+  offset: 5, 2
+  index: -1
+anniusg/anniusg_12
+  rotate: false
+  xy: 155, 60
+  size: 147, 53
+  orig: 156, 58
+  offset: 7, 2
+  index: -1
+anniusg/anniusg_13
+  rotate: false
+  xy: 153, 5
+  size: 133, 53
+  orig: 156, 58
+  offset: 21, 2
+  index: -1
+anniusg/anniusg_14
+  rotate: false
+  xy: 453, 115
+  size: 118, 53
+  orig: 156, 58
+  offset: 36, 2
+  index: -1
+anniusg/anniusg_15
+  rotate: false
+  xy: 438, 60
+  size: 103, 53
+  orig: 156, 58
+  offset: 51, 2
+  index: -1
+anniusg/anniusg_16
+  rotate: false
+  xy: 543, 60
+  size: 88, 53
+  orig: 156, 58
+  offset: 66, 2
+  index: -1
+anniusg/anniusg_17
+  rotate: false
+  xy: 545, 6
+  size: 72, 52
+  orig: 156, 58
+  offset: 82, 3
+  index: -1
+anniusg/anniusg_18
+  rotate: true
+  xy: 407, 2
+  size: 56, 49
+  orig: 156, 58
+  offset: 98, 5
+  index: -1
+anniusg/anniusg_19
+  rotate: false
+  xy: 676, 119
+  size: 40, 49
+  orig: 156, 58
+  offset: 114, 5
+  index: -1

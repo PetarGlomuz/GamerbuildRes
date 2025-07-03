@@ -1,0 +1,160 @@
+
+TC_jp_chip.png
+size: 414,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chip
+  rotate: false
+  xy: 2, 44
+  size: 106, 111
+  orig: 106, 111
+  offset: 0, 0
+  index: -1
+sg/chipsg_00
+  rotate: true
+  xy: 379, 89
+  size: 20, 32
+  orig: 99, 104
+  offset: 24, 26
+  index: -1
+sg/chipsg_01
+  rotate: false
+  xy: 356, 14
+  size: 26, 39
+  orig: 99, 104
+  offset: 24, 25
+  index: -1
+sg/chipsg_02
+  rotate: false
+  xy: 379, 111
+  size: 33, 44
+  orig: 99, 104
+  offset: 23, 25
+  index: -1
+sg/chipsg_03
+  rotate: true
+  xy: 215, 6
+  size: 39, 47
+  orig: 99, 104
+  offset: 23, 25
+  index: -1
+sg/chipsg_04
+  rotate: true
+  xy: 110, 2
+  size: 43, 50
+  orig: 99, 104
+  offset: 23, 25
+  index: -1
+sg/chipsg_05
+  rotate: true
+  xy: 271, 55
+  size: 46, 51
+  orig: 99, 104
+  offset: 23, 25
+  index: -1
+sg/chipsg_06
+  rotate: true
+  xy: 324, 55
+  size: 49, 52
+  orig: 99, 104
+  offset: 23, 25
+  index: -1
+sg/chipsg_07
+  rotate: false
+  xy: 271, 103
+  size: 51, 52
+  orig: 99, 104
+  offset: 23, 25
+  index: -1
+sg/chipsg_08
+  rotate: false
+  xy: 110, 102
+  size: 52, 53
+  orig: 99, 104
+  offset: 23, 25
+  index: -1
+sg/chipsg_09
+  rotate: false
+  xy: 110, 47
+  size: 52, 53
+  orig: 99, 104
+  offset: 23, 25
+  index: -1
+sg/chipsg_10
+  rotate: false
+  xy: 164, 102
+  size: 52, 53
+  orig: 99, 104
+  offset: 23, 25
+  index: -1
+sg/chipsg_11
+  rotate: false
+  xy: 164, 47
+  size: 51, 53
+  orig: 99, 104
+  offset: 24, 25
+  index: -1
+sg/chipsg_12
+  rotate: false
+  xy: 218, 102
+  size: 51, 53
+  orig: 99, 104
+  offset: 24, 25
+  index: -1
+sg/chipsg_13
+  rotate: false
+  xy: 217, 47
+  size: 51, 53
+  orig: 99, 104
+  offset: 24, 25
+  index: -1
+sg/chipsg_14
+  rotate: true
+  xy: 324, 106
+  size: 49, 53
+  orig: 99, 104
+  offset: 26, 25
+  index: -1
+sg/chipsg_15
+  rotate: true
+  xy: 270, 7
+  size: 46, 52
+  orig: 99, 104
+  offset: 29, 26
+  index: -1
+sg/chipsg_16
+  rotate: true
+  xy: 162, 3
+  size: 42, 51
+  orig: 99, 104
+  offset: 33, 27
+  index: -1
+sg/chipsg_17
+  rotate: true
+  xy: 2, 4
+  size: 38, 49
+  orig: 99, 104
+  offset: 37, 29
+  index: -1
+sg/chipsg_18
+  rotate: true
+  xy: 53, 8
+  size: 34, 44
+  orig: 99, 104
+  offset: 41, 33
+  index: -1
+sg/chipsg_19
+  rotate: false
+  xy: 324, 15
+  size: 30, 38
+  orig: 99, 104
+  offset: 45, 38
+  index: -1
+sg/chipsg_20
+  rotate: false
+  xy: 378, 55
+  size: 24, 32
+  orig: 99, 104
+  offset: 51, 43
+  index: -1

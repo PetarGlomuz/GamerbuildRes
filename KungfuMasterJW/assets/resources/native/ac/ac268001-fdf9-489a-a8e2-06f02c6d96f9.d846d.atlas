@@ -1,0 +1,132 @@
+
+xiaojiedian.png
+size: 964,670
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/1_00001
+  rotate: true
+  xy: 731, 398
+  size: 128, 230
+  orig: 264, 284
+  offset: 62, 8
+  index: -1
+image/1_00002
+  rotate: false
+  xy: 589, 436
+  size: 140, 232
+  orig: 264, 284
+  offset: 59, 8
+  index: -1
+image/1_00003
+  rotate: true
+  xy: 244, 2
+  size: 159, 234
+  orig: 264, 284
+  offset: 53, 7
+  index: -1
+image/1_00004
+  rotate: false
+  xy: 295, 434
+  size: 159, 234
+  orig: 264, 284
+  offset: 53, 7
+  index: -1
+image/1_00005
+  rotate: true
+  xy: 480, 26
+  size: 170, 233
+  orig: 264, 284
+  offset: 46, 8
+  index: -1
+image/1_00006
+  rotate: false
+  xy: 572, 199
+  size: 145, 233
+  orig: 264, 284
+  offset: 54, 8
+  index: -1
+image/1_00007
+  rotate: false
+  xy: 2, 412
+  size: 145, 256
+  orig: 264, 284
+  offset: 56, 8
+  index: -1
+image/1_00008
+  rotate: false
+  xy: 2, 157
+  size: 145, 253
+  orig: 264, 284
+  offset: 56, 9
+  index: -1
+image/1_00009
+  rotate: false
+  xy: 149, 416
+  size: 144, 252
+  orig: 264, 284
+  offset: 57, 9
+  index: -1
+image/1_00010
+  rotate: false
+  xy: 149, 163
+  size: 143, 251
+  orig: 264, 284
+  offset: 58, 9
+  index: -1
+image/1_00011
+  rotate: false
+  xy: 294, 169
+  size: 143, 245
+  orig: 264, 284
+  offset: 58, 9
+  index: -1
+image/1_00012
+  rotate: true
+  xy: 2, 9
+  size: 146, 240
+  orig: 264, 284
+  offset: 55, 9
+  index: -1
+image/1_00013
+  rotate: false
+  xy: 439, 198
+  size: 131, 234
+  orig: 264, 284
+  offset: 62, 10
+  index: -1
+image/1_00014
+  rotate: false
+  xy: 456, 434
+  size: 131, 234
+  orig: 264, 284
+  offset: 62, 10
+  index: -1
+image/1_00015
+  rotate: true
+  xy: 731, 528
+  size: 140, 231
+  orig: 264, 284
+  offset: 58, 11
+  index: -1
+image/1_00016
+  rotate: true
+  xy: 719, 263
+  size: 133, 229
+  orig: 264, 284
+  offset: 62, 13
+  index: -1
+image/1_00017
+  rotate: true
+  xy: 719, 126
+  size: 135, 225
+  orig: 264, 284
+  offset: 60, 13
+  index: -1
+image/1_00018
+  rotate: true
+  xy: 715, 4
+  size: 120, 216
+  orig: 264, 284
+  offset: 69, 17
+  index: -1

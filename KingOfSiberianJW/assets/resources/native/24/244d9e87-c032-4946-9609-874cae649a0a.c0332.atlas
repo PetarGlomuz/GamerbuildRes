@@ -1,0 +1,104 @@
+
+LunPan_XuanZhong.png
+size: 786,432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/lp/lunpan_000
+  rotate: true
+  xy: 573, 117
+  size: 105, 206
+  orig: 120, 210
+  offset: 15, 0
+  index: -1
+images/lp/lunpan_001
+  rotate: false
+  xy: 349, 9
+  size: 106, 209
+  orig: 120, 210
+  offset: 14, 0
+  index: -1
+images/lp/lunpan_002
+  rotate: false
+  xy: 235, 220
+  size: 112, 210
+  orig: 120, 210
+  offset: 7, 0
+  index: -1
+images/lp/lunpan_003
+  rotate: false
+  xy: 235, 8
+  size: 112, 210
+  orig: 120, 210
+  offset: 8, 0
+  index: -1
+images/lp/lunpan_004
+  rotate: false
+  xy: 119, 220
+  size: 114, 210
+  orig: 120, 210
+  offset: 6, 0
+  index: -1
+images/lp/lunpan_005
+  rotate: false
+  xy: 457, 12
+  size: 114, 207
+  orig: 120, 210
+  offset: 6, 3
+  index: -1
+images/lp/lunpan_006
+  rotate: false
+  xy: 562, 224
+  size: 115, 206
+  orig: 120, 210
+  offset: 5, 4
+  index: -1
+images/lp/lunpan_007
+  rotate: false
+  xy: 119, 8
+  size: 114, 210
+  orig: 120, 210
+  offset: 6, 0
+  index: -1
+images/lp/lunpan_008
+  rotate: false
+  xy: 2, 220
+  size: 115, 210
+  orig: 120, 210
+  offset: 5, 0
+  index: -1
+images/lp/lunpan_009
+  rotate: false
+  xy: 2, 8
+  size: 115, 210
+  orig: 120, 210
+  offset: 5, 0
+  index: -1
+images/lp/lunpan_010
+  rotate: false
+  xy: 349, 220
+  size: 105, 210
+  orig: 120, 210
+  offset: 6, 0
+  index: -1
+images/lp/lunpan_011
+  rotate: false
+  xy: 456, 221
+  size: 104, 209
+  orig: 120, 210
+  offset: 6, 0
+  index: -1
+images/lp/lunpan_012
+  rotate: true
+  xy: 573, 2
+  size: 113, 204
+  orig: 120, 210
+  offset: 7, 0
+  index: -1
+images/lp/lunpan_013
+  rotate: false
+  xy: 679, 224
+  size: 105, 206
+  orig: 120, 210
+  offset: 15, 0
+  index: -1

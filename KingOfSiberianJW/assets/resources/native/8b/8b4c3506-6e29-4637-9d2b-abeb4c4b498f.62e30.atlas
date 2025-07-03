@@ -1,0 +1,13 @@
+
+H3.png
+size: 100,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h4_2
+  rotate: false
+  xy: 2, 2
+  size: 96, 88
+  orig: 99, 90
+  offset: 1, 2
+  index: -1

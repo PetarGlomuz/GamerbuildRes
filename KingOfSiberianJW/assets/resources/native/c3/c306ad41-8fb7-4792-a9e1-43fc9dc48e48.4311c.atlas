@@ -1,0 +1,20 @@
+
+Scatter.png
+size: 480,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/s1_000
+  rotate: false
+  xy: 2, 2
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+images/sc1
+  rotate: false
+  xy: 364, 248
+  size: 114, 114
+  orig: 128, 125
+  offset: 6, 5
+  index: -1

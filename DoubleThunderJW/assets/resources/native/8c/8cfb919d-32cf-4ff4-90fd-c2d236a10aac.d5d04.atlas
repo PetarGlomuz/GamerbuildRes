@@ -1,0 +1,146 @@
+
+yazhu.png
+size: 616,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg/sg_00
+  rotate: true
+  xy: 274, 281
+  size: 263, 68
+  orig: 276, 70
+  offset: 1, 1
+  index: -1
+sg/sg_01
+  rotate: true
+  xy: 141, 279
+  size: 264, 68
+  orig: 276, 70
+  offset: 1, 2
+  index: -1
+sg/sg_02
+  rotate: true
+  xy: 72, 277
+  size: 266, 67
+  orig: 276, 70
+  offset: 1, 2
+  index: -1
+sg/sg_03
+  rotate: true
+  xy: 211, 278
+  size: 265, 61
+  orig: 276, 70
+  offset: 2, 8
+  index: -1
+sg/sg_04
+  rotate: true
+  xy: 483, 273
+  size: 271, 61
+  orig: 276, 70
+  offset: 3, 8
+  index: -1
+sg/sg_05
+  rotate: true
+  xy: 130, 19
+  size: 256, 61
+  orig: 276, 70
+  offset: 18, 8
+  index: -1
+sg/sg_06
+  rotate: true
+  xy: 414, 290
+  size: 254, 67
+  orig: 276, 70
+  offset: 21, 2
+  index: -1
+sg/sg_07
+  rotate: true
+  xy: 193, 22
+  size: 254, 67
+  orig: 276, 70
+  offset: 21, 2
+  index: -1
+sg/sg_08
+  rotate: true
+  xy: 546, 361
+  size: 253, 68
+  orig: 276, 70
+  offset: 22, 1
+  index: -1
+sg/sg_09
+  rotate: true
+  xy: 344, 285
+  size: 259, 68
+  orig: 276, 70
+  offset: 17, 1
+  index: -1
+sg/sg_10
+  rotate: false
+  xy: 2, 545
+  size: 266, 69
+  orig: 276, 70
+  offset: 10, 0
+  index: -1
+sg/sg_11
+  rotate: false
+  xy: 270, 546
+  size: 266, 68
+  orig: 276, 70
+  offset: 9, 0
+  index: -1
+sg/sg_12
+  rotate: true
+  xy: 2, 276
+  size: 267, 68
+  orig: 276, 70
+  offset: 8, 0
+  index: -1
+sg/sg_13
+  rotate: true
+  xy: 66, 8
+  size: 266, 62
+  orig: 276, 70
+  offset: 8, 0
+  index: -1
+sg/sg_14
+  rotate: true
+  xy: 2, 2
+  size: 272, 62
+  orig: 276, 70
+  offset: 2, 0
+  index: -1
+sg/sg_15
+  rotate: true
+  xy: 262, 20
+  size: 256, 62
+  orig: 276, 70
+  offset: 2, 0
+  index: -1
+sg/sg_16
+  rotate: true
+  xy: 546, 107
+  size: 252, 68
+  orig: 276, 70
+  offset: 1, 0
+  index: -1
+sg/sg_17
+  rotate: true
+  xy: 326, 28
+  size: 251, 68
+  orig: 276, 70
+  offset: 1, 0
+  index: -1
+sg/sg_18
+  rotate: true
+  xy: 396, 117
+  size: 166, 68
+  orig: 276, 70
+  offset: 1, 1
+  index: -1
+sg/sg_19
+  rotate: true
+  xy: 466, 131
+  size: 140, 68
+  orig: 276, 70
+  offset: 0, 1
+  index: -1

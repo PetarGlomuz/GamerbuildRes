@@ -1,0 +1,139 @@
+
+JP_saoguang.png
+size: 447,445
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jp_sg_00
+  rotate: false
+  xy: 351, 276
+  size: 54, 41
+  orig: 150, 50
+  offset: 92, 4
+  index: -1
+images/jp_sg_01
+  rotate: false
+  xy: 217, 102
+  size: 71, 41
+  orig: 150, 50
+  offset: 73, 4
+  index: -1
+images/jp_sg_02
+  rotate: false
+  xy: 351, 319
+  size: 87, 41
+  orig: 150, 50
+  offset: 55, 4
+  index: -1
+images/jp_sg_03
+  rotate: false
+  xy: 113, 102
+  size: 102, 41
+  orig: 150, 50
+  offset: 37, 4
+  index: -1
+images/jp_sg_04
+  rotate: true
+  xy: 284, 176
+  size: 109, 41
+  orig: 150, 50
+  offset: 23, 4
+  index: -1
+images/jp_sg_05
+  rotate: false
+  xy: 2, 102
+  size: 109, 41
+  orig: 150, 50
+  offset: 13, 4
+  index: -1
+images/jp_sg_06
+  rotate: false
+  xy: 2, 59
+  size: 106, 41
+  orig: 150, 50
+  offset: 5, 4
+  index: -1
+images/jp_sg_07
+  rotate: false
+  xy: 2, 16
+  size: 97, 41
+  orig: 150, 50
+  offset: 4, 4
+  index: -1
+images/jp_sg_08
+  rotate: false
+  xy: 110, 59
+  size: 87, 41
+  orig: 150, 50
+  offset: 4, 4
+  index: -1
+images/jp_sg_09
+  rotate: false
+  xy: 101, 16
+  size: 76, 41
+  orig: 150, 50
+  offset: 4, 4
+  index: -1
+images/jp_sg_10
+  rotate: false
+  xy: 199, 59
+  size: 66, 41
+  orig: 150, 50
+  offset: 4, 4
+  index: -1
+images/jp_sg_11
+  rotate: false
+  xy: 179, 16
+  size: 56, 41
+  orig: 150, 50
+  offset: 4, 4
+  index: -1
+images/jp_sg_12
+  rotate: false
+  xy: 237, 16
+  size: 45, 41
+  orig: 150, 50
+  offset: 4, 4
+  index: -1
+images/jp_sg_13
+  rotate: false
+  xy: 407, 276
+  size: 35, 41
+  orig: 150, 50
+  offset: 4, 4
+  index: -1
+images/jp_sg_14
+  rotate: false
+  xy: 267, 59
+  size: 25, 41
+  orig: 150, 50
+  offset: 4, 4
+  index: -1
+jp1
+  rotate: false
+  xy: 2, 362
+  size: 443, 81
+  orig: 449, 88
+  offset: 3, 7
+  index: -1
+jp2
+  rotate: false
+  xy: 2, 287
+  size: 347, 73
+  orig: 347, 73
+  offset: 0, 0
+  index: -1
+jp3
+  rotate: false
+  xy: 2, 216
+  size: 280, 69
+  orig: 280, 69
+  offset: 0, 0
+  index: -1
+jp4
+  rotate: false
+  xy: 2, 145
+  size: 280, 69
+  orig: 280, 69
+  offset: 0, 0
+  index: -1

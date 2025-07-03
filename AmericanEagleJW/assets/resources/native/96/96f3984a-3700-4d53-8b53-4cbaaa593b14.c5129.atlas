@@ -1,0 +1,132 @@
+
+L2.png
+size: 437,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/l2
+  rotate: false
+  xy: 204, 125
+  size: 80, 78
+  orig: 112, 104
+  offset: 15, 15
+  index: -1
+images/l2sg/l2sg_000
+  rotate: false
+  xy: 286, 125
+  size: 1, 1
+  orig: 56, 56
+  offset: 8, 10
+  index: -1
+images/l2sg/l2sg_001
+  rotate: false
+  xy: 315, 2
+  size: 25, 40
+  orig: 56, 56
+  offset: 2, 4
+  index: -1
+images/l2sg/l2sg_002
+  rotate: false
+  xy: 398, 157
+  size: 37, 46
+  orig: 56, 56
+  offset: 0, 2
+  index: -1
+images/l2sg/l2sg_003
+  rotate: false
+  xy: 367, 45
+  size: 46, 49
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+images/l2sg/l2sg_004
+  rotate: false
+  xy: 315, 44
+  size: 50, 50
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+images/l2sg/l2sg_005
+  rotate: false
+  xy: 260, 15
+  size: 53, 51
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+images/l2sg/l2sg_006
+  rotate: true
+  xy: 261, 68
+  size: 55, 52
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+images/l2sg/l2sg_007
+  rotate: false
+  xy: 204, 69
+  size: 55, 54
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+images/l2sg/l2sg_008
+  rotate: false
+  xy: 286, 149
+  size: 54, 54
+  orig: 56, 56
+  offset: 1, 1
+  index: -1
+images/l2sg/l2sg_009
+  rotate: false
+  xy: 204, 13
+  size: 54, 54
+  orig: 56, 56
+  offset: 1, 1
+  index: -1
+images/l2sg/l2sg_010
+  rotate: false
+  xy: 342, 149
+  size: 54, 54
+  orig: 56, 56
+  offset: 1, 1
+  index: -1
+images/l2sg/l2sg_011
+  rotate: false
+  xy: 315, 96
+  size: 54, 51
+  orig: 56, 56
+  offset: 2, 3
+  index: -1
+images/l2sg/l2sg_012
+  rotate: true
+  xy: 371, 97
+  size: 50, 48
+  orig: 56, 56
+  offset: 6, 5
+  index: -1
+images/l2sg/l2sg_013
+  rotate: false
+  xy: 342, 3
+  size: 39, 39
+  orig: 56, 56
+  offset: 16, 13
+  index: -1
+images/l2sg/l2sg_014
+  rotate: false
+  xy: 286, 128
+  size: 24, 19
+  orig: 56, 56
+  offset: 29, 32
+  index: -1
+images/l2sg/l2sg_015
+  rotate: false
+  xy: 204, 2
+  size: 10, 9
+  orig: 56, 56
+  offset: 38, 37
+  index: -1
+images/star_000
+  rotate: false
+  xy: 2, 3
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+tc_bg_title4_EN.png
+size: 1734,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+super_volcano_EN
+  rotate: false
+  xy: 2, 2
+  size: 1050, 407
+  orig: 1052, 407
+  offset: 1, 0
+  index: -1
+super_volcano_EN/super_volcano_EN_00000
+  rotate: false
+  xy: 1516, 8
+  size: 39, 35
+  orig: 263, 102
+  offset: 1, 38
+  index: -1
+super_volcano_EN/super_volcano_EN_00001
+  rotate: false
+  xy: 1646, 82
+  size: 50, 35
+  orig: 263, 102
+  offset: 1, 38
+  index: -1
+super_volcano_EN/super_volcano_EN_00002
+  rotate: true
+  xy: 1516, 45
+  size: 61, 35
+  orig: 263, 102
+  offset: 1, 38
+  index: -1
+super_volcano_EN/super_volcano_EN_00003
+  rotate: false
+  xy: 1629, 119
+  size: 71, 35
+  orig: 263, 102
+  offset: 1, 38
+  index: -1
+super_volcano_EN/super_volcano_EN_00004
+  rotate: true
+  xy: 1664, 325
+  size: 84, 64
+  orig: 263, 102
+  offset: 1, 9
+  index: -1
+super_volcano_EN/super_volcano_EN_00005
+  rotate: false
+  xy: 1533, 110
+  size: 94, 97
+  orig: 263, 102
+  offset: 1, 4
+  index: -1
+super_volcano_EN/super_volcano_EN_00006
+  rotate: false
+  xy: 1542, 209
+  size: 103, 99
+  orig: 263, 102
+  offset: 2, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00007
+  rotate: false
+  xy: 1297, 7
+  size: 114, 99
+  orig: 263, 102
+  offset: 2, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00008
+  rotate: false
+  xy: 1054, 310
+  size: 123, 99
+  orig: 263, 102
+  offset: 3, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00009
+  rotate: false
+  xy: 1054, 209
+  size: 121, 99
+  orig: 263, 102
+  offset: 16, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00010
+  rotate: false
+  xy: 1179, 310
+  size: 121, 99
+  orig: 263, 102
+  offset: 26, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00011
+  rotate: false
+  xy: 1302, 310
+  size: 120, 99
+  orig: 263, 102
+  offset: 37, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00012
+  rotate: false
+  xy: 1054, 7
+  size: 120, 99
+  orig: 263, 102
+  offset: 47, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00013
+  rotate: false
+  xy: 1177, 108
+  size: 120, 99
+  orig: 263, 102
+  offset: 58, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00014
+  rotate: false
+  xy: 1300, 209
+  size: 119, 99
+  orig: 263, 102
+  offset: 69, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00015
+  rotate: false
+  xy: 1424, 310
+  size: 119, 99
+  orig: 263, 102
+  offset: 79, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00016
+  rotate: false
+  xy: 1176, 7
+  size: 119, 99
+  orig: 263, 102
+  offset: 89, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00017
+  rotate: false
+  xy: 1299, 108
+  size: 119, 99
+  orig: 263, 102
+  offset: 101, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00018
+  rotate: false
+  xy: 1054, 108
+  size: 121, 99
+  orig: 263, 102
+  offset: 109, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00019
+  rotate: false
+  xy: 1545, 310
+  size: 117, 99
+  orig: 263, 102
+  offset: 122, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00020
+  rotate: false
+  xy: 1421, 209
+  size: 119, 99
+  orig: 263, 102
+  offset: 132, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00021
+  rotate: false
+  xy: 1177, 209
+  size: 121, 99
+  orig: 263, 102
+  offset: 140, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00022
+  rotate: false
+  xy: 1420, 108
+  size: 111, 99
+  orig: 263, 102
+  offset: 150, 3
+  index: -1
+super_volcano_EN/super_volcano_EN_00023
+  rotate: false
+  xy: 1413, 8
+  size: 101, 98
+  orig: 263, 102
+  offset: 161, 4
+  index: -1
+super_volcano_EN/super_volcano_EN_00024
+  rotate: true
+  xy: 1647, 193
+  size: 93, 69
+  orig: 263, 102
+  offset: 169, 9
+  index: -1
+super_volcano_EN/super_volcano_EN_00025
+  rotate: false
+  xy: 1629, 156
+  size: 78, 35
+  orig: 263, 102
+  offset: 184, 38
+  index: -1
+super_volcano_EN/super_volcano_EN_00026
+  rotate: false
+  xy: 1664, 288
+  size: 68, 35
+  orig: 263, 102
+  offset: 194, 38
+  index: -1
+super_volcano_EN/super_volcano_EN_00027
+  rotate: true
+  xy: 1609, 50
+  size: 58, 35
+  orig: 263, 102
+  offset: 204, 38
+  index: -1
+super_volcano_EN/super_volcano_EN_00028
+  rotate: false
+  xy: 1646, 45
+  size: 47, 35
+  orig: 263, 102
+  offset: 215, 38
+  index: -1
+super_volcano_EN/super_volcano_EN_00029
+  rotate: false
+  xy: 1557, 18
+  size: 35, 35
+  orig: 263, 102
+  offset: 227, 38
+  index: -1
+xxx
+  rotate: false
+  xy: 1553, 55
+  size: 54, 53
+  orig: 56, 55
+  offset: 1, 1
+  index: -1

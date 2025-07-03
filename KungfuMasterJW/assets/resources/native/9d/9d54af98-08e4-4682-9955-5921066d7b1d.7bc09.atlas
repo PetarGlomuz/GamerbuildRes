@@ -1,0 +1,209 @@
+
+huabanquanping.png
+size: 2034,1538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/hb/1_00000
+  rotate: false
+  xy: 1786, 668
+  size: 153, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00001
+  rotate: false
+  xy: 1786, 1282
+  size: 246, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00002
+  rotate: false
+  xy: 1763, 412
+  size: 260, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00003
+  rotate: false
+  xy: 1738, 156
+  size: 293, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00004
+  rotate: false
+  xy: 2, 1282
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00005
+  rotate: false
+  xy: 2, 1026
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00006
+  rotate: false
+  xy: 448, 1282
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00007
+  rotate: false
+  xy: 2, 770
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00008
+  rotate: false
+  xy: 448, 1026
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00011
+  rotate: false
+  xy: 894, 1282
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00015
+  rotate: false
+  xy: 2, 514
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00018
+  rotate: false
+  xy: 448, 770
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00020
+  rotate: false
+  xy: 894, 1026
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00022
+  rotate: false
+  xy: 1340, 1282
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00023
+  rotate: false
+  xy: 2, 258
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00024
+  rotate: false
+  xy: 448, 514
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00025
+  rotate: false
+  xy: 894, 770
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00026
+  rotate: false
+  xy: 1340, 1026
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00027
+  rotate: false
+  xy: 2, 2
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00028
+  rotate: false
+  xy: 448, 258
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00029
+  rotate: false
+  xy: 894, 514
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00030
+  rotate: false
+  xy: 1340, 770
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00031
+  rotate: false
+  xy: 448, 2
+  size: 444, 254
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00032
+  rotate: false
+  xy: 1340, 515
+  size: 421, 253
+  orig: 445, 255
+  offset: 23, 0
+  index: -1
+image/hb/1_00033
+  rotate: false
+  xy: 894, 4
+  size: 409, 253
+  orig: 445, 255
+  offset: 35, 0
+  index: -1
+image/hb/1_00034
+  rotate: false
+  xy: 1340, 260
+  size: 396, 253
+  orig: 445, 255
+  offset: 48, 0
+  index: -1
+image/hb/1_00035
+  rotate: false
+  xy: 894, 259
+  size: 444, 253
+  orig: 445, 255
+  offset: 0, 0
+  index: -1
+image/hb/1_00036
+  rotate: false
+  xy: 1340, 7
+  size: 364, 251
+  orig: 445, 255
+  offset: 79, 2
+  index: -1
+image/hb/1_00037
+  rotate: true
+  xy: 1786, 924
+  size: 356, 224
+  orig: 445, 255
+  offset: 88, 29
+  index: -1

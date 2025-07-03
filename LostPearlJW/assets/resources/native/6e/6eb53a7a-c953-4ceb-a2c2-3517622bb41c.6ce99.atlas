@@ -1,0 +1,27 @@
+
+bg_fish2.png
+size: 1055,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_yu2_1
+  rotate: false
+  xy: 2, 2
+  size: 349, 207
+  orig: 349, 207
+  offset: 0, 0
+  index: -1
+BG_yu2_2
+  rotate: false
+  xy: 353, 2
+  size: 349, 207
+  orig: 349, 207
+  offset: 0, 0
+  index: -1
+BG_yu2_3
+  rotate: false
+  xy: 704, 2
+  size: 349, 207
+  orig: 349, 207
+  offset: 0, 0
+  index: -1

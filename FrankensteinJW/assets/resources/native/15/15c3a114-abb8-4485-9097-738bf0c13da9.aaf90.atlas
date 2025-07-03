@@ -1,0 +1,174 @@
+
+NG_H4.png
+size: 1009,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+board5
+  rotate: false
+  xy: 2, 242
+  size: 435, 761
+  orig: 435, 761
+  offset: 0, 0
+  index: -1
+board504
+  rotate: true
+  xy: 2, 5
+  size: 235, 132
+  orig: 235, 132
+  offset: 0, 0
+  index: -1
+dabi_L
+  rotate: true
+  xy: 842, 490
+  size: 110, 151
+  orig: 110, 151
+  offset: 0, 0
+  index: -1
+datui_L
+  rotate: false
+  xy: 692, 523
+  size: 133, 149
+  orig: 133, 149
+  offset: 0, 0
+  index: -1
+datui_R
+  rotate: true
+  xy: 842, 602
+  size: 101, 160
+  orig: 101, 160
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 439, 282
+  size: 251, 721
+  orig: 251, 721
+  offset: 0, 0
+  index: -1
+frame04
+  rotate: true
+  xy: 478, 6
+  size: 251, 146
+  orig: 251, 146
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 889, 392
+  size: 96, 118
+  orig: 96, 118
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 692, 770
+  size: 105, 142
+  orig: 105, 142
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 842, 825
+  size: 161, 178
+  orig: 161, 178
+  offset: 0, 0
+  index: -1
+jiao_L
+  rotate: false
+  xy: 889, 219
+  size: 112, 171
+  orig: 112, 171
+  offset: 0, 0
+  index: -1
+jiao_R
+  rotate: false
+  xy: 692, 302
+  size: 100, 186
+  orig: 100, 186
+  offset: 0, 0
+  index: -1
+shangbi_R
+  rotate: true
+  xy: 842, 705
+  size: 118, 161
+  orig: 118, 161
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: true
+  xy: 136, 12
+  size: 228, 335
+  orig: 228, 335
+  offset: 0, 0
+  index: -1
+shibei
+  rotate: true
+  xy: 626, 17
+  size: 263, 214
+  orig: 263, 214
+  offset: 0, 0
+  index: -1
+xiabanshen
+  rotate: false
+  xy: 692, 877
+  size: 142, 126
+  orig: 142, 126
+  offset: 0, 0
+  index: -1
+xiaobi_L
+  rotate: true
+  xy: 692, 674
+  size: 94, 135
+  orig: 94, 135
+  offset: 0, 0
+  index: -1
+xiaobi_R
+  rotate: false
+  xy: 794, 303
+  size: 93, 185
+  orig: 93, 185
+  offset: 0, 0
+  index: -1
+yanpi_L
+  rotate: false
+  xy: 462, 259
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+yanpi_R
+  rotate: true
+  xy: 439, 254
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+yanzhu1
+  rotate: false
+  xy: 136, 2
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+yanzhu2
+  rotate: false
+  xy: 482, 262
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+yanzhu3
+  rotate: false
+  xy: 145, 3
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+yanzhu4
+  rotate: false
+  xy: 462, 243
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

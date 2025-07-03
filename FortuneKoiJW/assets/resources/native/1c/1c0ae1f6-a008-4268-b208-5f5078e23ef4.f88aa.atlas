@@ -1,0 +1,13 @@
+
+TC_JP_glow.png
+size: 198,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 2
+  size: 194, 200
+  orig: 200, 200
+  offset: 3, 0
+  index: -1

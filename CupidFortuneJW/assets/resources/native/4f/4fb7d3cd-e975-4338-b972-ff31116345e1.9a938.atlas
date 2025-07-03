@@ -1,0 +1,230 @@
+
+TC_jpwheel_major.png
+size: 620,620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+major_CN
+  rotate: false
+  xy: 2, 289
+  size: 286, 166
+  orig: 302, 183
+  offset: 8, 9
+  index: -1
+major_CN/sg_00
+  rotate: true
+  xy: 304, 7
+  size: 34, 73
+  orig: 302, 183
+  offset: 81, 59
+  index: -1
+major_CN/sg_01
+  rotate: false
+  xy: 561, 467
+  size: 49, 78
+  orig: 302, 183
+  offset: 80, 54
+  index: -1
+major_CN/sg_02
+  rotate: false
+  xy: 449, 376
+  size: 64, 79
+  orig: 302, 183
+  offset: 80, 53
+  index: -1
+major_CN/sg_03
+  rotate: false
+  xy: 429, 294
+  size: 83, 80
+  orig: 302, 183
+  offset: 80, 52
+  index: -1
+major_CN/sg_04
+  rotate: true
+  xy: 515, 359
+  size: 100, 81
+  orig: 302, 183
+  offset: 80, 52
+  index: -1
+major_CN/sg_05
+  rotate: false
+  xy: 293, 127
+  size: 116, 81
+  orig: 302, 183
+  offset: 80, 52
+  index: -1
+major_CN/sg_06
+  rotate: false
+  xy: 161, 206
+  size: 130, 81
+  orig: 302, 183
+  offset: 81, 52
+  index: -1
+major_CN/sg_07
+  rotate: false
+  xy: 290, 294
+  size: 137, 81
+  orig: 302, 183
+  offset: 82, 52
+  index: -1
+major_CN/sg_08
+  rotate: false
+  xy: 293, 210
+  size: 135, 82
+  orig: 302, 183
+  offset: 86, 51
+  index: -1
+major_CN/sg_09
+  rotate: true
+  xy: 147, 2
+  size: 122, 82
+  orig: 302, 183
+  offset: 99, 51
+  index: -1
+major_CN/sg_10
+  rotate: false
+  xy: 304, 43
+  size: 103, 82
+  orig: 302, 183
+  offset: 119, 51
+  index: -1
+major_CN/sg_11
+  rotate: false
+  xy: 430, 210
+  size: 91, 82
+  orig: 302, 183
+  offset: 131, 51
+  index: -1
+major_CN/sg_12
+  rotate: true
+  xy: 522, 125
+  size: 70, 82
+  orig: 302, 183
+  offset: 152, 51
+  index: -1
+major_CN/sg_13
+  rotate: true
+  xy: 514, 298
+  size: 59, 82
+  orig: 302, 183
+  offset: 163, 51
+  index: -1
+major_CN/sg_14
+  rotate: true
+  xy: 2, 7
+  size: 41, 78
+  orig: 302, 183
+  offset: 180, 52
+  index: -1
+major_EN
+  rotate: false
+  xy: 2, 457
+  size: 476, 161
+  orig: 518, 173
+  offset: 21, 4
+  index: -1
+major_EN/sg_00
+  rotate: true
+  xy: 82, 20
+  size: 28, 62
+  orig: 518, 173
+  offset: 141, 62
+  index: -1
+major_EN/sg_01
+  rotate: true
+  xy: 409, 8
+  size: 52, 70
+  orig: 518, 173
+  offset: 141, 55
+  index: -1
+major_EN/sg_02
+  rotate: false
+  xy: 497, 52
+  size: 76, 71
+  orig: 518, 173
+  offset: 140, 54
+  index: -1
+major_EN/sg_03
+  rotate: true
+  xy: 523, 197
+  size: 99, 71
+  orig: 518, 173
+  offset: 140, 54
+  index: -1
+major_EN/sg_04
+  rotate: true
+  xy: 231, 2
+  size: 122, 71
+  orig: 518, 173
+  offset: 141, 54
+  index: -1
+major_EN/sg_05
+  rotate: false
+  xy: 2, 50
+  size: 143, 75
+  orig: 518, 173
+  offset: 143, 50
+  index: -1
+major_EN/sg_06
+  rotate: false
+  xy: 290, 377
+  size: 157, 78
+  orig: 518, 173
+  offset: 153, 47
+  index: -1
+major_EN/sg_07
+  rotate: true
+  xy: 480, 461
+  size: 157, 79
+  orig: 518, 173
+  offset: 177, 46
+  index: -1
+major_EN/sg_08
+  rotate: false
+  xy: 2, 208
+  size: 157, 79
+  orig: 518, 173
+  offset: 201, 46
+  index: -1
+major_EN/sg_09
+  rotate: false
+  xy: 2, 127
+  size: 149, 79
+  orig: 518, 173
+  offset: 225, 46
+  index: -1
+major_EN/sg_10
+  rotate: false
+  xy: 153, 126
+  size: 130, 78
+  orig: 518, 173
+  offset: 247, 47
+  index: -1
+major_EN/sg_11
+  rotate: false
+  xy: 411, 135
+  size: 109, 73
+  orig: 518, 173
+  offset: 269, 52
+  index: -1
+major_EN/sg_12
+  rotate: false
+  xy: 411, 62
+  size: 84, 71
+  orig: 518, 173
+  offset: 294, 54
+  index: -1
+major_EN/sg_13
+  rotate: false
+  xy: 561, 547
+  size: 57, 71
+  orig: 518, 173
+  offset: 321, 54
+  index: -1
+major_EN/sg_14
+  rotate: false
+  xy: 575, 55
+  size: 36, 68
+  orig: 518, 173
+  offset: 342, 55
+  index: -1

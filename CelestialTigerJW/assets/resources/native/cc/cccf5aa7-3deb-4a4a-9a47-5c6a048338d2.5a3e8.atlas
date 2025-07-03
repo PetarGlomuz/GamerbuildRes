@@ -1,0 +1,146 @@
+
+NG_dajiang.png
+size: 1967,1450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2/2_00
+  rotate: false
+  xy: 2, 1088
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_01
+  rotate: false
+  xy: 2, 726
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_02
+  rotate: false
+  xy: 395, 1088
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_03
+  rotate: false
+  xy: 2, 364
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_04
+  rotate: false
+  xy: 395, 726
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_05
+  rotate: false
+  xy: 788, 1088
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_06
+  rotate: false
+  xy: 2, 2
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_07
+  rotate: false
+  xy: 395, 364
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_08
+  rotate: false
+  xy: 788, 726
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_09
+  rotate: false
+  xy: 1181, 1088
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_10
+  rotate: false
+  xy: 395, 2
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_11
+  rotate: false
+  xy: 788, 364
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_12
+  rotate: false
+  xy: 1181, 726
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_13
+  rotate: false
+  xy: 1574, 1088
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_14
+  rotate: false
+  xy: 788, 2
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_15
+  rotate: false
+  xy: 1181, 364
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_16
+  rotate: false
+  xy: 1574, 726
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_17
+  rotate: false
+  xy: 1181, 2
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_18
+  rotate: false
+  xy: 1574, 364
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1
+2/2_19
+  rotate: false
+  xy: 1574, 2
+  size: 391, 360
+  orig: 391, 360
+  offset: 0, 0
+  index: -1

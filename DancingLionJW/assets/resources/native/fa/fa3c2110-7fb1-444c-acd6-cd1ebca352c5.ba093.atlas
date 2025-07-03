@@ -1,0 +1,251 @@
+
+Wheel_spin.png
+size: 1009,755
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/spin
+  rotate: true
+  xy: 574, 259
+  size: 160, 68
+  orig: 213, 213
+  offset: 27, 67
+  index: -1
+images/spin/kuosan_00000
+  rotate: true
+  xy: 517, 23
+  size: 74, 82
+  orig: 275, 267
+  offset: 95, 87
+  index: -1
+images/spin/kuosan_00002
+  rotate: true
+  xy: 349, 102
+  size: 159, 170
+  orig: 275, 267
+  offset: 54, 49
+  index: -1
+images/spin/kuosan_00004
+  rotate: false
+  xy: 2, 98
+  size: 192, 192
+  orig: 275, 267
+  offset: 36, 35
+  index: -1
+images/spin/kuosan_00006
+  rotate: false
+  xy: 2, 292
+  size: 229, 227
+  orig: 275, 267
+  offset: 17, 18
+  index: -1
+images/spin/kuosan_00008
+  rotate: false
+  xy: 2, 521
+  size: 237, 232
+  orig: 275, 267
+  offset: 11, 15
+  index: -1
+images/spin/kuosan_00010
+  rotate: true
+  xy: 521, 99
+  size: 158, 130
+  orig: 275, 267
+  offset: 54, 65
+  index: -1
+images/spin/kuosan_00012
+  rotate: true
+  xy: 780, 130
+  size: 154, 117
+  orig: 275, 267
+  offset: 54, 72
+  index: -1
+images/spin/kuosan_00014
+  rotate: false
+  xy: 780, 12
+  size: 154, 116
+  orig: 275, 267
+  offset: 54, 72
+  index: -1
+images/spin/kuosan_00016
+  rotate: false
+  xy: 653, 2
+  size: 125, 114
+  orig: 275, 267
+  offset: 57, 73
+  index: -1
+images/spin/kuosan_00018
+  rotate: false
+  xy: 349, 438
+  size: 105, 100
+  orig: 275, 267
+  offset: 75, 77
+  index: -1
+images/spin/kuosan_00020
+  rotate: true
+  xy: 936, 75
+  size: 59, 71
+  orig: 275, 267
+  offset: 101, 96
+  index: -1
+images/spin/kuosan_00022
+  rotate: false
+  xy: 464, 18
+  size: 51, 82
+  orig: 275, 267
+  offset: 104, 93
+  index: -1
+images/spin/kuosan_00024
+  rotate: false
+  xy: 601, 13
+  size: 47, 84
+  orig: 275, 267
+  offset: 106, 95
+  index: -1
+images/spin/kuosan_00026
+  rotate: false
+  xy: 157, 17
+  size: 30, 79
+  orig: 275, 267
+  offset: 112, 98
+  index: -1
+images/spin/kuosan_00028
+  rotate: false
+  xy: 992, 515
+  size: 15, 71
+  orig: 275, 267
+  offset: 122, 103
+  index: -1
+images/spin/sao2_00000
+  rotate: true
+  xy: 936, 217
+  size: 102, 71
+  orig: 213, 213
+  offset: 16, 130
+  index: -1
+images/spin/sao2_00001
+  rotate: false
+  xy: 338, 9
+  size: 124, 91
+  orig: 213, 213
+  offset: 13, 110
+  index: -1
+images/spin/sao2_00002
+  rotate: false
+  xy: 196, 6
+  size: 140, 109
+  orig: 213, 213
+  offset: 13, 92
+  index: -1
+images/spin/sao2_00003
+  rotate: true
+  xy: 653, 118
+  size: 153, 125
+  orig: 213, 213
+  offset: 13, 76
+  index: -1
+images/spin/sao2_00004
+  rotate: false
+  xy: 826, 447
+  size: 164, 139
+  orig: 213, 213
+  offset: 13, 62
+  index: -1
+images/spin/sao2_00005
+  rotate: true
+  xy: 196, 117
+  size: 173, 151
+  orig: 213, 213
+  offset: 13, 50
+  index: -1
+images/spin/sao2_00006
+  rotate: false
+  xy: 456, 421
+  size: 180, 162
+  orig: 213, 213
+  offset: 13, 38
+  index: -1
+images/spin/sao2_00007
+  rotate: false
+  xy: 641, 586
+  size: 183, 167
+  orig: 213, 213
+  offset: 15, 29
+  index: -1
+images/spin/sao2_00008
+  rotate: false
+  xy: 456, 585
+  size: 183, 168
+  orig: 213, 213
+  offset: 17, 21
+  index: -1
+images/spin/sao2_00009
+  rotate: false
+  xy: 826, 588
+  size: 179, 165
+  orig: 213, 213
+  offset: 21, 16
+  index: -1
+images/spin/sao2_00010
+  rotate: false
+  xy: 399, 263
+  size: 173, 156
+  orig: 213, 213
+  offset: 27, 15
+  index: -1
+images/spin/sao2_00011
+  rotate: false
+  xy: 233, 292
+  size: 164, 144
+  orig: 213, 213
+  offset: 36, 15
+  index: -1
+images/spin/sao2_00012
+  rotate: true
+  xy: 644, 273
+  size: 153, 131
+  orig: 213, 213
+  offset: 47, 15
+  index: -1
+images/spin/sao2_00013
+  rotate: true
+  xy: 777, 286
+  size: 140, 116
+  orig: 213, 213
+  offset: 60, 15
+  index: -1
+images/spin/sao2_00014
+  rotate: true
+  xy: 895, 321
+  size: 124, 99
+  orig: 213, 213
+  offset: 76, 15
+  index: -1
+images/spin/sao2_00015
+  rotate: false
+  xy: 899, 136
+  size: 104, 79
+  orig: 213, 213
+  offset: 95, 15
+  index: -1
+images/spin2
+  rotate: false
+  xy: 2, 15
+  size: 153, 81
+  orig: 213, 213
+  offset: 33, 60
+  index: -1
+images/spinaniu
+  rotate: false
+  xy: 241, 540
+  size: 213, 213
+  orig: 213, 213
+  offset: 0, 0
+  index: -1
+images/spindown
+  rotate: false
+  xy: 638, 428
+  size: 155, 155
+  orig: 213, 213
+  offset: 30, 29
+  index: -1

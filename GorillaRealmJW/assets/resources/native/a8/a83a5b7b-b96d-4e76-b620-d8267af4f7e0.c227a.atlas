@@ -1,0 +1,146 @@
+
+JP_jackpot_zi.png
+size: 460,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/JACKPOT_zi
+  rotate: false
+  xy: 2, 352
+  size: 455, 105
+  orig: 460, 109
+  offset: 3, 1
+  index: -1
+wenjian/jackpot_g/jackpot_g_00
+  rotate: false
+  xy: 228, 194
+  size: 89, 51
+  orig: 232, 55
+  offset: 1, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_01
+  rotate: false
+  xy: 354, 5
+  size: 104, 51
+  orig: 232, 55
+  offset: 1, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_02
+  rotate: false
+  xy: 108, 177
+  size: 118, 51
+  orig: 232, 55
+  offset: 2, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_03
+  rotate: true
+  xy: 345, 58
+  size: 132, 51
+  orig: 232, 55
+  offset: 2, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_04
+  rotate: true
+  xy: 55, 204
+  size: 146, 51
+  orig: 232, 55
+  offset: 3, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_05
+  rotate: true
+  xy: 398, 200
+  size: 150, 51
+  orig: 232, 55
+  offset: 4, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_06
+  rotate: false
+  xy: 181, 2
+  size: 171, 51
+  orig: 232, 55
+  offset: 6, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_07
+  rotate: false
+  xy: 2, 55
+  size: 178, 51
+  orig: 232, 55
+  offset: 11, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_08
+  rotate: false
+  xy: 2, 108
+  size: 188, 51
+  orig: 232, 55
+  offset: 16, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_09
+  rotate: true
+  xy: 2, 161
+  size: 189, 51
+  orig: 232, 55
+  offset: 29, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_10
+  rotate: false
+  xy: 2, 2
+  size: 177, 51
+  orig: 232, 55
+  offset: 45, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_11
+  rotate: false
+  xy: 182, 55
+  size: 161, 51
+  orig: 232, 55
+  offset: 66, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_12
+  rotate: true
+  xy: 345, 192
+  size: 158, 51
+  orig: 232, 55
+  offset: 72, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_13
+  rotate: false
+  xy: 192, 299
+  size: 147, 51
+  orig: 232, 55
+  offset: 84, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_14
+  rotate: true
+  xy: 398, 66
+  size: 132, 51
+  orig: 232, 55
+  offset: 99, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_15
+  rotate: true
+  xy: 108, 230
+  size: 120, 51
+  orig: 232, 55
+  offset: 111, 4
+  index: -1
+wenjian/jackpot_g/jackpot_g_16
+  rotate: false
+  xy: 192, 125
+  size: 107, 50
+  orig: 232, 55
+  offset: 125, 5
+  index: -1
+wenjian/jackpot_g/jackpot_g_17
+  rotate: false
+  xy: 161, 247
+  size: 93, 50
+  orig: 232, 55
+  offset: 139, 5
+  index: -1
+wenjian/jackpot_g/jackpot_g_18
+  rotate: false
+  xy: 256, 247
+  size: 77, 50
+  orig: 232, 55
+  offset: 154, 5
+  index: -1

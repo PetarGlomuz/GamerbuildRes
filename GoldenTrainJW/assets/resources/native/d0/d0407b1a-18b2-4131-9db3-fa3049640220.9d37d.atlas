@@ -1,0 +1,153 @@
+
+TC_FG_jifen.png
+size: 1490,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin
+  rotate: false
+  xy: 2, 8
+  size: 925, 206
+  orig: 925, 206
+  offset: 0, 0
+  index: -1
+coin/csg_00
+  rotate: false
+  xy: 1386, 5
+  size: 26, 49
+  orig: 925, 206
+  offset: 348, 80
+  index: -1
+coin/csg_01
+  rotate: true
+  xy: 1424, 52
+  size: 44, 51
+  orig: 925, 206
+  offset: 347, 78
+  index: -1
+coin/csg_02
+  rotate: false
+  xy: 1373, 111
+  size: 62, 51
+  orig: 925, 206
+  offset: 347, 78
+  index: -1
+coin/csg_03
+  rotate: false
+  xy: 1310, 56
+  size: 80, 52
+  orig: 925, 206
+  offset: 347, 77
+  index: -1
+coin/csg_04
+  rotate: false
+  xy: 1200, 2
+  size: 98, 52
+  orig: 925, 206
+  offset: 347, 77
+  index: -1
+coin/csg_05
+  rotate: false
+  xy: 1082, 3
+  size: 116, 52
+  orig: 925, 206
+  offset: 347, 77
+  index: -1
+coin/csg_06
+  rotate: false
+  xy: 1237, 110
+  size: 134, 52
+  orig: 925, 206
+  offset: 347, 77
+  index: -1
+coin/csg_07
+  rotate: false
+  xy: 929, 7
+  size: 151, 51
+  orig: 925, 206
+  offset: 348, 78
+  index: -1
+coin/csg_08
+  rotate: false
+  xy: 929, 163
+  size: 166, 51
+  orig: 925, 206
+  offset: 351, 78
+  index: -1
+coin/csg_09
+  rotate: false
+  xy: 929, 113
+  size: 167, 48
+  orig: 925, 206
+  offset: 368, 79
+  index: -1
+coin/csg_10
+  rotate: false
+  xy: 1097, 164
+  size: 167, 50
+  orig: 925, 206
+  offset: 387, 79
+  index: -1
+coin/csg_11
+  rotate: false
+  xy: 1266, 164
+  size: 167, 50
+  orig: 925, 206
+  offset: 405, 79
+  index: -1
+coin/csg_12
+  rotate: false
+  xy: 929, 60
+  size: 154, 51
+  orig: 925, 206
+  offset: 423, 78
+  index: -1
+coin/csg_13
+  rotate: false
+  xy: 1098, 111
+  size: 137, 51
+  orig: 925, 206
+  offset: 441, 78
+  index: -1
+coin/csg_14
+  rotate: false
+  xy: 1085, 57
+  size: 119, 52
+  orig: 925, 206
+  offset: 459, 77
+  index: -1
+coin/csg_15
+  rotate: false
+  xy: 1206, 56
+  size: 102, 52
+  orig: 925, 206
+  offset: 476, 77
+  index: -1
+coin/csg_16
+  rotate: false
+  xy: 1300, 2
+  size: 84, 52
+  orig: 925, 206
+  offset: 494, 77
+  index: -1
+coin/csg_17
+  rotate: true
+  xy: 1437, 98
+  size: 66, 51
+  orig: 925, 206
+  offset: 512, 78
+  index: -1
+coin/csg_18
+  rotate: true
+  xy: 1435, 166
+  size: 48, 51
+  orig: 925, 206
+  offset: 530, 78
+  index: -1
+coin/csg_19
+  rotate: false
+  xy: 1392, 58
+  size: 30, 51
+  orig: 925, 206
+  offset: 548, 78
+  index: -1

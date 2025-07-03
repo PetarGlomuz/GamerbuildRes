@@ -1,0 +1,97 @@
+
+NG_shouji.png
+size: 568,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao2/bao2_00
+  rotate: false
+  xy: 163, 327
+  size: 85, 82
+  orig: 180, 180
+  offset: 46, 49
+  index: -1
+bao2/bao2_02
+  rotate: false
+  xy: 409, 24
+  size: 111, 109
+  orig: 180, 180
+  offset: 34, 35
+  index: -1
+bao2/bao2_04
+  rotate: false
+  xy: 278, 7
+  size: 129, 128
+  orig: 180, 180
+  offset: 26, 26
+  index: -1
+bao2/bao2_06
+  rotate: false
+  xy: 278, 137
+  size: 146, 145
+  orig: 180, 180
+  offset: 17, 17
+  index: -1
+bao2/bao2_08
+  rotate: false
+  xy: 329, 284
+  size: 157, 136
+  orig: 180, 180
+  offset: 9, 20
+  index: -1
+bao2/bao2_10
+  rotate: false
+  xy: 329, 422
+  size: 158, 142
+  orig: 180, 180
+  offset: 11, 18
+  index: -1
+bao2/bao2_12
+  rotate: true
+  xy: 2, 76
+  size: 161, 148
+  orig: 180, 180
+  offset: 10, 18
+  index: -1
+bao2/bao2_14
+  rotate: false
+  xy: 163, 411
+  size: 164, 153
+  orig: 180, 180
+  offset: 8, 18
+  index: -1
+bao2/bao2_16
+  rotate: true
+  xy: 2, 239
+  size: 163, 155
+  orig: 180, 180
+  offset: 8, 19
+  index: -1
+bao2/bao2_18
+  rotate: false
+  xy: 2, 404
+  size: 159, 160
+  orig: 180, 180
+  offset: 8, 17
+  index: -1
+bao2/bao2_20
+  rotate: true
+  xy: 152, 82
+  size: 155, 124
+  orig: 180, 180
+  offset: 9, 27
+  index: -1
+bao2/bao2_22
+  rotate: true
+  xy: 426, 135
+  size: 147, 125
+  orig: 180, 180
+  offset: 8, 26
+  index: -1
+g1
+  rotate: false
+  xy: 489, 487
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1

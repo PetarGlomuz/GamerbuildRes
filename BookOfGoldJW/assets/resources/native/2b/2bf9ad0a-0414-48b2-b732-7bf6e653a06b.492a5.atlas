@@ -1,0 +1,111 @@
+
+BG_jp_huanrao.png
+size: 985,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1_00000
+  rotate: false
+  xy: 364, 175
+  size: 333, 83
+  orig: 409, 87
+  offset: 19, 3
+  index: -1
+1/1_00002
+  rotate: true
+  xy: 899, 235
+  size: 283, 84
+  orig: 409, 87
+  offset: 42, 3
+  index: -1
+1/1_00004
+  rotate: true
+  xy: 725, 220
+  size: 298, 86
+  orig: 409, 87
+  offset: 37, 1
+  index: -1
+1/1_00006
+  rotate: false
+  xy: 365, 88
+  size: 346, 85
+  orig: 409, 87
+  offset: 15, 2
+  index: -1
+1/1_00008
+  rotate: false
+  xy: 364, 260
+  size: 356, 85
+  orig: 409, 87
+  offset: 8, 2
+  index: -1
+1/1_00010
+  rotate: false
+  xy: 364, 433
+  size: 359, 85
+  orig: 409, 87
+  offset: 5, 2
+  index: -1
+1/1_00012
+  rotate: false
+  xy: 2, 433
+  size: 360, 85
+  orig: 409, 87
+  offset: 4, 2
+  index: -1
+1/1_00014
+  rotate: false
+  xy: 2, 175
+  size: 360, 83
+  orig: 409, 87
+  offset: 5, 3
+  index: -1
+1/1_00016
+  rotate: false
+  xy: 2, 91
+  size: 361, 82
+  orig: 409, 87
+  offset: 6, 3
+  index: -1
+1/1_00018
+  rotate: false
+  xy: 2, 7
+  size: 360, 82
+  orig: 409, 87
+  offset: 8, 3
+  index: -1
+1/1_00020
+  rotate: false
+  xy: 2, 260
+  size: 360, 84
+  orig: 409, 87
+  offset: 7, 2
+  index: -1
+1/1_00022
+  rotate: false
+  xy: 2, 346
+  size: 360, 85
+  orig: 409, 87
+  offset: 7, 2
+  index: -1
+1/1_00024
+  rotate: false
+  xy: 364, 347
+  size: 358, 84
+  orig: 409, 87
+  offset: 9, 3
+  index: -1
+1/1_00026
+  rotate: false
+  xy: 364, 2
+  size: 356, 84
+  orig: 409, 87
+  offset: 10, 3
+  index: -1
+1/1_00028
+  rotate: true
+  xy: 813, 167
+  size: 351, 84
+  orig: 409, 87
+  offset: 12, 3
+  index: -1

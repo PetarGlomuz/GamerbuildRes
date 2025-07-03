@@ -1,0 +1,167 @@
+
+Map_xiaotubiao.png
+size: 227,1069
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kapai/kapai_00000
+  rotate: false
+  xy: 130, 770
+  size: 73, 110
+  orig: 78, 145
+  offset: 5, 7
+  index: -1
+kapai/kapai_00001
+  rotate: true
+  xy: 2, 238
+  size: 64, 112
+  orig: 78, 145
+  offset: 14, 6
+  index: -1
+kapai/kapai_00002
+  rotate: true
+  xy: 2, 366
+  size: 66, 116
+  orig: 78, 145
+  offset: 12, 4
+  index: -1
+kapai/kapai_00003
+  rotate: true
+  xy: 2, 505
+  size: 64, 120
+  orig: 78, 145
+  offset: 14, 2
+  index: -1
+kapai/kapai_00004
+  rotate: true
+  xy: 121, 390
+  size: 66, 103
+  orig: 78, 145
+  offset: 12, 18
+  index: -1
+kapai/kapai_00005
+  rotate: true
+  xy: 2, 110
+  size: 66, 107
+  orig: 78, 145
+  offset: 12, 17
+  index: -1
+kapai/kapai_00006
+  rotate: true
+  xy: 116, 176
+  size: 69, 108
+  orig: 78, 145
+  offset: 9, 17
+  index: -1
+kapai/kapai_00007
+  rotate: false
+  xy: 129, 529
+  size: 71, 115
+  orig: 78, 145
+  offset: 7, 13
+  index: -1
+kapai/kapai_00008
+  rotate: true
+  xy: 2, 434
+  size: 69, 117
+  orig: 78, 145
+  offset: 9, 13
+  index: -1
+kapai/kapai_00009
+  rotate: false
+  xy: 130, 646
+  size: 71, 122
+  orig: 78, 145
+  offset: 7, 11
+  index: -1
+kapai/kapai_00010
+  rotate: true
+  xy: 2, 692
+  size: 70, 126
+  orig: 78, 145
+  offset: 8, 9
+  index: -1
+kapai/kapai_00011
+  rotate: true
+  xy: 2, 178
+  size: 58, 111
+  orig: 78, 145
+  offset: 20, 23
+  index: -1
+kapai/kapai_00012
+  rotate: true
+  xy: 2, 304
+  size: 60, 115
+  orig: 78, 145
+  offset: 18, 21
+  index: -1
+kapai/kapai_00013
+  rotate: false
+  xy: 138, 12
+  size: 61, 97
+  orig: 78, 145
+  offset: 17, 20
+  index: -1
+kapai/kapai_00014
+  rotate: true
+  xy: 111, 111
+  size: 63, 102
+  orig: 78, 145
+  offset: 15, 18
+  index: -1
+kapai/kapai_00015
+  rotate: false
+  xy: 70, 5
+  size: 66, 103
+  orig: 78, 145
+  offset: 12, 19
+  index: -1
+kapai/kapai_00016
+  rotate: false
+  xy: 2, 2
+  size: 66, 106
+  orig: 78, 145
+  offset: 12, 17
+  index: -1
+kapai/kapai_00017
+  rotate: true
+  xy: 120, 320
+  size: 68, 105
+  orig: 78, 145
+  offset: 10, 15
+  index: -1
+kapai/kapai_00018
+  rotate: true
+  xy: 124, 458
+  size: 69, 101
+  orig: 78, 145
+  offset: 9, 12
+  index: -1
+kapai/kapai_00019
+  rotate: true
+  xy: 119, 247
+  size: 71, 106
+  orig: 78, 145
+  offset: 7, 9
+  index: -1
+kapai/liangkuang2_00000
+  rotate: true
+  xy: 2, 764
+  size: 116, 126
+  orig: 122, 132
+  offset: 0, 0
+  index: -1
+kapai/liangkuang_00000
+  rotate: true
+  xy: 2, 571
+  size: 119, 125
+  orig: 122, 132
+  offset: 1, 0
+  index: -1
+kapai/zg_00000
+  rotate: true
+  xy: 2, 882
+  size: 185, 189
+  orig: 185, 189
+  offset: 0, 0
+  index: -1

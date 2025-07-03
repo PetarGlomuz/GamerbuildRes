@@ -1,0 +1,104 @@
+
+NG_L1.png
+size: 296,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L1
+  rotate: false
+  xy: 2, 197
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00000
+  rotate: false
+  xy: 265, 240
+  size: 17, 20
+  orig: 180, 161
+  offset: 35, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00001
+  rotate: false
+  xy: 265, 262
+  size: 29, 32
+  orig: 180, 161
+  offset: 35, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00002
+  rotate: true
+  xy: 242, 96
+  size: 38, 45
+  orig: 180, 161
+  offset: 35, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00003
+  rotate: false
+  xy: 242, 136
+  size: 47, 59
+  orig: 180, 161
+  offset: 35, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00004
+  rotate: false
+  xy: 156, 23
+  size: 57, 73
+  orig: 180, 161
+  offset: 42, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00005
+  rotate: false
+  xy: 170, 102
+  size: 70, 93
+  orig: 180, 161
+  offset: 48, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00006
+  rotate: false
+  xy: 89, 98
+  size: 79, 97
+  orig: 180, 161
+  offset: 53, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00007
+  rotate: false
+  xy: 2, 98
+  size: 85, 97
+  orig: 180, 161
+  offset: 59, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00008
+  rotate: false
+  xy: 114, 197
+  size: 80, 97
+  orig: 180, 161
+  offset: 65, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00009
+  rotate: true
+  xy: 2, 17
+  size: 79, 97
+  orig: 180, 161
+  offset: 66, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00010
+  rotate: false
+  xy: 196, 197
+  size: 67, 97
+  orig: 180, 161
+  offset: 78, 32
+  index: -1
+saoguang/Symbol111112/Symbol111112_00011
+  rotate: false
+  xy: 101, 5
+  size: 53, 91
+  orig: 180, 161
+  offset: 92, 38
+  index: -1
+saoguang/Symbol111112/Symbol111112_00012
+  rotate: false
+  xy: 2, 2
+  size: 10, 13
+  orig: 180, 161
+  offset: 105, 116
+  index: -1

@@ -1,0 +1,174 @@
+
+ng_l5.png
+size: 947,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L5
+  rotate: true
+  xy: 118, 9
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+L5yinying
+  rotate: true
+  xy: 2, 2
+  size: 132, 114
+  orig: 132, 114
+  offset: 0, 0
+  index: -1
+l5/L5_000
+  rotate: true
+  xy: 224, 66
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_001
+  rotate: false
+  xy: 224, 5
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_002
+  rotate: true
+  xy: 285, 66
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_003
+  rotate: false
+  xy: 294, 5
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_004
+  rotate: true
+  xy: 346, 66
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_005
+  rotate: false
+  xy: 364, 5
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_006
+  rotate: true
+  xy: 407, 66
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_007
+  rotate: false
+  xy: 434, 5
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_008
+  rotate: true
+  xy: 468, 66
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_009
+  rotate: false
+  xy: 504, 5
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_010
+  rotate: true
+  xy: 529, 66
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_011
+  rotate: false
+  xy: 574, 5
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_012
+  rotate: true
+  xy: 590, 66
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_013
+  rotate: false
+  xy: 644, 5
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_014
+  rotate: true
+  xy: 651, 66
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_015
+  rotate: true
+  xy: 712, 66
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_016
+  rotate: false
+  xy: 714, 5
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_017
+  rotate: true
+  xy: 773, 66
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_018
+  rotate: false
+  xy: 784, 5
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_019
+  rotate: true
+  xy: 834, 66
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+l5/L5_020
+  rotate: false
+  xy: 854, 5
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 895, 84
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

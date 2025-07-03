@@ -1,0 +1,139 @@
+
+JP_major.png
+size: 432,432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/MAJOR
+  rotate: false
+  xy: 2, 323
+  size: 387, 107
+  orig: 387, 112
+  offset: 0, 3
+  index: -1
+wenjian/major_g/major_g_00
+  rotate: true
+  xy: 2, 5
+  size: 79, 51
+  orig: 194, 56
+  offset: 0, 5
+  index: -1
+wenjian/major_g/major_g_01
+  rotate: true
+  xy: 55, 3
+  size: 92, 51
+  orig: 194, 56
+  offset: 0, 5
+  index: -1
+wenjian/major_g/major_g_02
+  rotate: false
+  xy: 109, 56
+  size: 105, 51
+  orig: 194, 56
+  offset: 0, 5
+  index: -1
+wenjian/major_g/major_g_03
+  rotate: false
+  xy: 108, 2
+  size: 112, 52
+  orig: 194, 56
+  offset: 0, 4
+  index: -1
+wenjian/major_g/major_g_04
+  rotate: true
+  xy: 323, 136
+  size: 132, 52
+  orig: 194, 56
+  offset: 0, 4
+  index: -1
+wenjian/major_g/major_g_05
+  rotate: true
+  xy: 269, 124
+  size: 144, 52
+  orig: 194, 56
+  offset: 0, 4
+  index: -1
+wenjian/major_g/major_g_06
+  rotate: true
+  xy: 109, 109
+  size: 158, 52
+  orig: 194, 56
+  offset: 1, 4
+  index: -1
+wenjian/major_g/major_g_07
+  rotate: true
+  xy: 55, 97
+  size: 170, 52
+  orig: 194, 56
+  offset: 2, 4
+  index: -1
+wenjian/major_g/major_g_08
+  rotate: false
+  xy: 2, 269
+  size: 180, 52
+  orig: 194, 56
+  offset: 4, 4
+  index: -1
+wenjian/major_g/major_g_09
+  rotate: true
+  xy: 2, 86
+  size: 181, 51
+  orig: 194, 56
+  offset: 9, 5
+  index: -1
+wenjian/major_g/major_g_10
+  rotate: false
+  xy: 184, 270
+  size: 172, 51
+  orig: 194, 56
+  offset: 19, 5
+  index: -1
+wenjian/major_g/major_g_11
+  rotate: true
+  xy: 163, 109
+  size: 158, 51
+  orig: 194, 56
+  offset: 35, 5
+  index: -1
+wenjian/major_g/major_g_12
+  rotate: true
+  xy: 216, 120
+  size: 148, 51
+  orig: 194, 56
+  offset: 45, 5
+  index: -1
+wenjian/major_g/major_g_13
+  rotate: false
+  xy: 216, 67
+  size: 131, 51
+  orig: 194, 56
+  offset: 63, 5
+  index: -1
+wenjian/major_g/major_g_14
+  rotate: false
+  xy: 222, 14
+  size: 123, 51
+  orig: 194, 56
+  offset: 71, 5
+  index: -1
+wenjian/major_g/major_g_15
+  rotate: true
+  xy: 349, 32
+  size: 102, 51
+  orig: 194, 56
+  offset: 92, 5
+  index: -1
+wenjian/major_g/major_g_16
+  rotate: true
+  xy: 377, 224
+  size: 97, 51
+  orig: 194, 56
+  offset: 97, 5
+  index: -1
+wenjian/major_g/major_g_17
+  rotate: true
+  xy: 377, 138
+  size: 84, 50
+  orig: 194, 56
+  offset: 110, 6
+  index: -1

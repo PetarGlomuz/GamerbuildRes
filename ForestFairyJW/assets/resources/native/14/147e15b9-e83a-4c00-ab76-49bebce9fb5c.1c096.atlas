@@ -1,0 +1,76 @@
+
+TingPaiKuang.png
+size: 1815,560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/t2/t2_000
+  rotate: true
+  xy: 2, 370
+  size: 188, 540
+  orig: 190, 540
+  offset: 2, 0
+  index: -1
+images/t2/t2_001
+  rotate: true
+  xy: 544, 370
+  size: 188, 540
+  orig: 190, 540
+  offset: 2, 0
+  index: -1
+images/t2/t2_002
+  rotate: true
+  xy: 1086, 372
+  size: 186, 539
+  orig: 190, 540
+  offset: 3, 1
+  index: -1
+images/t2/t2_003
+  rotate: false
+  xy: 1627, 25
+  size: 186, 533
+  orig: 190, 540
+  offset: 2, 7
+  index: -1
+images/t2/t2_004
+  rotate: true
+  xy: 537, 184
+  size: 184, 532
+  orig: 190, 540
+  offset: 6, 8
+  index: -1
+images/t2/t2_005
+  rotate: true
+  xy: 1086, 183
+  size: 187, 534
+  orig: 190, 540
+  offset: 3, 6
+  index: -1
+images/t2/t2_006
+  rotate: true
+  xy: 2, 182
+  size: 186, 533
+  orig: 190, 540
+  offset: 4, 7
+  index: -1
+images/t2/t2_007
+  rotate: true
+  xy: 537, 3
+  size: 179, 525
+  orig: 190, 540
+  offset: 6, 9
+  index: -1
+images/t2/t2_008
+  rotate: true
+  xy: 2, 2
+  size: 178, 518
+  orig: 190, 540
+  offset: 7, 12
+  index: -1
+images/t2/t2_009
+  rotate: true
+  xy: 1064, 3
+  size: 178, 514
+  orig: 190, 540
+  offset: 7, 16
+  index: -1

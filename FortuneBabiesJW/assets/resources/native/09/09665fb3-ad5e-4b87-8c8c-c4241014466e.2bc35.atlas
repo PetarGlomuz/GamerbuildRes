@@ -1,0 +1,153 @@
+
+FG_banzi.png
+size: 1270,1270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banglow
+  rotate: false
+  xy: 2, 802
+  size: 475, 163
+  orig: 475, 175
+  offset: 0, 7
+  index: -1
+banzi
+  rotate: false
+  xy: 2, 967
+  size: 871, 301
+  orig: 950, 350
+  offset: 39, 21
+  index: -1
+glow/glow_01
+  rotate: false
+  xy: 891, 844
+  size: 336, 137
+  orig: 475, 175
+  offset: 48, 10
+  index: -1
+glow/glow_02
+  rotate: false
+  xy: 875, 983
+  size: 339, 138
+  orig: 475, 175
+  offset: 47, 10
+  index: -1
+glow/glow_03
+  rotate: false
+  xy: 875, 1123
+  size: 342, 145
+  orig: 475, 175
+  offset: 47, 7
+  index: -1
+glow/glow_04
+  rotate: false
+  xy: 479, 814
+  size: 410, 151
+  orig: 475, 175
+  offset: 45, 7
+  index: -1
+glow/glow_05
+  rotate: true
+  xy: 913, 433
+  size: 409, 151
+  orig: 475, 175
+  offset: 46, 7
+  index: -1
+glow/glow_06
+  rotate: false
+  xy: 2, 352
+  size: 429, 149
+  orig: 475, 175
+  offset: 27, 7
+  index: -1
+glow/glow_07
+  rotate: false
+  xy: 2, 503
+  size: 432, 147
+  orig: 475, 175
+  offset: 24, 7
+  index: -1
+glow/glow_08
+  rotate: false
+  xy: 2, 652
+  size: 432, 148
+  orig: 475, 175
+  offset: 24, 5
+  index: -1
+glow/glow_09
+  rotate: false
+  xy: 2, 205
+  size: 433, 145
+  orig: 475, 175
+  offset: 23, 7
+  index: -1
+glow/glow_10
+  rotate: false
+  xy: 2, 59
+  size: 432, 144
+  orig: 475, 175
+  offset: 23, 7
+  index: -1
+glow/glow_11
+  rotate: false
+  xy: 479, 670
+  size: 432, 142
+  orig: 475, 175
+  offset: 23, 7
+  index: -1
+glow/glow_12
+  rotate: false
+  xy: 436, 527
+  size: 431, 141
+  orig: 475, 175
+  offset: 24, 7
+  index: -1
+glow/glow_13
+  rotate: false
+  xy: 436, 384
+  size: 431, 141
+  orig: 475, 175
+  offset: 24, 7
+  index: -1
+glow/glow_14
+  rotate: false
+  xy: 437, 243
+  size: 431, 139
+  orig: 475, 175
+  offset: 24, 8
+  index: -1
+glow/glow_15
+  rotate: false
+  xy: 437, 105
+  size: 431, 136
+  orig: 475, 175
+  offset: 24, 11
+  index: -1
+glow/glow_16
+  rotate: true
+  xy: 1066, 417
+  size: 425, 135
+  orig: 475, 175
+  offset: 24, 11
+  index: -1
+glow/glow_17
+  rotate: true
+  xy: 870, 13
+  size: 418, 120
+  orig: 475, 175
+  offset: 26, 19
+  index: -1
+glow/glow_18
+  rotate: true
+  xy: 992, 2
+  size: 413, 115
+  orig: 475, 175
+  offset: 28, 22
+  index: -1
+glow/glow_19
+  rotate: true
+  xy: 1109, 10
+  size: 405, 110
+  orig: 475, 175
+  offset: 32, 26
+  index: -1

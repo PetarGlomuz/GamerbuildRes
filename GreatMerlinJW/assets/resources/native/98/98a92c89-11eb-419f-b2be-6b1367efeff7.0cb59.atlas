@@ -1,0 +1,111 @@
+
+Map_kuangtubiao.png
+size: 1967,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhongjiangjp/liangkuang_00004
+  rotate: false
+  xy: 1550, 708
+  size: 388, 323
+  orig: 407, 336
+  offset: 19, 7
+  index: -1
+zhongjiangjp/zhongjiangjp_00000
+  rotate: true
+  xy: 1851, 75
+  size: 631, 114
+  orig: 870, 216
+  offset: 139, 0
+  index: -1
+zhongjiangjp/zhongjiangjp_00001
+  rotate: false
+  xy: 706, 211
+  size: 667, 122
+  orig: 870, 216
+  offset: 115, 0
+  index: -1
+zhongjiangjp/zhongjiangjp_00002
+  rotate: true
+  xy: 1710, 2
+  size: 704, 139
+  orig: 870, 216
+  offset: 94, 0
+  index: -1
+zhongjiangjp/zhongjiangjp_00003
+  rotate: false
+  xy: 776, 518
+  size: 730, 156
+  orig: 870, 216
+  offset: 77, 0
+  index: -1
+zhongjiangjp/zhongjiangjp_00004
+  rotate: false
+  xy: 784, 676
+  size: 749, 170
+  orig: 870, 216
+  offset: 65, 0
+  index: -1
+zhongjiangjp/zhongjiangjp_00005
+  rotate: false
+  xy: 784, 848
+  size: 764, 183
+  orig: 870, 216
+  offset: 56, 0
+  index: -1
+zhongjiangjp/zhongjiangjp_00006
+  rotate: false
+  xy: 2, 629
+  size: 772, 195
+  orig: 870, 216
+  offset: 51, 0
+  index: -1
+zhongjiangjp/zhongjiangjp_00007
+  rotate: false
+  xy: 2, 826
+  size: 780, 205
+  orig: 870, 216
+  offset: 47, 0
+  index: -1
+zhongjiangjp/zhongjiangjp_00008
+  rotate: false
+  xy: 2, 413
+  size: 747, 214
+  orig: 870, 216
+  offset: 82, 0
+  index: -1
+zhongjiangjp/zhongjiangjp_00009
+  rotate: false
+  xy: 2, 195
+  size: 702, 216
+  orig: 870, 216
+  offset: 119, 0
+  index: -1
+zhongjiangjp/zhongjiangjp_00010
+  rotate: false
+  xy: 715, 14
+  size: 707, 195
+  orig: 870, 216
+  offset: 117, 0
+  index: -1
+zhongjiangjp/zhongjiangjp_00011
+  rotate: false
+  xy: 2, 7
+  size: 711, 186
+  orig: 870, 216
+  offset: 116, 14
+  index: -1
+zhongjiangjp/zhongjiangjp_00012
+  rotate: false
+  xy: 751, 335
+  size: 713, 181
+  orig: 870, 216
+  offset: 115, 23
+  index: -1
+zhongjiangjp/zhongjiangjp_00013
+  rotate: true
+  xy: 1535, 2
+  size: 704, 173
+  orig: 870, 216
+  offset: 120, 30
+  index: -1

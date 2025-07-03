@@ -1,0 +1,160 @@
+
+BeiJingSaoGuang.png
+size: 408,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/sg/k_00
+  rotate: false
+  xy: 90, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/sg/k_01
+  rotate: true
+  xy: 203, 2
+  size: 15, 19
+  orig: 52, 148
+  offset: 11, 4
+  index: -1
+images/sg/k_02
+  rotate: false
+  xy: 300, 14
+  size: 21, 32
+  orig: 52, 148
+  offset: 10, 4
+  index: -1
+images/sg/k_03
+  rotate: true
+  xy: 365, 116
+  size: 24, 41
+  orig: 52, 148
+  offset: 10, 4
+  index: -1
+images/sg/k_04
+  rotate: true
+  xy: 224, 3
+  size: 26, 55
+  orig: 52, 148
+  offset: 11, 4
+  index: -1
+images/sg/k_05
+  rotate: true
+  xy: 300, 48
+  size: 28, 57
+  orig: 52, 148
+  offset: 12, 4
+  index: -1
+images/sg/k_06
+  rotate: false
+  xy: 364, 48
+  size: 37, 66
+  orig: 52, 148
+  offset: 4, 5
+  index: -1
+images/sg/k_07
+  rotate: true
+  xy: 281, 78
+  size: 40, 81
+  orig: 52, 148
+  offset: 3, 4
+  index: -1
+images/sg/k_08
+  rotate: false
+  xy: 237, 42
+  size: 42, 98
+  orig: 52, 148
+  offset: 3, 4
+  index: -1
+images/sg/k_09
+  rotate: false
+  xy: 164, 19
+  size: 42, 121
+  orig: 52, 148
+  offset: 3, 4
+  index: -1
+images/sg/k_10
+  rotate: false
+  xy: 2, 2
+  size: 43, 138
+  orig: 52, 148
+  offset: 3, 4
+  index: -1
+images/sg/k_11
+  rotate: false
+  xy: 47, 3
+  size: 41, 137
+  orig: 52, 148
+  offset: 5, 5
+  index: -1
+images/sg/k_12
+  rotate: false
+  xy: 90, 5
+  size: 38, 135
+  orig: 52, 148
+  offset: 10, 7
+  index: -1
+images/sg/k_13
+  rotate: false
+  xy: 130, 18
+  size: 32, 122
+  orig: 52, 148
+  offset: 16, 20
+  index: -1
+images/sg/k_14
+  rotate: false
+  xy: 208, 31
+  size: 27, 109
+  orig: 52, 148
+  offset: 21, 32
+  index: -1
+images/sg/k_15
+  rotate: true
+  xy: 323, 22
+  size: 24, 80
+  orig: 52, 148
+  offset: 25, 43
+  index: -1
+images/sg/k_16
+  rotate: true
+  xy: 281, 120
+  size: 20, 82
+  orig: 52, 148
+  offset: 29, 58
+  index: -1
+images/sg/k_17
+  rotate: false
+  xy: 281, 8
+  size: 17, 68
+  orig: 52, 148
+  offset: 32, 75
+  index: -1
+images/sg/k_18
+  rotate: true
+  xy: 323, 4
+  size: 16, 53
+  orig: 52, 148
+  offset: 33, 91
+  index: -1
+images/sg/k_19
+  rotate: true
+  xy: 164, 2
+  size: 15, 37
+  orig: 52, 148
+  offset: 33, 107
+  index: -1
+images/sg/k_20
+  rotate: true
+  xy: 130, 2
+  size: 14, 21
+  orig: 52, 148
+  offset: 34, 123
+  index: -1
+images/sg/k_21
+  rotate: true
+  xy: 153, 5
+  size: 11, 8
+  orig: 52, 148
+  offset: 35, 134
+  index: -1

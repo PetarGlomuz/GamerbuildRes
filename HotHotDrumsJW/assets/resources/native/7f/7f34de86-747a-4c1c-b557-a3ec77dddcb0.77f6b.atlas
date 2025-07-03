@@ -1,0 +1,265 @@
+
+dianliang.png
+size: 316,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian/lizi_00
+  rotate: false
+  xy: 193, 5
+  size: 57, 45
+  orig: 81, 58
+  offset: 12, 10
+  index: -1
+baodian/lizi_01
+  rotate: false
+  xy: 200, 78
+  size: 64, 52
+  orig: 81, 58
+  offset: 8, 6
+  index: -1
+baodian/lizi_02
+  rotate: false
+  xy: 66, 156
+  size: 71, 54
+  orig: 81, 58
+  offset: 4, 4
+  index: -1
+baodian/lizi_03
+  rotate: false
+  xy: 147, 212
+  size: 75, 55
+  orig: 81, 58
+  offset: 2, 3
+  index: -1
+baodian/lizi_04
+  rotate: false
+  xy: 0, 374
+  size: 79, 57
+  orig: 81, 58
+  offset: 0, 1
+  index: -1
+baodian/lizi_05
+  rotate: false
+  xy: 165, 457
+  size: 79, 58
+  orig: 81, 58
+  offset: 0, 0
+  index: -1
+baodian/lizi_06
+  rotate: false
+  xy: 82, 457
+  size: 81, 58
+  orig: 81, 58
+  offset: 0, 0
+  index: -1
+baodian/lizi_07
+  rotate: false
+  xy: 239, 321
+  size: 76, 58
+  orig: 81, 58
+  offset: 5, 0
+  index: -1
+baodian/lizi_08
+  rotate: false
+  xy: 162, 397
+  size: 77, 58
+  orig: 81, 58
+  offset: 4, 0
+  index: -1
+baodian/lizi_09
+  rotate: false
+  xy: 81, 337
+  size: 77, 58
+  orig: 81, 58
+  offset: 4, 0
+  index: -1
+baodian/lizi_10
+  rotate: false
+  xy: 0, 314
+  size: 77, 58
+  orig: 81, 58
+  offset: 4, 0
+  index: -1
+baodian/lizi_11
+  rotate: false
+  xy: 82, 397
+  size: 78, 58
+  orig: 81, 58
+  offset: 3, 0
+  index: -1
+baodian/lizi_12
+  rotate: false
+  xy: 160, 337
+  size: 77, 58
+  orig: 81, 58
+  offset: 4, 0
+  index: -1
+baodian/lizi_13
+  rotate: false
+  xy: 0, 255
+  size: 77, 57
+  orig: 81, 58
+  offset: 4, 1
+  index: -1
+baodian/lizi_14
+  rotate: false
+  xy: 79, 278
+  size: 78, 57
+  orig: 81, 58
+  offset: 1, 1
+  index: -1
+baodian/lizi_15
+  rotate: false
+  xy: 224, 195
+  size: 68, 58
+  orig: 81, 58
+  offset: 11, 0
+  index: -1
+baodian/lizi_16
+  rotate: false
+  xy: 139, 158
+  size: 68, 52
+  orig: 81, 58
+  offset: 11, 1
+  index: -1
+baodian/lizi_17
+  rotate: false
+  xy: 112, 0
+  size: 79, 37
+  orig: 81, 58
+  offset: 0, 13
+  index: -1
+baodian/lizi_18
+  rotate: false
+  xy: 183, 52
+  size: 76, 24
+  orig: 81, 58
+  offset: 3, 13
+  index: -1
+baodian/lizi_19
+  rotate: false
+  xy: 315, 514
+  size: 1, 1
+  orig: 81, 58
+  offset: 13, 0
+  index: -1
+chongjibo/yuan_00
+  rotate: false
+  xy: 266, 78
+  size: 48, 52
+  orig: 70, 70
+  offset: 12, 10
+  index: -1
+chongjibo/yuan_01
+  rotate: false
+  xy: 58, 37
+  size: 52, 56
+  orig: 70, 70
+  offset: 10, 8
+  index: -1
+chongjibo/yuan_02
+  rotate: false
+  xy: 0, 61
+  size: 56, 59
+  orig: 70, 70
+  offset: 8, 6
+  index: -1
+chongjibo/yuan_03
+  rotate: false
+  xy: 209, 132
+  size: 58, 61
+  orig: 70, 70
+  offset: 7, 5
+  index: -1
+chongjibo/yuan_04
+  rotate: false
+  xy: 0, 122
+  size: 60, 63
+  orig: 70, 70
+  offset: 6, 4
+  index: -1
+chongjibo/yuan_05
+  rotate: false
+  xy: 0, 187
+  size: 64, 66
+  orig: 70, 70
+  offset: 4, 3
+  index: -1
+chongjibo/yuan_06
+  rotate: false
+  xy: 159, 269
+  size: 65, 66
+  orig: 70, 70
+  offset: 4, 3
+  index: -1
+chongjibo/yuan_07
+  rotate: false
+  xy: 246, 449
+  size: 67, 66
+  orig: 70, 70
+  offset: 3, 3
+  index: -1
+chongjibo/yuan_08
+  rotate: false
+  xy: 241, 381
+  size: 67, 66
+  orig: 70, 70
+  offset: 3, 4
+  index: -1
+chongjibo/yuan_09
+  rotate: false
+  xy: 79, 212
+  size: 66, 64
+  orig: 70, 70
+  offset: 4, 6
+  index: -1
+chongjibo/yuan_10
+  rotate: false
+  xy: 226, 255
+  size: 65, 64
+  orig: 70, 70
+  offset: 5, 6
+  index: -1
+chongjibo/yuan_11
+  rotate: false
+  xy: 139, 97
+  size: 59, 59
+  orig: 70, 70
+  offset: 5, 7
+  index: -1
+chongjibo/yuan_12
+  rotate: false
+  xy: 62, 95
+  size: 59, 59
+  orig: 70, 70
+  offset: 5, 7
+  index: -1
+chongjibo/yuan_13
+  rotate: false
+  xy: 123, 39
+  size: 58, 56
+  orig: 70, 70
+  offset: 6, 10
+  index: -1
+chongjibo/yuan_14
+  rotate: false
+  xy: 269, 149
+  size: 40, 44
+  orig: 70, 70
+  offset: 18, 16
+  index: -1
+faguang_00
+  rotate: false
+  xy: 0, 433
+  size: 80, 82
+  orig: 98, 98
+  offset: 9, 8
+  index: -1
+theme136_super_6
+  rotate: false
+  xy: 0, 6
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+TC_FG_choice_title_EN.png
+size: 1774,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EN_title
+  rotate: false
+  xy: 2, 3
+  size: 850, 98
+  orig: 850, 99
+  offset: 0, 1
+  index: -1
+EN_title/EN_title_00
+  rotate: false
+  xy: 1676, 10
+  size: 45, 29
+  orig: 814, 55
+  offset: 203, 13
+  index: -1
+EN_title/EN_title_01
+  rotate: false
+  xy: 1650, 41
+  size: 71, 29
+  orig: 814, 55
+  offset: 203, 13
+  index: -1
+EN_title/EN_title_02
+  rotate: false
+  xy: 1498, 10
+  size: 92, 29
+  orig: 814, 55
+  offset: 203, 13
+  index: -1
+EN_title/EN_title_03
+  rotate: false
+  xy: 1383, 10
+  size: 113, 29
+  orig: 814, 55
+  offset: 203, 13
+  index: -1
+EN_title/EN_title_04
+  rotate: false
+  xy: 1393, 41
+  size: 144, 29
+  orig: 814, 55
+  offset: 203, 13
+  index: -1
+EN_title/EN_title_05
+  rotate: false
+  xy: 1037, 10
+  size: 175, 29
+  orig: 814, 55
+  offset: 204, 13
+  index: -1
+EN_title/EN_title_06
+  rotate: false
+  xy: 854, 72
+  size: 182, 29
+  orig: 814, 55
+  offset: 228, 13
+  index: -1
+EN_title/EN_title_07
+  rotate: false
+  xy: 1399, 72
+  size: 170, 29
+  orig: 814, 55
+  offset: 258, 13
+  index: -1
+EN_title/EN_title_08
+  rotate: false
+  xy: 1038, 72
+  size: 181, 29
+  orig: 814, 55
+  offset: 283, 13
+  index: -1
+EN_title/EN_title_09
+  rotate: false
+  xy: 854, 41
+  size: 182, 29
+  orig: 814, 55
+  offset: 309, 13
+  index: -1
+EN_title/EN_title_10
+  rotate: false
+  xy: 1221, 72
+  size: 176, 29
+  orig: 814, 55
+  offset: 338, 13
+  index: -1
+EN_title/EN_title_11
+  rotate: false
+  xy: 1038, 41
+  size: 177, 29
+  orig: 814, 55
+  offset: 368, 13
+  index: -1
+EN_title/EN_title_12
+  rotate: false
+  xy: 854, 10
+  size: 181, 29
+  orig: 814, 55
+  offset: 391, 13
+  index: -1
+EN_title/EN_title_13
+  rotate: false
+  xy: 1217, 41
+  size: 174, 29
+  orig: 814, 55
+  offset: 419, 13
+  index: -1
+EN_title/EN_title_14
+  rotate: false
+  xy: 1214, 10
+  size: 167, 29
+  orig: 814, 55
+  offset: 444, 13
+  index: -1
+EN_title/EN_title_15
+  rotate: false
+  xy: 1571, 72
+  size: 140, 29
+  orig: 814, 55
+  offset: 471, 13
+  index: -1
+EN_title/EN_title_16
+  rotate: false
+  xy: 1539, 41
+  size: 109, 29
+  orig: 814, 55
+  offset: 502, 13
+  index: -1
+EN_title/EN_title_17
+  rotate: false
+  xy: 1592, 10
+  size: 82, 29
+  orig: 814, 55
+  offset: 529, 13
+  index: -1
+EN_title/EN_title_18
+  rotate: false
+  xy: 1713, 73
+  size: 59, 28
+  orig: 814, 55
+  offset: 552, 14
+  index: -1
+EN_title/EN_title_19
+  rotate: false
+  xy: 1723, 2
+  size: 32, 27
+  orig: 814, 55
+  offset: 579, 14
+  index: -1
+glow3
+  rotate: false
+  xy: 1723, 31
+  size: 43, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1

@@ -1,0 +1,76 @@
+
+FG_beijing.png
+size: 967,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1_00000
+  rotate: false
+  xy: 2, 226
+  size: 191, 222
+  orig: 191, 222
+  offset: 0, 0
+  index: -1
+1/1_00002
+  rotate: false
+  xy: 2, 2
+  size: 191, 222
+  orig: 191, 222
+  offset: 0, 0
+  index: -1
+1/1_00004
+  rotate: false
+  xy: 195, 226
+  size: 191, 222
+  orig: 191, 222
+  offset: 0, 0
+  index: -1
+1/1_00006
+  rotate: false
+  xy: 195, 2
+  size: 191, 222
+  orig: 191, 222
+  offset: 0, 0
+  index: -1
+1/1_00008
+  rotate: false
+  xy: 388, 226
+  size: 191, 222
+  orig: 191, 222
+  offset: 0, 0
+  index: -1
+1/1_00010
+  rotate: false
+  xy: 388, 2
+  size: 191, 222
+  orig: 191, 222
+  offset: 0, 0
+  index: -1
+1/1_00012
+  rotate: false
+  xy: 581, 226
+  size: 191, 222
+  orig: 191, 222
+  offset: 0, 0
+  index: -1
+1/1_00014
+  rotate: false
+  xy: 581, 2
+  size: 191, 222
+  orig: 191, 222
+  offset: 0, 0
+  index: -1
+1/1_00016
+  rotate: false
+  xy: 774, 226
+  size: 191, 222
+  orig: 191, 222
+  offset: 0, 0
+  index: -1
+1/1_00018
+  rotate: false
+  xy: 774, 2
+  size: 191, 222
+  orig: 191, 222
+  offset: 0, 0
+  index: -1

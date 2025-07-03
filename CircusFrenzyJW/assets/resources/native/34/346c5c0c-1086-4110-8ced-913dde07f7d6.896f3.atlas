@@ -1,0 +1,111 @@
+
+NG_yingfenkuang.png
+size: 1484,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yfk/yfk_000
+  rotate: true
+  xy: 1091, 3
+  size: 119, 96
+  orig: 130, 110
+  offset: 5, 7
+  index: -1
+yfk/yfk_002
+  rotate: true
+  xy: 102, 2
+  size: 120, 97
+  orig: 130, 110
+  offset: 5, 6
+  index: -1
+yfk/yfk_004
+  rotate: true
+  xy: 2, 2
+  size: 120, 98
+  orig: 130, 110
+  offset: 5, 6
+  index: -1
+yfk/yfk_006
+  rotate: true
+  xy: 498, 4
+  size: 118, 98
+  orig: 130, 110
+  offset: 6, 6
+  index: -1
+yfk/yfk_008
+  rotate: true
+  xy: 1189, 6
+  size: 116, 98
+  orig: 130, 110
+  offset: 7, 6
+  index: -1
+yfk/yfk_010
+  rotate: true
+  xy: 201, 2
+  size: 120, 97
+  orig: 130, 110
+  offset: 5, 6
+  index: -1
+yfk/yfk_012
+  rotate: true
+  xy: 300, 2
+  size: 120, 97
+  orig: 130, 110
+  offset: 5, 6
+  index: -1
+yfk/yfk_014
+  rotate: true
+  xy: 796, 2
+  size: 120, 96
+  orig: 130, 110
+  offset: 5, 7
+  index: -1
+yfk/yfk_016
+  rotate: true
+  xy: 894, 2
+  size: 120, 96
+  orig: 130, 110
+  offset: 5, 6
+  index: -1
+yfk/yfk_018
+  rotate: true
+  xy: 399, 2
+  size: 120, 97
+  orig: 130, 110
+  offset: 5, 6
+  index: -1
+yfk/yfk_020
+  rotate: true
+  xy: 992, 4
+  size: 118, 97
+  orig: 130, 110
+  offset: 6, 6
+  index: -1
+yfk/yfk_022
+  rotate: true
+  xy: 1386, 6
+  size: 116, 96
+  orig: 130, 110
+  offset: 7, 7
+  index: -1
+yfk/yfk_024
+  rotate: true
+  xy: 598, 3
+  size: 119, 97
+  orig: 130, 110
+  offset: 5, 7
+  index: -1
+yfk/yfk_026
+  rotate: true
+  xy: 697, 3
+  size: 119, 97
+  orig: 130, 110
+  offset: 5, 7
+  index: -1
+yfk/yfk_028
+  rotate: true
+  xy: 1289, 3
+  size: 119, 95
+  orig: 130, 110
+  offset: 5, 8
+  index: -1

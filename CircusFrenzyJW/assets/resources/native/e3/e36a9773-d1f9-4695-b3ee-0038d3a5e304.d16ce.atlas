@@ -1,0 +1,20 @@
+
+TC_FG_beijing.png
+size: 719,630
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/board_FG
+  rotate: false
+  xy: 2, 2
+  size: 687, 626
+  orig: 687, 626
+  offset: 0, 0
+  index: -1
+images/qiu1_000
+  rotate: false
+  xy: 691, 602
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

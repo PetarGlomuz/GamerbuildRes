@@ -1,0 +1,27 @@
+
+NG_beijing.png
+size: 69,47
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huaban3
+  rotate: false
+  xy: 41, 2
+  size: 21, 20
+  orig: 22, 22
+  offset: 1, 1
+  index: -1
+huabanxin_1_00
+  rotate: false
+  xy: 41, 24
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+shan2
+  rotate: false
+  xy: 2, 8
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1

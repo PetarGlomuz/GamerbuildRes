@@ -1,0 +1,174 @@
+
+TC_JP_diban.png
+size: 2032,1786
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_board
+  rotate: false
+  xy: 1017, 1212
+  size: 1013, 572
+  orig: 1086, 578
+  offset: 37, 4
+  index: -1
+purple_board
+  rotate: false
+  xy: 2, 122
+  size: 1013, 574
+  orig: 1086, 578
+  offset: 37, 4
+  index: -1
+red_board
+  rotate: true
+  xy: 2, 698
+  size: 1086, 572
+  orig: 1086, 578
+  offset: 0, 4
+  index: -1
+sg/sgboard_00
+  rotate: true
+  xy: 652, 35
+  size: 85, 455
+  orig: 395, 484
+  offset: 30, 8
+  index: -1
+sg/sgboard_01
+  rotate: true
+  xy: 2, 2
+  size: 118, 457
+  orig: 395, 484
+  offset: 30, 7
+  index: -1
+sg/sgboard_02
+  rotate: true
+  xy: 1528, 1058
+  size: 152, 458
+  orig: 395, 484
+  offset: 30, 7
+  index: -1
+sg/sgboard_03
+  rotate: true
+  xy: 1528, 874
+  size: 182, 457
+  orig: 395, 484
+  offset: 31, 8
+  index: -1
+sg/sgboard_04
+  rotate: true
+  xy: 1526, 659
+  size: 213, 455
+  orig: 395, 484
+  offset: 32, 10
+  index: -1
+sg/sgboard_05
+  rotate: true
+  xy: 984, 724
+  size: 241, 454
+  orig: 395, 484
+  offset: 34, 11
+  index: -1
+sg/sgboard_06
+  rotate: false
+  xy: 1215, 55
+  size: 269, 451
+  orig: 395, 484
+  offset: 37, 14
+  index: -1
+sg/sgboard_07
+  rotate: false
+  xy: 1486, 61
+  size: 287, 445
+  orig: 395, 484
+  offset: 42, 20
+  index: -1
+sg/sgboard_08
+  rotate: true
+  xy: 576, 1500
+  size: 284, 439
+  orig: 395, 484
+  offset: 50, 26
+  index: -1
+sg/sgboard_09
+  rotate: true
+  xy: 576, 1225
+  size: 273, 433
+  orig: 395, 484
+  offset: 64, 32
+  index: -1
+sg/sgboard_10
+  rotate: true
+  xy: 576, 967
+  size: 256, 421
+  orig: 395, 484
+  offset: 82, 44
+  index: -1
+sg/sgboard_11
+  rotate: true
+  xy: 576, 714
+  size: 251, 406
+  orig: 395, 484
+  offset: 102, 59
+  index: -1
+sg/sgboard_12
+  rotate: true
+  xy: 1133, 979
+  size: 231, 393
+  orig: 395, 484
+  offset: 122, 72
+  index: -1
+sg/sgboard_13
+  rotate: true
+  xy: 1109, 508
+  size: 214, 383
+  orig: 395, 484
+  offset: 141, 82
+  index: -1
+sg/sgboard_14
+  rotate: false
+  xy: 1017, 142
+  size: 196, 364
+  orig: 395, 484
+  offset: 160, 101
+  index: -1
+sg/sgboard_15
+  rotate: false
+  xy: 1775, 325
+  size: 176, 332
+  orig: 395, 484
+  offset: 181, 133
+  index: -1
+sg/sgboard_16
+  rotate: false
+  xy: 1775, 41
+  size: 154, 282
+  orig: 395, 484
+  offset: 204, 183
+  index: -1
+sg/sgboard_17
+  rotate: false
+  xy: 999, 977
+  size: 132, 233
+  orig: 395, 484
+  offset: 226, 232
+  index: -1
+sg/sgboard_18
+  rotate: true
+  xy: 461, 12
+  size: 108, 189
+  orig: 395, 484
+  offset: 249, 276
+  index: -1
+sg/sgboard_19
+  rotate: false
+  xy: 1440, 845
+  size: 84, 132
+  orig: 395, 484
+  offset: 272, 333
+  index: -1
+sg/sgboard_20
+  rotate: true
+  xy: 1440, 784
+  size: 59, 78
+  orig: 395, 484
+  offset: 296, 385
+  index: -1

@@ -1,0 +1,153 @@
+
+JP_biaoti.png
+size: 969,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grand_jackpot
+  rotate: false
+  xy: 2, 2
+  size: 546, 231
+  orig: 547, 232
+  offset: 0, 0
+  index: -1
+sg/sg_00000
+  rotate: false
+  xy: 934, 77
+  size: 30, 43
+  orig: 150, 66
+  offset: 7, 2
+  index: -1
+sg/sg_00001
+  rotate: false
+  xy: 831, 72
+  size: 40, 53
+  orig: 150, 66
+  offset: 7, 2
+  index: -1
+sg/sg_00002
+  rotate: false
+  xy: 822, 5
+  size: 51, 56
+  orig: 150, 66
+  offset: 7, 2
+  index: -1
+sg/sg_00003
+  rotate: false
+  xy: 905, 176
+  size: 62, 57
+  orig: 150, 66
+  offset: 7, 2
+  index: -1
+sg/sg_00004
+  rotate: false
+  xy: 757, 63
+  size: 72, 57
+  orig: 150, 66
+  offset: 7, 2
+  index: -1
+sg/sg_00005
+  rotate: false
+  xy: 663, 4
+  size: 83, 57
+  orig: 150, 66
+  offset: 7, 2
+  index: -1
+sg/sg_00006
+  rotate: false
+  xy: 667, 63
+  size: 88, 57
+  orig: 150, 66
+  offset: 8, 2
+  index: -1
+sg/sg_00007
+  rotate: false
+  xy: 676, 122
+  size: 104, 57
+  orig: 150, 66
+  offset: 8, 2
+  index: -1
+sg/sg_00008
+  rotate: false
+  xy: 550, 16
+  size: 111, 55
+  orig: 150, 66
+  offset: 9, 4
+  index: -1
+sg/sg_00009
+  rotate: false
+  xy: 676, 181
+  size: 122, 52
+  orig: 150, 66
+  offset: 11, 7
+  index: -1
+sg/sg_00010
+  rotate: false
+  xy: 550, 181
+  size: 124, 52
+  orig: 150, 66
+  offset: 15, 7
+  index: -1
+sg/sg_00011
+  rotate: false
+  xy: 550, 127
+  size: 124, 52
+  orig: 150, 66
+  offset: 19, 7
+  index: -1
+sg/sg_00012
+  rotate: false
+  xy: 550, 73
+  size: 115, 52
+  orig: 150, 66
+  offset: 28, 7
+  index: -1
+sg/sg_00013
+  rotate: false
+  xy: 800, 181
+  size: 103, 52
+  orig: 150, 66
+  offset: 40, 7
+  index: -1
+sg/sg_00014
+  rotate: false
+  xy: 782, 127
+  size: 94, 52
+  orig: 150, 66
+  offset: 49, 7
+  index: -1
+sg/sg_00015
+  rotate: false
+  xy: 878, 122
+  size: 82, 52
+  orig: 150, 66
+  offset: 61, 7
+  index: -1
+sg/sg_00016
+  rotate: false
+  xy: 748, 9
+  size: 72, 52
+  orig: 150, 66
+  offset: 71, 7
+  index: -1
+sg/sg_00017
+  rotate: false
+  xy: 873, 68
+  size: 59, 52
+  orig: 150, 66
+  offset: 84, 7
+  index: -1
+sg/sg_00018
+  rotate: false
+  xy: 875, 14
+  size: 48, 52
+  orig: 150, 66
+  offset: 95, 7
+  index: -1
+sg/sg_00019
+  rotate: false
+  xy: 925, 15
+  size: 41, 51
+  orig: 150, 66
+  offset: 102, 8
+  index: -1

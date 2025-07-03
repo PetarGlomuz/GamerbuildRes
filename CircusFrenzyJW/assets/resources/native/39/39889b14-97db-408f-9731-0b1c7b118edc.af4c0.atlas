@@ -1,0 +1,160 @@
+
+TC_FG_jiesuankuang.png
+size: 304,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fgjsk
+  rotate: true
+  xy: 2, 324
+  size: 711, 161
+  orig: 711, 161
+  offset: 0, 0
+  index: -1
+images/fgk/fgk_000
+  rotate: false
+  xy: 249, 83
+  size: 33, 55
+  orig: 350, 70
+  offset: 4, 3
+  index: -1
+images/fgk/fgk_002
+  rotate: true
+  xy: 140, 141
+  size: 56, 67
+  orig: 350, 70
+  offset: 4, 3
+  index: -1
+images/fgk/fgk_004
+  rotate: false
+  xy: 209, 140
+  size: 79, 67
+  orig: 350, 70
+  offset: 4, 3
+  index: -1
+images/fgk/fgk_006
+  rotate: false
+  xy: 144, 71
+  size: 103, 67
+  orig: 350, 70
+  offset: 4, 3
+  index: -1
+images/fgk/fgk_008
+  rotate: false
+  xy: 2, 2
+  size: 126, 67
+  orig: 350, 70
+  offset: 4, 3
+  index: -1
+images/fgk/fgk_010
+  rotate: true
+  xy: 234, 344
+  size: 149, 67
+  orig: 350, 70
+  offset: 5, 3
+  index: -1
+images/fgk/fgk_012
+  rotate: true
+  xy: 234, 495
+  size: 172, 67
+  orig: 350, 70
+  offset: 5, 3
+  index: -1
+images/fgk/fgk_014
+  rotate: true
+  xy: 234, 853
+  size: 182, 67
+  orig: 350, 70
+  offset: 19, 3
+  index: -1
+images/fgk/fgk_016
+  rotate: true
+  xy: 2, 139
+  size: 183, 67
+  orig: 350, 70
+  offset: 41, 3
+  index: -1
+images/fgk/fgk_018
+  rotate: true
+  xy: 165, 852
+  size: 183, 67
+  orig: 350, 70
+  offset: 65, 3
+  index: -1
+images/fgk/fgk_020
+  rotate: true
+  xy: 71, 139
+  size: 183, 67
+  orig: 350, 70
+  offset: 88, 3
+  index: -1
+images/fgk/fgk_022
+  rotate: true
+  xy: 165, 483
+  size: 182, 67
+  orig: 350, 70
+  offset: 112, 3
+  index: -1
+images/fgk/fgk_024
+  rotate: true
+  xy: 165, 667
+  size: 183, 67
+  orig: 350, 70
+  offset: 135, 3
+  index: -1
+images/fgk/fgk_026
+  rotate: true
+  xy: 234, 669
+  size: 182, 67
+  orig: 350, 70
+  offset: 159, 3
+  index: -1
+images/fgk/fgk_028
+  rotate: true
+  xy: 165, 317
+  size: 164, 67
+  orig: 350, 70
+  offset: 182, 3
+  index: -1
+images/fgk/fgk_030
+  rotate: false
+  xy: 2, 71
+  size: 140, 66
+  orig: 350, 70
+  offset: 206, 4
+  index: -1
+images/fgk/fgk_032
+  rotate: true
+  xy: 140, 199
+  size: 116, 66
+  orig: 350, 70
+  offset: 230, 4
+  index: -1
+images/fgk/fgk_034
+  rotate: false
+  xy: 208, 209
+  size: 93, 66
+  orig: 350, 70
+  offset: 253, 4
+  index: -1
+images/fgk/fgk_036
+  rotate: false
+  xy: 234, 277
+  size: 68, 65
+  orig: 350, 70
+  offset: 277, 4
+  index: -1
+images/fgk/fgk_038
+  rotate: false
+  xy: 130, 8
+  size: 45, 61
+  orig: 350, 70
+  offset: 300, 8
+  index: -1
+images/fgk/fgk_040
+  rotate: false
+  xy: 208, 280
+  size: 21, 35
+  orig: 350, 70
+  offset: 324, 34
+  index: -1

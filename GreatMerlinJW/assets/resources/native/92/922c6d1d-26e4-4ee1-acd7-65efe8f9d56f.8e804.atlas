@@ -1,0 +1,264 @@
+
+ML_beijing.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/hw_00
+  rotate: false
+  xy: 1555, 257
+  size: 185, 188
+  orig: 200, 200
+  offset: 0, 9
+  index: -1
+images/ld/1_02
+  rotate: false
+  xy: 1744, 113
+  size: 236, 332
+  orig: 512, 800
+  offset: 144, 196
+  index: -1
+images/ld/1_04
+  rotate: true
+  xy: 340, 8
+  size: 236, 335
+  orig: 512, 800
+  offset: 144, 191
+  index: -1
+images/ld/1_06
+  rotate: true
+  xy: 2, 8
+  size: 236, 336
+  orig: 512, 800
+  offset: 144, 191
+  index: -1
+images/lizi/1_02
+  rotate: false
+  xy: 2, 846
+  size: 517, 598
+  orig: 600, 600
+  offset: 74, 2
+  index: -1
+images/lizi/1_03
+  rotate: false
+  xy: 2, 1446
+  size: 517, 600
+  orig: 600, 600
+  offset: 79, 0
+  index: -1
+images/lizi/1_04
+  rotate: false
+  xy: 510, 249
+  size: 516, 595
+  orig: 600, 600
+  offset: 84, 4
+  index: -1
+images/lizi/1_05
+  rotate: false
+  xy: 2, 246
+  size: 506, 598
+  orig: 600, 600
+  offset: 89, 0
+  index: -1
+images/lizi/1_08
+  rotate: false
+  xy: 1211, 1014
+  size: 586, 512
+  orig: 600, 600
+  offset: 0, 83
+  index: -1
+images/lizi/1_09
+  rotate: false
+  xy: 1211, 1528
+  size: 590, 518
+  orig: 600, 600
+  offset: 1, 77
+  index: -1
+images/lizi/1_10
+  rotate: false
+  xy: 1211, 494
+  size: 582, 518
+  orig: 600, 600
+  offset: 1, 76
+  index: -1
+images/lizi/1_11
+  rotate: false
+  xy: 521, 1526
+  size: 581, 520
+  orig: 600, 600
+  offset: 6, 73
+  index: -1
+images/lizi/1_13
+  rotate: true
+  xy: 521, 944
+  size: 580, 525
+  orig: 600, 600
+  offset: 14, 66
+  index: -1
+images/nenliang/1_02
+  rotate: false
+  xy: 1795, 447
+  size: 251, 533
+  orig: 1170, 1673
+  offset: 372, 529
+  index: -1
+images/nenliang/1_06
+  rotate: false
+  xy: 1799, 982
+  size: 247, 535
+  orig: 1170, 1673
+  offset: 372, 536
+  index: -1
+images/nenliang/1_08
+  rotate: true
+  xy: 677, 2
+  size: 245, 532
+  orig: 1170, 1673
+  offset: 372, 539
+  index: -1
+images/nenliang/1_09
+  rotate: true
+  xy: 1211, 3
+  size: 244, 531
+  orig: 1170, 1673
+  offset: 372, 538
+  index: -1
+images/nenliang/1_10
+  rotate: false
+  xy: 1803, 1519
+  size: 243, 527
+  orig: 1170, 1673
+  offset: 372, 540
+  index: -1
+images/nenliang/1_11
+  rotate: true
+  xy: 1028, 249
+  size: 243, 525
+  orig: 1170, 1673
+  offset: 372, 540
+  index: -1
+
+ML_beijing2.png
+size: 2017,1629
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ld/1_00
+  rotate: false
+  xy: 1292, 2
+  size: 236, 330
+  orig: 512, 800
+  offset: 144, 196
+  index: -1
+images/ld/1_08
+  rotate: false
+  xy: 1530, 6
+  size: 236, 326
+  orig: 512, 800
+  offset: 144, 201
+  index: -1
+images/lizi/1_00
+  rotate: true
+  xy: 778, 1091
+  size: 536, 484
+  orig: 600, 600
+  offset: 64, 104
+  index: -1
+images/lizi/1_01
+  rotate: false
+  xy: 519, 2
+  size: 516, 501
+  orig: 600, 600
+  offset: 69, 99
+  index: -1
+images/lizi/1_06
+  rotate: true
+  xy: 1491, 334
+  size: 519, 520
+  orig: 600, 600
+  offset: 80, 78
+  index: -1
+images/lizi/1_07
+  rotate: true
+  xy: 2, 5
+  size: 495, 515
+  orig: 600, 600
+  offset: 86, 82
+  index: -1
+images/lizi/1_12
+  rotate: true
+  xy: 2, 1047
+  size: 580, 522
+  orig: 600, 600
+  offset: 10, 69
+  index: -1
+images/lizi/1_14
+  rotate: true
+  xy: 252, 505
+  size: 540, 481
+  orig: 600, 600
+  offset: 58, 109
+  index: -1
+images/nenliang/1_00
+  rotate: false
+  xy: 1235, 563
+  size: 254, 526
+  orig: 1170, 1673
+  offset: 372, 534
+  index: -1
+images/nenliang/1_01
+  rotate: false
+  xy: 1037, 22
+  size: 253, 529
+  orig: 1170, 1673
+  offset: 372, 531
+  index: -1
+images/nenliang/1_03
+  rotate: false
+  xy: 735, 547
+  size: 250, 538
+  orig: 1170, 1673
+  offset: 372, 528
+  index: -1
+images/nenliang/1_04
+  rotate: false
+  xy: 526, 1087
+  size: 250, 540
+  orig: 1170, 1673
+  offset: 372, 526
+  index: -1
+images/nenliang/1_05
+  rotate: false
+  xy: 2, 502
+  size: 248, 543
+  orig: 1170, 1673
+  offset: 372, 524
+  index: -1
+images/nenliang/1_07
+  rotate: false
+  xy: 987, 553
+  size: 246, 536
+  orig: 1170, 1673
+  offset: 372, 536
+  index: -1
+images/nenliang/1_12
+  rotate: true
+  xy: 1491, 1113
+  size: 257, 523
+  orig: 1170, 1673
+  offset: 372, 541
+  index: -1
+images/nenliang/1_13
+  rotate: true
+  xy: 1491, 855
+  size: 256, 522
+  orig: 1170, 1673
+  offset: 372, 540
+  index: -1
+images/nenliang/1_14
+  rotate: true
+  xy: 1491, 1372
+  size: 255, 524
+  orig: 1170, 1673
+  offset: 372, 537
+  index: -1

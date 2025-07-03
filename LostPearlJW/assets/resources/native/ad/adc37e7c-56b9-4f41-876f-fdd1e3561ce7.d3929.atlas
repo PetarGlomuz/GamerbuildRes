@@ -1,0 +1,34 @@
+
+DianJi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan
+  rotate: false
+  xy: 602, 46
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+shou_01
+  rotate: false
+  xy: 2, 2
+  size: 198, 244
+  orig: 198, 244
+  offset: 0, 0
+  index: -1
+shou_02
+  rotate: false
+  xy: 202, 2
+  size: 198, 244
+  orig: 198, 244
+  offset: 0, 0
+  index: -1
+shou_04
+  rotate: false
+  xy: 402, 2
+  size: 198, 244
+  orig: 198, 244
+  offset: 0, 0
+  index: -1

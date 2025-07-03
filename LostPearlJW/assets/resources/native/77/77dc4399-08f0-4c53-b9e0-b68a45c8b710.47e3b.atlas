@@ -1,0 +1,272 @@
+
+ng_bigwin.png
+size: 1937,1167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bowen
+  rotate: false
+  xy: 2, 721
+  size: 890, 444
+  orig: 1000, 500
+  offset: 68, 0
+  index: -1
+images/gd_00
+  rotate: false
+  xy: 2, 268
+  size: 686, 451
+  orig: 720, 720
+  offset: 23, 201
+  index: -1
+images/jb/1_00
+  rotate: false
+  xy: 690, 277
+  size: 58, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1
+images/jb/1_01
+  rotate: false
+  xy: 828, 29
+  size: 57, 58
+  orig: 60, 60
+  offset: 3, 1
+  index: -1
+images/jb/1_02
+  rotate: false
+  xy: 1868, 361
+  size: 50, 58
+  orig: 60, 60
+  offset: 9, 1
+  index: -1
+images/jb/1_03
+  rotate: true
+  xy: 940, 340
+  size: 43, 58
+  orig: 60, 60
+  offset: 13, 1
+  index: -1
+images/jb/1_04
+  rotate: false
+  xy: 1897, 1045
+  size: 24, 60
+  orig: 60, 60
+  offset: 21, 0
+  index: -1
+images/jb/1_05
+  rotate: true
+  xy: 2, 2
+  size: 13, 60
+  orig: 60, 60
+  offset: 25, 0
+  index: -1
+images/jb/1_06
+  rotate: false
+  xy: 1868, 119
+  size: 24, 60
+  orig: 60, 60
+  offset: 15, 0
+  index: -1
+images/jb/1_07
+  rotate: false
+  xy: 1897, 1107
+  size: 34, 58
+  orig: 60, 60
+  offset: 9, 1
+  index: -1
+images/jb/1_08
+  rotate: false
+  xy: 1868, 301
+  size: 50, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1
+images/jb/1_09
+  rotate: false
+  xy: 946, 29
+  size: 54, 58
+  orig: 60, 60
+  offset: 0, 1
+  index: -1
+images/jb/1_10
+  rotate: false
+  xy: 768, 29
+  size: 58, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1
+images/jb/1_11
+  rotate: false
+  xy: 887, 29
+  size: 57, 58
+  orig: 60, 60
+  offset: 3, 1
+  index: -1
+images/jb/1_12
+  rotate: false
+  xy: 1868, 241
+  size: 50, 58
+  orig: 60, 60
+  offset: 9, 1
+  index: -1
+images/jb/1_13
+  rotate: true
+  xy: 1000, 340
+  size: 43, 58
+  orig: 60, 60
+  offset: 13, 1
+  index: -1
+images/jb/1_14
+  rotate: false
+  xy: 1897, 983
+  size: 24, 60
+  orig: 60, 60
+  offset: 21, 0
+  index: -1
+images/jb/1_15
+  rotate: true
+  xy: 1622, 44
+  size: 13, 60
+  orig: 60, 60
+  offset: 25, 0
+  index: -1
+images/jb/1_16
+  rotate: false
+  xy: 1894, 119
+  size: 24, 60
+  orig: 60, 60
+  offset: 15, 0
+  index: -1
+images/jb/1_17
+  rotate: true
+  xy: 1060, 349
+  size: 34, 58
+  orig: 60, 60
+  offset: 9, 1
+  index: -1
+images/jb/1_18
+  rotate: false
+  xy: 1868, 181
+  size: 50, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1
+images/jb/1_19
+  rotate: false
+  xy: 1002, 29
+  size: 54, 58
+  orig: 60, 60
+  offset: 0, 1
+  index: -1
+images/qipao/1_00
+  rotate: false
+  xy: 1131, 37
+  size: 243, 346
+  orig: 500, 720
+  offset: 166, 159
+  index: -1
+images/qipao/1_01
+  rotate: false
+  xy: 1376, 42
+  size: 244, 351
+  orig: 500, 720
+  offset: 166, 159
+  index: -1
+images/qipao/1_02
+  rotate: false
+  xy: 1690, 421
+  size: 245, 356
+  orig: 500, 720
+  offset: 165, 158
+  index: -1
+images/qipao/1_03
+  rotate: true
+  xy: 768, 89
+  size: 246, 361
+  orig: 500, 720
+  offset: 164, 157
+  index: -1
+images/qipao/1_04
+  rotate: true
+  xy: 400, 19
+  size: 247, 366
+  orig: 500, 720
+  offset: 164, 157
+  index: -1
+images/qipao/1_05
+  rotate: false
+  xy: 1440, 403
+  size: 248, 371
+  orig: 500, 720
+  offset: 163, 156
+  index: -1
+images/qipao/1_06
+  rotate: false
+  xy: 1190, 395
+  size: 248, 375
+  orig: 500, 720
+  offset: 163, 156
+  index: -1
+images/qipao/1_07
+  rotate: false
+  xy: 940, 385
+  size: 248, 378
+  orig: 500, 720
+  offset: 164, 157
+  index: -1
+images/qipao/1_08
+  rotate: false
+  xy: 690, 337
+  size: 248, 382
+  orig: 500, 720
+  offset: 164, 157
+  index: -1
+images/qipao/1_09
+  rotate: false
+  xy: 1646, 779
+  size: 249, 386
+  orig: 500, 720
+  offset: 164, 157
+  index: -1
+images/qipao/1_10
+  rotate: false
+  xy: 1395, 776
+  size: 249, 389
+  orig: 500, 720
+  offset: 164, 158
+  index: -1
+images/qipao/1_11
+  rotate: false
+  xy: 1145, 772
+  size: 248, 393
+  orig: 500, 720
+  offset: 165, 158
+  index: -1
+images/qipao/1_12
+  rotate: true
+  xy: 2, 17
+  size: 249, 396
+  orig: 500, 720
+  offset: 165, 158
+  index: -1
+images/qipao/1_13
+  rotate: false
+  xy: 894, 765
+  size: 249, 400
+  orig: 500, 720
+  offset: 165, 158
+  index: -1
+images/qipao/1_14
+  rotate: false
+  xy: 1622, 59
+  size: 244, 342
+  orig: 500, 720
+  offset: 165, 159
+  index: -1
+images/zz
+  rotate: false
+  xy: 1058, 32
+  size: 55, 55
+  orig: 65, 65
+  offset: 5, 5
+  index: -1

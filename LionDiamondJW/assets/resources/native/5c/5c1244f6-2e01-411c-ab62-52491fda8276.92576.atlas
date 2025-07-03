@@ -1,0 +1,55 @@
+
+H3.png
+size: 159,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h3_1
+  rotate: true
+  xy: 67, 6
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+images/h3_2
+  rotate: true
+  xy: 98, 4
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+images/h3_3
+  rotate: true
+  xy: 139, 15
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+images/h3_4
+  rotate: false
+  xy: 2, 46
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+images/st
+  rotate: false
+  xy: 100, 43
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+images/sy
+  rotate: false
+  xy: 100, 89
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+images/xy
+  rotate: false
+  xy: 2, 2
+  size: 63, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+NG_beijing.png
+size: 810,810
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/G1_00
+  rotate: false
+  xy: 2, 608
+  size: 391, 200
+  orig: 410, 202
+  offset: 10, 2
+  index: -1
+wenjian/lizi/lizi_00
+  rotate: false
+  xy: 327, 441
+  size: 144, 165
+  orig: 203, 198
+  offset: 20, 30
+  index: -1
+wenjian/lizi/lizi_01
+  rotate: false
+  xy: 473, 327
+  size: 158, 151
+  orig: 203, 198
+  offset: 4, 15
+  index: -1
+wenjian/lizi/lizi_02
+  rotate: false
+  xy: 557, 656
+  size: 159, 152
+  orig: 203, 198
+  offset: 4, 15
+  index: -1
+wenjian/lizi/lizi_03
+  rotate: false
+  xy: 2, 122
+  size: 159, 152
+  orig: 203, 198
+  offset: 4, 15
+  index: -1
+wenjian/lizi/lizi_04
+  rotate: false
+  xy: 165, 453
+  size: 160, 153
+  orig: 203, 198
+  offset: 4, 16
+  index: -1
+wenjian/lizi/lizi_05
+  rotate: false
+  xy: 2, 276
+  size: 160, 161
+  orig: 203, 198
+  offset: 4, 11
+  index: -1
+wenjian/lizi/lizi_06
+  rotate: false
+  xy: 395, 644
+  size: 160, 164
+  orig: 203, 198
+  offset: 4, 11
+  index: -1
+wenjian/lizi/lizi_07
+  rotate: false
+  xy: 2, 439
+  size: 161, 167
+  orig: 203, 198
+  offset: 4, 11
+  index: -1
+wenjian/lizi/lizi_08
+  rotate: false
+  xy: 165, 303
+  size: 153, 148
+  orig: 203, 198
+  offset: 12, 11
+  index: -1
+wenjian/lizi/lizi_09
+  rotate: false
+  xy: 164, 152
+  size: 152, 149
+  orig: 203, 198
+  offset: 13, 11
+  index: -1
+wenjian/lizi/lizi_10
+  rotate: false
+  xy: 320, 289
+  size: 151, 150
+  orig: 203, 198
+  offset: 13, 12
+  index: -1
+wenjian/lizi/lizi_11
+  rotate: false
+  xy: 633, 185
+  size: 150, 151
+  orig: 203, 198
+  offset: 14, 13
+  index: -1
+wenjian/lizi/lizi_12
+  rotate: true
+  xy: 318, 138
+  size: 149, 152
+  orig: 203, 198
+  offset: 15, 15
+  index: -1
+wenjian/lizi/lizi_13
+  rotate: true
+  xy: 472, 27
+  size: 149, 152
+  orig: 203, 198
+  offset: 15, 17
+  index: -1
+wenjian/lizi/lizi_14
+  rotate: true
+  xy: 163, 2
+  size: 148, 152
+  orig: 203, 198
+  offset: 16, 20
+  index: -1
+wenjian/lizi/lizi_15
+  rotate: true
+  xy: 628, 35
+  size: 148, 152
+  orig: 203, 198
+  offset: 16, 23
+  index: -1
+wenjian/lizi/lizi_16
+  rotate: true
+  xy: 473, 178
+  size: 147, 153
+  orig: 203, 198
+  offset: 17, 26
+  index: -1
+wenjian/lizi/lizi_17
+  rotate: false
+  xy: 633, 338
+  size: 147, 155
+  orig: 203, 198
+  offset: 17, 28
+  index: -1
+wenjian/lizi/lizi_18
+  rotate: false
+  xy: 620, 495
+  size: 146, 159
+  orig: 203, 198
+  offset: 18, 28
+  index: -1
+wenjian/lizi/lizi_19
+  rotate: false
+  xy: 473, 480
+  size: 145, 162
+  orig: 203, 198
+  offset: 19, 29
+  index: -1

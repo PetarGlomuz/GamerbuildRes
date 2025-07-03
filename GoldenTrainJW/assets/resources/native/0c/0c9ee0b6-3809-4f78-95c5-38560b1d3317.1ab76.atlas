@@ -1,0 +1,111 @@
+
+JP_tingpai.png
+size: 1826,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jptp/jp_00
+  rotate: false
+  xy: 474, 198
+  size: 230, 195
+  orig: 400, 400
+  offset: 86, 104
+  index: -1
+jptp/jp_01
+  rotate: false
+  xy: 2, 198
+  size: 237, 195
+  orig: 400, 400
+  offset: 79, 104
+  index: -1
+jptp/jp_02
+  rotate: false
+  xy: 467, 2
+  size: 229, 194
+  orig: 400, 400
+  offset: 86, 104
+  index: -1
+jptp/jp_03
+  rotate: false
+  xy: 1401, 200
+  size: 228, 193
+  orig: 400, 400
+  offset: 87, 105
+  index: -1
+jptp/jp_04
+  rotate: false
+  xy: 698, 2
+  size: 228, 194
+  orig: 400, 400
+  offset: 87, 104
+  index: -1
+jptp/jp_05
+  rotate: false
+  xy: 706, 198
+  size: 230, 195
+  orig: 400, 400
+  offset: 86, 102
+  index: -1
+jptp/jp_06
+  rotate: false
+  xy: 2, 2
+  size: 232, 194
+  orig: 400, 400
+  offset: 86, 103
+  index: -1
+jptp/jp_07
+  rotate: false
+  xy: 241, 198
+  size: 231, 195
+  orig: 400, 400
+  offset: 87, 103
+  index: -1
+jptp/jp_08
+  rotate: false
+  xy: 938, 198
+  size: 230, 195
+  orig: 400, 400
+  offset: 88, 104
+  index: -1
+jptp/jp_09
+  rotate: false
+  xy: 1170, 198
+  size: 229, 195
+  orig: 400, 400
+  offset: 87, 104
+  index: -1
+jptp/jp_10
+  rotate: false
+  xy: 1157, 2
+  size: 226, 194
+  orig: 400, 400
+  offset: 87, 105
+  index: -1
+jptp/jp_11
+  rotate: false
+  xy: 928, 2
+  size: 227, 194
+  orig: 400, 400
+  offset: 86, 105
+  index: -1
+jptp/jp_12
+  rotate: true
+  xy: 1631, 166
+  size: 227, 193
+  orig: 400, 400
+  offset: 86, 105
+  index: -1
+jptp/jp_13
+  rotate: false
+  xy: 1401, 5
+  size: 228, 193
+  orig: 400, 400
+  offset: 87, 105
+  index: -1
+jptp/jp_14
+  rotate: false
+  xy: 236, 2
+  size: 229, 194
+  orig: 400, 400
+  offset: 87, 105
+  index: -1

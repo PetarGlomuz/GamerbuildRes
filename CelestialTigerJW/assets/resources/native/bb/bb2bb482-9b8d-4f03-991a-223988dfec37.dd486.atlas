@@ -1,0 +1,216 @@
+
+PICK_xian.png
+size: 1245,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/rao/rao_00
+  rotate: false
+  xy: 156, 72
+  size: 155, 62
+  orig: 279, 141
+  offset: 53, 42
+  index: -1
+images/rao/rao_15
+  rotate: false
+  xy: 156, 72
+  size: 155, 62
+  orig: 279, 141
+  offset: 53, 42
+  index: -1
+images/rao/rao_01
+  rotate: false
+  xy: 313, 72
+  size: 153, 62
+  orig: 279, 141
+  offset: 53, 43
+  index: -1
+images/rao/rao_16
+  rotate: false
+  xy: 313, 72
+  size: 153, 62
+  orig: 279, 141
+  offset: 53, 43
+  index: -1
+images/rao/rao_02
+  rotate: false
+  xy: 468, 72
+  size: 153, 62
+  orig: 279, 141
+  offset: 53, 43
+  index: -1
+images/rao/rao_17
+  rotate: false
+  xy: 468, 72
+  size: 153, 62
+  orig: 279, 141
+  offset: 53, 43
+  index: -1
+images/rao/rao_03
+  rotate: false
+  xy: 623, 72
+  size: 153, 62
+  orig: 279, 141
+  offset: 53, 43
+  index: -1
+images/rao/rao_18
+  rotate: false
+  xy: 623, 72
+  size: 153, 62
+  orig: 279, 141
+  offset: 53, 43
+  index: -1
+images/rao/rao_04
+  rotate: false
+  xy: 1091, 71
+  size: 152, 63
+  orig: 279, 141
+  offset: 53, 42
+  index: -1
+images/rao/rao_19
+  rotate: false
+  xy: 1091, 71
+  size: 152, 63
+  orig: 279, 141
+  offset: 53, 42
+  index: -1
+images/rao/rao_05
+  rotate: false
+  xy: 2, 7
+  size: 157, 63
+  orig: 279, 141
+  offset: 51, 42
+  index: -1
+images/rao/rao_20
+  rotate: false
+  xy: 2, 7
+  size: 157, 63
+  orig: 279, 141
+  offset: 51, 42
+  index: -1
+images/rao/rao_06
+  rotate: false
+  xy: 161, 7
+  size: 158, 63
+  orig: 279, 141
+  offset: 48, 42
+  index: -1
+images/rao/rao_21
+  rotate: false
+  xy: 161, 7
+  size: 158, 63
+  orig: 279, 141
+  offset: 48, 42
+  index: -1
+images/rao/rao_07
+  rotate: false
+  xy: 321, 7
+  size: 160, 63
+  orig: 279, 141
+  offset: 45, 42
+  index: -1
+images/rao/rao_22
+  rotate: false
+  xy: 321, 7
+  size: 160, 63
+  orig: 279, 141
+  offset: 45, 42
+  index: -1
+images/rao/rao_08
+  rotate: false
+  xy: 641, 5
+  size: 162, 65
+  orig: 279, 141
+  offset: 46, 40
+  index: -1
+images/rao/rao_23
+  rotate: false
+  xy: 641, 5
+  size: 162, 65
+  orig: 279, 141
+  offset: 46, 40
+  index: -1
+images/rao/rao_09
+  rotate: false
+  xy: 962, 2
+  size: 158, 67
+  orig: 279, 141
+  offset: 48, 37
+  index: -1
+images/rao/rao_24
+  rotate: false
+  xy: 962, 2
+  size: 158, 67
+  orig: 279, 141
+  offset: 48, 37
+  index: -1
+images/rao/rao_10
+  rotate: false
+  xy: 805, 4
+  size: 155, 66
+  orig: 279, 141
+  offset: 50, 39
+  index: -1
+images/rao/rao_25
+  rotate: false
+  xy: 805, 4
+  size: 155, 66
+  orig: 279, 141
+  offset: 50, 39
+  index: -1
+images/rao/rao_11
+  rotate: false
+  xy: 483, 6
+  size: 156, 64
+  orig: 279, 141
+  offset: 52, 40
+  index: -1
+images/rao/rao_26
+  rotate: false
+  xy: 483, 6
+  size: 156, 64
+  orig: 279, 141
+  offset: 52, 40
+  index: -1
+images/rao/rao_12
+  rotate: false
+  xy: 778, 72
+  size: 153, 62
+  orig: 279, 141
+  offset: 53, 42
+  index: -1
+images/rao/rao_27
+  rotate: false
+  xy: 778, 72
+  size: 153, 62
+  orig: 279, 141
+  offset: 53, 42
+  index: -1
+images/rao/rao_13
+  rotate: false
+  xy: 2, 73
+  size: 152, 61
+  orig: 279, 141
+  offset: 54, 42
+  index: -1
+images/rao/rao_28
+  rotate: false
+  xy: 2, 73
+  size: 152, 61
+  orig: 279, 141
+  offset: 54, 42
+  index: -1
+images/rao/rao_14
+  rotate: false
+  xy: 933, 72
+  size: 156, 62
+  orig: 279, 141
+  offset: 53, 42
+  index: -1
+images/rao/rao_29
+  rotate: false
+  xy: 933, 72
+  size: 156, 62
+  orig: 279, 141
+  offset: 53, 42
+  index: -1

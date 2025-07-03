@@ -1,0 +1,41 @@
+
+MiniGame_ganzi.png
+size: 323,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 207, 17
+  size: 45, 87
+  orig: 45, 87
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 121, 4
+  size: 58, 84
+  orig: 58, 84
+  offset: 0, 0
+  index: -1
+dong
+  rotate: false
+  xy: 296, 41
+  size: 25, 21
+  orig: 32, 29
+  offset: 7, 0
+  index: -1
+gan
+  rotate: true
+  xy: 121, 64
+  size: 43, 194
+  orig: 61, 194
+  offset: 18, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 2, 2
+  size: 117, 105
+  orig: 118, 105
+  offset: 1, 0
+  index: -1

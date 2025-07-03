@@ -1,0 +1,335 @@
+
+Bowl.png
+size: 1009,628
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bowl_glow_down/Bowl_glow_down_00
+  rotate: false
+  xy: 656, 99
+  size: 11, 35
+  orig: 175, 75
+  offset: 2, 34
+  index: -1
+Bowl_glow_down/Bowl_glow_down_01
+  rotate: false
+  xy: 357, 123
+  size: 17, 45
+  orig: 175, 75
+  offset: 1, 29
+  index: -1
+Bowl_glow_down/Bowl_glow_down_02
+  rotate: false
+  xy: 975, 240
+  size: 23, 49
+  orig: 175, 75
+  offset: 1, 25
+  index: -1
+Bowl_glow_down/Bowl_glow_down_03
+  rotate: true
+  xy: 951, 466
+  size: 29, 55
+  orig: 175, 75
+  offset: 1, 20
+  index: -1
+Bowl_glow_down/Bowl_glow_down_04
+  rotate: false
+  xy: 964, 21
+  size: 41, 59
+  orig: 175, 75
+  offset: 0, 16
+  index: -1
+Bowl_glow_down/Bowl_glow_down_05
+  rotate: false
+  xy: 911, 17
+  size: 51, 63
+  orig: 175, 75
+  offset: 0, 12
+  index: -1
+Bowl_glow_down/Bowl_glow_down_06
+  rotate: true
+  xy: 827, 153
+  size: 60, 69
+  orig: 175, 75
+  offset: 0, 6
+  index: -1
+Bowl_glow_down/Bowl_glow_down_07
+  rotate: true
+  xy: 825, 81
+  size: 70, 72
+  orig: 175, 75
+  offset: 0, 3
+  index: -1
+Bowl_glow_down/Bowl_glow_down_08
+  rotate: true
+  xy: 656, 2
+  size: 79, 73
+  orig: 175, 75
+  offset: 0, 2
+  index: -1
+Bowl_glow_down/Bowl_glow_down_09
+  rotate: true
+  xy: 580, 46
+  size: 88, 74
+  orig: 175, 75
+  offset: 1, 1
+  index: -1
+Bowl_glow_down/Bowl_glow_down_10
+  rotate: false
+  xy: 736, 160
+  size: 89, 69
+  orig: 175, 75
+  offset: 9, 1
+  index: -1
+Bowl_glow_down/Bowl_glow_down_11
+  rotate: true
+  xy: 827, 215
+  size: 88, 67
+  orig: 175, 75
+  offset: 20, 0
+  index: -1
+Bowl_glow_down/Bowl_glow_down_12
+  rotate: true
+  xy: 669, 83
+  size: 86, 65
+  orig: 175, 75
+  offset: 31, 0
+  index: -1
+Bowl_glow_down/Bowl_glow_down_13
+  rotate: false
+  xy: 824, 16
+  size: 85, 63
+  orig: 175, 75
+  offset: 42, 0
+  index: -1
+Bowl_glow_down/Bowl_glow_down_14
+  rotate: false
+  xy: 736, 31
+  size: 86, 62
+  orig: 175, 75
+  offset: 53, 0
+  index: -1
+Bowl_glow_down/Bowl_glow_down_15
+  rotate: false
+  xy: 736, 95
+  size: 87, 63
+  orig: 175, 75
+  offset: 64, 0
+  index: -1
+Bowl_glow_down/Bowl_glow_down_16
+  rotate: true
+  xy: 669, 171
+  size: 90, 65
+  orig: 175, 75
+  offset: 75, 0
+  index: -1
+Bowl_glow_down/Bowl_glow_down_17
+  rotate: false
+  xy: 736, 231
+  size: 89, 72
+  orig: 175, 75
+  offset: 85, 0
+  index: -1
+Bowl_glow_down/Bowl_glow_down_18
+  rotate: true
+  xy: 898, 157
+  size: 78, 75
+  orig: 175, 75
+  offset: 97, 0
+  index: -1
+Bowl_glow_down/Bowl_glow_down_19
+  rotate: false
+  xy: 899, 82
+  size: 67, 73
+  orig: 175, 75
+  offset: 108, 2
+  index: -1
+Bowl_glow_down/Bowl_glow_down_20
+  rotate: false
+  xy: 951, 560
+  size: 56, 66
+  orig: 175, 75
+  offset: 119, 9
+  index: -1
+Bowl_glow_down/Bowl_glow_down_21
+  rotate: true
+  xy: 580, 7
+  size: 37, 60
+  orig: 175, 75
+  offset: 138, 15
+  index: -1
+Bowl_glow_down/Bowl_glow_down_22
+  rotate: false
+  xy: 376, 290
+  size: 27, 53
+  orig: 175, 75
+  offset: 148, 22
+  index: -1
+Bowl_zhakai/lizi_01
+  rotate: false
+  xy: 951, 497
+  size: 55, 61
+  orig: 192, 193
+  offset: 67, 68
+  index: -1
+Bowl_zhakai/lizi_02
+  rotate: false
+  xy: 896, 237
+  size: 77, 84
+  orig: 192, 193
+  offset: 56, 57
+  index: -1
+Bowl_zhakai/lizi_03
+  rotate: false
+  xy: 481, 11
+  size: 97, 105
+  orig: 192, 193
+  offset: 46, 46
+  index: -1
+Bowl_zhakai/lizi_04
+  rotate: true
+  xy: 357, 2
+  size: 114, 122
+  orig: 192, 193
+  offset: 38, 37
+  index: -1
+Bowl_zhakai/lizi_05
+  rotate: true
+  xy: 871, 323
+  size: 128, 136
+  orig: 192, 193
+  offset: 32, 29
+  index: -1
+Bowl_zhakai/lizi_06
+  rotate: false
+  xy: 729, 305
+  size: 140, 146
+  orig: 192, 193
+  offset: 26, 26
+  index: -1
+Bowl_zhakai/lizi_07
+  rotate: false
+  xy: 576, 295
+  size: 151, 157
+  orig: 192, 193
+  offset: 20, 20
+  index: -1
+Bowl_zhakai/lizi_08
+  rotate: true
+  xy: 186, 7
+  size: 161, 169
+  orig: 192, 193
+  offset: 16, 13
+  index: -1
+Bowl_zhakai/lizi_09
+  rotate: false
+  xy: 405, 274
+  size: 169, 171
+  orig: 192, 193
+  offset: 12, 9
+  index: -1
+Bowl_zhakai/lizi_10
+  rotate: true
+  xy: 192, 170
+  size: 173, 182
+  orig: 192, 193
+  offset: 9, 6
+  index: -1
+Bowl_zhakai/lizi_11
+  rotate: true
+  xy: 387, 447
+  size: 179, 185
+  orig: 192, 193
+  offset: 7, 5
+  index: -1
+Bowl_zhakai/lizi_12
+  rotate: false
+  xy: 2, 57
+  size: 182, 189
+  orig: 192, 193
+  offset: 5, 4
+  index: -1
+Bowl_zhakai/lizi_13
+  rotate: true
+  xy: 195, 443
+  size: 183, 190
+  orig: 192, 193
+  offset: 5, 3
+  index: -1
+Bowl_zhakai/lizi_14
+  rotate: false
+  xy: 2, 248
+  size: 188, 188
+  orig: 192, 193
+  offset: 4, 2
+  index: -1
+Bowl_zhakai/lizi_15
+  rotate: false
+  xy: 2, 438
+  size: 191, 188
+  orig: 192, 193
+  offset: 1, 0
+  index: -1
+Bowl_zhakai/lizi_16
+  rotate: false
+  xy: 574, 454
+  size: 188, 172
+  orig: 192, 193
+  offset: 0, 6
+  index: -1
+Bowl_zhakai/lizi_17
+  rotate: false
+  xy: 764, 453
+  size: 185, 173
+  orig: 192, 193
+  offset: 1, 3
+  index: -1
+glow_y
+  rotate: false
+  xy: 542, 136
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 576, 263
+  size: 131, 30
+  orig: 166, 81
+  offset: 13, 0
+  index: -1
+jinbi4
+  rotate: false
+  xy: 2, 7
+  size: 166, 48
+  orig: 166, 81
+  offset: 0, 0
+  index: -1
+jinbi6
+  rotate: false
+  xy: 376, 118
+  size: 161, 71
+  orig: 166, 81
+  offset: 4, 0
+  index: -1
+jinbi8
+  rotate: false
+  xy: 376, 191
+  size: 164, 81
+  orig: 166, 81
+  offset: 1, 0
+  index: -1
+penzi
+  rotate: false
+  xy: 195, 345
+  size: 208, 96
+  orig: 208, 97
+  offset: 0, 0
+  index: -1
+star_01
+  rotate: true
+  xy: 975, 291
+  size: 30, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1

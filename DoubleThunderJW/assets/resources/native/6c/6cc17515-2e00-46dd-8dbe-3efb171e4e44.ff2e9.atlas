@@ -1,0 +1,27 @@
+
+H2.png
+size: 114,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 94
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 202
+  size: 110, 112
+  orig: 120, 120
+  offset: 5, 4
+  index: -1
+ying
+  rotate: false
+  xy: 2, 2
+  size: 87, 90
+  orig: 87, 91
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,153 @@
+
+MAP_tanchuang_Jackpot.png
+size: 1397,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CRYSTALJACKPOT
+  rotate: false
+  xy: 2, 63
+  size: 630, 86
+  orig: 630, 86
+  offset: 0, 0
+  index: -1
+JackpotSG/1_00000
+  rotate: true
+  xy: 2, 13
+  size: 9, 26
+  orig: 349, 68
+  offset: 21, 22
+  index: -1
+JackpotSG/1_00001
+  rotate: false
+  xy: 1130, 2
+  size: 54, 30
+  orig: 349, 68
+  offset: 21, 20
+  index: -1
+JackpotSG/1_00002
+  rotate: false
+  xy: 860, 2
+  size: 99, 30
+  orig: 349, 68
+  offset: 21, 20
+  index: -1
+JackpotSG/1_00003
+  rotate: false
+  xy: 591, 2
+  size: 144, 30
+  orig: 349, 68
+  offset: 21, 20
+  index: -1
+JackpotSG/1_00004
+  rotate: false
+  xy: 1206, 112
+  size: 189, 37
+  orig: 349, 68
+  offset: 21, 13
+  index: -1
+JackpotSG/1_00005
+  rotate: false
+  xy: 634, 34
+  size: 233, 37
+  orig: 349, 68
+  offset: 22, 13
+  index: -1
+JackpotSG/1_00006
+  rotate: false
+  xy: 929, 112
+  size: 275, 37
+  orig: 349, 68
+  offset: 25, 13
+  index: -1
+JackpotSG/1_00007
+  rotate: false
+  xy: 2, 24
+  size: 299, 37
+  orig: 349, 68
+  offset: 32, 13
+  index: -1
+JackpotSG/1_00008
+  rotate: false
+  xy: 634, 112
+  size: 293, 37
+  orig: 349, 68
+  offset: 39, 13
+  index: -1
+JackpotSG/1_00009
+  rotate: false
+  xy: 303, 24
+  size: 286, 37
+  orig: 349, 68
+  offset: 46, 13
+  index: -1
+JackpotSG/1_00010
+  rotate: false
+  xy: 634, 73
+  size: 279, 37
+  orig: 349, 68
+  offset: 53, 13
+  index: -1
+JackpotSG/1_00011
+  rotate: false
+  xy: 915, 73
+  size: 251, 37
+  orig: 349, 68
+  offset: 81, 13
+  index: -1
+JackpotSG/1_00012
+  rotate: false
+  xy: 1168, 73
+  size: 226, 37
+  orig: 349, 68
+  offset: 106, 13
+  index: -1
+JackpotSG/1_00013
+  rotate: false
+  xy: 869, 34
+  size: 200, 37
+  orig: 349, 68
+  offset: 132, 13
+  index: -1
+JackpotSG/1_00014
+  rotate: false
+  xy: 1071, 34
+  size: 174, 37
+  orig: 349, 68
+  offset: 158, 13
+  index: -1
+JackpotSG/1_00015
+  rotate: false
+  xy: 1247, 38
+  size: 148, 33
+  orig: 349, 68
+  offset: 184, 17
+  index: -1
+JackpotSG/1_00016
+  rotate: false
+  xy: 737, 2
+  size: 121, 30
+  orig: 349, 68
+  offset: 211, 20
+  index: -1
+JackpotSG/1_00017
+  rotate: false
+  xy: 961, 2
+  size: 96, 30
+  orig: 349, 68
+  offset: 236, 20
+  index: -1
+JackpotSG/1_00018
+  rotate: false
+  xy: 1059, 2
+  size: 69, 30
+  orig: 349, 68
+  offset: 263, 20
+  index: -1
+JackpotSG/1_00019
+  rotate: false
+  xy: 1186, 2
+  size: 43, 30
+  orig: 349, 68
+  offset: 289, 20
+  index: -1

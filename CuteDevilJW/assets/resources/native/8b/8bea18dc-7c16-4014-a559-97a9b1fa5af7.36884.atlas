@@ -1,0 +1,146 @@
+
+BG_FRlizi.png
+size: 905,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi2/lizi2_00000
+  rotate: true
+  xy: 831, 57
+  size: 66, 67
+  orig: 99, 97
+  offset: 13, 14
+  index: -1
+lizi2/lizi2_00001
+  rotate: false
+  xy: 831, 125
+  size: 72, 73
+  orig: 99, 97
+  offset: 10, 11
+  index: -1
+lizi2/lizi2_00002
+  rotate: true
+  xy: 748, 37
+  size: 77, 78
+  orig: 99, 97
+  offset: 7, 8
+  index: -1
+lizi2/lizi2_00003
+  rotate: false
+  xy: 747, 116
+  size: 82, 82
+  orig: 99, 97
+  offset: 4, 6
+  index: -1
+lizi2/lizi2_00004
+  rotate: false
+  xy: 661, 22
+  size: 85, 85
+  orig: 99, 97
+  offset: 2, 4
+  index: -1
+lizi2/lizi2_00005
+  rotate: true
+  xy: 657, 109
+  size: 89, 88
+  orig: 99, 97
+  offset: 0, 2
+  index: -1
+lizi2/lizi2_00006
+  rotate: false
+  xy: 569, 14
+  size: 90, 90
+  orig: 99, 97
+  offset: 0, 1
+  index: -1
+lizi2/lizi2_00007
+  rotate: false
+  xy: 475, 9
+  size: 92, 93
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+lizi2/lizi2_00008
+  rotate: false
+  xy: 383, 104
+  size: 94, 94
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+lizi2/lizi2_00009
+  rotate: false
+  xy: 189, 3
+  size: 96, 94
+  orig: 99, 97
+  offset: 0, 1
+  index: -1
+lizi2/lizi2_00010
+  rotate: true
+  xy: 288, 101
+  size: 97, 93
+  orig: 99, 97
+  offset: 0, 2
+  index: -1
+lizi2/lizi2_00011
+  rotate: true
+  xy: 193, 100
+  size: 98, 93
+  orig: 99, 97
+  offset: 0, 2
+  index: -1
+lizi2/lizi2_00012
+  rotate: true
+  xy: 2, 99
+  size: 99, 94
+  orig: 99, 97
+  offset: 0, 2
+  index: -1
+lizi2/lizi2_00013
+  rotate: true
+  xy: 98, 99
+  size: 99, 93
+  orig: 99, 97
+  offset: 0, 3
+  index: -1
+lizi2/lizi2_00014
+  rotate: true
+  xy: 287, 2
+  size: 96, 94
+  orig: 99, 97
+  offset: 3, 2
+  index: -1
+lizi2/lizi2_00015
+  rotate: false
+  xy: 2, 2
+  size: 93, 95
+  orig: 99, 97
+  offset: 6, 1
+  index: -1
+lizi2/lizi2_00016
+  rotate: false
+  xy: 97, 2
+  size: 90, 95
+  orig: 99, 97
+  offset: 9, 1
+  index: -1
+lizi2/lizi2_00017
+  rotate: false
+  xy: 383, 8
+  size: 90, 94
+  orig: 99, 97
+  offset: 9, 1
+  index: -1
+lizi2/lizi2_00018
+  rotate: false
+  xy: 479, 105
+  size: 88, 93
+  orig: 99, 97
+  offset: 10, 1
+  index: -1
+lizi2/lizi2_00019
+  rotate: false
+  xy: 569, 106
+  size: 86, 92
+  orig: 99, 97
+  offset: 11, 1
+  index: -1

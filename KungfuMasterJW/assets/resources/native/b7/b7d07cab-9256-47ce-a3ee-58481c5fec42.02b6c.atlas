@@ -1,0 +1,299 @@
+
+FG_lixiaolong.png
+size: 2048,2037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 823, 520
+  size: 42, 30
+  orig: 44, 31
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 27
+  size: 43, 28
+  orig: 45, 29
+  offset: 1, 0
+  index: -1
+3
+  rotate: false
+  xy: 1792, 446
+  size: 254, 399
+  orig: 254, 399
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 682
+  size: 444, 1353
+  orig: 444, 1353
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 448, 951
+  size: 592, 1084
+  orig: 592, 1084
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1042, 1261
+  size: 508, 774
+  orig: 509, 776
+  offset: 1, 1
+  index: -1
+6_1
+  rotate: false
+  xy: 542, 51
+  size: 94, 96
+  orig: 95, 96
+  offset: 1, 0
+  index: -1
+6_2
+  rotate: true
+  xy: 898, 866
+  size: 83, 111
+  orig: 83, 111
+  offset: 0, 0
+  index: -1
+gg_00078
+  rotate: true
+  xy: 2, 57
+  size: 623, 373
+  orig: 657, 390
+  offset: 24, 1
+  index: -1
+l_shoubi
+  rotate: true
+  xy: 1714, 36
+  size: 406, 248
+  orig: 407, 248
+  offset: 1, 0
+  index: -1
+l_yanzhu
+  rotate: false
+  xy: 1493, 1242
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 377, 2
+  size: 145, 163
+  orig: 145, 163
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1944, 1143
+  size: 48, 97
+  orig: 49, 99
+  offset: 1, 1
+  index: -1
+toufa2
+  rotate: false
+  xy: 2002, 1932
+  size: 43, 103
+  orig: 43, 105
+  offset: 0, 1
+  index: -1
+xian/1_00042
+  rotate: false
+  xy: 1552, 1242
+  size: 448, 390
+  orig: 453, 401
+  offset: 5, 0
+  index: -1
+xian/1_00046
+  rotate: false
+  xy: 1552, 1634
+  size: 448, 401
+  orig: 453, 401
+  offset: 5, 0
+  index: -1
+xian/1_00050
+  rotate: false
+  xy: 377, 149
+  size: 444, 401
+  orig: 453, 401
+  offset: 9, 0
+  index: -1
+xian/1_00054
+  rotate: false
+  xy: 823, 63
+  size: 444, 401
+  orig: 453, 401
+  offset: 9, 0
+  index: -1
+xian/1_00058
+  rotate: false
+  xy: 1346, 444
+  size: 444, 401
+  orig: 453, 401
+  offset: 9, 0
+  index: -1
+xian/1_00066
+  rotate: false
+  xy: 898, 466
+  size: 446, 391
+  orig: 453, 401
+  offset: 7, 0
+  index: -1
+xian/1_00070
+  rotate: false
+  xy: 1042, 859
+  size: 449, 400
+  orig: 453, 401
+  offset: 4, 0
+  index: -1
+xian/1_00072
+  rotate: false
+  xy: 448, 552
+  size: 448, 397
+  orig: 453, 401
+  offset: 5, 0
+  index: -1
+xian/1_00074
+  rotate: false
+  xy: 1493, 847
+  size: 449, 393
+  orig: 453, 401
+  offset: 4, 0
+  index: -1
+xian/1_00076
+  rotate: false
+  xy: 1269, 44
+  size: 443, 398
+  orig: 453, 401
+  offset: 10, 0
+  index: -1
+zui
+  rotate: true
+  xy: 377, 571
+  size: 109, 63
+  orig: 112, 65
+  offset: 2, 1
+  index: -1
+
+FG_lixiaolong2.png
+size: 1977,1285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy: 1629, 51
+  size: 255, 281
+  orig: 257, 284
+  offset: 1, 2
+  index: -1
+head
+  rotate: true
+  xy: 1629, 334
+  size: 268, 331
+  orig: 268, 331
+  offset: 0, 0
+  index: -1
+r_shoubi
+  rotate: true
+  xy: 1597, 604
+  size: 287, 363
+  orig: 287, 363
+  offset: 0, 0
+  index: -1
+xian/1_00018
+  rotate: true
+  xy: 1209, 464
+  size: 405, 386
+  orig: 453, 401
+  offset: 44, 4
+  index: -1
+xian/1_00022
+  rotate: true
+  xy: 806, 430
+  size: 421, 401
+  orig: 453, 401
+  offset: 32, 0
+  index: -1
+xian/1_00026
+  rotate: false
+  xy: 447, 3
+  size: 430, 401
+  orig: 453, 401
+  offset: 23, 0
+  index: -1
+xian/1_00030
+  rotate: true
+  xy: 404, 853
+  size: 430, 401
+  orig: 453, 401
+  offset: 23, 0
+  index: -1
+xian/1_00034
+  rotate: true
+  xy: 403, 406
+  size: 434, 401
+  orig: 453, 401
+  offset: 19, 0
+  index: -1
+xian/1_00038
+  rotate: true
+  xy: 2, 842
+  size: 441, 400
+  orig: 453, 401
+  offset: 12, 0
+  index: -1
+xian/1_00062
+  rotate: true
+  xy: 2, 398
+  size: 442, 399
+  orig: 453, 401
+  offset: 9, 0
+  index: -1
+xian/1_00078
+  rotate: false
+  xy: 2, 2
+  size: 443, 394
+  orig: 453, 401
+  offset: 10, 0
+  index: -1
+xian/1_00080
+  rotate: true
+  xy: 879, 8
+  size: 420, 389
+  orig: 453, 401
+  offset: 33, 0
+  index: -1
+xian/1_00082
+  rotate: true
+  xy: 1270, 51
+  size: 411, 357
+  orig: 453, 401
+  offset: 37, 0
+  index: -1
+xian/1_00084
+  rotate: true
+  xy: 1207, 871
+  size: 412, 387
+  orig: 453, 401
+  offset: 36, 0
+  index: -1
+xian/1_00086
+  rotate: false
+  xy: 807, 882
+  size: 398, 401
+  orig: 453, 401
+  offset: 44, 0
+  index: -1
+xian/1_00088
+  rotate: false
+  xy: 1596, 893
+  size: 379, 390
+  orig: 453, 401
+  offset: 54, 6
+  index: -1

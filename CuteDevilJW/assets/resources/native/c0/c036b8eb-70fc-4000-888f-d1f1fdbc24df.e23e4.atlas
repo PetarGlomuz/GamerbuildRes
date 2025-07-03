@@ -1,0 +1,111 @@
+
+tingpai.png
+size: 740,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/g/g_00
+  rotate: true
+  xy: 2, 67
+  size: 61, 407
+  orig: 69, 415
+  offset: 6, 1
+  index: -1
+wenjian/g/g_01
+  rotate: true
+  xy: 2, 2
+  size: 63, 397
+  orig: 69, 415
+  offset: 5, 1
+  index: -1
+wenjian/g/g_02
+  rotate: true
+  xy: 2, 194
+  size: 64, 402
+  orig: 69, 415
+  offset: 5, 0
+  index: -1
+wenjian/g/g_03
+  rotate: true
+  xy: 2, 260
+  size: 66, 404
+  orig: 69, 415
+  offset: 3, 1
+  index: -1
+wenjian/g/g_04
+  rotate: true
+  xy: 286, 533
+  size: 67, 407
+  orig: 69, 415
+  offset: 2, 1
+  index: -1
+wenjian/g/g_05
+  rotate: true
+  xy: 286, 671
+  size: 67, 408
+  orig: 69, 415
+  offset: 2, 1
+  index: -1
+wenjian/g/g_06
+  rotate: false
+  xy: 2, 330
+  size: 69, 408
+  orig: 69, 415
+  offset: 0, 1
+  index: -1
+wenjian/g/g_07
+  rotate: false
+  xy: 73, 331
+  size: 69, 407
+  orig: 69, 415
+  offset: 0, 1
+  index: -1
+wenjian/g/g_08
+  rotate: false
+  xy: 144, 331
+  size: 69, 407
+  orig: 69, 415
+  offset: 0, 1
+  index: -1
+wenjian/g/g_09
+  rotate: false
+  xy: 215, 331
+  size: 69, 407
+  orig: 69, 415
+  offset: 0, 1
+  index: -1
+wenjian/g/g_10
+  rotate: true
+  xy: 286, 464
+  size: 67, 406
+  orig: 69, 415
+  offset: 2, 1
+  index: -1
+wenjian/g/g_11
+  rotate: true
+  xy: 286, 395
+  size: 67, 406
+  orig: 69, 415
+  offset: 2, 1
+  index: -1
+wenjian/g/g_12
+  rotate: true
+  xy: 286, 602
+  size: 67, 408
+  orig: 69, 415
+  offset: 2, 1
+  index: -1
+wenjian/g/g_13
+  rotate: true
+  xy: 286, 328
+  size: 65, 409
+  orig: 69, 415
+  offset: 4, 1
+  index: -1
+wenjian/g/g_14
+  rotate: true
+  xy: 2, 130
+  size: 62, 407
+  orig: 69, 415
+  offset: 6, 1
+  index: -1

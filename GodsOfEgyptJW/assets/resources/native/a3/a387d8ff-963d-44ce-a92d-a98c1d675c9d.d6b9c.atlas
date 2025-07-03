@@ -1,0 +1,111 @@
+
+bg_jp.png
+size: 1827,499
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/zj/1_00
+  rotate: true
+  xy: 126, 4
+  size: 493, 122
+  orig: 720, 250
+  offset: 105, 74
+  index: -1
+images/zj/1_01
+  rotate: true
+  xy: 984, 3
+  size: 494, 119
+  orig: 720, 250
+  offset: 104, 75
+  index: -1
+images/zj/1_02
+  rotate: true
+  xy: 1105, 3
+  size: 494, 119
+  orig: 720, 250
+  offset: 104, 75
+  index: -1
+images/zj/1_03
+  rotate: true
+  xy: 1347, 3
+  size: 494, 118
+  orig: 720, 250
+  offset: 104, 75
+  index: -1
+images/zj/1_04
+  rotate: true
+  xy: 1226, 3
+  size: 494, 119
+  orig: 720, 250
+  offset: 104, 75
+  index: -1
+images/zj/1_05
+  rotate: true
+  xy: 863, 2
+  size: 495, 119
+  orig: 720, 250
+  offset: 103, 75
+  index: -1
+images/zj/1_06
+  rotate: true
+  xy: 1467, 3
+  size: 494, 118
+  orig: 720, 250
+  offset: 103, 76
+  index: -1
+images/zj/1_07
+  rotate: true
+  xy: 1587, 3
+  size: 494, 118
+  orig: 720, 250
+  offset: 103, 76
+  index: -1
+images/zj/1_08
+  rotate: true
+  xy: 1707, 4
+  size: 493, 118
+  orig: 720, 250
+  offset: 104, 77
+  index: -1
+images/zj/1_09
+  rotate: true
+  xy: 2, 3
+  size: 494, 122
+  orig: 720, 250
+  offset: 104, 75
+  index: -1
+images/zj/1_10
+  rotate: true
+  xy: 497, 4
+  size: 493, 120
+  orig: 720, 250
+  offset: 105, 75
+  index: -1
+images/zj/1_11
+  rotate: true
+  xy: 741, 6
+  size: 491, 120
+  orig: 720, 250
+  offset: 106, 75
+  index: -1
+images/zj/1_12
+  rotate: true
+  xy: 374, 4
+  size: 493, 121
+  orig: 720, 250
+  offset: 105, 74
+  index: -1
+images/zj/1_13
+  rotate: true
+  xy: 619, 5
+  size: 492, 120
+  orig: 720, 250
+  offset: 106, 75
+  index: -1
+images/zj/1_14
+  rotate: true
+  xy: 250, 5
+  size: 492, 122
+  orig: 720, 250
+  offset: 106, 74
+  index: -1

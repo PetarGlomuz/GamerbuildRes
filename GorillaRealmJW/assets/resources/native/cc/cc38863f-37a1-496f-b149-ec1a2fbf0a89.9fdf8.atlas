@@ -1,0 +1,118 @@
+
+NG_weiguang.png
+size: 484,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/guan_g_00
+  rotate: true
+  xy: 2, 182
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_00
+  rotate: true
+  xy: 47, 439
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_01
+  rotate: true
+  xy: 47, 394
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_02
+  rotate: true
+  xy: 47, 349
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_03
+  rotate: true
+  xy: 47, 304
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_04
+  rotate: true
+  xy: 47, 259
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_05
+  rotate: false
+  xy: 259, 2
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_06
+  rotate: true
+  xy: 2, 137
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_07
+  rotate: true
+  xy: 2, 92
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_08
+  rotate: true
+  xy: 2, 47
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_09
+  rotate: true
+  xy: 2, 2
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_10
+  rotate: false
+  xy: 304, 227
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_11
+  rotate: false
+  xy: 349, 227
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_12
+  rotate: false
+  xy: 394, 227
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_13
+  rotate: false
+  xy: 439, 227
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1
+wenjian/lizi/lizi_14
+  rotate: false
+  xy: 2, 227
+  size: 43, 255
+  orig: 43, 255
+  offset: 0, 0
+  index: -1

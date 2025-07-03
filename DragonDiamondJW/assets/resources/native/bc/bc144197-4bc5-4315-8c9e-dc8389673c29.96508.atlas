@@ -1,0 +1,160 @@
+
+FanKui.png
+size: 1667,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fk/MaDa_Intro_001
+  rotate: true
+  xy: 865, 194
+  size: 168, 167
+  orig: 180, 180
+  offset: 5, 0
+  index: -1
+images/fk/MaDa_Intro_002
+  rotate: true
+  xy: 2, 2
+  size: 178, 169
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+images/fk/MaDa_Intro_003
+  rotate: true
+  xy: 521, 182
+  size: 180, 170
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+images/fk/MaDa_Intro_004
+  rotate: true
+  xy: 2, 182
+  size: 180, 171
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+images/fk/MaDa_Intro_005
+  rotate: true
+  xy: 175, 182
+  size: 180, 171
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+images/fk/MaDa_Intro_006
+  rotate: true
+  xy: 348, 182
+  size: 180, 171
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+images/fk/MaDa_Intro_007
+  rotate: true
+  xy: 693, 182
+  size: 180, 170
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+images/fk/MaDa_Intro_008
+  rotate: false
+  xy: 846, 10
+  size: 180, 170
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+images/fk/MaDa_Intro_009
+  rotate: true
+  xy: 173, 2
+  size: 178, 167
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+images/fk/MaDa_Intro_010
+  rotate: true
+  xy: 342, 2
+  size: 178, 167
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+images/fk/MaDa_Intro_011
+  rotate: false
+  xy: 1194, 202
+  size: 160, 160
+  orig: 180, 180
+  offset: 9, 3
+  index: -1
+images/fk/MaDa_Intro_012
+  rotate: false
+  xy: 1510, 57
+  size: 155, 151
+  orig: 180, 180
+  offset: 16, 5
+  index: -1
+images/fk/MaDa_Intro_013
+  rotate: true
+  xy: 1034, 197
+  size: 165, 158
+  orig: 180, 180
+  offset: 12, 5
+  index: -1
+images/fk/MaDa_Intro_014
+  rotate: true
+  xy: 679, 7
+  size: 173, 165
+  orig: 180, 180
+  offset: 7, 5
+  index: -1
+images/fk/MaDa_Intro_015
+  rotate: true
+  xy: 511, 3
+  size: 177, 166
+  orig: 180, 180
+  offset: 3, 8
+  index: -1
+images/fk/MaDa_Intro_016
+  rotate: false
+  xy: 1028, 25
+  size: 160, 167
+  orig: 180, 180
+  offset: 10, 10
+  index: -1
+images/fk/MaDa_Intro_017
+  rotate: false
+  xy: 1190, 33
+  size: 157, 162
+  orig: 180, 180
+  offset: 14, 11
+  index: -1
+images/fk/MaDa_Intro_018
+  rotate: true
+  xy: 1349, 40
+  size: 160, 159
+  orig: 180, 180
+  offset: 14, 14
+  index: -1
+images/fk/MaDa_Intro_019
+  rotate: true
+  xy: 1510, 210
+  size: 152, 155
+  orig: 180, 180
+  offset: 10, 15
+  index: -1
+images/fk/MaDa_Intro_020
+  rotate: false
+  xy: 1356, 222
+  size: 142, 140
+  orig: 180, 180
+  offset: 20, 14
+  index: -1
+images/fk/MaDa_Intro_021
+  rotate: false
+  xy: 679, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/fk/MaDa_Intro_000
+  rotate: false
+  xy: 679, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

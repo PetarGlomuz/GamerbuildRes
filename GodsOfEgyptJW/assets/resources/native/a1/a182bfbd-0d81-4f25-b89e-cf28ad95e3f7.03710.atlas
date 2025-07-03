@@ -1,0 +1,125 @@
+
+ng_l5.png
+size: 535,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L5_1
+  rotate: false
+  xy: 2, 127
+  size: 126, 142
+  orig: 126, 142
+  offset: 0, 0
+  index: -1
+glow3
+  rotate: false
+  xy: 492, 199
+  size: 21, 19
+  orig: 25, 25
+  offset: 3, 3
+  index: -1
+saoguang/L5_saoguang_00
+  rotate: false
+  xy: 476, 220
+  size: 54, 49
+  orig: 126, 142
+  offset: 3, 93
+  index: -1
+saoguang/L5_saoguang_02
+  rotate: true
+  xy: 228, 91
+  size: 71, 66
+  orig: 126, 142
+  offset: 0, 76
+  index: -1
+saoguang/L5_saoguang_04
+  rotate: true
+  xy: 191, 8
+  size: 81, 77
+  orig: 126, 142
+  offset: 0, 65
+  index: -1
+saoguang/L5_saoguang_06
+  rotate: true
+  xy: 111, 2
+  size: 87, 78
+  orig: 126, 142
+  offset: 0, 64
+  index: -1
+saoguang/L5_saoguang_08
+  rotate: true
+  xy: 296, 88
+  size: 88, 78
+  orig: 126, 142
+  offset: 0, 64
+  index: -1
+saoguang/L5_saoguang_10
+  rotate: false
+  xy: 376, 104
+  size: 88, 90
+  orig: 126, 142
+  offset: 4, 52
+  index: -1
+saoguang/L5_saoguang_12
+  rotate: false
+  xy: 130, 164
+  size: 113, 105
+  orig: 126, 142
+  offset: 5, 36
+  index: -1
+saoguang/L5_saoguang_14
+  rotate: false
+  xy: 2, 11
+  size: 107, 114
+  orig: 126, 142
+  offset: 17, 20
+  index: -1
+saoguang/L5_saoguang_16
+  rotate: true
+  xy: 245, 178
+  size: 91, 120
+  orig: 126, 142
+  offset: 35, 4
+  index: -1
+saoguang/L5_saoguang_18
+  rotate: true
+  xy: 367, 196
+  size: 73, 107
+  orig: 126, 142
+  offset: 53, 2
+  index: -1
+saoguang/L5_saoguang_20
+  rotate: true
+  xy: 130, 91
+  size: 71, 96
+  orig: 126, 142
+  offset: 55, 1
+  index: -1
+saoguang/L5_saoguang_22
+  rotate: true
+  xy: 270, 17
+  size: 69, 95
+  orig: 126, 142
+  offset: 57, 1
+  index: -1
+saoguang/L5_saoguang_24
+  rotate: true
+  xy: 376, 33
+  size: 69, 89
+  orig: 126, 142
+  offset: 57, 1
+  index: -1
+saoguang/L5_saoguang_26
+  rotate: false
+  xy: 466, 120
+  size: 67, 74
+  orig: 126, 142
+  offset: 59, 1
+  index: -1
+saoguang/L5_saoguang_28
+  rotate: false
+  xy: 476, 196
+  size: 14, 22
+  orig: 126, 142
+  offset: 80, 1
+  index: -1

@@ -1,0 +1,69 @@
+
+TC_BG_bg.png
+size: 1426,599
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 8
+  size: 720, 589
+  orig: 720, 591
+  offset: 0, 0
+  index: -1
+gear0
+  rotate: false
+  xy: 724, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+gear1
+  rotate: true
+  xy: 986, 48
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+gear2
+  rotate: false
+  xy: 898, 32
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+gear3
+  rotate: false
+  xy: 798, 2
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+gear4
+  rotate: true
+  xy: 1035, 48
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+gear5
+  rotate: false
+  xy: 942, 32
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+jindu
+  rotate: false
+  xy: 872, 13
+  size: 24, 61
+  orig: 24, 61
+  offset: 0, 0
+  index: -1
+waikuang
+  rotate: false
+  xy: 724, 76
+  size: 700, 521
+  orig: 700, 521
+  offset: 0, 0
+  index: -1

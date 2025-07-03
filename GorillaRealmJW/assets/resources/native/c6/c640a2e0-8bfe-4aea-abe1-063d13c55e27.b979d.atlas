@@ -1,0 +1,153 @@
+
+FG_changtiao.png
+size: 831,829
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/changtiao
+  rotate: false
+  xy: 2, 672
+  size: 827, 155
+  orig: 827, 155
+  offset: 0, 0
+  index: -1
+wenjian/xiaotiao/changtiao_00
+  rotate: false
+  xy: 2, 112
+  size: 123, 78
+  orig: 414, 78
+  offset: 0, 0
+  index: -1
+wenjian/xiaotiao/changtiao_01
+  rotate: false
+  xy: 418, 352
+  size: 145, 78
+  orig: 414, 78
+  offset: 0, 0
+  index: -1
+wenjian/xiaotiao/changtiao_02
+  rotate: false
+  xy: 2, 192
+  size: 166, 78
+  orig: 414, 78
+  offset: 0, 0
+  index: -1
+wenjian/xiaotiao/changtiao_03
+  rotate: false
+  xy: 640, 592
+  size: 187, 78
+  orig: 414, 78
+  offset: 0, 0
+  index: -1
+wenjian/xiaotiao/changtiao_04
+  rotate: false
+  xy: 2, 272
+  size: 202, 78
+  orig: 414, 78
+  offset: 5, 0
+  index: -1
+wenjian/xiaotiao/changtiao_05
+  rotate: false
+  xy: 2, 592
+  size: 211, 78
+  orig: 414, 78
+  offset: 17, 0
+  index: -1
+wenjian/xiaotiao/changtiao_06
+  rotate: false
+  xy: 427, 512
+  size: 209, 78
+  orig: 414, 78
+  offset: 39, 0
+  index: -1
+wenjian/xiaotiao/changtiao_07
+  rotate: false
+  xy: 2, 432
+  size: 210, 78
+  orig: 414, 78
+  offset: 58, 0
+  index: -1
+wenjian/xiaotiao/changtiao_08
+  rotate: false
+  xy: 2, 512
+  size: 211, 78
+  orig: 414, 78
+  offset: 78, 0
+  index: -1
+wenjian/xiaotiao/changtiao_09
+  rotate: false
+  xy: 215, 592
+  size: 211, 78
+  orig: 414, 78
+  offset: 98, 0
+  index: -1
+wenjian/xiaotiao/changtiao_10
+  rotate: false
+  xy: 215, 512
+  size: 210, 78
+  orig: 414, 78
+  offset: 119, 0
+  index: -1
+wenjian/xiaotiao/changtiao_11
+  rotate: false
+  xy: 428, 592
+  size: 210, 78
+  orig: 414, 78
+  offset: 139, 0
+  index: -1
+wenjian/xiaotiao/changtiao_12
+  rotate: false
+  xy: 2, 352
+  size: 210, 78
+  orig: 414, 78
+  offset: 159, 0
+  index: -1
+wenjian/xiaotiao/changtiao_13
+  rotate: false
+  xy: 214, 432
+  size: 210, 78
+  orig: 414, 78
+  offset: 180, 0
+  index: -1
+wenjian/xiaotiao/changtiao_14
+  rotate: false
+  xy: 214, 352
+  size: 202, 78
+  orig: 414, 78
+  offset: 199, 0
+  index: -1
+wenjian/xiaotiao/changtiao_15
+  rotate: false
+  xy: 426, 432
+  size: 195, 78
+  orig: 414, 78
+  offset: 219, 0
+  index: -1
+wenjian/xiaotiao/changtiao_16
+  rotate: false
+  xy: 638, 512
+  size: 175, 78
+  orig: 414, 78
+  offset: 239, 0
+  index: -1
+wenjian/xiaotiao/changtiao_17
+  rotate: false
+  xy: 206, 272
+  size: 153, 78
+  orig: 414, 78
+  offset: 261, 0
+  index: -1
+wenjian/xiaotiao/changtiao_18
+  rotate: false
+  xy: 623, 432
+  size: 132, 78
+  orig: 414, 78
+  offset: 282, 0
+  index: -1
+wenjian/xiaotiao/changtiao_19
+  rotate: false
+  xy: 170, 192
+  size: 111, 78
+  orig: 414, 78
+  offset: 303, 0
+  index: -1

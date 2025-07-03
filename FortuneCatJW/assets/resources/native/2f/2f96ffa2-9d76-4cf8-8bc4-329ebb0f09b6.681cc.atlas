@@ -1,0 +1,41 @@
+
+H1.png
+size: 376,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: false
+  xy: 275, 7
+  size: 89, 44
+  orig: 91, 46
+  offset: 1, 1
+  index: -1
+di
+  rotate: true
+  xy: 275, 53
+  size: 127, 99
+  orig: 129, 101
+  offset: 1, 1
+  index: -1
+glow
+  rotate: true
+  xy: 2, 3
+  size: 177, 168
+  orig: 179, 170
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 172, 48
+  size: 132, 101
+  orig: 134, 103
+  offset: 1, 1
+  index: -1
+shou
+  rotate: true
+  xy: 172, 2
+  size: 44, 87
+  orig: 46, 89
+  offset: 1, 1
+  index: -1

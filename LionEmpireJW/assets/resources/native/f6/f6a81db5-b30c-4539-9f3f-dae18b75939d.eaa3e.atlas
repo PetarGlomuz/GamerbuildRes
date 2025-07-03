@@ -1,0 +1,111 @@
+
+tingpai.png
+size: 957,1112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tingpai/tingpai_00
+  rotate: false
+  xy: 193, 373
+  size: 189, 367
+  orig: 193, 385
+  offset: 2, 10
+  index: -1
+tingpai/tingpai_01
+  rotate: false
+  xy: 2, 372
+  size: 189, 368
+  orig: 193, 385
+  offset: 2, 9
+  index: -1
+tingpai/tingpai_02
+  rotate: false
+  xy: 384, 743
+  size: 189, 367
+  orig: 193, 385
+  offset: 2, 9
+  index: -1
+tingpai/tingpai_03
+  rotate: false
+  xy: 193, 4
+  size: 189, 367
+  orig: 193, 385
+  offset: 2, 9
+  index: -1
+tingpai/tingpai_04
+  rotate: false
+  xy: 384, 374
+  size: 189, 367
+  orig: 193, 385
+  offset: 2, 9
+  index: -1
+tingpai/tingpai_05
+  rotate: false
+  xy: 575, 743
+  size: 189, 367
+  orig: 193, 385
+  offset: 2, 9
+  index: -1
+tingpai/tingpai_06
+  rotate: false
+  xy: 384, 5
+  size: 189, 367
+  orig: 193, 385
+  offset: 2, 9
+  index: -1
+tingpai/tingpai_07
+  rotate: false
+  xy: 575, 374
+  size: 189, 367
+  orig: 193, 385
+  offset: 2, 9
+  index: -1
+tingpai/tingpai_08
+  rotate: false
+  xy: 766, 743
+  size: 189, 367
+  orig: 193, 385
+  offset: 2, 9
+  index: -1
+tingpai/tingpai_09
+  rotate: false
+  xy: 575, 5
+  size: 189, 367
+  orig: 193, 385
+  offset: 2, 9
+  index: -1
+tingpai/tingpai_10
+  rotate: false
+  xy: 766, 6
+  size: 189, 366
+  orig: 193, 385
+  offset: 2, 9
+  index: -1
+tingpai/tingpai_11
+  rotate: false
+  xy: 766, 374
+  size: 189, 367
+  orig: 193, 385
+  offset: 2, 8
+  index: -1
+tingpai/tingpai_12
+  rotate: false
+  xy: 193, 742
+  size: 189, 368
+  orig: 193, 385
+  offset: 2, 8
+  index: -1
+tingpai/tingpai_13
+  rotate: false
+  xy: 2, 2
+  size: 189, 368
+  orig: 193, 385
+  offset: 2, 9
+  index: -1
+tingpai/tingpai_14
+  rotate: false
+  xy: 2, 742
+  size: 189, 368
+  orig: 193, 385
+  offset: 2, 9
+  index: -1

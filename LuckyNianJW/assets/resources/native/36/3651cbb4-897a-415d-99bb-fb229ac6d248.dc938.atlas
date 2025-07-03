@@ -1,0 +1,139 @@
+
+TC_TY_jcdb.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sg/sg_01
+  rotate: false
+  xy: 853, 926
+  size: 98, 91
+  orig: 450, 100
+  offset: 174, 7
+  index: -1
+Sg/sg_02
+  rotate: false
+  xy: 430, 560
+  size: 193, 91
+  orig: 450, 100
+  offset: 123, 7
+  index: -1
+Sg/sg_03
+  rotate: false
+  xy: 2, 2
+  size: 289, 91
+  orig: 450, 100
+  offset: 72, 7
+  index: -1
+Sg/sg_04
+  rotate: false
+  xy: 430, 653
+  size: 348, 91
+  orig: 450, 100
+  offset: 39, 7
+  index: -1
+Sg/sg_05
+  rotate: false
+  xy: 2, 95
+  size: 386, 91
+  orig: 450, 100
+  offset: 17, 7
+  index: -1
+Sg/sg_06
+  rotate: false
+  xy: 430, 746
+  size: 408, 91
+  orig: 450, 100
+  offset: 12, 7
+  index: -1
+Sg/sg_07
+  rotate: false
+  xy: 2, 188
+  size: 423, 91
+  orig: 450, 100
+  offset: 12, 7
+  index: -1
+Sg/sg_08
+  rotate: false
+  xy: 2, 374
+  size: 425, 91
+  orig: 450, 100
+  offset: 12, 7
+  index: -1
+Sg/sg_09
+  rotate: false
+  xy: 2, 746
+  size: 426, 91
+  orig: 450, 100
+  offset: 11, 7
+  index: -1
+Sg/sg_10
+  rotate: false
+  xy: 2, 653
+  size: 426, 91
+  orig: 450, 100
+  offset: 11, 7
+  index: -1
+Sg/sg_11
+  rotate: false
+  xy: 2, 560
+  size: 426, 91
+  orig: 450, 100
+  offset: 12, 7
+  index: -1
+Sg/sg_12
+  rotate: false
+  xy: 2, 467
+  size: 426, 91
+  orig: 450, 100
+  offset: 12, 7
+  index: -1
+Sg/sg_13
+  rotate: false
+  xy: 2, 281
+  size: 425, 91
+  orig: 450, 100
+  offset: 13, 7
+  index: -1
+Sg/sg_14
+  rotate: false
+  xy: 293, 3
+  size: 78, 90
+  orig: 450, 100
+  offset: 360, 8
+  index: -1
+Sg/sg_15
+  rotate: false
+  xy: 430, 468
+  size: 62, 90
+  orig: 450, 100
+  offset: 376, 8
+  index: -1
+Sg/sg_16
+  rotate: false
+  xy: 780, 655
+  size: 44, 89
+  orig: 450, 100
+  offset: 393, 8
+  index: -1
+Sg/sg_17
+  rotate: false
+  xy: 390, 101
+  size: 28, 85
+  orig: 450, 100
+  offset: 409, 11
+  index: -1
+Sg/sg_18
+  rotate: false
+  xy: 840, 781
+  size: 10, 56
+  orig: 450, 100
+  offset: 426, 27
+  index: -1
+diban
+  rotate: false
+  xy: 2, 839
+  size: 849, 178
+  orig: 849, 178
+  offset: 0, 0
+  index: -1

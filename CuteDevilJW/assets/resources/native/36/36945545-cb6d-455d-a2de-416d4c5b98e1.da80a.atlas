@@ -1,0 +1,146 @@
+
+BG_guochang.png
+size: 985,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dadi
+  rotate: true
+  xy: 2, 169
+  size: 333, 331
+  orig: 333, 333
+  offset: 0, 1
+  index: -1
+g1
+  rotate: false
+  xy: 267, 39
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+g2
+  rotate: true
+  xy: 397, 100
+  size: 126, 125
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+qiu
+  rotate: true
+  xy: 524, 127
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+sanjiao1
+  rotate: true
+  xy: 598, 242
+  size: 260, 227
+  orig: 260, 227
+  offset: 0, 0
+  index: -1
+sanjiao1_add
+  rotate: true
+  xy: 2, 19
+  size: 148, 133
+  orig: 260, 227
+  offset: 56, 48
+  index: -1
+sanjiao2
+  rotate: false
+  xy: 647, 14
+  size: 261, 226
+  orig: 261, 226
+  offset: 0, 0
+  index: -1
+xulie/a_00
+  rotate: true
+  xy: 910, 28
+  size: 90, 73
+  orig: 101, 85
+  offset: 2, 5
+  index: -1
+xulie/a_01
+  rotate: true
+  xy: 910, 120
+  size: 92, 73
+  orig: 101, 85
+  offset: 2, 5
+  index: -1
+xulie/a_02
+  rotate: true
+  xy: 827, 407
+  size: 95, 73
+  orig: 101, 85
+  offset: 2, 5
+  index: -1
+xulie/a_03
+  rotate: true
+  xy: 827, 310
+  size: 95, 73
+  orig: 101, 85
+  offset: 2, 5
+  index: -1
+xulie/a_04
+  rotate: false
+  xy: 397, 25
+  size: 98, 73
+  orig: 101, 85
+  offset: 3, 5
+  index: -1
+xulie/a_05
+  rotate: true
+  xy: 902, 309
+  size: 95, 73
+  orig: 101, 85
+  offset: 1, 5
+  index: -1
+xulie/a_06
+  rotate: true
+  xy: 497, 2
+  size: 96, 73
+  orig: 101, 85
+  offset: 0, 5
+  index: -1
+xulie/a_07
+  rotate: true
+  xy: 572, 29
+  size: 96, 73
+  orig: 101, 85
+  offset: 3, 5
+  index: -1
+xulie/a_08
+  rotate: true
+  xy: 910, 406
+  size: 96, 73
+  orig: 101, 85
+  offset: 3, 5
+  index: -1
+xulie/a_09
+  rotate: true
+  xy: 910, 214
+  size: 93, 73
+  orig: 101, 85
+  offset: 2, 5
+  index: -1
+yingzi
+  rotate: false
+  xy: 335, 228
+  size: 261, 274
+  orig: 264, 274
+  offset: 2, 0
+  index: -1
+zhezhao
+  rotate: false
+  xy: 2, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 137, 37
+  size: 128, 130
+  orig: 129, 130
+  offset: 0, 0
+  index: -1

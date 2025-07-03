@@ -1,0 +1,90 @@
+
+BG_jp_zhakai.png
+size: 693,741
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao/bao_00000
+  rotate: true
+  xy: 581, 63
+  size: 322, 106
+  orig: 352, 141
+  offset: 16, 16
+  index: -1
+bao/bao_00001
+  rotate: false
+  xy: 2, 2
+  size: 348, 118
+  orig: 352, 141
+  offset: 4, 10
+  index: -1
+bao/bao_00002
+  rotate: true
+  xy: 356, 387
+  size: 352, 121
+  orig: 352, 141
+  offset: 0, 8
+  index: -1
+bao/bao_00003
+  rotate: false
+  xy: 2, 240
+  size: 352, 121
+  orig: 352, 141
+  offset: 0, 8
+  index: -1
+bao/bao_00004
+  rotate: false
+  xy: 2, 614
+  size: 352, 125
+  orig: 352, 141
+  offset: 0, 6
+  index: -1
+bao/bao_00005
+  rotate: false
+  xy: 2, 487
+  size: 352, 125
+  orig: 352, 141
+  offset: 0, 5
+  index: -1
+bao/bao_00006
+  rotate: false
+  xy: 2, 363
+  size: 352, 122
+  orig: 352, 141
+  offset: 0, 6
+  index: -1
+bao/bao_00007
+  rotate: true
+  xy: 479, 387
+  size: 352, 118
+  orig: 352, 141
+  offset: 0, 8
+  index: -1
+bao/bao_00008
+  rotate: false
+  xy: 2, 122
+  size: 352, 116
+  orig: 352, 141
+  offset: 0, 9
+  index: -1
+bao/bao_00009
+  rotate: true
+  xy: 356, 36
+  size: 349, 113
+  orig: 352, 141
+  offset: 3, 11
+  index: -1
+bao/bao_00010
+  rotate: true
+  xy: 471, 54
+  size: 331, 108
+  orig: 352, 141
+  offset: 12, 13
+  index: -1
+bao/bao_00011
+  rotate: true
+  xy: 599, 420
+  size: 319, 92
+  orig: 352, 141
+  offset: 24, 16
+  index: -1

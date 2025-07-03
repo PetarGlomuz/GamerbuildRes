@@ -1,0 +1,27 @@
+
+FG_beijing.png
+size: 63,44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d
+  rotate: false
+  xy: 49, 30
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+liuxing_00
+  rotate: false
+  xy: 41, 2
+  size: 6, 40
+  orig: 7, 40
+  offset: 0, 0
+  index: -1
+shan2
+  rotate: false
+  xy: 2, 5
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1

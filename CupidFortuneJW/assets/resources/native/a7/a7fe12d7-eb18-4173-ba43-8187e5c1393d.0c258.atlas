@@ -1,0 +1,230 @@
+
+TC_jpwheel_congratulations.png
+size: 371,371
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+congratulations/congratulations_cn_00
+  rotate: true
+  xy: 2, 6
+  size: 14, 26
+  orig: 179, 40
+  offset: 2, 14
+  index: -1
+congratulations/congratulations_cn_01
+  rotate: false
+  xy: 294, 3
+  size: 29, 36
+  orig: 179, 40
+  offset: 2, 4
+  index: -1
+congratulations/congratulations_cn_02
+  rotate: true
+  xy: 154, 2
+  size: 45, 36
+  orig: 179, 40
+  offset: 2, 4
+  index: -1
+congratulations/congratulations_cn_03
+  rotate: false
+  xy: 300, 185
+  size: 60, 36
+  orig: 179, 40
+  offset: 2, 4
+  index: -1
+congratulations/congratulations_cn_04
+  rotate: false
+  xy: 192, 3
+  size: 66, 36
+  orig: 179, 40
+  offset: 6, 4
+  index: -1
+congratulations/congratulations_cn_05
+  rotate: false
+  xy: 205, 117
+  size: 74, 36
+  orig: 179, 40
+  offset: 18, 4
+  index: -1
+congratulations/congratulations_cn_06
+  rotate: false
+  xy: 281, 117
+  size: 72, 36
+  orig: 179, 40
+  offset: 33, 4
+  index: -1
+congratulations/congratulations_cn_07
+  rotate: false
+  xy: 223, 185
+  size: 75, 36
+  orig: 179, 40
+  offset: 48, 4
+  index: -1
+congratulations/congratulations_cn_08
+  rotate: false
+  xy: 181, 79
+  size: 74, 36
+  orig: 179, 40
+  offset: 64, 4
+  index: -1
+congratulations/congratulations_cn_09
+  rotate: true
+  xy: 333, 44
+  size: 71, 36
+  orig: 179, 40
+  offset: 83, 4
+  index: -1
+congratulations/congratulations_cn_10
+  rotate: false
+  xy: 257, 79
+  size: 74, 36
+  orig: 179, 40
+  offset: 94, 4
+  index: -1
+congratulations/congratulations_cn_11
+  rotate: false
+  xy: 192, 41
+  size: 67, 36
+  orig: 179, 40
+  offset: 109, 4
+  index: -1
+congratulations/congratulations_cn_12
+  rotate: false
+  xy: 261, 41
+  size: 52, 36
+  orig: 179, 40
+  offset: 124, 4
+  index: -1
+congratulations/congratulations_cn_13
+  rotate: false
+  xy: 260, 4
+  size: 32, 35
+  orig: 179, 40
+  offset: 144, 4
+  index: -1
+congratulations/congratulations_cn_14
+  rotate: false
+  xy: 322, 244
+  size: 19, 34
+  orig: 179, 40
+  offset: 157, 5
+  index: -1
+congratulations/congratulations_en_00
+  rotate: false
+  xy: 228, 253
+  size: 92, 25
+  orig: 355, 32
+  offset: 2, 7
+  index: -1
+congratulations/congratulations_en_01
+  rotate: false
+  xy: 228, 280
+  size: 118, 25
+  orig: 355, 32
+  offset: 2, 7
+  index: -1
+congratulations/congratulations_en_02
+  rotate: false
+  xy: 2, 22
+  size: 150, 25
+  orig: 355, 32
+  offset: 2, 7
+  index: -1
+congratulations/congratulations_en_03
+  rotate: false
+  xy: 2, 49
+  size: 176, 25
+  orig: 355, 32
+  offset: 2, 7
+  index: -1
+congratulations/congratulations_en_04
+  rotate: false
+  xy: 2, 175
+  size: 201, 25
+  orig: 355, 32
+  offset: 2, 7
+  index: -1
+congratulations/congratulations_en_05
+  rotate: false
+  xy: 2, 202
+  size: 219, 25
+  orig: 355, 32
+  offset: 11, 7
+  index: -1
+congratulations/congratulations_en_06
+  rotate: false
+  xy: 2, 310
+  size: 225, 25
+  orig: 355, 32
+  offset: 39, 7
+  index: -1
+congratulations/congratulations_en_07
+  rotate: false
+  xy: 2, 229
+  size: 223, 25
+  orig: 355, 32
+  offset: 67, 7
+  index: -1
+congratulations/congratulations_en_08
+  rotate: false
+  xy: 2, 283
+  size: 224, 25
+  orig: 355, 32
+  offset: 94, 7
+  index: -1
+congratulations/congratulations_en_09
+  rotate: false
+  xy: 2, 256
+  size: 224, 25
+  orig: 355, 32
+  offset: 124, 7
+  index: -1
+congratulations/congratulations_en_10
+  rotate: false
+  xy: 2, 148
+  size: 201, 25
+  orig: 355, 32
+  offset: 152, 7
+  index: -1
+congratulations/congratulations_en_11
+  rotate: false
+  xy: 2, 76
+  size: 174, 28
+  orig: 355, 32
+  offset: 179, 4
+  index: -1
+congratulations/congratulations_en_12
+  rotate: false
+  xy: 205, 155
+  size: 147, 28
+  orig: 355, 32
+  offset: 206, 4
+  index: -1
+congratulations/congratulations_en_13
+  rotate: false
+  xy: 229, 307
+  size: 120, 28
+  orig: 355, 32
+  offset: 233, 4
+  index: -1
+congratulations/congratulations_en_14
+  rotate: false
+  xy: 227, 223
+  size: 91, 28
+  orig: 355, 32
+  offset: 262, 4
+  index: -1
+congratulations_cn
+  rotate: false
+  xy: 2, 106
+  size: 177, 40
+  orig: 177, 40
+  offset: 0, 0
+  index: -1
+congratulations_en
+  rotate: false
+  xy: 2, 337
+  size: 355, 32
+  orig: 355, 32
+  offset: 0, 0
+  index: -1

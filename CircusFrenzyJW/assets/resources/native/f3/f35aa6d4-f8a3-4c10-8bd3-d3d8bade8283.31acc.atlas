@@ -1,0 +1,27 @@
+
+H4.png
+size: 180,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/L
+  rotate: false
+  xy: 2, 2
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+images/R
+  rotate: false
+  xy: 69, 2
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+images/glow
+  rotate: false
+  xy: 136, 28
+  size: 42, 38
+  orig: 45, 40
+  offset: 0, 0
+  index: -1

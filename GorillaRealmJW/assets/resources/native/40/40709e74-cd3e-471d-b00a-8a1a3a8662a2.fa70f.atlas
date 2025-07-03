@@ -1,0 +1,174 @@
+
+JP_shuzikuang.png
+size: 890,888
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/blue_k
+  rotate: false
+  xy: 2, 730
+  size: 874, 156
+  orig: 874, 156
+  offset: 0, 0
+  index: -1
+wenjian/green_k
+  rotate: false
+  xy: 2, 572
+  size: 874, 156
+  orig: 874, 156
+  offset: 0, 0
+  index: -1
+wenjian/pick_k
+  rotate: false
+  xy: 2, 414
+  size: 874, 156
+  orig: 874, 156
+  offset: 0, 0
+  index: -1
+wenjian/red_k
+  rotate: false
+  xy: 2, 256
+  size: 874, 156
+  orig: 874, 156
+  offset: 0, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_00
+  rotate: true
+  xy: 811, 110
+  size: 64, 77
+  orig: 437, 78
+  offset: 0, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_01
+  rotate: false
+  xy: 719, 96
+  size: 90, 78
+  orig: 437, 78
+  offset: 0, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_02
+  rotate: false
+  xy: 732, 176
+  size: 115, 78
+  orig: 437, 78
+  offset: 0, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_03
+  rotate: false
+  xy: 439, 16
+  size: 135, 78
+  orig: 437, 78
+  offset: 4, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_04
+  rotate: false
+  xy: 294, 16
+  size: 143, 78
+  orig: 437, 78
+  offset: 20, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_05
+  rotate: false
+  xy: 2, 16
+  size: 144, 78
+  orig: 437, 78
+  offset: 42, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_06
+  rotate: false
+  xy: 149, 96
+  size: 144, 78
+  orig: 437, 78
+  offset: 65, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_07
+  rotate: false
+  xy: 2, 96
+  size: 145, 78
+  orig: 437, 78
+  offset: 88, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_08
+  rotate: false
+  xy: 2, 176
+  size: 146, 78
+  orig: 437, 78
+  offset: 111, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_09
+  rotate: false
+  xy: 150, 176
+  size: 145, 78
+  orig: 437, 78
+  offset: 135, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_10
+  rotate: false
+  xy: 297, 176
+  size: 144, 78
+  orig: 437, 78
+  offset: 159, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_11
+  rotate: false
+  xy: 148, 16
+  size: 144, 78
+  orig: 437, 78
+  offset: 182, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_12
+  rotate: false
+  xy: 295, 96
+  size: 144, 78
+  orig: 437, 78
+  offset: 205, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_13
+  rotate: false
+  xy: 441, 96
+  size: 143, 78
+  orig: 437, 78
+  offset: 229, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_14
+  rotate: false
+  xy: 443, 176
+  size: 144, 78
+  orig: 437, 78
+  offset: 253, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_15
+  rotate: false
+  xy: 589, 176
+  size: 141, 78
+  orig: 437, 78
+  offset: 277, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_16
+  rotate: false
+  xy: 586, 96
+  size: 131, 78
+  orig: 437, 78
+  offset: 300, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_17
+  rotate: false
+  xy: 576, 16
+  size: 114, 78
+  orig: 437, 78
+  offset: 323, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_18
+  rotate: false
+  xy: 692, 16
+  size: 90, 78
+  orig: 437, 78
+  offset: 347, 0
+  index: -1
+wenjian/shuzikuang_g/shuzikuang_g_19
+  rotate: false
+  xy: 784, 22
+  size: 64, 72
+  orig: 437, 78
+  offset: 373, 6
+  index: -1

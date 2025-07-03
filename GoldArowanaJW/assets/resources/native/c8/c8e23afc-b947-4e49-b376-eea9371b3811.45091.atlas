@@ -1,0 +1,300 @@
+
+TC_fgshouji_title.png
+size: 1350,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FG_shoujititle_CN
+  rotate: false
+  xy: 2, 4
+  size: 358, 130
+  orig: 358, 130
+  offset: 0, 0
+  index: -1
+images/FG_shoujititle_EN
+  rotate: false
+  xy: 647, 176
+  size: 580, 121
+  orig: 580, 121
+  offset: 0, 0
+  index: -1
+images/FGshouji_CN/1_00
+  rotate: true
+  xy: 1261, 62
+  size: 49, 59
+  orig: 358, 130
+  offset: 90, 34
+  index: -1
+images/FGshouji_CN/1_01
+  rotate: false
+  xy: 1150, 56
+  size: 67, 62
+  orig: 358, 130
+  offset: 90, 33
+  index: -1
+images/FGshouji_CN/1_02
+  rotate: true
+  xy: 1024, 26
+  size: 85, 62
+  orig: 358, 130
+  offset: 90, 33
+  index: -1
+images/FGshouji_CN/1_03
+  rotate: true
+  xy: 719, 10
+  size: 101, 63
+  orig: 358, 130
+  offset: 90, 33
+  index: -1
+images/FGshouji_CN/1_04
+  rotate: false
+  xy: 1229, 177
+  size: 115, 63
+  orig: 358, 130
+  offset: 90, 33
+  index: -1
+images/FGshouji_CN/1_05
+  rotate: true
+  xy: 426, 2
+  size: 136, 63
+  orig: 358, 130
+  offset: 91, 33
+  index: -1
+images/FGshouji_CN/1_06
+  rotate: true
+  xy: 517, 144
+  size: 153, 63
+  orig: 358, 130
+  offset: 92, 34
+  index: -1
+images/FGshouji_CN/1_07
+  rotate: true
+  xy: 2, 136
+  size: 161, 62
+  orig: 358, 130
+  offset: 100, 35
+  index: -1
+images/FGshouji_CN/1_08
+  rotate: true
+  xy: 582, 151
+  size: 146, 63
+  orig: 358, 130
+  offset: 120, 34
+  index: -1
+images/FGshouji_CN/1_09
+  rotate: true
+  xy: 362, 10
+  size: 127, 62
+  orig: 358, 130
+  offset: 140, 34
+  index: -1
+images/FGshouji_CN/1_10
+  rotate: false
+  xy: 1229, 113
+  size: 108, 62
+  orig: 358, 130
+  offset: 160, 34
+  index: -1
+images/FGshouji_CN/1_11
+  rotate: true
+  xy: 784, 10
+  size: 101, 62
+  orig: 358, 130
+  offset: 167, 34
+  index: -1
+images/FGshouji_CN/1_12
+  rotate: true
+  xy: 904, 17
+  size: 94, 62
+  orig: 358, 130
+  offset: 174, 34
+  index: -1
+images/FGshouji_CN/1_13
+  rotate: false
+  xy: 663, 113
+  size: 87, 61
+  orig: 358, 130
+  offset: 181, 34
+  index: -1
+images/FGshouji_CN/1_14
+  rotate: false
+  xy: 752, 113
+  size: 80, 61
+  orig: 358, 130
+  offset: 188, 34
+  index: -1
+images/FGshouji_CN/1_15
+  rotate: false
+  xy: 834, 114
+  size: 74, 60
+  orig: 358, 130
+  offset: 194, 34
+  index: -1
+images/FGshouji_CN/1_16
+  rotate: false
+  xy: 910, 114
+  size: 69, 60
+  orig: 358, 130
+  offset: 199, 34
+  index: -1
+images/FGshouji_CN/1_17
+  rotate: false
+  xy: 981, 114
+  size: 57, 60
+  orig: 358, 130
+  offset: 211, 34
+  index: -1
+images/FGshouji_CN/1_18
+  rotate: false
+  xy: 1040, 115
+  size: 56, 59
+  orig: 358, 130
+  offset: 212, 35
+  index: -1
+images/FGshouji_CN/1_19
+  rotate: false
+  xy: 1098, 115
+  size: 50, 59
+  orig: 358, 130
+  offset: 218, 35
+  index: -1
+images/FGshouji_EN/1_00
+  rotate: false
+  xy: 1203, 3
+  size: 56, 51
+  orig: 580, 121
+  offset: 147, 34
+  index: -1
+images/FGshouji_EN/1_01
+  rotate: false
+  xy: 1150, 120
+  size: 71, 54
+  orig: 580, 121
+  offset: 147, 34
+  index: -1
+images/FGshouji_EN/1_02
+  rotate: true
+  xy: 968, 22
+  size: 89, 54
+  orig: 580, 121
+  offset: 147, 34
+  index: -1
+images/FGshouji_EN/1_03
+  rotate: true
+  xy: 663, 7
+  size: 104, 54
+  orig: 580, 121
+  offset: 147, 34
+  index: -1
+images/FGshouji_EN/1_04
+  rotate: true
+  xy: 491, 16
+  size: 123, 55
+  orig: 580, 121
+  offset: 147, 34
+  index: -1
+images/FGshouji_EN/1_05
+  rotate: true
+  xy: 548, 2
+  size: 140, 56
+  orig: 580, 121
+  offset: 147, 34
+  index: -1
+images/FGshouji_EN/1_06
+  rotate: true
+  xy: 459, 141
+  size: 156, 56
+  orig: 580, 121
+  offset: 148, 34
+  index: -1
+images/FGshouji_EN/1_07
+  rotate: true
+  xy: 66, 137
+  size: 160, 55
+  orig: 580, 121
+  offset: 159, 35
+  index: -1
+images/FGshouji_EN/1_08
+  rotate: true
+  xy: 180, 138
+  size: 159, 54
+  orig: 580, 121
+  offset: 178, 36
+  index: -1
+images/FGshouji_EN/1_09
+  rotate: true
+  xy: 294, 139
+  size: 158, 54
+  orig: 580, 121
+  offset: 197, 36
+  index: -1
+images/FGshouji_EN/1_10
+  rotate: true
+  xy: 405, 140
+  size: 157, 52
+  orig: 580, 121
+  offset: 215, 38
+  index: -1
+images/FGshouji_EN/1_11
+  rotate: true
+  xy: 350, 139
+  size: 158, 53
+  orig: 580, 121
+  offset: 235, 37
+  index: -1
+images/FGshouji_EN/1_12
+  rotate: true
+  xy: 123, 138
+  size: 159, 55
+  orig: 580, 121
+  offset: 255, 35
+  index: -1
+images/FGshouji_EN/1_13
+  rotate: true
+  xy: 236, 139
+  size: 158, 56
+  orig: 580, 121
+  offset: 274, 34
+  index: -1
+images/FGshouji_EN/1_14
+  rotate: true
+  xy: 606, 10
+  size: 139, 55
+  orig: 580, 121
+  offset: 294, 34
+  index: -1
+images/FGshouji_EN/1_15
+  rotate: false
+  xy: 1229, 242
+  size: 119, 55
+  orig: 580, 121
+  offset: 314, 34
+  index: -1
+images/FGshouji_EN/1_16
+  rotate: true
+  xy: 848, 13
+  size: 98, 54
+  orig: 580, 121
+  offset: 335, 34
+  index: -1
+images/FGshouji_EN/1_17
+  rotate: true
+  xy: 1088, 32
+  size: 79, 53
+  orig: 580, 121
+  offset: 354, 34
+  index: -1
+images/FGshouji_EN/1_18
+  rotate: false
+  xy: 1143, 2
+  size: 58, 52
+  orig: 580, 121
+  offset: 375, 34
+  index: -1
+images/FGshouji_EN/1_19
+  rotate: false
+  xy: 1219, 61
+  size: 40, 50
+  orig: 580, 121
+  offset: 393, 34
+  index: -1

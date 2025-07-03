@@ -1,0 +1,251 @@
+
+TC_TY_btn.png
+size: 396,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn
+  rotate: false
+  xy: 2, 122
+  size: 377, 145
+  orig: 377, 145
+  offset: 0, 0
+  index: -1
+btnliang_00
+  rotate: false
+  xy: 2, 43
+  size: 80, 77
+  orig: 125, 123
+  offset: 20, 23
+  index: -1
+flash1/flash1_00
+  rotate: false
+  xy: 381, 205
+  size: 11, 11
+  orig: 91, 62
+  offset: 68, 36
+  index: -1
+flash1/flash1_01
+  rotate: true
+  xy: 377, 83
+  size: 14, 12
+  orig: 91, 62
+  offset: 62, 37
+  index: -1
+flash1/flash1_02
+  rotate: false
+  xy: 371, 67
+  size: 23, 14
+  orig: 91, 62
+  offset: 52, 36
+  index: -1
+flash1/flash1_03
+  rotate: true
+  xy: 179, 10
+  size: 37, 33
+  orig: 91, 62
+  offset: 45, 28
+  index: -1
+flash1/flash1_04
+  rotate: false
+  xy: 31, 8
+  size: 49, 33
+  orig: 91, 62
+  offset: 31, 29
+  index: -1
+flash1/flash1_05
+  rotate: false
+  xy: 284, 88
+  size: 47, 32
+  orig: 91, 62
+  offset: 32, 30
+  index: -1
+flash1/flash1_06
+  rotate: false
+  xy: 236, 56
+  size: 40, 21
+  orig: 91, 62
+  offset: 25, 32
+  index: -1
+flash1/flash1_07
+  rotate: false
+  xy: 236, 79
+  size: 46, 41
+  orig: 91, 62
+  offset: 14, 17
+  index: -1
+flash1/flash1_08
+  rotate: false
+  xy: 139, 78
+  size: 47, 42
+  orig: 91, 62
+  offset: 10, 16
+  index: -1
+flash1/flash1_09
+  rotate: false
+  xy: 84, 75
+  size: 53, 45
+  orig: 91, 62
+  offset: 0, 9
+  index: -1
+flash1/flash1_10
+  rotate: false
+  xy: 188, 77
+  size: 46, 43
+  orig: 91, 62
+  offset: 0, 8
+  index: -1
+flash1/flash1_11
+  rotate: true
+  xy: 333, 83
+  size: 37, 42
+  orig: 91, 62
+  offset: 0, 7
+  index: -1
+flash1/flash1_12
+  rotate: false
+  xy: 214, 17
+  size: 35, 37
+  orig: 91, 62
+  offset: 0, 14
+  index: -1
+flash1/flash1_13
+  rotate: true
+  xy: 169, 49
+  size: 26, 34
+  orig: 91, 62
+  offset: 3, 14
+  index: -1
+flash1/flash1_14
+  rotate: false
+  xy: 84, 2
+  size: 33, 41
+  orig: 91, 62
+  offset: 0, 8
+  index: -1
+flash1/flash1_15
+  rotate: false
+  xy: 251, 17
+  size: 32, 37
+  orig: 91, 62
+  offset: 0, 7
+  index: -1
+flash2/flash2_00
+  rotate: false
+  xy: 381, 192
+  size: 11, 11
+  orig: 106, 62
+  offset: 2, 33
+  index: -1
+flash2/flash2_01
+  rotate: false
+  xy: 381, 231
+  size: 13, 16
+  orig: 106, 62
+  offset: 2, 27
+  index: -1
+flash2/flash2_02
+  rotate: false
+  xy: 205, 56
+  size: 25, 19
+  orig: 106, 62
+  offset: 1, 20
+  index: -1
+flash2/flash2_03
+  rotate: true
+  xy: 355, 25
+  size: 35, 18
+  orig: 106, 62
+  offset: 2, 21
+  index: -1
+flash2/flash2_04
+  rotate: false
+  xy: 328, 62
+  size: 41, 19
+  orig: 106, 62
+  offset: 6, 20
+  index: -1
+flash2/flash2_05
+  rotate: false
+  xy: 84, 45
+  size: 45, 28
+  orig: 106, 62
+  offset: 9, 9
+  index: -1
+flash2/flash2_06
+  rotate: true
+  xy: 119, 2
+  size: 41, 28
+  orig: 106, 62
+  offset: 19, 10
+  index: -1
+flash2/flash2_07
+  rotate: false
+  xy: 131, 45
+  size: 36, 28
+  orig: 106, 62
+  offset: 30, 12
+  index: -1
+flash2/flash2_08
+  rotate: false
+  xy: 284, 62
+  size: 42, 24
+  orig: 106, 62
+  offset: 39, 16
+  index: -1
+flash2/flash2_09
+  rotate: true
+  xy: 2, 2
+  size: 39, 27
+  orig: 106, 62
+  offset: 47, 16
+  index: -1
+flash2/flash2_10
+  rotate: true
+  xy: 149, 2
+  size: 41, 28
+  orig: 106, 62
+  offset: 54, 16
+  index: -1
+flash2/flash2_11
+  rotate: false
+  xy: 321, 36
+  size: 32, 24
+  orig: 106, 62
+  offset: 65, 19
+  index: -1
+flash2/flash2_12
+  rotate: true
+  xy: 321, 2
+  size: 32, 21
+  orig: 106, 62
+  offset: 66, 21
+  index: -1
+flash2/flash2_13
+  rotate: true
+  xy: 377, 99
+  size: 21, 17
+  orig: 106, 62
+  offset: 77, 24
+  index: -1
+flash2/flash2_14
+  rotate: true
+  xy: 381, 249
+  size: 18, 13
+  orig: 106, 62
+  offset: 81, 27
+  index: -1
+flash2/flash2_15
+  rotate: false
+  xy: 381, 218
+  size: 12, 11
+  orig: 106, 62
+  offset: 90, 28
+  index: -1
+p_00
+  rotate: false
+  xy: 285, 26
+  size: 34, 34
+  orig: 42, 40
+  offset: 4, 3
+  index: -1

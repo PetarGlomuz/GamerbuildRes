@@ -1,0 +1,146 @@
+
+TC_FG_diban1.png
+size: 904,1042
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Images/diabn
+  rotate: false
+  xy: 2, 554
+  size: 760, 486
+  orig: 760, 486
+  offset: 0, 0
+  index: -1
+Images/sg_ty/sh_ty_01
+  rotate: true
+  xy: 746, 265
+  size: 70, 136
+  orig: 300, 150
+  offset: 116, 7
+  index: -1
+Images/sg_ty/sh_ty_02
+  rotate: true
+  xy: 764, 520
+  size: 134, 136
+  orig: 300, 150
+  offset: 85, 7
+  index: -1
+Images/sg_ty/sh_ty_03
+  rotate: false
+  xy: 498, 2
+  size: 213, 136
+  orig: 300, 150
+  offset: 45, 7
+  index: -1
+Images/sg_ty/sh_ty_04
+  rotate: false
+  xy: 2, 416
+  size: 246, 136
+  orig: 300, 150
+  offset: 27, 7
+  index: -1
+Images/sg_ty/sh_ty_05
+  rotate: true
+  xy: 764, 656
+  size: 246, 136
+  orig: 300, 150
+  offset: 27, 7
+  index: -1
+Images/sg_ty/sh_ty_06
+  rotate: false
+  xy: 2, 278
+  size: 246, 136
+  orig: 300, 150
+  offset: 27, 7
+  index: -1
+Images/sg_ty/sh_ty_07
+  rotate: false
+  xy: 250, 416
+  size: 246, 136
+  orig: 300, 150
+  offset: 27, 7
+  index: -1
+Images/sg_ty/sh_ty_08
+  rotate: false
+  xy: 2, 140
+  size: 246, 136
+  orig: 300, 150
+  offset: 27, 7
+  index: -1
+Images/sg_ty/sh_ty_09
+  rotate: false
+  xy: 250, 4
+  size: 246, 134
+  orig: 300, 150
+  offset: 27, 8
+  index: -1
+Images/sg_ty/sh_ty_10
+  rotate: false
+  xy: 250, 278
+  size: 246, 136
+  orig: 300, 150
+  offset: 27, 7
+  index: -1
+Images/sg_ty/sh_ty_11
+  rotate: false
+  xy: 498, 416
+  size: 246, 136
+  orig: 300, 150
+  offset: 27, 7
+  index: -1
+Images/sg_ty/sh_ty_12
+  rotate: false
+  xy: 2, 2
+  size: 246, 136
+  orig: 300, 150
+  offset: 27, 7
+  index: -1
+Images/sg_ty/sh_ty_13
+  rotate: false
+  xy: 250, 140
+  size: 246, 136
+  orig: 300, 150
+  offset: 27, 7
+  index: -1
+Images/sg_ty/sh_ty_14
+  rotate: false
+  xy: 498, 278
+  size: 246, 136
+  orig: 300, 150
+  offset: 27, 7
+  index: -1
+Images/sg_ty/sh_ty_15
+  rotate: false
+  xy: 498, 140
+  size: 219, 136
+  orig: 300, 150
+  offset: 40, 7
+  index: -1
+Images/sg_ty/sh_ty_16
+  rotate: true
+  xy: 746, 337
+  size: 181, 136
+  orig: 300, 150
+  offset: 59, 7
+  index: -1
+Images/sg_ty/sh_ty_17
+  rotate: false
+  xy: 764, 904
+  size: 138, 136
+  orig: 300, 150
+  offset: 81, 7
+  index: -1
+Images/sg_ty/sh_ty_18
+  rotate: true
+  xy: 719, 179
+  size: 84, 136
+  orig: 300, 150
+  offset: 109, 7
+  index: -1
+Images/sg_ty/sh_ty_19
+  rotate: true
+  xy: 719, 107
+  size: 70, 136
+  orig: 300, 150
+  offset: 116, 7
+  index: -1

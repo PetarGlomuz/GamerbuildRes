@@ -1,0 +1,34 @@
+
+bg_bg.png
+size: 1782,725
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_background
+  rotate: false
+  xy: 2, 2
+  size: 1561, 721
+  orig: 1561, 721
+  offset: 0, 0
+  index: -1
+hg_00000
+  rotate: false
+  xy: 1565, 507
+  size: 215, 216
+  orig: 332, 341
+  offset: 58, 63
+  index: -1
+paopao_s
+  rotate: false
+  xy: 1565, 331
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+zb_5
+  rotate: false
+  xy: 1565, 377
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

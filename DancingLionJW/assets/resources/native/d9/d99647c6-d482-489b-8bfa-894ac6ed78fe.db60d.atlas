@@ -1,0 +1,111 @@
+
+NG_yingfen.png
+size: 978,442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yingfen/zhuan_00
+  rotate: false
+  xy: 784, 4
+  size: 184, 144
+  orig: 200, 150
+  offset: 8, 3
+  index: -1
+yingfen/zhuan_01
+  rotate: false
+  xy: 592, 148
+  size: 190, 144
+  orig: 200, 150
+  offset: 5, 3
+  index: -1
+yingfen/zhuan_02
+  rotate: false
+  xy: 784, 150
+  size: 192, 144
+  orig: 200, 150
+  offset: 4, 3
+  index: -1
+yingfen/zhuan_03
+  rotate: false
+  xy: 200, 294
+  size: 192, 146
+  orig: 200, 150
+  offset: 4, 2
+  index: -1
+yingfen/zhuan_04
+  rotate: false
+  xy: 2, 2
+  size: 192, 146
+  orig: 200, 150
+  offset: 4, 2
+  index: -1
+yingfen/zhuan_05
+  rotate: false
+  xy: 394, 294
+  size: 192, 146
+  orig: 200, 150
+  offset: 4, 2
+  index: -1
+yingfen/zhuan_06
+  rotate: false
+  xy: 588, 294
+  size: 192, 146
+  orig: 200, 150
+  offset: 4, 2
+  index: -1
+yingfen/zhuan_07
+  rotate: false
+  xy: 584, 4
+  size: 190, 142
+  orig: 200, 150
+  offset: 5, 4
+  index: -1
+yingfen/zhuan_08
+  rotate: false
+  xy: 196, 2
+  size: 192, 144
+  orig: 200, 150
+  offset: 4, 3
+  index: -1
+yingfen/zhuan_09
+  rotate: false
+  xy: 390, 2
+  size: 192, 144
+  orig: 200, 150
+  offset: 4, 3
+  index: -1
+yingfen/zhuan_10
+  rotate: false
+  xy: 782, 296
+  size: 194, 144
+  orig: 200, 150
+  offset: 3, 3
+  index: -1
+yingfen/zhuan_11
+  rotate: false
+  xy: 200, 148
+  size: 194, 144
+  orig: 200, 150
+  offset: 3, 3
+  index: -1
+yingfen/zhuan_12
+  rotate: false
+  xy: 396, 148
+  size: 194, 144
+  orig: 200, 150
+  offset: 3, 3
+  index: -1
+yingfen/zhuan_13
+  rotate: false
+  xy: 2, 296
+  size: 196, 144
+  orig: 200, 150
+  offset: 2, 3
+  index: -1
+yingfen/zhuan_14
+  rotate: false
+  xy: 2, 150
+  size: 196, 144
+  orig: 200, 150
+  offset: 2, 3
+  index: -1

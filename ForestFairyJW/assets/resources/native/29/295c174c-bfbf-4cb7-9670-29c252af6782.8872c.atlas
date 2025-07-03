@@ -1,0 +1,153 @@
+
+TingPaiDi.png
+size: 1432,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/reeladd_000
+  rotate: false
+  xy: 2, 108
+  size: 102, 448
+  orig: 116, 448
+  offset: 8, 0
+  index: -1
+images/t1/t1_000
+  rotate: false
+  xy: 106, 206
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_001
+  rotate: false
+  xy: 208, 206
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_002
+  rotate: false
+  xy: 310, 206
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_003
+  rotate: false
+  xy: 412, 206
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_004
+  rotate: false
+  xy: 514, 206
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_005
+  rotate: false
+  xy: 616, 206
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_006
+  rotate: false
+  xy: 718, 206
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_007
+  rotate: false
+  xy: 820, 206
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_008
+  rotate: false
+  xy: 922, 206
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_009
+  rotate: false
+  xy: 1024, 206
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_010
+  rotate: false
+  xy: 1126, 206
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_011
+  rotate: false
+  xy: 1228, 206
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_012
+  rotate: false
+  xy: 1330, 206
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_013
+  rotate: true
+  xy: 106, 104
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_014
+  rotate: true
+  xy: 458, 104
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_015
+  rotate: true
+  xy: 810, 104
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_016
+  rotate: true
+  xy: 2, 2
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_017
+  rotate: true
+  xy: 354, 2
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_018
+  rotate: true
+  xy: 706, 2
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1
+images/t1/t1_019
+  rotate: true
+  xy: 1058, 2
+  size: 100, 350
+  orig: 100, 350
+  offset: 0, 0
+  index: -1

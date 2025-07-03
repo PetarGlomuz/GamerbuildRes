@@ -1,0 +1,181 @@
+
+TC_JP_jiesuankuang.png
+size: 690,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/coin_frame_GRAND
+  rotate: true
+  xy: 172, 306
+  size: 716, 168
+  orig: 716, 168
+  offset: 0, 0
+  index: -1
+images/coin_frame_MAJOR
+  rotate: true
+  xy: 342, 306
+  size: 716, 168
+  orig: 716, 168
+  offset: 0, 0
+  index: -1
+images/coin_frame_MINI
+  rotate: true
+  xy: 512, 306
+  size: 716, 168
+  orig: 716, 168
+  offset: 0, 0
+  index: -1
+images/coin_frame_MINOR
+  rotate: true
+  xy: 2, 306
+  size: 716, 168
+  orig: 716, 168
+  offset: 0, 0
+  index: -1
+images/jpk/jpk_000
+  rotate: false
+  xy: 658, 33
+  size: 30, 45
+  orig: 350, 90
+  offset: 1, 13
+  index: -1
+images/jpk/jpk_002
+  rotate: false
+  xy: 555, 6
+  size: 54, 70
+  orig: 350, 90
+  offset: 1, 13
+  index: -1
+images/jpk/jpk_004
+  rotate: false
+  xy: 474, 2
+  size: 79, 74
+  orig: 350, 90
+  offset: 1, 13
+  index: -1
+images/jpk/jpk_006
+  rotate: false
+  xy: 581, 230
+  size: 103, 74
+  orig: 350, 90
+  offset: 1, 13
+  index: -1
+images/jpk/jpk_008
+  rotate: false
+  xy: 344, 2
+  size: 128, 74
+  orig: 350, 90
+  offset: 1, 13
+  index: -1
+images/jpk/jpk_010
+  rotate: false
+  xy: 191, 2
+  size: 151, 74
+  orig: 350, 90
+  offset: 2, 13
+  index: -1
+images/jpk/jpk_012
+  rotate: false
+  xy: 195, 78
+  size: 176, 74
+  orig: 350, 90
+  offset: 2, 13
+  index: -1
+images/jpk/jpk_014
+  rotate: false
+  xy: 389, 230
+  size: 190, 74
+  orig: 350, 90
+  offset: 12, 13
+  index: -1
+images/jpk/jpk_016
+  rotate: false
+  xy: 196, 230
+  size: 191, 74
+  orig: 350, 90
+  offset: 35, 13
+  index: -1
+images/jpk/jpk_018
+  rotate: false
+  xy: 2, 78
+  size: 191, 74
+  orig: 350, 90
+  offset: 60, 13
+  index: -1
+images/jpk/jpk_020
+  rotate: false
+  xy: 196, 154
+  size: 191, 74
+  orig: 350, 90
+  offset: 84, 13
+  index: -1
+images/jpk/jpk_022
+  rotate: false
+  xy: 2, 230
+  size: 192, 74
+  orig: 350, 90
+  offset: 108, 13
+  index: -1
+images/jpk/jpk_024
+  rotate: false
+  xy: 2, 154
+  size: 192, 74
+  orig: 350, 90
+  offset: 132, 13
+  index: -1
+images/jpk/jpk_026
+  rotate: false
+  xy: 2, 2
+  size: 187, 74
+  orig: 350, 90
+  offset: 157, 13
+  index: -1
+images/jpk/jpk_028
+  rotate: false
+  xy: 389, 154
+  size: 168, 74
+  orig: 350, 90
+  offset: 181, 13
+  index: -1
+images/jpk/jpk_030
+  rotate: false
+  xy: 373, 78
+  size: 143, 74
+  orig: 350, 90
+  offset: 206, 13
+  index: -1
+images/jpk/jpk_032
+  rotate: false
+  xy: 559, 154
+  size: 119, 74
+  orig: 350, 90
+  offset: 230, 13
+  index: -1
+images/jpk/jpk_034
+  rotate: false
+  xy: 518, 78
+  size: 94, 74
+  orig: 350, 90
+  offset: 255, 13
+  index: -1
+images/jpk/jpk_036
+  rotate: false
+  xy: 614, 80
+  size: 69, 72
+  orig: 350, 90
+  offset: 280, 15
+  index: -1
+images/jpk/jpk_038
+  rotate: false
+  xy: 611, 12
+  size: 45, 64
+  orig: 350, 90
+  offset: 304, 23
+  index: -1
+images/jpk/jpk_040
+  rotate: true
+  xy: 658, 10
+  size: 21, 30
+  orig: 350, 90
+  offset: 328, 57
+  index: -1

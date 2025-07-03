@@ -1,0 +1,118 @@
+
+BG_zhizhen.png
+size: 205,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhiz/zz_00
+  rotate: false
+  xy: 2, 2
+  size: 150, 12
+  orig: 156, 44
+  offset: 3, 28
+  index: -1
+zhiz/zz_01
+  rotate: false
+  xy: 2, 16
+  size: 150, 14
+  orig: 156, 44
+  offset: 3, 26
+  index: -1
+zhiz/zz_02
+  rotate: false
+  xy: 2, 32
+  size: 150, 17
+  orig: 156, 44
+  offset: 3, 23
+  index: -1
+zhiz/zz_03
+  rotate: true
+  xy: 139, 54
+  size: 150, 22
+  orig: 156, 44
+  offset: 3, 19
+  index: -1
+zhiz/zz_04
+  rotate: true
+  xy: 111, 51
+  size: 151, 26
+  orig: 156, 44
+  offset: 3, 15
+  index: -1
+zhiz/zz_05
+  rotate: true
+  xy: 79, 51
+  size: 151, 30
+  orig: 156, 44
+  offset: 3, 11
+  index: -1
+zhiz/zz_06
+  rotate: true
+  xy: 166, 204
+  size: 152, 33
+  orig: 156, 44
+  offset: 2, 8
+  index: -1
+zhiz/zz_07
+  rotate: true
+  xy: 41, 51
+  size: 152, 36
+  orig: 156, 44
+  offset: 2, 5
+  index: -1
+zhiz/zz_08
+  rotate: true
+  xy: 2, 51
+  size: 152, 37
+  orig: 156, 44
+  offset: 2, 4
+  index: -1
+zhiz/zz_09
+  rotate: true
+  xy: 90, 358
+  size: 152, 37
+  orig: 156, 44
+  offset: 2, 4
+  index: -1
+zhiz/zz_10
+  rotate: true
+  xy: 129, 358
+  size: 152, 36
+  orig: 156, 44
+  offset: 2, 4
+  index: -1
+zhiz/zz_11
+  rotate: true
+  xy: 167, 358
+  size: 152, 36
+  orig: 156, 44
+  offset: 2, 4
+  index: -1
+zhiz/zz_12
+  rotate: true
+  xy: 90, 204
+  size: 152, 36
+  orig: 156, 44
+  offset: 2, 3
+  index: -1
+zhiz/zz_13
+  rotate: true
+  xy: 128, 206
+  size: 150, 36
+  orig: 156, 44
+  offset: 3, 2
+  index: -1
+zhiz/zz_14
+  rotate: true
+  xy: 163, 62
+  size: 140, 32
+  orig: 156, 44
+  offset: 8, 1
+  index: -1
+zhizheng1
+  rotate: true
+  xy: 2, 205
+  size: 305, 86
+  orig: 305, 86
+  offset: 0, 0
+  index: -1

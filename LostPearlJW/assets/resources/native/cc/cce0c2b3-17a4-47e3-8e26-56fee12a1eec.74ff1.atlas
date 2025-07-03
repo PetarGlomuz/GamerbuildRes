@@ -1,0 +1,13 @@
+
+tc_jp_mask.png
+size: 324,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_mask
+  rotate: false
+  xy: 2, 2
+  size: 320, 68
+  orig: 384, 100
+  offset: 33, 19
+  index: -1

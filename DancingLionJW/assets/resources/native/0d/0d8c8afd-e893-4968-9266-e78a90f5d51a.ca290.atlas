@@ -1,0 +1,20 @@
+
+Wheel_wheelidle.png
+size: 894,410
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/saoguang/nei_00000
+  rotate: false
+  xy: 630, 2
+  size: 262, 406
+  orig: 406, 406
+  offset: 69, 0
+  index: -1
+image/saoguang/wai_00000
+  rotate: true
+  xy: 2, 85
+  size: 323, 626
+  orig: 664, 663
+  offset: 161, 18
+  index: -1

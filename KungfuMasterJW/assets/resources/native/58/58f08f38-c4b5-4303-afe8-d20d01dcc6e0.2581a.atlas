@@ -1,0 +1,76 @@
+
+NG_xiaoren.png
+size: 89,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 10
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 49, 30
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 49, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 75, 36
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 75, 26
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 63, 18
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 63, 31
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 62, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 72, 16
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 49, 15
+  size: 12, 13
+  orig: 12, 14
+  offset: 0, 0
+  index: -1

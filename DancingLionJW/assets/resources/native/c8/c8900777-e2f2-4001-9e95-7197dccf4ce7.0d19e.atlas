@@ -1,0 +1,118 @@
+
+Wheel_zhizhen.png
+size: 386,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/jiansao/jian_00000
+  rotate: true
+  xy: 371, 3
+  size: 97, 13
+  orig: 102, 61
+  offset: 3, 2
+  index: -1
+image/jiansao/jian_00001
+  rotate: false
+  xy: 106, 75
+  size: 98, 18
+  orig: 102, 61
+  offset: 2, 2
+  index: -1
+image/jiansao/jian_00002
+  rotate: false
+  xy: 102, 9
+  size: 98, 23
+  orig: 102, 61
+  offset: 2, 2
+  index: -1
+image/jiansao/jian_00003
+  rotate: false
+  xy: 2, 2
+  size: 98, 28
+  orig: 102, 61
+  offset: 2, 2
+  index: -1
+image/jiansao/jian_00004
+  rotate: false
+  xy: 206, 59
+  size: 98, 33
+  orig: 102, 61
+  offset: 2, 2
+  index: -1
+image/jiansao/jian_00005
+  rotate: false
+  xy: 102, 34
+  size: 98, 39
+  orig: 102, 61
+  offset: 2, 2
+  index: -1
+image/jiansao/jian_00006
+  rotate: false
+  xy: 2, 32
+  size: 98, 44
+  orig: 102, 61
+  offset: 2, 2
+  index: -1
+image/jiansao/jian_00007
+  rotate: false
+  xy: 106, 95
+  size: 98, 44
+  orig: 102, 61
+  offset: 2, 7
+  index: -1
+image/jiansao/jian_00008
+  rotate: false
+  xy: 206, 94
+  size: 95, 45
+  orig: 102, 61
+  offset: 2, 11
+  index: -1
+image/jiansao/jian_00009
+  rotate: false
+  xy: 202, 14
+  size: 86, 43
+  orig: 102, 61
+  offset: 6, 16
+  index: -1
+image/jiansao/jian_00010
+  rotate: false
+  xy: 303, 102
+  size: 73, 37
+  orig: 102, 61
+  offset: 13, 22
+  index: -1
+image/jiansao/jian_00011
+  rotate: false
+  xy: 306, 68
+  size: 63, 32
+  orig: 102, 61
+  offset: 18, 27
+  index: -1
+image/jiansao/jian_00012
+  rotate: false
+  xy: 306, 39
+  size: 52, 27
+  orig: 102, 61
+  offset: 24, 32
+  index: -1
+image/jiansao/jian_00013
+  rotate: false
+  xy: 290, 16
+  size: 41, 21
+  orig: 102, 61
+  offset: 30, 38
+  index: -1
+image/jiansao/jian_00014
+  rotate: false
+  xy: 333, 21
+  size: 30, 16
+  orig: 102, 61
+  offset: 35, 43
+  index: -1
+image/zhizhen
+  rotate: false
+  xy: 2, 78
+  size: 102, 61
+  orig: 102, 61
+  offset: 0, 0
+  index: -1

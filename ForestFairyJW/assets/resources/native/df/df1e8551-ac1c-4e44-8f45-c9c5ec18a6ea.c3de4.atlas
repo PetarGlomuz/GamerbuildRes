@@ -1,0 +1,496 @@
+
+TC_FGBG.png
+size: 1952,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/20PICKs-awared
+  rotate: false
+  xy: 574, 331
+  size: 469, 80
+  orig: 469, 80
+  offset: 0, 0
+  index: -1
+images/CONGRA/CONGRA_000
+  rotate: true
+  xy: 948, 259
+  size: 12, 19
+  orig: 280, 80
+  offset: 5, 14
+  index: -1
+images/CONGRA/CONGRA_001
+  rotate: false
+  xy: 1293, 20
+  size: 22, 24
+  orig: 280, 80
+  offset: 4, 12
+  index: -1
+images/CONGRA/CONGRA_002
+  rotate: false
+  xy: 1227, 9
+  size: 35, 35
+  orig: 280, 80
+  offset: 4, 11
+  index: -1
+images/CONGRA/CONGRA_003
+  rotate: false
+  xy: 1094, 14
+  size: 44, 40
+  orig: 280, 80
+  offset: 4, 11
+  index: -1
+images/CONGRA/CONGRA_004
+  rotate: false
+  xy: 942, 8
+  size: 54, 46
+  orig: 280, 80
+  offset: 4, 11
+  index: -1
+images/CONGRA/CONGRA_005
+  rotate: true
+  xy: 517, 183
+  size: 71, 55
+  orig: 280, 80
+  offset: 2, 7
+  index: -1
+images/CONGRA/CONGRA_006
+  rotate: false
+  xy: 1125, 56
+  size: 84, 57
+  orig: 280, 80
+  offset: 2, 7
+  index: -1
+images/CONGRA/CONGRA_007
+  rotate: false
+  xy: 1691, 38
+  size: 98, 60
+  orig: 280, 80
+  offset: 2, 7
+  index: -1
+images/CONGRA/CONGRA_008
+  rotate: false
+  xy: 759, 125
+  size: 111, 63
+  orig: 280, 80
+  offset: 2, 7
+  index: -1
+images/CONGRA/CONGRA_009
+  rotate: false
+  xy: 871, 56
+  size: 125, 64
+  orig: 280, 80
+  offset: 2, 7
+  index: -1
+images/CONGRA/CONGRA_010
+  rotate: false
+  xy: 1809, 218
+  size: 139, 66
+  orig: 280, 80
+  offset: 2, 7
+  index: -1
+images/CONGRA/CONGRA_011
+  rotate: false
+  xy: 1799, 345
+  size: 151, 66
+  orig: 280, 80
+  offset: 4, 7
+  index: -1
+images/CONGRA/CONGRA_012
+  rotate: false
+  xy: 1640, 220
+  size: 167, 63
+  orig: 280, 80
+  offset: 4, 11
+  index: -1
+images/CONGRA/CONGRA_013
+  rotate: false
+  xy: 1255, 272
+  size: 175, 59
+  orig: 280, 80
+  offset: 11, 15
+  index: -1
+images/CONGRA/CONGRA_014
+  rotate: false
+  xy: 574, 134
+  size: 183, 54
+  orig: 280, 80
+  offset: 21, 21
+  index: -1
+images/CONGRA/CONGRA_015
+  rotate: false
+  xy: 1244, 223
+  size: 186, 47
+  orig: 280, 80
+  offset: 34, 28
+  index: -1
+images/CONGRA/CONGRA_016
+  rotate: false
+  xy: 1045, 232
+  size: 197, 48
+  orig: 280, 80
+  offset: 44, 27
+  index: -1
+images/CONGRA/CONGRA_017
+  rotate: false
+  xy: 1432, 221
+  size: 206, 62
+  orig: 280, 80
+  offset: 57, 13
+  index: -1
+images/CONGRA/CONGRA_018
+  rotate: false
+  xy: 2, 2
+  size: 205, 65
+  orig: 280, 80
+  offset: 67, 10
+  index: -1
+images/CONGRA/CONGRA_019
+  rotate: false
+  xy: 209, 2
+  size: 195, 65
+  orig: 280, 80
+  offset: 80, 10
+  index: -1
+images/CONGRA/CONGRA_020
+  rotate: false
+  xy: 872, 122
+  size: 180, 66
+  orig: 280, 80
+  offset: 96, 9
+  index: -1
+images/CONGRA/CONGRA_021
+  rotate: false
+  xy: 865, 190
+  size: 171, 66
+  orig: 280, 80
+  offset: 105, 9
+  index: -1
+images/CONGRA/CONGRA_022
+  rotate: false
+  xy: 1387, 90
+  size: 157, 69
+  orig: 280, 80
+  offset: 119, 6
+  index: -1
+images/CONGRA/CONGRA_023
+  rotate: false
+  xy: 1546, 89
+  size: 143, 69
+  orig: 280, 80
+  offset: 133, 6
+  index: -1
+images/CONGRA/CONGRA_024
+  rotate: false
+  xy: 534, 64
+  size: 131, 68
+  orig: 280, 80
+  offset: 147, 6
+  index: -1
+images/CONGRA/CONGRA_025
+  rotate: false
+  xy: 759, 57
+  size: 110, 66
+  orig: 280, 80
+  offset: 168, 6
+  index: -1
+images/CONGRA/CONGRA_026
+  rotate: false
+  xy: 406, 2
+  size: 100, 65
+  orig: 280, 80
+  offset: 178, 6
+  index: -1
+images/CONGRA/CONGRA_027
+  rotate: false
+  xy: 1542, 25
+  size: 84, 62
+  orig: 280, 80
+  offset: 194, 6
+  index: -1
+images/CONGRA/CONGRA_028
+  rotate: true
+  xy: 476, 75
+  size: 65, 56
+  orig: 280, 80
+  offset: 213, 7
+  index: -1
+images/CONGRA/CONGRA_029
+  rotate: false
+  xy: 1047, 9
+  size: 45, 45
+  orig: 280, 80
+  offset: 233, 9
+  index: -1
+images/CONGRA/CONGRA_030
+  rotate: false
+  xy: 1264, 13
+  size: 27, 31
+  orig: 280, 80
+  offset: 250, 16
+  index: -1
+images/CONGRATULATIONS!
+  rotate: false
+  xy: 2, 256
+  size: 570, 155
+  orig: 570, 155
+  offset: 0, 0
+  index: -1
+images/EXTRA-FREE-GAMES
+  rotate: false
+  xy: 2, 69
+  size: 472, 71
+  orig: 472, 71
+  offset: 0, 0
+  index: -1
+images/FREE-GAMES
+  rotate: false
+  xy: 574, 190
+  size: 289, 66
+  orig: 289, 66
+  offset: 0, 0
+  index: -1
+images/MORE-BUBBLES-ADDED-IN-REELS
+  rotate: false
+  xy: 2, 142
+  size: 513, 112
+  orig: 513, 112
+  offset: 0, 0
+  index: -1
+images/PICK-bonus
+  rotate: false
+  xy: 574, 258
+  size: 372, 71
+  orig: 372, 71
+  offset: 0, 0
+  index: -1
+images/SUPER-BONUS
+  rotate: false
+  xy: 1045, 333
+  size: 386, 78
+  orig: 386, 78
+  offset: 0, 0
+  index: -1
+images/YOU-WON
+  rotate: false
+  xy: 1045, 282
+  size: 208, 49
+  orig: 208, 49
+  offset: 0, 0
+  index: -1
+images/wow
+  rotate: false
+  xy: 1433, 285
+  size: 364, 126
+  orig: 364, 126
+  offset: 0, 0
+  index: -1
+images/wow/wow_000
+  rotate: true
+  xy: 1184, 2
+  size: 26, 41
+  orig: 180, 70
+  offset: 4, 11
+  index: -1
+images/wow/wow_001
+  rotate: true
+  xy: 1140, 18
+  size: 36, 42
+  orig: 180, 70
+  offset: 4, 11
+  index: -1
+images/wow/wow_002
+  rotate: false
+  xy: 998, 9
+  size: 47, 45
+  orig: 180, 70
+  offset: 3, 11
+  index: -1
+images/wow/wow_003
+  rotate: false
+  xy: 884, 7
+  size: 56, 47
+  orig: 180, 70
+  offset: 3, 11
+  index: -1
+images/wow/wow_004
+  rotate: false
+  xy: 1628, 38
+  size: 56, 49
+  orig: 180, 70
+  offset: 3, 11
+  index: -1
+images/wow/wow_005
+  rotate: false
+  xy: 751, 4
+  size: 79, 51
+  orig: 180, 70
+  offset: 3, 11
+  index: -1
+images/wow/wow_006
+  rotate: false
+  xy: 667, 79
+  size: 90, 53
+  orig: 180, 70
+  offset: 2, 9
+  index: -1
+images/wow/wow_007
+  rotate: false
+  xy: 948, 273
+  size: 95, 56
+  orig: 180, 70
+  offset: 2, 7
+  index: -1
+images/wow/wow_008
+  rotate: false
+  xy: 1211, 46
+  size: 113, 57
+  orig: 180, 70
+  offset: 2, 7
+  index: -1
+images/wow/wow_009
+  rotate: false
+  xy: 998, 56
+  size: 125, 57
+  orig: 180, 70
+  offset: 2, 7
+  index: -1
+images/wow/wow_010
+  rotate: false
+  xy: 1799, 97
+  size: 137, 57
+  orig: 180, 70
+  offset: 2, 7
+  index: -1
+images/wow/wow_011
+  rotate: false
+  xy: 1799, 286
+  size: 149, 57
+  orig: 180, 70
+  offset: 2, 7
+  index: -1
+images/wow/wow_012
+  rotate: false
+  xy: 1395, 161
+  size: 159, 58
+  orig: 180, 70
+  offset: 2, 7
+  index: -1
+images/wow/wow_013
+  rotate: false
+  xy: 1223, 105
+  size: 162, 58
+  orig: 180, 70
+  offset: 2, 7
+  index: -1
+images/wow/wow_014
+  rotate: false
+  xy: 1054, 115
+  size: 167, 57
+  orig: 180, 70
+  offset: 3, 8
+  index: -1
+images/wow/wow_015
+  rotate: false
+  xy: 1054, 174
+  size: 173, 56
+  orig: 180, 70
+  offset: 3, 9
+  index: -1
+images/wow/wow_016
+  rotate: false
+  xy: 1229, 165
+  size: 164, 56
+  orig: 180, 70
+  offset: 12, 9
+  index: -1
+images/wow/wow_017
+  rotate: false
+  xy: 1640, 162
+  size: 157, 56
+  orig: 180, 70
+  offset: 20, 9
+  index: -1
+images/wow/wow_018
+  rotate: false
+  xy: 1799, 156
+  size: 146, 60
+  orig: 180, 70
+  offset: 31, 5
+  index: -1
+images/wow/wow_019
+  rotate: false
+  xy: 1791, 35
+  size: 137, 60
+  orig: 180, 70
+  offset: 40, 5
+  index: -1
+images/wow/wow_020
+  rotate: false
+  xy: 508, 2
+  size: 126, 60
+  orig: 180, 70
+  offset: 51, 5
+  index: -1
+images/wow/wow_021
+  rotate: false
+  xy: 636, 2
+  size: 113, 60
+  orig: 180, 70
+  offset: 64, 5
+  index: -1
+images/wow/wow_022
+  rotate: false
+  xy: 1691, 100
+  size: 106, 60
+  orig: 180, 70
+  offset: 72, 5
+  index: -1
+images/wow/wow_023
+  rotate: false
+  xy: 1387, 28
+  size: 97, 60
+  orig: 180, 70
+  offset: 82, 5
+  index: -1
+images/wow/wow_024
+  rotate: false
+  xy: 1556, 160
+  size: 82, 59
+  orig: 180, 70
+  offset: 97, 5
+  index: -1
+images/wow/wow_025
+  rotate: true
+  xy: 1326, 28
+  size: 75, 59
+  orig: 180, 70
+  offset: 104, 5
+  index: -1
+images/wow/wow_026
+  rotate: true
+  xy: 1486, 26
+  size: 62, 54
+  orig: 180, 70
+  offset: 117, 9
+  index: -1
+images/wow/wow_027
+  rotate: false
+  xy: 832, 2
+  size: 50, 52
+  orig: 180, 70
+  offset: 129, 9
+  index: -1
+images/wow/wow_028
+  rotate: false
+  xy: 534, 140
+  size: 38, 41
+  orig: 180, 70
+  offset: 141, 19
+  index: -1
+images/wow/wow_029
+  rotate: false
+  xy: 1184, 30
+  size: 25, 24
+  orig: 180, 70
+  offset: 153, 33
+  index: -1

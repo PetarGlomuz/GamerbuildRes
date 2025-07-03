@@ -1,0 +1,160 @@
+
+ng_click.png
+size: 1241,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dianji/1_00
+  rotate: false
+  xy: 1190, 247
+  size: 49, 48
+  orig: 256, 256
+  offset: 101, 146
+  index: -1
+images/dianji/1_01
+  rotate: false
+  xy: 1151, 21
+  size: 59, 60
+  orig: 256, 256
+  offset: 96, 138
+  index: -1
+images/dianji/1_02
+  rotate: true
+  xy: 1151, 83
+  size: 69, 70
+  orig: 256, 256
+  offset: 91, 131
+  index: -1
+images/dianji/1_03
+  rotate: false
+  xy: 765, 38
+  size: 76, 79
+  orig: 256, 256
+  offset: 87, 125
+  index: -1
+images/dianji/1_04
+  rotate: false
+  xy: 680, 30
+  size: 83, 87
+  orig: 256, 256
+  offset: 83, 120
+  index: -1
+images/dianji/1_05
+  rotate: false
+  xy: 209, 11
+  size: 89, 95
+  orig: 256, 256
+  offset: 80, 115
+  index: -1
+images/dianji/1_06
+  rotate: false
+  xy: 2, 4
+  size: 95, 102
+  orig: 256, 256
+  offset: 77, 110
+  index: -1
+images/dianji/1_07
+  rotate: true
+  xy: 99, 5
+  size: 101, 108
+  orig: 256, 256
+  offset: 74, 106
+  index: -1
+images/dianji/1_08
+  rotate: true
+  xy: 300, 2
+  size: 106, 116
+  orig: 256, 256
+  offset: 71, 99
+  index: -1
+images/dianji/1_09
+  rotate: true
+  xy: 418, 4
+  size: 107, 125
+  orig: 256, 256
+  offset: 73, 91
+  index: -1
+images/dianji/1_10
+  rotate: true
+  xy: 545, 4
+  size: 112, 133
+  orig: 256, 256
+  offset: 70, 84
+  index: -1
+images/dianji/1_11
+  rotate: false
+  xy: 1072, 154
+  size: 116, 141
+  orig: 256, 256
+  offset: 68, 76
+  index: -1
+images/dianji/1_12
+  rotate: true
+  xy: 843, 4
+  size: 119, 148
+  orig: 256, 256
+  offset: 67, 69
+  index: -1
+images/dianji/1_13
+  rotate: true
+  xy: 993, 8
+  size: 123, 156
+  orig: 256, 256
+  offset: 65, 61
+  index: -1
+images/dianji/1_14
+  rotate: false
+  xy: 943, 133
+  size: 127, 162
+  orig: 256, 256
+  offset: 63, 54
+  index: -1
+images/dianji/1_15
+  rotate: false
+  xy: 811, 125
+  size: 130, 170
+  orig: 256, 256
+  offset: 61, 46
+  index: -1
+images/dianji/1_16
+  rotate: false
+  xy: 675, 119
+  size: 134, 176
+  orig: 256, 256
+  offset: 59, 39
+  index: -1
+images/dianji/1_17
+  rotate: false
+  xy: 536, 118
+  size: 137, 177
+  orig: 256, 256
+  offset: 57, 37
+  index: -1
+images/dianji/1_18
+  rotate: false
+  xy: 396, 113
+  size: 138, 182
+  orig: 256, 256
+  offset: 57, 30
+  index: -1
+images/dianji/1_19
+  rotate: false
+  xy: 2, 108
+  size: 141, 187
+  orig: 256, 256
+  offset: 55, 23
+  index: -1
+images/dianji/1_20
+  rotate: false
+  xy: 145, 108
+  size: 134, 187
+  orig: 256, 256
+  offset: 63, 21
+  index: -1
+images/dianji/1_21
+  rotate: false
+  xy: 281, 110
+  size: 113, 185
+  orig: 256, 256
+  offset: 85, 21
+  index: -1

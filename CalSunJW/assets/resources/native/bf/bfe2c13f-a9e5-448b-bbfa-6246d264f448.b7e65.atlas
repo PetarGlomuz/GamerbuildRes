@@ -1,0 +1,258 @@
+
+Unlock.png
+size: 948,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+unlock1_lizi/unlock1_lizi_01
+  rotate: true
+  xy: 689, 8
+  size: 73, 65
+  orig: 100, 100
+  offset: 13, 18
+  index: -1
+unlock1_lizi/unlock1_lizi_02
+  rotate: false
+  xy: 837, 78
+  size: 83, 76
+  orig: 100, 100
+  offset: 8, 12
+  index: -1
+unlock1_lizi/unlock1_lizi_03
+  rotate: false
+  xy: 279, 2
+  size: 89, 83
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+unlock1_lizi/unlock1_lizi_04
+  rotate: true
+  xy: 695, 238
+  size: 93, 88
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+unlock1_lizi/unlock1_lizi_05
+  rotate: true
+  xy: 475, 100
+  size: 95, 91
+  orig: 100, 100
+  offset: 3, 2
+  index: -1
+unlock1_lizi/unlock1_lizi_06
+  rotate: true
+  xy: 465, 2
+  size: 96, 92
+  orig: 100, 100
+  offset: 2, 2
+  index: -1
+unlock1_lizi/unlock1_lizi_07
+  rotate: true
+  xy: 279, 87
+  size: 98, 94
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
+unlock1_lizi/unlock1_lizi_08
+  rotate: false
+  xy: 375, 101
+  size: 98, 94
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
+unlock1_lizi/unlock1_lizi_09
+  rotate: false
+  xy: 595, 238
+  size: 98, 93
+  orig: 100, 100
+  offset: 1, 2
+  index: -1
+unlock1_lizi/unlock1_lizi_10
+  rotate: false
+  xy: 785, 242
+  size: 98, 90
+  orig: 100, 100
+  offset: 1, 4
+  index: -1
+unlock1_lizi/unlock1_lizi_11
+  rotate: true
+  xy: 375, 2
+  size: 97, 88
+  orig: 100, 100
+  offset: 1, 5
+  index: -1
+unlock1_lizi/unlock1_lizi_12
+  rotate: true
+  xy: 559, 2
+  size: 96, 87
+  orig: 100, 100
+  offset: 1, 7
+  index: -1
+unlock1_lizi/unlock1_lizi_13
+  rotate: true
+  xy: 568, 100
+  size: 95, 86
+  orig: 100, 100
+  offset: 1, 7
+  index: -1
+unlock1_lizi/unlock1_lizi_14
+  rotate: false
+  xy: 656, 151
+  size: 93, 85
+  orig: 100, 100
+  offset: 1, 8
+  index: -1
+unlock1_lizi/unlock1_lizi_15
+  rotate: true
+  xy: 751, 145
+  size: 91, 84
+  orig: 100, 100
+  offset: 1, 9
+  index: -1
+unlock1_lizi/unlock1_lizi_16
+  rotate: true
+  xy: 837, 156
+  size: 84, 83
+  orig: 100, 100
+  offset: 5, 9
+  index: -1
+unlock1_lizi/unlock1_lizi_17
+  rotate: true
+  xy: 523, 197
+  size: 57, 70
+  orig: 100, 100
+  offset: 31, 19
+  index: -1
+unlock1_suo
+  rotate: false
+  xy: 689, 83
+  size: 59, 66
+  orig: 100, 100
+  offset: 21, 17
+  index: -1
+unlock2_lizi/unlock2_lizi_01
+  rotate: true
+  xy: 897, 256
+  size: 149, 49
+  orig: 200, 100
+  offset: 25, 25
+  index: -1
+unlock2_lizi/unlock2_lizi_02
+  rotate: false
+  xy: 362, 197
+  size: 159, 57
+  orig: 200, 100
+  offset: 21, 21
+  index: -1
+unlock2_lizi/unlock2_lizi_03
+  rotate: true
+  xy: 147, 8
+  size: 165, 67
+  orig: 200, 100
+  offset: 18, 16
+  index: -1
+unlock2_lizi/unlock2_lizi_04
+  rotate: true
+  xy: 2, 2
+  size: 171, 72
+  orig: 200, 100
+  offset: 15, 13
+  index: -1
+unlock2_lizi/unlock2_lizi_05
+  rotate: false
+  xy: 362, 256
+  size: 175, 74
+  orig: 200, 100
+  offset: 13, 12
+  index: -1
+unlock2_lizi/unlock2_lizi_06
+  rotate: false
+  xy: 2, 175
+  size: 177, 75
+  orig: 200, 100
+  offset: 12, 12
+  index: -1
+unlock2_lizi/unlock2_lizi_07
+  rotate: false
+  xy: 2, 252
+  size: 178, 75
+  orig: 200, 100
+  offset: 11, 12
+  index: -1
+unlock2_lizi/unlock2_lizi_08
+  rotate: false
+  xy: 362, 332
+  size: 179, 73
+  orig: 200, 100
+  offset: 10, 13
+  index: -1
+unlock2_lizi/unlock2_lizi_09
+  rotate: false
+  xy: 182, 254
+  size: 178, 74
+  orig: 200, 100
+  offset: 10, 13
+  index: -1
+unlock2_lizi/unlock2_lizi_10
+  rotate: false
+  xy: 2, 329
+  size: 178, 76
+  orig: 200, 100
+  offset: 10, 10
+  index: -1
+unlock2_lizi/unlock2_lizi_11
+  rotate: false
+  xy: 182, 330
+  size: 178, 75
+  orig: 200, 100
+  offset: 10, 11
+  index: -1
+unlock2_lizi/unlock2_lizi_12
+  rotate: false
+  xy: 543, 333
+  size: 175, 72
+  orig: 200, 100
+  offset: 12, 12
+  index: -1
+unlock2_lizi/unlock2_lizi_13
+  rotate: false
+  xy: 720, 334
+  size: 175, 71
+  orig: 200, 100
+  offset: 12, 12
+  index: -1
+unlock2_lizi/unlock2_lizi_14
+  rotate: true
+  xy: 76, 6
+  size: 167, 69
+  orig: 200, 100
+  offset: 19, 12
+  index: -1
+unlock2_lizi/unlock2_lizi_15
+  rotate: false
+  xy: 182, 187
+  size: 158, 65
+  orig: 200, 100
+  offset: 28, 14
+  index: -1
+unlock2_lizi/unlock2_lizi_16
+  rotate: true
+  xy: 216, 34
+  size: 151, 61
+  orig: 200, 100
+  offset: 29, 17
+  index: -1
+unlock2_lizi/unlock2_lizi_17
+  rotate: true
+  xy: 648, 2
+  size: 96, 39
+  orig: 200, 100
+  offset: 42, 27
+  index: -1
+unlock2_suo
+  rotate: false
+  xy: 750, 83
+  size: 53, 60
+  orig: 100, 100
+  offset: 24, 20
+  index: -1

@@ -1,0 +1,132 @@
+
+shan.png
+size: 692,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_00001
+  rotate: true
+  xy: 2, 61
+  size: 111, 99
+  orig: 131, 114
+  offset: 12, 7
+  index: -1
+bai_00000
+  rotate: true
+  xy: 205, 91
+  size: 81, 76
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+dguang
+  rotate: true
+  xy: 103, 70
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+xingxing/xx_00000
+  rotate: false
+  xy: 632, 61
+  size: 58, 50
+  orig: 87, 72
+  offset: 17, 8
+  index: -1
+xingxing/xx_00001
+  rotate: false
+  xy: 2, 5
+  size: 64, 54
+  orig: 87, 72
+  offset: 14, 6
+  index: -1
+xingxing/xx_00002
+  rotate: false
+  xy: 612, 113
+  size: 67, 59
+  orig: 87, 72
+  offset: 13, 4
+  index: -1
+xingxing/xx_00003
+  rotate: false
+  xy: 538, 110
+  size: 72, 62
+  orig: 87, 72
+  offset: 11, 2
+  index: -1
+xingxing/xx_00004
+  rotate: false
+  xy: 133, 2
+  size: 76, 66
+  orig: 87, 72
+  offset: 9, 0
+  index: -1
+xingxing/xx_00005
+  rotate: true
+  xy: 500, 22
+  size: 79, 67
+  orig: 87, 72
+  offset: 7, 0
+  index: -1
+xingxing/xx_00006
+  rotate: false
+  xy: 455, 103
+  size: 81, 69
+  orig: 87, 72
+  offset: 6, 0
+  index: -1
+xingxing/xx_00007
+  rotate: false
+  xy: 371, 102
+  size: 82, 70
+  orig: 87, 72
+  offset: 5, 0
+  index: -1
+xingxing/xx_00008
+  rotate: true
+  xy: 358, 16
+  size: 83, 71
+  orig: 87, 72
+  offset: 4, 0
+  index: -1
+xingxing/xx_00009
+  rotate: true
+  xy: 285, 15
+  size: 84, 71
+  orig: 87, 72
+  offset: 3, 0
+  index: -1
+xingxing/xx_00010
+  rotate: true
+  xy: 211, 4
+  size: 85, 72
+  orig: 87, 72
+  offset: 2, 0
+  index: -1
+xingxing/xx_00011
+  rotate: false
+  xy: 283, 101
+  size: 86, 71
+  orig: 87, 72
+  offset: 1, 0
+  index: -1
+xingxing/xx_00012
+  rotate: true
+  xy: 431, 16
+  size: 84, 67
+  orig: 87, 72
+  offset: 3, 0
+  index: -1
+xingxing/xx_00013
+  rotate: true
+  xy: 569, 36
+  size: 72, 61
+  orig: 87, 72
+  offset: 15, 5
+  index: -1
+xingxing/xx_00014
+  rotate: false
+  xy: 68, 8
+  size: 63, 51
+  orig: 87, 72
+  offset: 15, 5
+  index: -1

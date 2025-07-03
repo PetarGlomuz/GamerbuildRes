@@ -1,0 +1,146 @@
+
+JP_grand_zi.png
+size: 441,439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/GRAND
+  rotate: false
+  xy: 2, 328
+  size: 379, 109
+  orig: 387, 112
+  offset: 5, 3
+  index: -1
+wenjian/grand_g/grand_g_00
+  rotate: false
+  xy: 146, 6
+  size: 75, 51
+  orig: 194, 56
+  offset: 3, 5
+  index: -1
+wenjian/grand_g/grand_g_01
+  rotate: false
+  xy: 350, 268
+  size: 89, 51
+  orig: 194, 56
+  offset: 3, 5
+  index: -1
+wenjian/grand_g/grand_g_02
+  rotate: false
+  xy: 317, 161
+  size: 103, 52
+  orig: 194, 56
+  offset: 3, 4
+  index: -1
+wenjian/grand_g/grand_g_03
+  rotate: true
+  xy: 383, 321
+  size: 116, 52
+  orig: 194, 56
+  offset: 3, 4
+  index: -1
+wenjian/grand_g/grand_g_04
+  rotate: false
+  xy: 2, 4
+  size: 128, 52
+  orig: 194, 56
+  offset: 3, 4
+  index: -1
+wenjian/grand_g/grand_g_05
+  rotate: false
+  xy: 2, 58
+  size: 142, 52
+  orig: 194, 56
+  offset: 4, 4
+  index: -1
+wenjian/grand_g/grand_g_06
+  rotate: false
+  xy: 2, 112
+  size: 155, 52
+  orig: 194, 56
+  offset: 4, 4
+  index: -1
+wenjian/grand_g/grand_g_07
+  rotate: false
+  xy: 2, 166
+  size: 166, 52
+  orig: 194, 56
+  offset: 5, 4
+  index: -1
+wenjian/grand_g/grand_g_08
+  rotate: false
+  xy: 2, 220
+  size: 174, 52
+  orig: 194, 56
+  offset: 8, 4
+  index: -1
+wenjian/grand_g/grand_g_09
+  rotate: false
+  xy: 2, 274
+  size: 175, 52
+  orig: 194, 56
+  offset: 12, 4
+  index: -1
+wenjian/grand_g/grand_g_10
+  rotate: false
+  xy: 179, 274
+  size: 169, 52
+  orig: 194, 56
+  offset: 21, 4
+  index: -1
+wenjian/grand_g/grand_g_11
+  rotate: false
+  xy: 178, 220
+  size: 158, 52
+  orig: 194, 56
+  offset: 33, 4
+  index: -1
+wenjian/grand_g/grand_g_12
+  rotate: false
+  xy: 170, 166
+  size: 145, 52
+  orig: 194, 56
+  offset: 46, 4
+  index: -1
+wenjian/grand_g/grand_g_13
+  rotate: false
+  xy: 159, 112
+  size: 133, 52
+  orig: 194, 56
+  offset: 59, 4
+  index: -1
+wenjian/grand_g/grand_g_14
+  rotate: false
+  xy: 146, 59
+  size: 120, 51
+  orig: 194, 56
+  offset: 72, 5
+  index: -1
+wenjian/grand_g/grand_g_15
+  rotate: false
+  xy: 294, 108
+  size: 102, 51
+  orig: 194, 56
+  offset: 90, 5
+  index: -1
+wenjian/grand_g/grand_g_16
+  rotate: false
+  xy: 338, 215
+  size: 95, 51
+  orig: 194, 56
+  offset: 97, 5
+  index: -1
+wenjian/grand_g/grand_g_17
+  rotate: false
+  xy: 268, 56
+  size: 81, 50
+  orig: 194, 56
+  offset: 111, 6
+  index: -1
+wenjian/grand_g/grand_g_18
+  rotate: true
+  xy: 351, 37
+  size: 69, 49
+  orig: 194, 56
+  offset: 123, 7
+  index: -1

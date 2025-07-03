@@ -1,0 +1,132 @@
+
+Scatter.png
+size: 994,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 92
+  size: 180, 180
+  orig: 200, 200
+  offset: 10, 10
+  index: -1
+di_add
+  rotate: false
+  xy: 194, 9
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+fu
+  rotate: false
+  xy: 184, 136
+  size: 136, 136
+  orig: 200, 200
+  offset: 32, 32
+  index: -1
+fu_add
+  rotate: false
+  xy: 322, 152
+  size: 120, 120
+  orig: 125, 125
+  offset: 2, 4
+  index: -1
+lizi/lizi_03
+  rotate: true
+  xy: 899, 32
+  size: 66, 68
+  orig: 125, 125
+  offset: 30, 29
+  index: -1
+lizi/lizi_04
+  rotate: true
+  xy: 899, 100
+  size: 77, 79
+  orig: 125, 125
+  offset: 24, 23
+  index: -1
+lizi/lizi_05
+  rotate: false
+  xy: 107, 2
+  size: 85, 88
+  orig: 125, 125
+  offset: 20, 18
+  index: -1
+lizi/lizi_06
+  rotate: true
+  xy: 896, 179
+  size: 93, 96
+  orig: 125, 125
+  offset: 16, 14
+  index: -1
+lizi/lizi_07
+  rotate: false
+  xy: 794, 168
+  size: 100, 104
+  orig: 125, 125
+  offset: 12, 10
+  index: -1
+lizi/lizi_08
+  rotate: false
+  xy: 792, 47
+  size: 105, 109
+  orig: 125, 125
+  offset: 9, 8
+  index: -1
+lizi/lizi_09
+  rotate: false
+  xy: 680, 42
+  size: 110, 114
+  orig: 125, 125
+  offset: 7, 5
+  index: -1
+lizi/lizi_10
+  rotate: false
+  xy: 563, 155
+  size: 114, 117
+  orig: 125, 125
+  offset: 4, 4
+  index: -1
+lizi/lizi_11
+  rotate: false
+  xy: 561, 33
+  size: 117, 118
+  orig: 125, 125
+  offset: 2, 3
+  index: -1
+lizi/lizi_12
+  rotate: false
+  xy: 442, 27
+  size: 117, 123
+  orig: 125, 125
+  offset: 2, 0
+  index: -1
+lizi/lizi_13
+  rotate: false
+  xy: 321, 9
+  size: 119, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+lizi/lizi_14
+  rotate: true
+  xy: 444, 153
+  size: 119, 117
+  orig: 125, 125
+  offset: 0, 2
+  index: -1
+lizi/lizi_15
+  rotate: true
+  xy: 679, 158
+  size: 114, 113
+  orig: 125, 125
+  offset: 4, 7
+  index: -1
+lizi/lizi_16
+  rotate: false
+  xy: 2, 2
+  size: 103, 88
+  orig: 125, 125
+  offset: 8, 18
+  index: -1

@@ -1,0 +1,76 @@
+
+guochang_lei.png
+size: 142,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 433
+  size: 96, 100
+  orig: 100, 100
+  offset: 2, 0
+  index: -1
+s_pilei/s_pilei_00
+  rotate: false
+  xy: 54, 289
+  size: 43, 142
+  orig: 75, 160
+  offset: 17, 8
+  index: -1
+s_pilei/s_pilei_01
+  rotate: false
+  xy: 53, 144
+  size: 37, 143
+  orig: 75, 160
+  offset: 18, 7
+  index: -1
+s_pilei/s_pilei_02
+  rotate: false
+  xy: 2, 147
+  size: 49, 141
+  orig: 75, 160
+  offset: 15, 9
+  index: -1
+s_pilei/s_pilei_03
+  rotate: false
+  xy: 2, 290
+  size: 50, 141
+  orig: 75, 160
+  offset: 13, 9
+  index: -1
+s_pilei/s_pilei_04
+  rotate: false
+  xy: 99, 249
+  size: 41, 142
+  orig: 75, 160
+  offset: 14, 8
+  index: -1
+s_pilei/s_pilei_05
+  rotate: false
+  xy: 100, 393
+  size: 40, 140
+  orig: 75, 160
+  offset: 15, 10
+  index: -1
+s_pilei/s_pilei_06
+  rotate: false
+  xy: 97, 107
+  size: 36, 140
+  orig: 75, 160
+  offset: 18, 10
+  index: -1
+s_pilei/s_pilei_07
+  rotate: false
+  xy: 2, 5
+  size: 46, 140
+  orig: 75, 160
+  offset: 12, 10
+  index: -1
+s_pilei/s_pilei_08
+  rotate: false
+  xy: 50, 2
+  size: 45, 140
+  orig: 75, 160
+  offset: 17, 10
+  index: -1

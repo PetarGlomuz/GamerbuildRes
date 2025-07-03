@@ -1,0 +1,13 @@
+
+NG_bj.png
+size: 123,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua
+  rotate: false
+  xy: 2, 2
+  size: 119, 119
+  orig: 128, 128
+  offset: 3, 5
+  index: -1

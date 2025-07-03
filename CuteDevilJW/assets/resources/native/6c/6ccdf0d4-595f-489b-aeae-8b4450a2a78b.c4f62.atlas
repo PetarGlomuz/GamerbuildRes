@@ -1,0 +1,167 @@
+
+JP_suo_EN.png
+size: 826,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+betup
+  rotate: false
+  xy: 465, 227
+  size: 346, 41
+  orig: 346, 41
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 193
+  size: 461, 75
+  orig: 463, 77
+  offset: 1, 1
+  index: -1
+huo
+  rotate: false
+  xy: 2, 124
+  size: 443, 67
+  orig: 445, 69
+  offset: 1, 1
+  index: -1
+huo/huo_00
+  rotate: true
+  xy: 496, 3
+  size: 222, 28
+  orig: 232, 46
+  offset: 6, 5
+  index: -1
+huo/huo_01
+  rotate: true
+  xy: 526, 3
+  size: 222, 28
+  orig: 232, 46
+  offset: 6, 5
+  index: -1
+huo/huo_02
+  rotate: false
+  xy: 2, 93
+  size: 222, 29
+  orig: 232, 46
+  offset: 6, 5
+  index: -1
+huo/huo_03
+  rotate: true
+  xy: 556, 3
+  size: 222, 28
+  orig: 232, 46
+  offset: 6, 5
+  index: -1
+huo/huo_04
+  rotate: true
+  xy: 465, 2
+  size: 223, 29
+  orig: 232, 46
+  offset: 6, 5
+  index: -1
+huo/huo_05
+  rotate: false
+  xy: 225, 63
+  size: 223, 28
+  orig: 232, 46
+  offset: 6, 5
+  index: -1
+huo/huo_06
+  rotate: false
+  xy: 225, 33
+  size: 223, 28
+  orig: 232, 46
+  offset: 6, 5
+  index: -1
+huo/huo_07
+  rotate: true
+  xy: 586, 3
+  size: 222, 28
+  orig: 232, 46
+  offset: 7, 5
+  index: -1
+huo/huo_08
+  rotate: false
+  xy: 226, 93
+  size: 222, 29
+  orig: 232, 46
+  offset: 6, 5
+  index: -1
+huo/huo_09
+  rotate: true
+  xy: 616, 3
+  size: 222, 28
+  orig: 232, 46
+  offset: 6, 5
+  index: -1
+huo/huo_10
+  rotate: true
+  xy: 646, 3
+  size: 222, 28
+  orig: 232, 46
+  offset: 6, 5
+  index: -1
+huo/huo_11
+  rotate: true
+  xy: 676, 3
+  size: 222, 28
+  orig: 232, 46
+  offset: 6, 5
+  index: -1
+huo/huo_12
+  rotate: false
+  xy: 2, 32
+  size: 221, 28
+  orig: 232, 46
+  offset: 7, 5
+  index: -1
+huo/huo_13
+  rotate: false
+  xy: 2, 2
+  size: 221, 28
+  orig: 232, 46
+  offset: 7, 5
+  index: -1
+huo/huo_14
+  rotate: true
+  xy: 766, 4
+  size: 221, 28
+  orig: 232, 46
+  offset: 7, 5
+  index: -1
+huo/huo_15
+  rotate: false
+  xy: 2, 62
+  size: 221, 29
+  orig: 232, 46
+  offset: 7, 5
+  index: -1
+huo/huo_16
+  rotate: true
+  xy: 796, 4
+  size: 221, 28
+  orig: 232, 46
+  offset: 7, 5
+  index: -1
+huo/huo_17
+  rotate: false
+  xy: 225, 3
+  size: 223, 28
+  orig: 232, 46
+  offset: 6, 5
+  index: -1
+huo/huo_18
+  rotate: true
+  xy: 706, 3
+  size: 222, 28
+  orig: 232, 46
+  offset: 6, 5
+  index: -1
+huo/huo_19
+  rotate: true
+  xy: 736, 3
+  size: 222, 28
+  orig: 232, 46
+  offset: 6, 5
+  index: -1

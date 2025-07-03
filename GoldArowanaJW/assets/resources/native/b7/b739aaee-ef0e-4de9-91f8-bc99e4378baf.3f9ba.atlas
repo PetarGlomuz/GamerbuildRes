@@ -1,0 +1,251 @@
+
+NG_H4.png
+size: 1906,930
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daqiu
+  rotate: false
+  xy: 1830, 412
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+daqiu1
+  rotate: false
+  xy: 1830, 371
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+daqiu2
+  rotate: false
+  xy: 1761, 107
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+jinbian
+  rotate: false
+  xy: 1634, 309
+  size: 194, 155
+  orig: 194, 155
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00012
+  rotate: false
+  xy: 2, 698
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00013
+  rotate: false
+  xy: 2, 466
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00014
+  rotate: false
+  xy: 274, 698
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00015
+  rotate: false
+  xy: 2, 234
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00016
+  rotate: false
+  xy: 274, 466
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00017
+  rotate: false
+  xy: 546, 698
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00018
+  rotate: false
+  xy: 2, 2
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00019
+  rotate: false
+  xy: 274, 234
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00020
+  rotate: false
+  xy: 546, 466
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00021
+  rotate: false
+  xy: 818, 698
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00022
+  rotate: false
+  xy: 274, 2
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00023
+  rotate: false
+  xy: 546, 234
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00024
+  rotate: false
+  xy: 818, 466
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00025
+  rotate: false
+  xy: 1090, 698
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00026
+  rotate: false
+  xy: 546, 2
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00027
+  rotate: false
+  xy: 818, 234
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00028
+  rotate: false
+  xy: 1090, 466
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00029
+  rotate: false
+  xy: 1362, 698
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00030
+  rotate: false
+  xy: 818, 2
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00031
+  rotate: false
+  xy: 1090, 234
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00032
+  rotate: false
+  xy: 1362, 466
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00033
+  rotate: false
+  xy: 1634, 698
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00034
+  rotate: false
+  xy: 1090, 2
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00035
+  rotate: false
+  xy: 1362, 234
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00036
+  rotate: false
+  xy: 1634, 466
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+saoguang/saoguang_00037
+  rotate: false
+  xy: 1362, 2
+  size: 270, 230
+  orig: 270, 230
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1634, 28
+  size: 125, 129
+  orig: 125, 129
+  offset: 0, 0
+  index: -1
+suo
+  rotate: false
+  xy: 1634, 159
+  size: 185, 148
+  orig: 185, 148
+  offset: 0, 0
+  index: -1
+xiaoqiu
+  rotate: false
+  xy: 1634, 9
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+xiaoqiu1
+  rotate: false
+  xy: 1761, 91
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+xiaoqiu2
+  rotate: false
+  xy: 1883, 450
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1

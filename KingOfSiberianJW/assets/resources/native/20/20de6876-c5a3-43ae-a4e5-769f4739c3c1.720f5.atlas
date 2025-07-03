@@ -1,0 +1,146 @@
+
+JP_LiZi.png
+size: 1504,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jpk/JP_K_001
+  rotate: true
+  xy: 1353, 9
+  size: 194, 72
+  orig: 200, 90
+  offset: 3, 9
+  index: -1
+images/jpk/JP_K_002
+  rotate: true
+  xy: 1277, 5
+  size: 198, 74
+  orig: 200, 90
+  offset: 1, 7
+  index: -1
+images/jpk/JP_K_003
+  rotate: true
+  xy: 1198, 3
+  size: 200, 77
+  orig: 200, 90
+  offset: 0, 6
+  index: -1
+images/jpk/JP_K_004
+  rotate: true
+  xy: 1038, 3
+  size: 200, 78
+  orig: 200, 90
+  offset: 0, 6
+  index: -1
+images/jpk/JP_K_005
+  rotate: true
+  xy: 1118, 3
+  size: 200, 78
+  orig: 200, 90
+  offset: 0, 6
+  index: -1
+images/jpk/JP_K_006
+  rotate: true
+  xy: 786, 3
+  size: 200, 81
+  orig: 200, 90
+  offset: 0, 4
+  index: -1
+images/jpk/JP_K_007
+  rotate: true
+  xy: 869, 3
+  size: 200, 81
+  orig: 200, 90
+  offset: 0, 4
+  index: -1
+images/jpk/JP_K_008
+  rotate: true
+  xy: 702, 3
+  size: 200, 82
+  orig: 200, 90
+  offset: 0, 4
+  index: -1
+images/jpk/JP_K_009
+  rotate: true
+  xy: 530, 3
+  size: 200, 83
+  orig: 200, 90
+  offset: 0, 2
+  index: -1
+images/jpk/JP_K_010
+  rotate: true
+  xy: 444, 3
+  size: 200, 84
+  orig: 200, 90
+  offset: 0, 3
+  index: -1
+images/jpk/JP_K_011
+  rotate: true
+  xy: 269, 3
+  size: 200, 86
+  orig: 200, 90
+  offset: 0, 1
+  index: -1
+images/jpk/JP_K_012
+  rotate: true
+  xy: 357, 3
+  size: 200, 85
+  orig: 200, 90
+  offset: 0, 2
+  index: -1
+images/jpk/JP_K_013
+  rotate: true
+  xy: 2, 3
+  size: 200, 87
+  orig: 200, 90
+  offset: 0, 1
+  index: -1
+images/jpk/JP_K_014
+  rotate: true
+  xy: 91, 5
+  size: 198, 87
+  orig: 200, 90
+  offset: 1, 1
+  index: -1
+images/jpk/JP_K_015
+  rotate: true
+  xy: 180, 5
+  size: 198, 87
+  orig: 200, 90
+  offset: 1, 1
+  index: -1
+images/jpk/JP_K_016
+  rotate: true
+  xy: 615, 9
+  size: 194, 85
+  orig: 200, 90
+  offset: 3, 2
+  index: -1
+images/jpk/JP_K_017
+  rotate: true
+  xy: 952, 11
+  size: 192, 84
+  orig: 200, 90
+  offset: 6, 1
+  index: -1
+images/jpk/JP_K_018
+  rotate: true
+  xy: 1427, 18
+  size: 185, 75
+  orig: 200, 90
+  offset: 12, 5
+  index: -1
+images/jpk/JP_K_019
+  rotate: false
+  xy: 91, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/jpk/JP_K_000
+  rotate: false
+  xy: 91, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

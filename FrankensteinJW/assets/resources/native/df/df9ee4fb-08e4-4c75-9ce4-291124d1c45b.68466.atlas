@@ -1,0 +1,167 @@
+
+NG_H5.png
+size: 1008,898
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+board5
+  rotate: false
+  xy: 2, 97
+  size: 383, 799
+  orig: 383, 799
+  offset: 0, 0
+  index: -1
+board505
+  rotate: true
+  xy: 640, 237
+  size: 235, 132
+  orig: 235, 132
+  offset: 0, 0
+  index: -1
+bu01
+  rotate: true
+  xy: 786, 4
+  size: 30, 78
+  orig: 30, 78
+  offset: 0, 0
+  index: -1
+bu02
+  rotate: true
+  xy: 640, 198
+  size: 37, 93
+  orig: 37, 93
+  offset: 0, 0
+  index: -1
+cross
+  rotate: true
+  xy: 640, 474
+  size: 422, 269
+  orig: 422, 269
+  offset: 0, 0
+  index: -1
+dabi_L
+  rotate: true
+  xy: 387, 117
+  size: 56, 144
+  orig: 56, 144
+  offset: 0, 0
+  index: -1
+datui_L
+  rotate: true
+  xy: 212, 12
+  size: 83, 182
+  orig: 83, 182
+  offset: 0, 0
+  index: -1
+datui_R
+  rotate: true
+  xy: 774, 181
+  size: 95, 169
+  orig: 95, 169
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 387, 175
+  size: 251, 721
+  orig: 251, 721
+  offset: 0, 0
+  index: -1
+frame05
+  rotate: false
+  xy: 533, 27
+  size: 251, 146
+  orig: 251, 146
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 786, 36
+  size: 156, 143
+  orig: 156, 143
+  offset: 0, 0
+  index: -1
+jiao_L
+  rotate: false
+  xy: 944, 60
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+shangbi_R
+  rotate: false
+  xy: 945, 128
+  size: 51, 148
+  orig: 51, 148
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: false
+  xy: 786, 278
+  size: 220, 194
+  orig: 220, 194
+  offset: 0, 0
+  index: -1
+xiabanshen
+  rotate: true
+  xy: 911, 500
+  size: 99, 92
+  orig: 99, 92
+  offset: 0, 0
+  index: -1
+xiaobi_L
+  rotate: false
+  xy: 911, 739
+  size: 84, 157
+  orig: 84, 157
+  offset: 0, 0
+  index: -1
+xiaobi_R
+  rotate: false
+  xy: 396, 3
+  size: 111, 112
+  orig: 111, 112
+  offset: 0, 0
+  index: -1
+xiaotui_01
+  rotate: false
+  xy: 911, 601
+  size: 82, 136
+  orig: 82, 136
+  offset: 0, 0
+  index: -1
+xiaotui_L
+  rotate: true
+  xy: 2, 2
+  size: 93, 208
+  orig: 93, 208
+  offset: 0, 0
+  index: -1
+yanbai_L
+  rotate: false
+  xy: 735, 208
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+yanbai_R
+  rotate: false
+  xy: 735, 179
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+yanqiu_L
+  rotate: true
+  xy: 212, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+yanqiu_R
+  rotate: true
+  xy: 221, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1

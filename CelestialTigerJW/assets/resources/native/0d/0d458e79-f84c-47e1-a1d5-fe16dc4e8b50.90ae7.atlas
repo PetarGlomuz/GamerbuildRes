@@ -1,0 +1,153 @@
+
+TC_PickBonus_coinframe.png
+size: 1860,1804
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coinframe
+  rotate: false
+  xy: 2, 1592
+  size: 906, 210
+  orig: 906, 210
+  offset: 0, 0
+  index: -1
+sg/sg_00
+  rotate: false
+  xy: 910, 1539
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_01
+  rotate: false
+  xy: 2, 1327
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_02
+  rotate: false
+  xy: 533, 1274
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_03
+  rotate: false
+  xy: 1064, 1274
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_04
+  rotate: true
+  xy: 1595, 1273
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_05
+  rotate: false
+  xy: 2, 1062
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_06
+  rotate: false
+  xy: 533, 1009
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_07
+  rotate: false
+  xy: 1064, 1009
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_08
+  rotate: false
+  xy: 2, 797
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_09
+  rotate: false
+  xy: 533, 744
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_10
+  rotate: false
+  xy: 1064, 744
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_11
+  rotate: true
+  xy: 1595, 742
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_12
+  rotate: false
+  xy: 2, 532
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_13
+  rotate: false
+  xy: 533, 479
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_14
+  rotate: false
+  xy: 1064, 479
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_15
+  rotate: false
+  xy: 2, 267
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_16
+  rotate: false
+  xy: 533, 214
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_17
+  rotate: false
+  xy: 1064, 214
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_18
+  rotate: true
+  xy: 1595, 211
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1
+sg/sg_19
+  rotate: false
+  xy: 2, 2
+  size: 529, 263
+  orig: 529, 263
+  offset: 0, 0
+  index: -1

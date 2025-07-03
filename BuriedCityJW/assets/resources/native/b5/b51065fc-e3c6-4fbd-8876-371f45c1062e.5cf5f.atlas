@@ -1,0 +1,230 @@
+
+tc_bg_title2_EN.png
+size: 1704,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+putong_total_win
+  rotate: false
+  xy: 2, 93
+  size: 616, 143
+  orig: 616, 143
+  offset: 0, 0
+  index: -1
+putong_total_win/putong_total_win_00000
+  rotate: false
+  xy: 1486, 4
+  size: 70, 55
+  orig: 307, 72
+  offset: 7, 11
+  index: -1
+putong_total_win/putong_total_win_00001
+  rotate: false
+  xy: 1396, 3
+  size: 88, 56
+  orig: 307, 72
+  offset: 6, 10
+  index: -1
+putong_total_win/putong_total_win_00002
+  rotate: false
+  xy: 1207, 2
+  size: 97, 57
+  orig: 307, 72
+  offset: 6, 10
+  index: -1
+putong_total_win/putong_total_win_00003
+  rotate: false
+  xy: 880, 2
+  size: 114, 57
+  orig: 307, 72
+  offset: 6, 10
+  index: -1
+putong_total_win/putong_total_win_00004
+  rotate: false
+  xy: 753, 2
+  size: 125, 57
+  orig: 307, 72
+  offset: 6, 10
+  index: -1
+putong_total_win/putong_total_win_00005
+  rotate: false
+  xy: 610, 2
+  size: 141, 57
+  orig: 307, 72
+  offset: 6, 10
+  index: -1
+putong_total_win/putong_total_win_00006
+  rotate: false
+  xy: 1305, 61
+  size: 154, 57
+  orig: 307, 72
+  offset: 6, 10
+  index: -1
+putong_total_win/putong_total_win_00007
+  rotate: false
+  xy: 806, 61
+  size: 169, 57
+  orig: 307, 72
+  offset: 7, 10
+  index: -1
+putong_total_win/putong_total_win_00008
+  rotate: false
+  xy: 1527, 179
+  size: 175, 57
+  orig: 307, 72
+  offset: 7, 10
+  index: -1
+putong_total_win/putong_total_win_00009
+  rotate: false
+  xy: 1493, 120
+  size: 192, 57
+  orig: 307, 72
+  offset: 7, 10
+  index: -1
+putong_total_win/putong_total_win_00010
+  rotate: false
+  xy: 1317, 179
+  size: 208, 57
+  orig: 307, 72
+  offset: 7, 10
+  index: -1
+putong_total_win/putong_total_win_00011
+  rotate: false
+  xy: 1094, 179
+  size: 221, 57
+  orig: 307, 72
+  offset: 7, 10
+  index: -1
+putong_total_win/putong_total_win_00012
+  rotate: false
+  xy: 858, 179
+  size: 234, 57
+  orig: 307, 72
+  offset: 8, 10
+  index: -1
+putong_total_win/putong_total_win_00013
+  rotate: false
+  xy: 241, 34
+  size: 235, 57
+  orig: 307, 72
+  offset: 21, 10
+  index: -1
+putong_total_win/putong_total_win_00014
+  rotate: false
+  xy: 620, 120
+  size: 235, 57
+  orig: 307, 72
+  offset: 35, 10
+  index: -1
+putong_total_win/putong_total_win_00015
+  rotate: false
+  xy: 620, 179
+  size: 236, 57
+  orig: 307, 72
+  offset: 48, 10
+  index: -1
+putong_total_win/putong_total_win_00016
+  rotate: false
+  xy: 2, 34
+  size: 237, 57
+  orig: 307, 72
+  offset: 62, 10
+  index: -1
+putong_total_win/putong_total_win_00017
+  rotate: false
+  xy: 857, 120
+  size: 223, 57
+  orig: 307, 72
+  offset: 77, 10
+  index: -1
+putong_total_win/putong_total_win_00018
+  rotate: false
+  xy: 1082, 120
+  size: 209, 57
+  orig: 307, 72
+  offset: 91, 10
+  index: -1
+putong_total_win/putong_total_win_00019
+  rotate: false
+  xy: 1293, 120
+  size: 198, 57
+  orig: 307, 72
+  offset: 102, 10
+  index: -1
+putong_total_win/putong_total_win_00020
+  rotate: false
+  xy: 620, 61
+  size: 184, 57
+  orig: 307, 72
+  offset: 116, 10
+  index: -1
+putong_total_win/putong_total_win_00021
+  rotate: false
+  xy: 977, 61
+  size: 168, 57
+  orig: 307, 72
+  offset: 132, 10
+  index: -1
+putong_total_win/putong_total_win_00022
+  rotate: false
+  xy: 1147, 61
+  size: 156, 57
+  orig: 307, 72
+  offset: 145, 10
+  index: -1
+putong_total_win/putong_total_win_00023
+  rotate: false
+  xy: 1461, 61
+  size: 142, 57
+  orig: 307, 72
+  offset: 159, 10
+  index: -1
+putong_total_win/putong_total_win_00024
+  rotate: false
+  xy: 478, 34
+  size: 130, 57
+  orig: 307, 72
+  offset: 171, 10
+  index: -1
+putong_total_win/putong_total_win_00025
+  rotate: false
+  xy: 996, 2
+  size: 107, 57
+  orig: 307, 72
+  offset: 194, 10
+  index: -1
+putong_total_win/putong_total_win_00026
+  rotate: false
+  xy: 1105, 2
+  size: 100, 57
+  orig: 307, 72
+  offset: 201, 10
+  index: -1
+putong_total_win/putong_total_win_00027
+  rotate: false
+  xy: 1306, 2
+  size: 88, 57
+  orig: 307, 72
+  offset: 213, 10
+  index: -1
+putong_total_win/putong_total_win_00028
+  rotate: false
+  xy: 1605, 62
+  size: 74, 56
+  orig: 307, 72
+  offset: 226, 10
+  index: -1
+putong_total_win/putong_total_win_00029
+  rotate: false
+  xy: 1558, 4
+  size: 62, 55
+  orig: 307, 72
+  offset: 238, 11
+  index: -1
+xxx
+  rotate: false
+  xy: 1622, 7
+  size: 54, 53
+  orig: 56, 55
+  offset: 1, 1
+  index: -1

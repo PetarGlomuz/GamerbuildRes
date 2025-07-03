@@ -1,0 +1,188 @@
+
+TC_FG_yingfenlan.png
+size: 2032,1240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/1
+  rotate: false
+  xy: 2, 1003
+  size: 1107, 235
+  orig: 1107, 235
+  offset: 0, 0
+  index: -1
+image/g_00
+  rotate: false
+  xy: 1111, 1081
+  size: 595, 157
+  orig: 601, 163
+  offset: 6, 6
+  index: -1
+image/huang
+  rotate: false
+  xy: 2, 766
+  size: 1107, 235
+  orig: 1107, 235
+  offset: 0, 0
+  index: -1
+image/lan
+  rotate: false
+  xy: 2, 529
+  size: 1107, 235
+  orig: 1107, 235
+  offset: 0, 0
+  index: -1
+image/lv
+  rotate: false
+  xy: 2, 292
+  size: 1107, 235
+  orig: 1107, 235
+  offset: 0, 0
+  index: -1
+image/sg/sg_00
+  rotate: false
+  xy: 1657, 2
+  size: 124, 101
+  orig: 701, 179
+  offset: 0, 25
+  index: -1
+image/sg/sg_01
+  rotate: true
+  xy: 1869, 724
+  size: 161, 152
+  orig: 701, 179
+  offset: 0, 7
+  index: -1
+image/sg/sg_02
+  rotate: false
+  xy: 1321, 6
+  size: 199, 170
+  orig: 701, 179
+  offset: 0, 4
+  index: -1
+image/sg/sg_03
+  rotate: true
+  xy: 1847, 98
+  size: 237, 175
+  orig: 701, 179
+  offset: 0, 0
+  index: -1
+image/sg/sg_04
+  rotate: true
+  xy: 1489, 442
+  size: 275, 179
+  orig: 701, 179
+  offset: 0, 0
+  index: -1
+image/sg/sg_05
+  rotate: true
+  xy: 1670, 391
+  size: 313, 179
+  orig: 701, 179
+  offset: 0, 0
+  index: -1
+image/sg/sg_06
+  rotate: true
+  xy: 1688, 706
+  size: 351, 179
+  orig: 701, 179
+  offset: 0, 0
+  index: -1
+image/sg/sg_07
+  rotate: false
+  xy: 1111, 900
+  size: 394, 179
+  orig: 701, 179
+  offset: 0, 0
+  index: -1
+image/sg/sg_08
+  rotate: false
+  xy: 1111, 358
+  size: 374, 179
+  orig: 701, 179
+  offset: 72, 0
+  index: -1
+image/sg/sg_09
+  rotate: true
+  xy: 1851, 337
+  size: 367, 178
+  orig: 701, 179
+  offset: 134, 0
+  index: -1
+image/sg/sg_10
+  rotate: false
+  xy: 1111, 178
+  size: 368, 178
+  orig: 701, 179
+  offset: 192, 0
+  index: -1
+image/sg/sg_11
+  rotate: false
+  xy: 1111, 539
+  size: 376, 178
+  orig: 701, 179
+  offset: 247, 0
+  index: -1
+image/sg/sg_12
+  rotate: false
+  xy: 1111, 719
+  size: 394, 179
+  orig: 701, 179
+  offset: 298, 0
+  index: -1
+image/sg/sg_13
+  rotate: true
+  xy: 1507, 719
+  size: 360, 179
+  orig: 701, 179
+  offset: 341, 0
+  index: -1
+image/sg/sg_14
+  rotate: false
+  xy: 1708, 1059
+  size: 322, 179
+  orig: 701, 179
+  offset: 379, 0
+  index: -1
+image/sg/sg_15
+  rotate: true
+  xy: 1666, 105
+  size: 284, 179
+  orig: 701, 179
+  offset: 417, 0
+  index: -1
+image/sg/sg_16
+  rotate: true
+  xy: 1487, 194
+  size: 246, 177
+  orig: 701, 179
+  offset: 455, 2
+  index: -1
+image/sg/sg_17
+  rotate: false
+  xy: 1111, 4
+  size: 208, 172
+  orig: 701, 179
+  offset: 493, 5
+  index: -1
+image/sg/sg_18
+  rotate: true
+  xy: 1869, 887
+  size: 170, 156
+  orig: 701, 179
+  offset: 531, 19
+  index: -1
+image/sg/sg_19
+  rotate: false
+  xy: 1522, 85
+  size: 133, 107
+  orig: 701, 179
+  offset: 568, 50
+  index: -1
+image/zi
+  rotate: false
+  xy: 2, 55
+  size: 1107, 235
+  orig: 1107, 235
+  offset: 0, 0
+  index: -1

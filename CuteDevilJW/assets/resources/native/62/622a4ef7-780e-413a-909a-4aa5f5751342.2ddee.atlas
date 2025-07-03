@@ -1,0 +1,160 @@
+
+BG_diban.png
+size: 1791,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diban
+  rotate: false
+  xy: 2, 10
+  size: 1025, 620
+  orig: 1025, 620
+  offset: 0, 0
+  index: -1
+diban2_00000
+  rotate: false
+  xy: 1029, 456
+  size: 269, 174
+  orig: 276, 186
+  offset: 3, 9
+  index: -1
+huo/huo_00000
+  rotate: false
+  xy: 1029, 366
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00001
+  rotate: false
+  xy: 1300, 542
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00002
+  rotate: false
+  xy: 1029, 276
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00003
+  rotate: false
+  xy: 1524, 542
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00004
+  rotate: false
+  xy: 1029, 186
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00005
+  rotate: false
+  xy: 1029, 96
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00006
+  rotate: false
+  xy: 1300, 452
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00007
+  rotate: false
+  xy: 1524, 452
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00008
+  rotate: false
+  xy: 1029, 6
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00009
+  rotate: false
+  xy: 1253, 362
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00010
+  rotate: false
+  xy: 1253, 272
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00011
+  rotate: false
+  xy: 1477, 362
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00012
+  rotate: true
+  xy: 1701, 228
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00013
+  rotate: false
+  xy: 1477, 272
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00014
+  rotate: false
+  xy: 1253, 182
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00015
+  rotate: false
+  xy: 1477, 182
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00016
+  rotate: true
+  xy: 1701, 4
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00017
+  rotate: false
+  xy: 1253, 92
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00018
+  rotate: false
+  xy: 1477, 92
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1
+huo/huo_00019
+  rotate: false
+  xy: 1253, 2
+  size: 222, 88
+  orig: 231, 92
+  offset: 5, 4
+  index: -1

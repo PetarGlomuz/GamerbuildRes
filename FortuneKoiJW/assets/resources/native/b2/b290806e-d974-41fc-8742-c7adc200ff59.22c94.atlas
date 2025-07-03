@@ -1,0 +1,111 @@
+
+tingpai.png
+size: 954,415
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a/a_00
+  rotate: true
+  xy: 2, 151
+  size: 67, 342
+  orig: 240, 400
+  offset: 22, 25
+  index: -1
+a/a_01
+  rotate: true
+  xy: 349, 78
+  size: 70, 348
+  orig: 240, 400
+  offset: 20, 24
+  index: -1
+a/a_02
+  rotate: true
+  xy: 356, 2
+  size: 74, 352
+  orig: 240, 400
+  offset: 18, 24
+  index: -1
+a/a_03
+  rotate: false
+  xy: 726, 63
+  size: 77, 350
+  orig: 240, 400
+  offset: 17, 26
+  index: -1
+a/a_04
+  rotate: false
+  xy: 881, 62
+  size: 71, 351
+  orig: 240, 400
+  offset: 25, 26
+  index: -1
+a/a_05
+  rotate: false
+  xy: 805, 63
+  size: 74, 350
+  orig: 240, 400
+  offset: 24, 28
+  index: -1
+a/a_06
+  rotate: true
+  xy: 2, 5
+  size: 71, 352
+  orig: 240, 400
+  offset: 22, 27
+  index: -1
+a/a_07
+  rotate: true
+  xy: 346, 150
+  size: 66, 355
+  orig: 240, 400
+  offset: 27, 26
+  index: -1
+a/a_08
+  rotate: true
+  xy: 365, 285
+  size: 64, 359
+  orig: 240, 400
+  offset: 25, 24
+  index: -1
+a/a_09
+  rotate: true
+  xy: 2, 351
+  size: 62, 367
+  orig: 240, 400
+  offset: 28, 18
+  index: -1
+a/a_10
+  rotate: true
+  xy: 2, 286
+  size: 63, 361
+  orig: 240, 400
+  offset: 27, 17
+  index: -1
+a/a_11
+  rotate: true
+  xy: 348, 218
+  size: 65, 363
+  orig: 240, 400
+  offset: 26, 17
+  index: -1
+a/a_12
+  rotate: true
+  xy: 371, 351
+  size: 62, 343
+  orig: 240, 400
+  offset: 26, 24
+  index: -1
+a/a_13
+  rotate: true
+  xy: 2, 220
+  size: 64, 344
+  orig: 240, 400
+  offset: 26, 23
+  index: -1
+a/a_14
+  rotate: true
+  xy: 2, 81
+  size: 67, 345
+  orig: 240, 400
+  offset: 24, 22
+  index: -1

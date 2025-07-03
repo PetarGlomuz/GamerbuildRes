@@ -1,0 +1,76 @@
+
+yfk.png
+size: 657,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yfk/yfk_00000
+  rotate: false
+  xy: 215, 4
+  size: 211, 161
+  orig: 226, 186
+  offset: 7, 11
+  index: -1
+yfk/yfk_00001
+  rotate: true
+  xy: 2, 379
+  size: 211, 162
+  orig: 226, 186
+  offset: 7, 10
+  index: -1
+yfk/yfk_00002
+  rotate: true
+  xy: 2, 166
+  size: 211, 162
+  orig: 226, 186
+  offset: 7, 11
+  index: -1
+yfk/yfk_00003
+  rotate: false
+  xy: 2, 2
+  size: 211, 162
+  orig: 226, 186
+  offset: 7, 10
+  index: -1
+yfk/yfk_00004
+  rotate: true
+  xy: 166, 379
+  size: 211, 162
+  orig: 226, 186
+  offset: 7, 10
+  index: -1
+yfk/yfk_00005
+  rotate: false
+  xy: 428, 429
+  size: 211, 161
+  orig: 226, 186
+  offset: 7, 11
+  index: -1
+yfk/yfk_00006
+  rotate: true
+  xy: 494, 218
+  size: 209, 161
+  orig: 226, 186
+  offset: 8, 11
+  index: -1
+yfk/yfk_00007
+  rotate: true
+  xy: 330, 218
+  size: 209, 162
+  orig: 226, 186
+  offset: 8, 11
+  index: -1
+yfk/yfk_00008
+  rotate: true
+  xy: 166, 167
+  size: 210, 162
+  orig: 226, 186
+  offset: 7, 11
+  index: -1
+yfk/yfk_00009
+  rotate: true
+  xy: 428, 6
+  size: 210, 161
+  orig: 226, 186
+  offset: 7, 11
+  index: -1

@@ -1,0 +1,76 @@
+
+DiShouJi.png
+size: 1027,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/di/di_000
+  rotate: true
+  xy: 873, 2
+  size: 175, 84
+  orig: 175, 110
+  offset: 0, 14
+  index: -1
+images/di/di_002
+  rotate: true
+  xy: 772, 2
+  size: 175, 99
+  orig: 175, 110
+  offset: 0, 7
+  index: -1
+images/di/di_004
+  rotate: true
+  xy: 450, 2
+  size: 175, 106
+  orig: 175, 110
+  offset: 0, 4
+  index: -1
+images/di/di_006
+  rotate: true
+  xy: 2, 2
+  size: 175, 110
+  orig: 175, 110
+  offset: 0, 0
+  index: -1
+images/di/di_008
+  rotate: true
+  xy: 114, 2
+  size: 175, 110
+  orig: 175, 110
+  offset: 0, 0
+  index: -1
+images/di/di_010
+  rotate: true
+  xy: 226, 2
+  size: 175, 110
+  orig: 175, 110
+  offset: 0, 0
+  index: -1
+images/di/di_012
+  rotate: true
+  xy: 338, 2
+  size: 175, 110
+  orig: 175, 110
+  offset: 0, 0
+  index: -1
+images/di/di_014
+  rotate: true
+  xy: 558, 2
+  size: 175, 105
+  orig: 175, 110
+  offset: 0, 5
+  index: -1
+images/di/di_016
+  rotate: true
+  xy: 665, 4
+  size: 173, 105
+  orig: 175, 110
+  offset: 2, 5
+  index: -1
+images/di/di_018
+  rotate: true
+  xy: 959, 2
+  size: 175, 66
+  orig: 175, 110
+  offset: 0, 27
+  index: -1

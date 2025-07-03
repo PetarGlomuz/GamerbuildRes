@@ -1,0 +1,118 @@
+
+fg_scspins_glow.png
+size: 746,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_00
+  rotate: true
+  xy: 2, 334
+  size: 304, 426
+  orig: 350, 550
+  offset: 23, 124
+  index: -1
+images/klizi/1_00
+  rotate: false
+  xy: 363, 99
+  size: 62, 233
+  orig: 500, 500
+  offset: 173, 145
+  index: -1
+images/klizi/1_01
+  rotate: false
+  xy: 555, 100
+  size: 114, 269
+  orig: 500, 500
+  offset: 147, 122
+  index: -1
+images/klizi/1_02
+  rotate: false
+  xy: 430, 99
+  size: 123, 270
+  orig: 500, 500
+  offset: 145, 124
+  index: -1
+images/klizi/1_03
+  rotate: false
+  xy: 430, 371
+  size: 126, 267
+  orig: 500, 500
+  offset: 144, 129
+  index: -1
+images/klizi/1_04
+  rotate: false
+  xy: 558, 380
+  size: 112, 258
+  orig: 500, 500
+  offset: 151, 130
+  index: -1
+images/klizi/1_05
+  rotate: true
+  xy: 2, 226
+  size: 106, 257
+  orig: 500, 500
+  offset: 155, 130
+  index: -1
+images/klizi/1_06
+  rotate: false
+  xy: 261, 78
+  size: 100, 254
+  orig: 500, 500
+  offset: 158, 131
+  index: -1
+images/klizi/1_07
+  rotate: true
+  xy: 2, 137
+  size: 87, 250
+  orig: 500, 500
+  offset: 163, 132
+  index: -1
+images/klizi/1_08
+  rotate: true
+  xy: 2, 56
+  size: 79, 247
+  orig: 500, 500
+  offset: 166, 133
+  index: -1
+images/klizi/1_09
+  rotate: false
+  xy: 671, 133
+  size: 73, 245
+  orig: 500, 500
+  offset: 170, 133
+  index: -1
+images/klizi/1_10
+  rotate: false
+  xy: 672, 399
+  size: 62, 239
+  orig: 500, 500
+  offset: 175, 135
+  index: -1
+images/klizi/1_11
+  rotate: true
+  xy: 251, 19
+  size: 57, 237
+  orig: 500, 500
+  offset: 178, 136
+  index: -1
+images/klizi/1_12
+  rotate: true
+  xy: 2, 2
+  size: 52, 236
+  orig: 500, 500
+  offset: 181, 136
+  index: -1
+images/klizi/1_13
+  rotate: true
+  xy: 490, 8
+  size: 44, 209
+  orig: 500, 500
+  offset: 185, 138
+  index: -1
+images/klizi/1_14
+  rotate: true
+  xy: 555, 54
+  size: 44, 187
+  orig: 500, 500
+  offset: 185, 138
+  index: -1

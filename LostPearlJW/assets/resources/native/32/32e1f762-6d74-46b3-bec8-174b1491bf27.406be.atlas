@@ -1,0 +1,13 @@
+
+tc_fg_mask.png
+size: 286,63
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_mask
+  rotate: false
+  xy: 2, 2
+  size: 282, 59
+  orig: 282, 59
+  offset: 0, 0
+  index: -1

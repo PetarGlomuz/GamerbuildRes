@@ -1,0 +1,48 @@
+
+FG_yu.png
+size: 296,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_qi
+  rotate: false
+  xy: 244, 37
+  size: 48, 48
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+L_xu
+  rotate: false
+  xy: 230, 13
+  size: 31, 22
+  orig: 33, 22
+  offset: 1, 0
+  index: -1
+R_qi
+  rotate: false
+  xy: 244, 87
+  size: 50, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+R_xu
+  rotate: false
+  xy: 263, 17
+  size: 30, 18
+  orig: 32, 18
+  offset: 1, 0
+  index: -1
+yu
+  rotate: true
+  xy: 2, 2
+  size: 59, 226
+  orig: 59, 226
+  offset: 0, 0
+  index: -1
+yu_yy
+  rotate: true
+  xy: 2, 63
+  size: 76, 240
+  orig: 77, 241
+  offset: 1, 1
+  index: -1

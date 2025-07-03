@@ -1,0 +1,13 @@
+
+Way_TiShi.png
+size: 65,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/w_00
+  rotate: false
+  xy: 2, 2
+  size: 61, 150
+  orig: 70, 150
+  offset: 5, 0
+  index: -1

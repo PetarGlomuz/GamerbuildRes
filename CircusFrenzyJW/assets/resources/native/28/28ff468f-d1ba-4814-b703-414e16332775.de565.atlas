@@ -1,0 +1,118 @@
+
+TingPai.png
+size: 882,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tp1/tp1_000
+  rotate: false
+  xy: 2, 2
+  size: 70, 300
+  orig: 70, 300
+  offset: 0, 0
+  index: -1
+images/tp1/tp1_002
+  rotate: false
+  xy: 74, 2
+  size: 70, 300
+  orig: 70, 300
+  offset: 0, 0
+  index: -1
+images/tp1/tp1_004
+  rotate: false
+  xy: 146, 2
+  size: 70, 300
+  orig: 70, 300
+  offset: 0, 0
+  index: -1
+images/tp1/tp1_006
+  rotate: false
+  xy: 218, 2
+  size: 70, 300
+  orig: 70, 300
+  offset: 0, 0
+  index: -1
+images/tp1/tp1_008
+  rotate: false
+  xy: 290, 2
+  size: 70, 300
+  orig: 70, 300
+  offset: 0, 0
+  index: -1
+images/tp1/tp1_010
+  rotate: false
+  xy: 362, 2
+  size: 70, 300
+  orig: 70, 300
+  offset: 0, 0
+  index: -1
+images/tp1/tp1_011
+  rotate: false
+  xy: 434, 2
+  size: 70, 300
+  orig: 70, 300
+  offset: 0, 0
+  index: -1
+images/tp1/tp1_012
+  rotate: false
+  xy: 506, 2
+  size: 70, 300
+  orig: 70, 300
+  offset: 0, 0
+  index: -1
+images/tp2/tp2_000
+  rotate: false
+  xy: 578, 232
+  size: 150, 70
+  orig: 150, 70
+  offset: 0, 0
+  index: -1
+images/tp2/tp2_002
+  rotate: false
+  xy: 578, 160
+  size: 150, 70
+  orig: 150, 70
+  offset: 0, 0
+  index: -1
+images/tp2/tp2_004
+  rotate: false
+  xy: 730, 232
+  size: 150, 70
+  orig: 150, 70
+  offset: 0, 0
+  index: -1
+images/tp2/tp2_006
+  rotate: false
+  xy: 578, 88
+  size: 150, 70
+  orig: 150, 70
+  offset: 0, 0
+  index: -1
+images/tp2/tp2_008
+  rotate: false
+  xy: 730, 160
+  size: 150, 70
+  orig: 150, 70
+  offset: 0, 0
+  index: -1
+images/tp2/tp2_010
+  rotate: false
+  xy: 578, 16
+  size: 150, 70
+  orig: 150, 70
+  offset: 0, 0
+  index: -1
+images/tp2/tp2_011
+  rotate: false
+  xy: 730, 88
+  size: 150, 70
+  orig: 150, 70
+  offset: 0, 0
+  index: -1
+images/tp2/tp2_012
+  rotate: false
+  xy: 730, 16
+  size: 150, 70
+  orig: 150, 70
+  offset: 0, 0
+  index: -1

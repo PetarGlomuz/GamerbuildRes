@@ -1,0 +1,132 @@
+
+LunPan_ShouJi.png
+size: 435,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jk/J_K_000
+  rotate: false
+  xy: 318, 121
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/jk/J_K_017
+  rotate: false
+  xy: 318, 121
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/jk/J_K_001
+  rotate: true
+  xy: 329, 74
+  size: 48, 74
+  orig: 70, 260
+  offset: 10, 6
+  index: -1
+images/jk/J_K_002
+  rotate: true
+  xy: 347, 215
+  size: 49, 84
+  orig: 70, 260
+  offset: 11, 10
+  index: -1
+images/jk/J_K_003
+  rotate: true
+  xy: 318, 124
+  size: 47, 108
+  orig: 70, 260
+  offset: 12, 15
+  index: -1
+images/jk/J_K_004
+  rotate: true
+  xy: 295, 19
+  size: 53, 125
+  orig: 70, 260
+  offset: 6, 21
+  index: -1
+images/jk/J_K_005
+  rotate: true
+  xy: 2, 10
+  size: 55, 146
+  orig: 70, 260
+  offset: 7, 26
+  index: -1
+images/jk/J_K_006
+  rotate: true
+  xy: 159, 121
+  size: 52, 157
+  orig: 70, 260
+  offset: 8, 33
+  index: -1
+images/jk/J_K_007
+  rotate: false
+  xy: 105, 83
+  size: 52, 181
+  orig: 70, 260
+  offset: 7, 39
+  index: -1
+images/jk/J_K_008
+  rotate: false
+  xy: 2, 67
+  size: 51, 197
+  orig: 70, 260
+  offset: 9, 46
+  index: -1
+images/jk/J_K_009
+  rotate: false
+  xy: 55, 68
+  size: 48, 196
+  orig: 70, 260
+  offset: 10, 54
+  index: -1
+images/jk/J_K_010
+  rotate: true
+  xy: 159, 220
+  size: 44, 186
+  orig: 70, 260
+  offset: 12, 62
+  index: -1
+images/jk/J_K_011
+  rotate: true
+  xy: 159, 175
+  size: 43, 177
+  orig: 70, 260
+  offset: 13, 69
+  index: -1
+images/jk/J_K_012
+  rotate: true
+  xy: 159, 78
+  size: 41, 168
+  orig: 70, 260
+  offset: 15, 76
+  index: -1
+images/jk/J_K_013
+  rotate: true
+  xy: 150, 35
+  size: 41, 143
+  orig: 70, 260
+  offset: 16, 101
+  index: -1
+images/jk/J_K_014
+  rotate: true
+  xy: 338, 173
+  size: 40, 95
+  orig: 70, 260
+  offset: 17, 152
+  index: -1
+images/jk/J_K_015
+  rotate: true
+  xy: 150, 2
+  size: 31, 76
+  orig: 70, 260
+  offset: 19, 175
+  index: -1
+images/jk/J_K_016
+  rotate: true
+  xy: 228, 2
+  size: 31, 46
+  orig: 70, 260
+  offset: 19, 209
+  index: -1

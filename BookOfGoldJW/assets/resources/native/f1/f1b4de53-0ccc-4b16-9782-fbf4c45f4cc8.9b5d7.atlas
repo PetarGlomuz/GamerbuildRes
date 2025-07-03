@@ -1,0 +1,223 @@
+
+NG_tingpai.png
+size: 443,441
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/biankuang/bk_00
+  rotate: false
+  xy: 222, 33
+  size: 52, 100
+  orig: 75, 100
+  offset: 17, 0
+  index: -1
+images/biankuang/bk_01
+  rotate: false
+  xy: 114, 339
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_02
+  rotate: false
+  xy: 2, 339
+  size: 54, 100
+  orig: 75, 100
+  offset: 15, 0
+  index: -1
+images/biankuang/bk_03
+  rotate: false
+  xy: 278, 135
+  size: 52, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_04
+  rotate: false
+  xy: 334, 237
+  size: 52, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_05
+  rotate: false
+  xy: 330, 33
+  size: 51, 100
+  orig: 75, 100
+  offset: 17, 0
+  index: -1
+images/biankuang/bk_06
+  rotate: false
+  xy: 389, 339
+  size: 52, 100
+  orig: 75, 100
+  offset: 17, 0
+  index: -1
+images/biankuang/bk_07
+  rotate: false
+  xy: 2, 33
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_08
+  rotate: false
+  xy: 58, 135
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_09
+  rotate: false
+  xy: 114, 237
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_10
+  rotate: false
+  xy: 169, 339
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_11
+  rotate: false
+  xy: 276, 33
+  size: 52, 100
+  orig: 75, 100
+  offset: 17, 0
+  index: -1
+images/biankuang/bk_12
+  rotate: false
+  xy: 57, 33
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_13
+  rotate: false
+  xy: 113, 135
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_14
+  rotate: false
+  xy: 2, 237
+  size: 54, 100
+  orig: 75, 100
+  offset: 15, 0
+  index: -1
+images/biankuang/bk_15
+  rotate: false
+  xy: 169, 237
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_16
+  rotate: false
+  xy: 224, 339
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_17
+  rotate: false
+  xy: 112, 33
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_18
+  rotate: false
+  xy: 58, 339
+  size: 54, 100
+  orig: 75, 100
+  offset: 15, 0
+  index: -1
+images/biankuang/bk_19
+  rotate: false
+  xy: 168, 135
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_20
+  rotate: false
+  xy: 2, 135
+  size: 54, 100
+  orig: 75, 100
+  offset: 15, 0
+  index: -1
+images/biankuang/bk_21
+  rotate: false
+  xy: 224, 237
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_22
+  rotate: false
+  xy: 332, 135
+  size: 52, 100
+  orig: 75, 100
+  offset: 17, 0
+  index: -1
+images/biankuang/bk_23
+  rotate: false
+  xy: 279, 339
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_24
+  rotate: false
+  xy: 167, 33
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_25
+  rotate: false
+  xy: 223, 135
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_26
+  rotate: false
+  xy: 279, 237
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_27
+  rotate: false
+  xy: 334, 339
+  size: 53, 100
+  orig: 75, 100
+  offset: 16, 0
+  index: -1
+images/biankuang/bk_28
+  rotate: false
+  xy: 388, 237
+  size: 52, 100
+  orig: 75, 100
+  offset: 17, 0
+  index: -1
+images/biankuang/bk_29
+  rotate: false
+  xy: 58, 237
+  size: 54, 100
+  orig: 75, 100
+  offset: 15, 0
+  index: -1
+images/xing
+  rotate: false
+  xy: 386, 196
+  size: 39, 39
+  orig: 45, 45
+  offset: 3, 3
+  index: -1

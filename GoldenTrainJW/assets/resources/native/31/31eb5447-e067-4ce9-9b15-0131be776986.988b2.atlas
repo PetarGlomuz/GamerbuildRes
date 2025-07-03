@@ -1,0 +1,13 @@
+
+FG_zsk.png
+size: 47,44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star
+  rotate: false
+  xy: 2, 2
+  size: 43, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1

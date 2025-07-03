@@ -1,0 +1,41 @@
+
+sc_shu.png
+size: 860,376
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x10
+  rotate: false
+  xy: 2, 192
+  size: 386, 182
+  orig: 386, 182
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 2, 2
+  size: 289, 188
+  orig: 289, 188
+  offset: 0, 0
+  index: -1
+x3
+  rotate: true
+  xy: 667, 86
+  size: 288, 191
+  orig: 288, 191
+  offset: 0, 0
+  index: -1
+x5
+  rotate: false
+  xy: 390, 194
+  size: 275, 180
+  orig: 275, 180
+  offset: 0, 0
+  index: -1
+x8
+  rotate: false
+  xy: 293, 8
+  size: 275, 182
+  orig: 275, 182
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+denglong.png
+size: 74,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglong
+  rotate: false
+  xy: 35, 26
+  size: 39, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+theme136_free_frame8
+  rotate: false
+  xy: 0, 0
+  size: 33, 73
+  orig: 33, 73
+  offset: 0, 0
+  index: -1

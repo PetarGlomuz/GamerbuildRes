@@ -1,0 +1,153 @@
+
+TC_FG_board.png
+size: 1527,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+board/sg_00
+  rotate: false
+  xy: 1483, 265
+  size: 34, 133
+  orig: 872, 531
+  offset: 326, 199
+  index: -1
+board/sg_01
+  rotate: false
+  xy: 1415, 130
+  size: 53, 133
+  orig: 872, 531
+  offset: 326, 199
+  index: -1
+board/sg_02
+  rotate: false
+  xy: 1341, 130
+  size: 72, 133
+  orig: 872, 531
+  offset: 326, 199
+  index: -1
+board/sg_03
+  rotate: false
+  xy: 1434, 400
+  size: 91, 133
+  orig: 872, 531
+  offset: 326, 199
+  index: -1
+board/sg_04
+  rotate: true
+  xy: 1011, 18
+  size: 110, 133
+  orig: 872, 531
+  offset: 326, 199
+  index: -1
+board/sg_05
+  rotate: false
+  xy: 1210, 130
+  size: 129, 133
+  orig: 872, 531
+  offset: 326, 199
+  index: -1
+board/sg_06
+  rotate: false
+  xy: 1060, 130
+  size: 148, 133
+  orig: 872, 531
+  offset: 326, 199
+  index: -1
+board/sg_07
+  rotate: false
+  xy: 1079, 265
+  size: 167, 133
+  orig: 872, 531
+  offset: 326, 199
+  index: -1
+board/sg_08
+  rotate: false
+  xy: 1082, 400
+  size: 185, 133
+  orig: 872, 531
+  offset: 327, 199
+  index: -1
+board/sg_09
+  rotate: false
+  xy: 876, 400
+  size: 204, 133
+  orig: 872, 531
+  offset: 327, 199
+  index: -1
+board/sg_10
+  rotate: false
+  xy: 876, 265
+  size: 201, 133
+  orig: 872, 531
+  offset: 344, 199
+  index: -1
+board/sg_11
+  rotate: false
+  xy: 876, 130
+  size: 182, 133
+  orig: 872, 531
+  offset: 363, 199
+  index: -1
+board/sg_12
+  rotate: false
+  xy: 1269, 400
+  size: 163, 133
+  orig: 872, 531
+  offset: 382, 199
+  index: -1
+board/sg_13
+  rotate: false
+  xy: 1248, 265
+  size: 144, 133
+  orig: 872, 531
+  offset: 401, 199
+  index: -1
+board/sg_14
+  rotate: true
+  xy: 876, 3
+  size: 125, 133
+  orig: 872, 531
+  offset: 420, 199
+  index: -1
+board/sg_15
+  rotate: true
+  xy: 1146, 22
+  size: 106, 133
+  orig: 872, 531
+  offset: 439, 199
+  index: -1
+board/sg_16
+  rotate: false
+  xy: 1394, 265
+  size: 87, 133
+  orig: 872, 531
+  offset: 458, 199
+  index: -1
+board/sg_17
+  rotate: true
+  xy: 1281, 60
+  size: 68, 133
+  orig: 872, 531
+  offset: 477, 199
+  index: -1
+board/sg_18
+  rotate: true
+  xy: 1281, 9
+  size: 49, 133
+  orig: 872, 531
+  offset: 496, 199
+  index: -1
+board/sg_19
+  rotate: false
+  xy: 1470, 130
+  size: 30, 133
+  orig: 872, 531
+  offset: 515, 199
+  index: -1
+board1
+  rotate: false
+  xy: 2, 2
+  size: 872, 531
+  orig: 872, 531
+  offset: 0, 0
+  index: -1

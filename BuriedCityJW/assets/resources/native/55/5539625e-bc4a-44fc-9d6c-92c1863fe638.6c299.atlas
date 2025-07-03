@@ -1,0 +1,146 @@
+
+tc_yanwu.png
+size: 1187,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yc/1_00
+  rotate: true
+  xy: 1066, 98
+  size: 119, 90
+  orig: 450, 200
+  offset: 167, 69
+  index: -1
+images/yc/1_01
+  rotate: false
+  xy: 1049, 2
+  size: 136, 94
+  orig: 450, 200
+  offset: 157, 66
+  index: -1
+images/yc/1_02
+  rotate: false
+  xy: 902, 15
+  size: 145, 98
+  orig: 450, 200
+  offset: 153, 65
+  index: -1
+images/yc/1_03
+  rotate: false
+  xy: 734, 12
+  size: 152, 100
+  orig: 450, 200
+  offset: 149, 64
+  index: -1
+images/yc/1_04
+  rotate: false
+  xy: 563, 10
+  size: 158, 101
+  orig: 450, 200
+  offset: 146, 63
+  index: -1
+images/yc/1_05
+  rotate: false
+  xy: 902, 115
+  size: 162, 102
+  orig: 450, 200
+  offset: 144, 62
+  index: -1
+images/yc/1_06
+  rotate: false
+  xy: 734, 114
+  size: 166, 103
+  orig: 450, 200
+  offset: 142, 62
+  index: -1
+images/yc/1_07
+  rotate: false
+  xy: 563, 113
+  size: 169, 104
+  orig: 450, 200
+  offset: 140, 61
+  index: -1
+images/yc/1_08
+  rotate: false
+  xy: 377, 5
+  size: 171, 105
+  orig: 450, 200
+  offset: 139, 60
+  index: -1
+images/yc/1_09
+  rotate: false
+  xy: 200, 5
+  size: 175, 105
+  orig: 450, 200
+  offset: 137, 60
+  index: -1
+images/yc/1_10
+  rotate: false
+  xy: 384, 112
+  size: 177, 106
+  orig: 450, 200
+  offset: 136, 59
+  index: -1
+images/yc/1_11
+  rotate: false
+  xy: 202, 112
+  size: 180, 106
+  orig: 450, 200
+  offset: 134, 59
+  index: -1
+images/yc/1_12
+  rotate: false
+  xy: 965, 219
+  size: 182, 108
+  orig: 450, 200
+  offset: 133, 58
+  index: -1
+images/yc/1_13
+  rotate: false
+  xy: 591, 219
+  size: 185, 108
+  orig: 450, 200
+  offset: 131, 58
+  index: -1
+images/yc/1_14
+  rotate: false
+  xy: 778, 219
+  size: 185, 108
+  orig: 450, 200
+  offset: 129, 58
+  index: -1
+images/yc/1_15
+  rotate: false
+  xy: 400, 220
+  size: 189, 107
+  orig: 450, 200
+  offset: 126, 59
+  index: -1
+images/yc/1_16
+  rotate: false
+  xy: 205, 220
+  size: 193, 107
+  orig: 450, 200
+  offset: 124, 58
+  index: -1
+images/yc/1_17
+  rotate: false
+  xy: 2, 6
+  size: 196, 107
+  orig: 450, 200
+  offset: 122, 58
+  index: -1
+images/yc/1_18
+  rotate: false
+  xy: 2, 115
+  size: 198, 106
+  orig: 450, 200
+  offset: 121, 59
+  index: -1
+images/yc/1_19
+  rotate: false
+  xy: 2, 223
+  size: 201, 104
+  orig: 450, 200
+  offset: 119, 60
+  index: -1

@@ -1,0 +1,125 @@
+
+collect_glow.png
+size: 932,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+collect_glow/collect_glow_00
+  rotate: false
+  xy: 798, 75
+  size: 129, 123
+  orig: 177, 168
+  offset: 26, 24
+  index: -1
+collect_glow/collect_glow_01
+  rotate: false
+  xy: 798, 200
+  size: 132, 132
+  orig: 177, 168
+  offset: 24, 18
+  index: -1
+collect_glow/collect_glow_02
+  rotate: true
+  xy: 2, 3
+  size: 139, 145
+  orig: 177, 168
+  offset: 20, 10
+  index: -1
+collect_glow/collect_glow_03
+  rotate: false
+  xy: 651, 13
+  size: 145, 149
+  orig: 177, 168
+  offset: 17, 7
+  index: -1
+collect_glow/collect_glow_04
+  rotate: true
+  xy: 327, 6
+  size: 157, 158
+  orig: 177, 168
+  offset: 10, 2
+  index: -1
+collect_glow/collect_glow_05
+  rotate: false
+  xy: 327, 165
+  size: 161, 161
+  orig: 177, 168
+  offset: 8, 0
+  index: -1
+collect_glow/collect_glow_06
+  rotate: true
+  xy: 162, 152
+  size: 168, 163
+  orig: 177, 168
+  offset: 4, 0
+  index: -1
+collect_glow/collect_glow_07
+  rotate: false
+  xy: 2, 322
+  size: 170, 164
+  orig: 177, 168
+  offset: 3, 0
+  index: -1
+collect_glow/collect_glow_08
+  rotate: false
+  xy: 530, 329
+  size: 174, 157
+  orig: 177, 168
+  offset: 1, 8
+  index: -1
+collect_glow/collect_glow_09
+  rotate: false
+  xy: 353, 328
+  size: 175, 158
+  orig: 177, 168
+  offset: 0, 8
+  index: -1
+collect_glow/collect_glow_10
+  rotate: true
+  xy: 2, 144
+  size: 176, 158
+  orig: 177, 168
+  offset: 0, 8
+  index: -1
+collect_glow/collect_glow_11
+  rotate: false
+  xy: 174, 329
+  size: 177, 157
+  orig: 177, 168
+  offset: 0, 10
+  index: -1
+collect_glow/collect_glow_12
+  rotate: false
+  xy: 706, 334
+  size: 176, 152
+  orig: 177, 168
+  offset: 1, 15
+  index: -1
+collect_glow/collect_glow_13
+  rotate: true
+  xy: 490, 163
+  size: 163, 153
+  orig: 177, 168
+  offset: 14, 15
+  index: -1
+collect_glow/collect_glow_14
+  rotate: true
+  xy: 645, 164
+  size: 163, 151
+  orig: 177, 168
+  offset: 14, 16
+  index: -1
+collect_glow/collect_glow_15
+  rotate: false
+  xy: 487, 10
+  size: 162, 151
+  orig: 177, 168
+  offset: 14, 16
+  index: -1
+collect_glow/collect_glow_16
+  rotate: false
+  xy: 162, 2
+  size: 160, 148
+  orig: 177, 168
+  offset: 15, 17
+  index: -1

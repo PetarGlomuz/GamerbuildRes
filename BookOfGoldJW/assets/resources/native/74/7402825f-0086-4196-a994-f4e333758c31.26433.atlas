@@ -1,0 +1,13 @@
+
+BG_zhuanpan_di.png
+size: 85,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gl_00
+  rotate: false
+  xy: 2, 2
+  size: 81, 81
+  orig: 116, 107
+  offset: 16, 15
+  index: -1

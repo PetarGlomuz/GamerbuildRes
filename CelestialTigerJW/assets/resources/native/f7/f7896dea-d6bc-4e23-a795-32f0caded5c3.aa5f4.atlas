@@ -1,0 +1,265 @@
+
+Respin_jishupai.png
+size: 1166,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ciguang
+  rotate: false
+  xy: 404, 145
+  size: 498, 272
+  orig: 512, 512
+  offset: 14, 121
+  index: -1
+fire3
+  rotate: false
+  xy: 983, 137
+  size: 48, 72
+  orig: 48, 72
+  offset: 0, 0
+  index: -1
+gc33_00000
+  rotate: false
+  xy: 404, 22
+  size: 121, 121
+  orig: 128, 128
+  offset: 6, 3
+  index: -1
+glo_0
+  rotate: false
+  xy: 904, 289
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_00000
+  rotate: false
+  xy: 2, 17
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+huoDJ/1_00000
+  rotate: false
+  xy: 722, 69
+  size: 63, 74
+  orig: 82, 77
+  offset: 11, 0
+  index: -1
+huoDJ/1_00001
+  rotate: false
+  xy: 904, 211
+  size: 63, 76
+  orig: 82, 77
+  offset: 11, 0
+  index: -1
+huoDJ/1_00002
+  rotate: false
+  xy: 1034, 341
+  size: 63, 76
+  orig: 82, 77
+  offset: 11, 0
+  index: -1
+huoDJ/1_00003
+  rotate: false
+  xy: 969, 211
+  size: 62, 76
+  orig: 82, 77
+  offset: 12, 0
+  index: -1
+huoDJ/1_00004
+  rotate: true
+  xy: 904, 148
+  size: 61, 77
+  orig: 82, 77
+  offset: 13, 0
+  index: -1
+huoDJ/1_00005
+  rotate: false
+  xy: 916, 74
+  size: 62, 72
+  orig: 82, 77
+  offset: 12, 0
+  index: -1
+huoDJ/1_00006
+  rotate: false
+  xy: 852, 70
+  size: 62, 73
+  orig: 82, 77
+  offset: 12, 0
+  index: -1
+huoDJ/1_00007
+  rotate: true
+  xy: 752, 4
+  size: 63, 73
+  orig: 82, 77
+  offset: 11, 0
+  index: -1
+huoDJ/1_00008
+  rotate: true
+  xy: 604, 2
+  size: 64, 72
+  orig: 82, 77
+  offset: 11, 0
+  index: -1
+huoDJ/1_00009
+  rotate: false
+  xy: 527, 68
+  size: 64, 75
+  orig: 82, 77
+  offset: 11, 0
+  index: -1
+huoDJ/1_00010
+  rotate: true
+  xy: 527, 2
+  size: 64, 75
+  orig: 82, 77
+  offset: 11, 0
+  index: -1
+huoDJ/1_00011
+  rotate: false
+  xy: 787, 69
+  size: 63, 74
+  orig: 82, 77
+  offset: 12, 0
+  index: -1
+huoDJ/1_00012
+  rotate: true
+  xy: 1034, 277
+  size: 62, 72
+  orig: 82, 77
+  offset: 12, 0
+  index: -1
+huoDJ/1_00013
+  rotate: true
+  xy: 1033, 215
+  size: 60, 73
+  orig: 82, 77
+  offset: 13, 0
+  index: -1
+huoDJ/1_00014
+  rotate: false
+  xy: 1033, 140
+  size: 60, 73
+  orig: 82, 77
+  offset: 13, 0
+  index: -1
+huoDJ/1_00015
+  rotate: false
+  xy: 980, 63
+  size: 61, 72
+  orig: 82, 77
+  offset: 12, 0
+  index: -1
+huoDJ/1_00016
+  rotate: false
+  xy: 658, 68
+  size: 62, 75
+  orig: 82, 77
+  offset: 12, 0
+  index: -1
+huoDJ/1_00017
+  rotate: false
+  xy: 593, 68
+  size: 63, 75
+  orig: 82, 77
+  offset: 11, 0
+  index: -1
+huoDJ/1_00018
+  rotate: true
+  xy: 678, 2
+  size: 64, 72
+  orig: 82, 77
+  offset: 11, 0
+  index: -1
+huos/1_00000
+  rotate: false
+  xy: 852, 2
+  size: 59, 66
+  orig: 65, 80
+  offset: 4, 4
+  index: -1
+huos/1_00001
+  rotate: true
+  xy: 1099, 359
+  size: 58, 65
+  orig: 65, 80
+  offset: 4, 4
+  index: -1
+huos/1_00002
+  rotate: false
+  xy: 1043, 75
+  size: 53, 63
+  orig: 65, 80
+  offset: 5, 4
+  index: -1
+huos/1_00003
+  rotate: false
+  xy: 1108, 229
+  size: 50, 62
+  orig: 65, 80
+  offset: 7, 5
+  index: -1
+huos/1_00004
+  rotate: false
+  xy: 1108, 293
+  size: 49, 64
+  orig: 65, 80
+  offset: 8, 4
+  index: -1
+huos/1_00005
+  rotate: false
+  xy: 1095, 150
+  size: 48, 63
+  orig: 65, 80
+  offset: 8, 4
+  index: -1
+huos/1_00006
+  rotate: false
+  xy: 1098, 90
+  size: 43, 58
+  orig: 65, 80
+  offset: 13, 6
+  index: -1
+huos/1_00007
+  rotate: false
+  xy: 913, 2
+  size: 40, 59
+  orig: 65, 80
+  offset: 13, 6
+  index: -1
+huos/1_00008
+  rotate: false
+  xy: 955, 2
+  size: 40, 59
+  orig: 65, 80
+  offset: 13, 6
+  index: -1
+huos/1_00009
+  rotate: false
+  xy: 997, 2
+  size: 40, 59
+  orig: 65, 80
+  offset: 13, 6
+  index: -1
+huos/1_00010
+  rotate: true
+  xy: 1043, 38
+  size: 35, 58
+  orig: 65, 80
+  offset: 13, 6
+  index: -1
+huos/1_00011
+  rotate: true
+  xy: 1039, 2
+  size: 34, 58
+  orig: 65, 80
+  offset: 14, 6
+  index: -1
+huos/1_00012
+  rotate: false
+  xy: 1103, 43
+  size: 33, 45
+  orig: 65, 80
+  offset: 15, 6
+  index: -1

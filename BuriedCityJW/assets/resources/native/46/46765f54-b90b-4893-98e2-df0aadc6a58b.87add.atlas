@@ -1,0 +1,146 @@
+
+tc_fg_title2_EN.png
+size: 727,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+total_win_EN
+  rotate: false
+  xy: 2, 148
+  size: 615, 142
+  orig: 640, 148
+  offset: 13, 5
+  index: -1
+total_win_EN/total_win_EN_01
+  rotate: false
+  xy: 671, 48
+  size: 44, 44
+  orig: 320, 74
+  offset: 14, 23
+  index: -1
+total_win_EN/total_win_EN_02
+  rotate: false
+  xy: 558, 102
+  size: 65, 44
+  orig: 320, 74
+  offset: 14, 23
+  index: -1
+total_win_EN/total_win_EN_03
+  rotate: false
+  xy: 533, 56
+  size: 90, 44
+  orig: 320, 74
+  offset: 14, 23
+  index: -1
+total_win_EN/total_win_EN_04
+  rotate: true
+  xy: 665, 178
+  size: 112, 44
+  orig: 320, 74
+  offset: 14, 23
+  index: -1
+total_win_EN/total_win_EN_05
+  rotate: true
+  xy: 619, 156
+  size: 134, 44
+  orig: 320, 74
+  offset: 14, 23
+  index: -1
+total_win_EN/total_win_EN_06
+  rotate: false
+  xy: 375, 56
+  size: 156, 44
+  orig: 320, 74
+  offset: 14, 23
+  index: -1
+total_win_EN/total_win_EN_07
+  rotate: false
+  xy: 381, 102
+  size: 175, 44
+  orig: 320, 74
+  offset: 14, 23
+  index: -1
+total_win_EN/total_win_EN_08
+  rotate: false
+  xy: 2, 102
+  size: 188, 44
+  orig: 320, 74
+  offset: 26, 23
+  index: -1
+total_win_EN/total_win_EN_09
+  rotate: false
+  xy: 191, 56
+  size: 182, 44
+  orig: 320, 74
+  offset: 54, 23
+  index: -1
+total_win_EN/total_win_EN_10
+  rotate: false
+  xy: 2, 56
+  size: 187, 44
+  orig: 320, 74
+  offset: 71, 23
+  index: -1
+total_win_EN/total_win_EN_11
+  rotate: false
+  xy: 192, 102
+  size: 187, 44
+  orig: 320, 74
+  offset: 93, 23
+  index: -1
+total_win_EN/total_win_EN_12
+  rotate: false
+  xy: 2, 10
+  size: 187, 44
+  orig: 320, 74
+  offset: 115, 23
+  index: -1
+total_win_EN/total_win_EN_13
+  rotate: false
+  xy: 191, 10
+  size: 169, 44
+  orig: 320, 74
+  offset: 137, 23
+  index: -1
+total_win_EN/total_win_EN_14
+  rotate: false
+  xy: 362, 10
+  size: 146, 44
+  orig: 320, 74
+  offset: 160, 23
+  index: -1
+total_win_EN/total_win_EN_15
+  rotate: false
+  xy: 510, 10
+  size: 107, 44
+  orig: 320, 74
+  offset: 200, 23
+  index: -1
+total_win_EN/total_win_EN_16
+  rotate: true
+  xy: 625, 50
+  size: 104, 44
+  orig: 320, 74
+  offset: 203, 23
+  index: -1
+total_win_EN/total_win_EN_17
+  rotate: true
+  xy: 671, 94
+  size: 82, 44
+  orig: 320, 74
+  offset: 225, 23
+  index: -1
+total_win_EN/total_win_EN_18
+  rotate: false
+  xy: 665, 2
+  size: 60, 44
+  orig: 320, 74
+  offset: 247, 23
+  index: -1
+total_win_EN/total_win_EN_19
+  rotate: true
+  xy: 619, 12
+  size: 36, 44
+  orig: 320, 74
+  offset: 271, 23
+  index: -1

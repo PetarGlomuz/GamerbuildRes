@@ -1,0 +1,55 @@
+
+Map_zhi.png
+size: 1422,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong
+  rotate: false
+  xy: 2, 2
+  size: 394, 389
+  orig: 394, 389
+  offset: 0, 0
+  index: -1
+jin
+  rotate: false
+  xy: 398, 393
+  size: 394, 389
+  orig: 394, 389
+  offset: 0, 0
+  index: -1
+lan
+  rotate: false
+  xy: 398, 2
+  size: 394, 389
+  orig: 394, 389
+  offset: 0, 0
+  index: -1
+lv
+  rotate: false
+  xy: 794, 393
+  size: 394, 389
+  orig: 394, 389
+  offset: 0, 0
+  index: -1
+qing
+  rotate: false
+  xy: 2, 393
+  size: 394, 389
+  orig: 394, 389
+  offset: 0, 0
+  index: -1
+wg_00000
+  rotate: false
+  xy: 1190, 555
+  size: 230, 227
+  orig: 244, 231
+  offset: 8, 4
+  index: -1
+zi
+  rotate: false
+  xy: 794, 2
+  size: 394, 389
+  orig: 394, 389
+  offset: 0, 0
+  index: -1

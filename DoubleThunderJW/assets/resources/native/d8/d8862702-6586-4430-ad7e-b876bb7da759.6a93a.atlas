@@ -1,0 +1,132 @@
+
+tanchuang.png
+size: 973,705
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Button
+  rotate: true
+  xy: 887, 41
+  size: 179, 63
+  orig: 179, 63
+  offset: 0, 0
+  index: -1
+Button_dianji
+  rotate: true
+  xy: 887, 222
+  size: 191, 75
+  orig: 191, 75
+  offset: 0, 0
+  index: -1
+Con11
+  rotate: true
+  xy: 721, 23
+  size: 680, 75
+  orig: 680, 75
+  offset: 0, 0
+  index: -1
+EX_FG
+  rotate: false
+  xy: 2, 17
+  size: 341, 89
+  orig: 341, 89
+  offset: 0, 0
+  index: -1
+Nor_8
+  rotate: false
+  xy: 798, 567
+  size: 125, 136
+  orig: 125, 136
+  offset: 0, 0
+  index: -1
+Nor_FG
+  rotate: false
+  xy: 345, 61
+  size: 341, 45
+  orig: 341, 46
+  offset: 0, 0
+  index: -1
+Reel_2
+  rotate: true
+  xy: 924, 450
+  size: 35, 34
+  orig: 35, 36
+  offset: 0, 1
+  index: -1
+Reel_3
+  rotate: false
+  xy: 685, 177
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+Reel_6
+  rotate: true
+  xy: 798, 2
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Reel_8
+  rotate: true
+  xy: 924, 415
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+Reel_FG
+  rotate: true
+  xy: 798, 39
+  size: 374, 87
+  orig: 374, 88
+  offset: 0, 0
+  index: -1
+Totalwin
+  rotate: false
+  xy: 345, 15
+  size: 318, 44
+  orig: 318, 44
+  offset: 0, 0
+  index: -1
+Youwin
+  rotate: true
+  xy: 925, 487
+  size: 216, 37
+  orig: 216, 38
+  offset: 0, 0
+  index: -1
+banzi
+  rotate: false
+  xy: 2, 215
+  size: 717, 488
+  orig: 717, 489
+  offset: 0, 0
+  index: -1
+collect
+  rotate: false
+  xy: 836, 14
+  size: 135, 23
+  orig: 135, 23
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 583, 117
+  size: 96, 100
+  orig: 100, 100
+  offset: 2, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 108
+  size: 579, 105
+  orig: 579, 105
+  offset: 0, 0
+  index: -1
+shandian_00
+  rotate: false
+  xy: 798, 415
+  size: 124, 150
+  orig: 143, 160
+  offset: 9, 10
+  index: -1

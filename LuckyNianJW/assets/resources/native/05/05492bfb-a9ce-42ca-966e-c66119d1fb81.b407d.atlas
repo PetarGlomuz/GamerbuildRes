@@ -1,0 +1,111 @@
+
+yingfenkuang.png
+size: 679,1114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g/fen_00000
+  rotate: false
+  xy: 2, 917
+  size: 220, 195
+  orig: 248, 226
+  offset: 12, 18
+  index: -1
+g/fen_00001
+  rotate: false
+  xy: 224, 915
+  size: 220, 197
+  orig: 248, 226
+  offset: 12, 17
+  index: -1
+g/fen_00002
+  rotate: false
+  xy: 446, 911
+  size: 230, 201
+  orig: 248, 226
+  offset: 7, 16
+  index: -1
+g/fen_00003
+  rotate: false
+  xy: 2, 712
+  size: 230, 201
+  orig: 248, 226
+  offset: 7, 16
+  index: -1
+g/fen_00004
+  rotate: true
+  xy: 466, 679
+  size: 230, 205
+  orig: 248, 226
+  offset: 7, 13
+  index: -1
+g/fen_00005
+  rotate: true
+  xy: 466, 445
+  size: 232, 209
+  orig: 248, 226
+  offset: 6, 11
+  index: -1
+g/fen_00006
+  rotate: true
+  xy: 236, 267
+  size: 232, 207
+  orig: 248, 226
+  offset: 6, 12
+  index: -1
+g/fen_00007
+  rotate: true
+  xy: 2, 60
+  size: 234, 207
+  orig: 248, 226
+  offset: 5, 12
+  index: -1
+g/fen_00008
+  rotate: false
+  xy: 234, 501
+  size: 230, 205
+  orig: 248, 226
+  offset: 7, 13
+  index: -1
+g/fen_00009
+  rotate: false
+  xy: 2, 296
+  size: 232, 203
+  orig: 248, 226
+  offset: 6, 15
+  index: -1
+g/fen_00010
+  rotate: false
+  xy: 211, 33
+  size: 234, 205
+  orig: 248, 226
+  offset: 5, 14
+  index: -1
+g/fen_00011
+  rotate: true
+  xy: 447, 2
+  size: 236, 207
+  orig: 248, 226
+  offset: 4, 13
+  index: -1
+g/fen_00012
+  rotate: false
+  xy: 445, 240
+  size: 232, 203
+  orig: 248, 226
+  offset: 6, 15
+  index: -1
+g/fen_00013
+  rotate: false
+  xy: 234, 708
+  size: 230, 201
+  orig: 248, 226
+  offset: 7, 16
+  index: -1
+g/fen_00014
+  rotate: false
+  xy: 2, 509
+  size: 230, 201
+  orig: 248, 226
+  offset: 7, 16
+  index: -1

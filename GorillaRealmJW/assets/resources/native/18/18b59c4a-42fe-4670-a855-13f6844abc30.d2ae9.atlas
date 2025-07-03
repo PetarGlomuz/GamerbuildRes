@@ -1,0 +1,111 @@
+
+yingfenkuang.png
+size: 738,738
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/g/wenjian_00
+  rotate: true
+  xy: 552, 10
+  size: 186, 159
+  orig: 227, 199
+  offset: 22, 20
+  index: -1
+wenjian/g/wenjian_01
+  rotate: false
+  xy: 2, 2
+  size: 186, 163
+  orig: 227, 199
+  offset: 23, 18
+  index: -1
+wenjian/g/wenjian_02
+  rotate: false
+  xy: 190, 4
+  size: 187, 165
+  orig: 227, 199
+  offset: 22, 17
+  index: -1
+wenjian/g/wenjian_03
+  rotate: false
+  xy: 548, 392
+  size: 188, 169
+  orig: 227, 199
+  offset: 22, 15
+  index: -1
+wenjian/g/wenjian_04
+  rotate: true
+  xy: 527, 198
+  size: 189, 171
+  orig: 227, 199
+  offset: 22, 14
+  index: -1
+wenjian/g/wenjian_05
+  rotate: true
+  xy: 379, 3
+  size: 190, 171
+  orig: 227, 199
+  offset: 22, 14
+  index: -1
+wenjian/g/wenjian_06
+  rotate: true
+  xy: 352, 195
+  size: 192, 173
+  orig: 227, 199
+  offset: 21, 13
+  index: -1
+wenjian/g/wenjian_07
+  rotate: false
+  xy: 352, 389
+  size: 194, 172
+  orig: 227, 199
+  offset: 20, 13
+  index: -1
+wenjian/g/wenjian_08
+  rotate: false
+  xy: 2, 563
+  size: 196, 173
+  orig: 227, 199
+  offset: 19, 13
+  index: -1
+wenjian/g/wenjian_09
+  rotate: false
+  xy: 200, 563
+  size: 196, 173
+  orig: 227, 199
+  offset: 19, 13
+  index: -1
+wenjian/g/wenjian_10
+  rotate: false
+  xy: 398, 563
+  size: 196, 173
+  orig: 227, 199
+  offset: 19, 13
+  index: -1
+wenjian/g/wenjian_11
+  rotate: true
+  xy: 2, 365
+  size: 196, 173
+  orig: 227, 199
+  offset: 19, 13
+  index: -1
+wenjian/g/wenjian_12
+  rotate: true
+  xy: 2, 167
+  size: 196, 173
+  orig: 227, 199
+  offset: 19, 13
+  index: -1
+wenjian/g/wenjian_13
+  rotate: true
+  xy: 177, 366
+  size: 195, 173
+  orig: 227, 199
+  offset: 19, 13
+  index: -1
+wenjian/g/wenjian_14
+  rotate: true
+  xy: 177, 171
+  size: 193, 173
+  orig: 227, 199
+  offset: 21, 13
+  index: -1

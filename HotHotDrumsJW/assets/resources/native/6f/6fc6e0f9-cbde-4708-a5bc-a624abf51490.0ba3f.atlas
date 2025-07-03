@@ -1,0 +1,363 @@
+
+congrats.png
+size: 1871,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+congrats/con_00
+  rotate: false
+  xy: 1860, 156
+  size: 6, 15
+  orig: 271, 64
+  offset: 15, 28
+  index: -1
+congrats/con_01
+  rotate: true
+  xy: 868, 34
+  size: 22, 31
+  orig: 271, 64
+  offset: 14, 14
+  index: -1
+congrats/con_02
+  rotate: true
+  xy: 1162, 64
+  size: 47, 40
+  orig: 271, 64
+  offset: 6, 12
+  index: -1
+congrats/con_03
+  rotate: false
+  xy: 696, 7
+  size: 64, 49
+  orig: 271, 64
+  offset: 5, 5
+  index: -1
+congrats/con_04
+  rotate: false
+  xy: 1359, 2
+  size: 80, 51
+  orig: 271, 64
+  offset: 5, 4
+  index: -1
+congrats/con_05
+  rotate: false
+  xy: 911, 58
+  size: 94, 53
+  orig: 271, 64
+  offset: 5, 4
+  index: -1
+congrats/con_06
+  rotate: false
+  xy: 202, 57
+  size: 110, 54
+  orig: 271, 64
+  offset: 5, 4
+  index: -1
+congrats/con_07
+  rotate: false
+  xy: 2, 56
+  size: 125, 55
+  orig: 271, 64
+  offset: 6, 4
+  index: -1
+congrats/con_08
+  rotate: false
+  xy: 546, 58
+  size: 134, 53
+  orig: 271, 64
+  offset: 13, 6
+  index: -1
+congrats/con_09
+  rotate: false
+  xy: 397, 58
+  size: 147, 53
+  orig: 271, 64
+  offset: 15, 7
+  index: -1
+congrats/con_10
+  rotate: false
+  xy: 1686, 61
+  size: 155, 51
+  orig: 271, 64
+  offset: 23, 9
+  index: -1
+congrats/con_11
+  rotate: false
+  xy: 1517, 3
+  size: 153, 50
+  orig: 271, 64
+  offset: 40, 10
+  index: -1
+congrats/con_12
+  rotate: false
+  xy: 1007, 60
+  size: 153, 51
+  orig: 271, 64
+  offset: 56, 10
+  index: -1
+congrats/con_13
+  rotate: false
+  xy: 1007, 7
+  size: 153, 51
+  orig: 271, 64
+  offset: 71, 10
+  index: -1
+congrats/con_14
+  rotate: false
+  xy: 542, 6
+  size: 152, 50
+  orig: 271, 64
+  offset: 87, 10
+  index: -1
+congrats/con_15
+  rotate: false
+  xy: 1204, 2
+  size: 153, 51
+  orig: 271, 64
+  offset: 102, 9
+  index: -1
+congrats/con_16
+  rotate: false
+  xy: 397, 4
+  size: 143, 52
+  orig: 271, 64
+  offset: 118, 8
+  index: -1
+congrats/con_17
+  rotate: false
+  xy: 202, 3
+  size: 132, 52
+  orig: 271, 64
+  offset: 134, 7
+  index: -1
+congrats/con_18
+  rotate: false
+  xy: 682, 58
+  size: 120, 53
+  orig: 271, 64
+  offset: 149, 5
+  index: -1
+congrats/con_19
+  rotate: false
+  xy: 804, 58
+  size: 105, 53
+  orig: 271, 64
+  offset: 164, 4
+  index: -1
+congrats/con_20
+  rotate: false
+  xy: 2, 2
+  size: 84, 52
+  orig: 271, 64
+  offset: 186, 4
+  index: -1
+congrats/con_21
+  rotate: false
+  xy: 1441, 2
+  size: 74, 51
+  orig: 271, 64
+  offset: 195, 4
+  index: -1
+congrats/con_22
+  rotate: false
+  xy: 762, 8
+  size: 53, 48
+  orig: 271, 64
+  offset: 216, 5
+  index: -1
+congrats/con_23
+  rotate: false
+  xy: 1162, 21
+  size: 40, 41
+  orig: 271, 64
+  offset: 226, 8
+  index: -1
+congrats/con_24
+  rotate: true
+  xy: 1162, 2
+  size: 17, 31
+  orig: 271, 64
+  offset: 244, 13
+  index: -1
+congrats/con_cn_000
+  rotate: false
+  xy: 1843, 78
+  size: 26, 34
+  orig: 223, 67
+  offset: 9, 19
+  index: -1
+congrats/con_cn_001
+  rotate: false
+  xy: 156, 10
+  size: 44, 44
+  orig: 223, 67
+  offset: 2, 16
+  index: -1
+congrats/con_cn_002
+  rotate: false
+  xy: 336, 3
+  size: 52, 52
+  orig: 223, 67
+  offset: 1, 11
+  index: -1
+congrats/con_cn_003
+  rotate: false
+  xy: 129, 56
+  size: 71, 55
+  orig: 223, 67
+  offset: 0, 8
+  index: -1
+congrats/con_cn_004
+  rotate: false
+  xy: 1686, 2
+  size: 83, 57
+  orig: 223, 67
+  offset: 0, 7
+  index: -1
+congrats/con_cn_005
+  rotate: false
+  xy: 1590, 55
+  size: 94, 57
+  orig: 223, 67
+  offset: 0, 7
+  index: -1
+congrats/con_cn_006
+  rotate: false
+  xy: 1098, 113
+  size: 105, 58
+  orig: 223, 67
+  offset: 0, 6
+  index: -1
+congrats/con_cn_007
+  rotate: false
+  xy: 861, 113
+  size: 119, 58
+  orig: 223, 67
+  offset: 1, 6
+  index: -1
+congrats/con_cn_008
+  rotate: false
+  xy: 729, 113
+  size: 130, 58
+  orig: 223, 67
+  offset: 2, 7
+  index: -1
+congrats/con_cn_009
+  rotate: false
+  xy: 596, 113
+  size: 131, 58
+  orig: 223, 67
+  offset: 10, 7
+  index: -1
+congrats/con_cn_010
+  rotate: false
+  xy: 317, 113
+  size: 138, 58
+  orig: 223, 67
+  offset: 10, 7
+  index: -1
+congrats/con_cn_011
+  rotate: false
+  xy: 2, 113
+  size: 157, 58
+  orig: 223, 67
+  offset: 10, 7
+  index: -1
+congrats/con_cn_012
+  rotate: false
+  xy: 1372, 114
+  size: 164, 57
+  orig: 223, 67
+  offset: 13, 8
+  index: -1
+congrats/con_cn_013
+  rotate: false
+  xy: 1205, 114
+  size: 165, 57
+  orig: 223, 67
+  offset: 24, 8
+  index: -1
+congrats/con_cn_014
+  rotate: false
+  xy: 1701, 114
+  size: 157, 57
+  orig: 223, 67
+  offset: 37, 8
+  index: -1
+congrats/con_cn_015
+  rotate: false
+  xy: 1538, 114
+  size: 161, 57
+  orig: 223, 67
+  offset: 48, 8
+  index: -1
+congrats/con_cn_016
+  rotate: false
+  xy: 161, 113
+  size: 154, 58
+  orig: 223, 67
+  offset: 59, 7
+  index: -1
+congrats/con_cn_017
+  rotate: false
+  xy: 1205, 55
+  size: 147, 57
+  orig: 223, 67
+  offset: 71, 7
+  index: -1
+congrats/con_cn_018
+  rotate: false
+  xy: 457, 113
+  size: 137, 58
+  orig: 223, 67
+  offset: 82, 6
+  index: -1
+congrats/con_cn_019
+  rotate: false
+  xy: 1354, 55
+  size: 128, 57
+  orig: 223, 67
+  offset: 92, 6
+  index: -1
+congrats/con_cn_020
+  rotate: false
+  xy: 982, 113
+  size: 114, 58
+  orig: 223, 67
+  offset: 106, 5
+  index: -1
+congrats/con_cn_021
+  rotate: false
+  xy: 1484, 55
+  size: 104, 57
+  orig: 223, 67
+  offset: 116, 5
+  index: -1
+congrats/con_cn_022
+  rotate: false
+  xy: 1771, 4
+  size: 93, 55
+  orig: 223, 67
+  offset: 127, 6
+  index: -1
+congrats/con_cn_023
+  rotate: false
+  xy: 314, 57
+  size: 81, 54
+  orig: 223, 67
+  offset: 138, 6
+  index: -1
+congrats/con_cn_024
+  rotate: false
+  xy: 88, 5
+  size: 66, 49
+  orig: 223, 67
+  offset: 152, 8
+  index: -1
+congrats/con_cn_025
+  rotate: false
+  xy: 817, 20
+  size: 49, 36
+  orig: 223, 67
+  offset: 161, 15
+  index: -1

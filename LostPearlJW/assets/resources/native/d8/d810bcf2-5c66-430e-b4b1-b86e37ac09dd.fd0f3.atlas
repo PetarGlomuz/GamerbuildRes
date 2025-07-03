@@ -1,0 +1,503 @@
+
+tc_fg_text_EN.png
+size: 1670,339
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoti_congratulations/biaoti_congratulations_00
+  rotate: true
+  xy: 1644, 134
+  size: 42, 24
+  orig: 351, 32
+  offset: 0, 6
+  index: -1
+biaoti_congratulations/biaoti_congratulations_01
+  rotate: false
+  xy: 1547, 36
+  size: 56, 26
+  orig: 351, 32
+  offset: 0, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_02
+  rotate: false
+  xy: 1479, 8
+  size: 71, 26
+  orig: 351, 32
+  offset: 0, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_03
+  rotate: false
+  xy: 1392, 8
+  size: 85, 26
+  orig: 351, 32
+  offset: 0, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_04
+  rotate: false
+  xy: 1447, 36
+  size: 98, 26
+  orig: 351, 32
+  offset: 0, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_05
+  rotate: true
+  xy: 1266, 66
+  size: 113, 27
+  orig: 351, 32
+  offset: 0, 4
+  index: -1
+biaoti_congratulations/biaoti_congratulations_06
+  rotate: false
+  xy: 1499, 93
+  size: 128, 26
+  orig: 351, 32
+  offset: 1, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_07
+  rotate: false
+  xy: 1500, 150
+  size: 142, 26
+  orig: 351, 32
+  offset: 1, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_08
+  rotate: false
+  xy: 676, 19
+  size: 153, 26
+  orig: 351, 32
+  offset: 5, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_09
+  rotate: false
+  xy: 1346, 206
+  size: 154, 27
+  orig: 351, 32
+  offset: 19, 4
+  index: -1
+biaoti_congratulations/biaoti_congratulations_10
+  rotate: false
+  xy: 1502, 205
+  size: 154, 27
+  orig: 351, 32
+  offset: 33, 4
+  index: -1
+biaoti_congratulations/biaoti_congratulations_11
+  rotate: false
+  xy: 1346, 177
+  size: 151, 27
+  orig: 351, 32
+  offset: 51, 4
+  index: -1
+biaoti_congratulations/biaoti_congratulations_12
+  rotate: false
+  xy: 1111, 153
+  size: 153, 26
+  orig: 351, 32
+  offset: 63, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_13
+  rotate: false
+  xy: 1111, 125
+  size: 153, 26
+  orig: 351, 32
+  offset: 78, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_14
+  rotate: false
+  xy: 1111, 97
+  size: 153, 26
+  orig: 351, 32
+  offset: 92, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_15
+  rotate: false
+  xy: 704, 98
+  size: 154, 26
+  orig: 351, 32
+  offset: 106, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_16
+  rotate: false
+  xy: 1499, 178
+  size: 150, 25
+  orig: 351, 32
+  offset: 124, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_17
+  rotate: false
+  xy: 860, 98
+  size: 154, 26
+  orig: 351, 32
+  offset: 135, 4
+  index: -1
+biaoti_congratulations/biaoti_congratulations_18
+  rotate: false
+  xy: 1346, 149
+  size: 152, 26
+  orig: 351, 32
+  offset: 150, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_19
+  rotate: false
+  xy: 1346, 93
+  size: 151, 26
+  orig: 351, 32
+  offset: 165, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_20
+  rotate: false
+  xy: 1346, 121
+  size: 152, 26
+  orig: 351, 32
+  offset: 181, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_21
+  rotate: false
+  xy: 1111, 69
+  size: 153, 26
+  orig: 351, 32
+  offset: 194, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_22
+  rotate: false
+  xy: 1500, 121
+  size: 138, 27
+  orig: 351, 32
+  offset: 212, 4
+  index: -1
+biaoti_congratulations/biaoti_congratulations_23
+  rotate: false
+  xy: 1346, 64
+  size: 127, 27
+  orig: 351, 32
+  offset: 223, 4
+  index: -1
+biaoti_congratulations/biaoti_congratulations_24
+  rotate: false
+  xy: 1475, 64
+  size: 114, 27
+  orig: 351, 32
+  offset: 237, 4
+  index: -1
+biaoti_congratulations/biaoti_congratulations_25
+  rotate: false
+  xy: 1346, 36
+  size: 99, 26
+  orig: 351, 32
+  offset: 252, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_26
+  rotate: false
+  xy: 1552, 8
+  size: 82, 26
+  orig: 351, 32
+  offset: 269, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_27
+  rotate: false
+  xy: 1031, 128
+  size: 70, 26
+  orig: 351, 32
+  offset: 281, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_28
+  rotate: false
+  xy: 1054, 156
+  size: 55, 25
+  orig: 351, 32
+  offset: 296, 5
+  index: -1
+biaoti_congratulations/biaoti_congratulations_29
+  rotate: false
+  xy: 1591, 67
+  size: 41, 24
+  orig: 351, 32
+  offset: 310, 6
+  index: -1
+fg_anniu_collect_EN
+  rotate: false
+  xy: 2, 52
+  size: 255, 47
+  orig: 255, 47
+  offset: 0, 0
+  index: -1
+fg_anniu_start_EN
+  rotate: false
+  xy: 425, 110
+  size: 179, 46
+  orig: 179, 47
+  offset: 0, 1
+  index: -1
+jiaju_congratulations_EN
+  rotate: false
+  xy: 2, 158
+  size: 708, 64
+  orig: 708, 64
+  offset: 0, 0
+  index: -1
+kaishi_congratulations_EN
+  rotate: false
+  xy: 2, 158
+  size: 708, 64
+  orig: 708, 64
+  offset: 0, 0
+  index: -1
+jiaju_extra_fg_EN
+  rotate: false
+  xy: 732, 284
+  size: 612, 53
+  orig: 612, 53
+  offset: 0, 0
+  index: -1
+jiaju_you_won_EN
+  rotate: false
+  xy: 1346, 286
+  size: 287, 51
+  orig: 287, 51
+  offset: 0, 0
+  index: -1
+kaishi_you_won_EN
+  rotate: false
+  xy: 1346, 286
+  size: 287, 51
+  orig: 287, 51
+  offset: 0, 0
+  index: -1
+jiesuan_free_games_EN
+  rotate: false
+  xy: 2, 101
+  size: 421, 55
+  orig: 421, 55
+  offset: 0, 0
+  index: -1
+jiesuan_in_EN
+  rotate: true
+  xy: 1291, 209
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+jiesuan_total_win_EN
+  rotate: false
+  xy: 2, 224
+  size: 728, 113
+  orig: 730, 114
+  offset: 1, 1
+  index: -1
+js_total_win/js_total_win_00
+  rotate: true
+  xy: 1346, 2
+  size: 32, 44
+  orig: 363, 57
+  offset: 4, 11
+  index: -1
+js_total_win/js_total_win_01
+  rotate: true
+  xy: 1247, 17
+  size: 47, 44
+  orig: 363, 57
+  offset: 4, 11
+  index: -1
+js_total_win/js_total_win_02
+  rotate: false
+  xy: 1054, 183
+  size: 65, 44
+  orig: 363, 57
+  offset: 4, 11
+  index: -1
+js_total_win/js_total_win_03
+  rotate: false
+  xy: 1016, 74
+  size: 80, 50
+  orig: 363, 57
+  offset: 3, 6
+  index: -1
+js_total_win/js_total_win_04
+  rotate: false
+  xy: 583, 2
+  size: 91, 50
+  orig: 363, 57
+  offset: 4, 6
+  index: -1
+js_total_win/js_total_win_05
+  rotate: false
+  xy: 587, 54
+  size: 111, 50
+  orig: 363, 57
+  offset: 4, 6
+  index: -1
+js_total_win/js_total_win_06
+  rotate: false
+  xy: 854, 2
+  size: 127, 46
+  orig: 363, 57
+  offset: 4, 10
+  index: -1
+js_total_win/js_total_win_07
+  rotate: false
+  xy: 854, 50
+  size: 141, 46
+  orig: 363, 57
+  offset: 4, 10
+  index: -1
+js_total_win/js_total_win_08
+  rotate: false
+  xy: 2, 4
+  size: 157, 46
+  orig: 363, 57
+  offset: 5, 10
+  index: -1
+js_total_win/js_total_win_09
+  rotate: false
+  xy: 422, 7
+  size: 159, 50
+  orig: 363, 57
+  offset: 18, 6
+  index: -1
+js_total_win/js_total_win_10
+  rotate: false
+  xy: 259, 49
+  size: 160, 50
+  orig: 363, 57
+  offset: 33, 6
+  index: -1
+js_total_win/js_total_win_11
+  rotate: false
+  xy: 732, 177
+  size: 159, 50
+  orig: 363, 57
+  offset: 50, 6
+  index: -1
+js_total_win/js_total_win_12
+  rotate: false
+  xy: 1507, 234
+  size: 151, 50
+  orig: 363, 57
+  offset: 64, 6
+  index: -1
+js_total_win/js_total_win_13
+  rotate: false
+  xy: 1111, 18
+  size: 134, 49
+  orig: 363, 57
+  offset: 81, 6
+  index: -1
+js_total_win/js_total_win_14
+  rotate: false
+  xy: 425, 59
+  size: 160, 49
+  orig: 363, 57
+  offset: 96, 6
+  index: -1
+js_total_win/js_total_win_15
+  rotate: false
+  xy: 1128, 232
+  size: 161, 50
+  orig: 363, 57
+  offset: 111, 5
+  index: -1
+js_total_win/js_total_win_16
+  rotate: false
+  xy: 893, 177
+  size: 159, 50
+  orig: 363, 57
+  offset: 127, 5
+  index: -1
+js_total_win/js_total_win_17
+  rotate: false
+  xy: 1128, 181
+  size: 159, 49
+  orig: 363, 57
+  offset: 144, 6
+  index: -1
+js_total_win/js_total_win_18
+  rotate: false
+  xy: 1346, 235
+  size: 159, 49
+  orig: 363, 57
+  offset: 158, 6
+  index: -1
+js_total_win/js_total_win_19
+  rotate: false
+  xy: 872, 126
+  size: 157, 49
+  orig: 363, 57
+  offset: 177, 6
+  index: -1
+js_total_win/js_total_win_20
+  rotate: false
+  xy: 712, 126
+  size: 158, 49
+  orig: 363, 57
+  offset: 189, 6
+  index: -1
+js_total_win/js_total_win_21
+  rotate: false
+  xy: 700, 47
+  size: 152, 49
+  orig: 363, 57
+  offset: 210, 6
+  index: -1
+js_total_win/js_total_win_22
+  rotate: true
+  xy: 1295, 80
+  size: 127, 49
+  orig: 363, 57
+  offset: 236, 6
+  index: -1
+js_total_win/js_total_win_23
+  rotate: false
+  xy: 983, 2
+  size: 126, 46
+  orig: 363, 57
+  offset: 237, 9
+  index: -1
+js_total_win/js_total_win_24
+  rotate: false
+  xy: 161, 2
+  size: 111, 45
+  orig: 363, 57
+  offset: 252, 10
+  index: -1
+js_total_win/js_total_win_25
+  rotate: false
+  xy: 606, 106
+  size: 96, 50
+  orig: 363, 57
+  offset: 267, 5
+  index: -1
+js_total_win/js_total_win_26
+  rotate: false
+  xy: 274, 2
+  size: 80, 45
+  orig: 363, 57
+  offset: 283, 10
+  index: -1
+js_total_win/js_total_win_27
+  rotate: false
+  xy: 356, 2
+  size: 64, 45
+  orig: 363, 57
+  offset: 299, 10
+  index: -1
+js_total_win/js_total_win_28
+  rotate: false
+  xy: 1295, 34
+  size: 49, 44
+  orig: 363, 57
+  offset: 314, 11
+  index: -1
+js_total_win/js_total_win_29
+  rotate: false
+  xy: 1635, 293
+  size: 33, 44
+  orig: 363, 57
+  offset: 330, 11
+  index: -1
+kaishi_free_games_EN
+  rotate: false
+  xy: 732, 229
+  size: 394, 53
+  orig: 394, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+TC_SFG_diban.png
+size: 1357,725
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diban1
+  rotate: true
+  xy: 2, 2
+  size: 721, 669
+  orig: 721, 669
+  offset: 0, 0
+  index: -1
+diban2
+  rotate: true
+  xy: 673, 3
+  size: 720, 642
+  orig: 720, 642
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 1317, 688
+  size: 38, 35
+  orig: 50, 50
+  offset: 6, 8
+  index: -1

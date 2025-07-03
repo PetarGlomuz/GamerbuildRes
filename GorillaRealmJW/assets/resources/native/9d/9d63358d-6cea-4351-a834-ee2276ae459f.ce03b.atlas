@@ -1,0 +1,111 @@
+
+tingpai.png
+size: 867,865
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/g/g_00
+  rotate: false
+  xy: 402, 371
+  size: 76, 492
+  orig: 86, 492
+  offset: 8, 0
+  index: -1
+wenjian/g/g_01
+  rotate: false
+  xy: 558, 371
+  size: 75, 492
+  orig: 86, 492
+  offset: 10, 0
+  index: -1
+wenjian/g/g_02
+  rotate: false
+  xy: 789, 389
+  size: 76, 474
+  orig: 86, 492
+  offset: 10, 0
+  index: -1
+wenjian/g/g_03
+  rotate: true
+  xy: 2, 48
+  size: 77, 480
+  orig: 86, 492
+  offset: 9, 0
+  index: -1
+wenjian/g/g_04
+  rotate: true
+  xy: 2, 209
+  size: 78, 486
+  orig: 86, 492
+  offset: 8, 0
+  index: -1
+wenjian/g/g_05
+  rotate: false
+  xy: 164, 371
+  size: 78, 492
+  orig: 86, 492
+  offset: 7, 0
+  index: -1
+wenjian/g/g_06
+  rotate: false
+  xy: 244, 371
+  size: 77, 492
+  orig: 86, 492
+  offset: 6, 0
+  index: -1
+wenjian/g/g_07
+  rotate: false
+  xy: 480, 371
+  size: 76, 492
+  orig: 86, 492
+  offset: 5, 0
+  index: -1
+wenjian/g/g_08
+  rotate: false
+  xy: 635, 371
+  size: 75, 492
+  orig: 86, 492
+  offset: 5, 0
+  index: -1
+wenjian/g/g_09
+  rotate: false
+  xy: 323, 371
+  size: 77, 492
+  orig: 86, 492
+  offset: 4, 0
+  index: -1
+wenjian/g/g_10
+  rotate: false
+  xy: 2, 371
+  size: 79, 492
+  orig: 86, 492
+  offset: 3, 0
+  index: -1
+wenjian/g/g_11
+  rotate: true
+  xy: 2, 127
+  size: 80, 479
+  orig: 86, 492
+  offset: 3, 0
+  index: -1
+wenjian/g/g_12
+  rotate: true
+  xy: 2, 289
+  size: 80, 488
+  orig: 86, 492
+  offset: 4, 0
+  index: -1
+wenjian/g/g_13
+  rotate: false
+  xy: 83, 371
+  size: 79, 492
+  orig: 86, 492
+  offset: 5, 0
+  index: -1
+wenjian/g/g_14
+  rotate: false
+  xy: 712, 371
+  size: 75, 492
+  orig: 86, 492
+  offset: 8, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+Map_guang.png
+size: 874,447
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/g_00
+  rotate: false
+  xy: 2, 358
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_01
+  rotate: false
+  xy: 2, 269
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_02
+  rotate: false
+  xy: 220, 358
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_03
+  rotate: false
+  xy: 2, 180
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_04
+  rotate: false
+  xy: 220, 269
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_05
+  rotate: false
+  xy: 438, 358
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_06
+  rotate: false
+  xy: 2, 91
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_07
+  rotate: false
+  xy: 220, 180
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_08
+  rotate: false
+  xy: 438, 269
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_09
+  rotate: false
+  xy: 656, 358
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_10
+  rotate: false
+  xy: 2, 2
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_11
+  rotate: false
+  xy: 220, 91
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_12
+  rotate: false
+  xy: 438, 180
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_13
+  rotate: false
+  xy: 656, 269
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_14
+  rotate: false
+  xy: 220, 2
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_15
+  rotate: false
+  xy: 438, 91
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_16
+  rotate: false
+  xy: 656, 180
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_17
+  rotate: false
+  xy: 438, 2
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_18
+  rotate: false
+  xy: 656, 91
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1
+1/g_19
+  rotate: false
+  xy: 656, 2
+  size: 216, 87
+  orig: 238, 87
+  offset: 7, 0
+  index: -1

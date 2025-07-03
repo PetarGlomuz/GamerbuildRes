@@ -1,0 +1,286 @@
+
+BG_JPkuang.png
+size: 2030,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Line/Line1_01
+  rotate: true
+  xy: 1983, 195
+  size: 50, 26
+  orig: 414, 119
+  offset: 29, 43
+  index: -1
+Line/Line1_02
+  rotate: false
+  xy: 1119, 35
+  size: 80, 28
+  orig: 414, 119
+  offset: 30, 42
+  index: -1
+Line/Line1_03
+  rotate: false
+  xy: 1874, 55
+  size: 114, 29
+  orig: 414, 119
+  offset: 28, 41
+  index: -1
+Line/Line1_04
+  rotate: false
+  xy: 1831, 467
+  size: 154, 30
+  orig: 414, 119
+  offset: 27, 41
+  index: -1
+Line/Line1_05
+  rotate: false
+  xy: 1831, 499
+  size: 183, 30
+  orig: 414, 119
+  offset: 26, 41
+  index: -1
+Line/Line1_06
+  rotate: false
+  xy: 1673, 25
+  size: 224, 28
+  orig: 414, 119
+  offset: 25, 42
+  index: -1
+Line/Line1_07
+  rotate: false
+  xy: 1619, 55
+  size: 253, 29
+  orig: 414, 119
+  offset: 25, 41
+  index: -1
+Line/Line1_08
+  rotate: false
+  xy: 1029, 2
+  size: 288, 30
+  orig: 414, 119
+  offset: 26, 41
+  index: -1
+Line/Line1_09
+  rotate: false
+  xy: 710, 2
+  size: 317, 30
+  orig: 414, 119
+  offset: 27, 41
+  index: -1
+Line/Line1_10
+  rotate: false
+  xy: 765, 34
+  size: 352, 29
+  orig: 414, 119
+  offset: 27, 42
+  index: -1
+Line/Line1_11
+  rotate: false
+  xy: 356, 16
+  size: 352, 30
+  orig: 414, 119
+  offset: 27, 41
+  index: -1
+Line/Line1_12
+  rotate: false
+  xy: 2, 16
+  size: 352, 31
+  orig: 414, 119
+  offset: 27, 41
+  index: -1
+Line/Line1_13
+  rotate: false
+  xy: 1319, 18
+  size: 352, 31
+  orig: 414, 119
+  offset: 27, 41
+  index: -1
+Line/Line1_14
+  rotate: false
+  xy: 1629, 214
+  size: 352, 31
+  orig: 414, 119
+  offset: 27, 41
+  index: -1
+Line/Line1_15
+  rotate: false
+  xy: 1629, 181
+  size: 352, 31
+  orig: 414, 119
+  offset: 27, 41
+  index: -1
+Line/Line1_16
+  rotate: false
+  xy: 1629, 148
+  size: 352, 31
+  orig: 414, 119
+  offset: 28, 41
+  index: -1
+Line/Line1_17
+  rotate: false
+  xy: 410, 48
+  size: 353, 30
+  orig: 414, 119
+  offset: 27, 42
+  index: -1
+Line/Line1_18
+  rotate: false
+  xy: 1619, 117
+  size: 352, 29
+  orig: 414, 119
+  offset: 27, 42
+  index: -1
+Line/Line1_19
+  rotate: false
+  xy: 1619, 86
+  size: 352, 29
+  orig: 414, 119
+  offset: 27, 42
+  index: -1
+Xing/Xing_00
+  rotate: false
+  xy: 1233, 343
+  size: 396, 97
+  orig: 411, 159
+  offset: 15, 6
+  index: -1
+Xing/Xing_01
+  rotate: false
+  xy: 825, 65
+  size: 402, 97
+  orig: 411, 159
+  offset: 9, 5
+  index: -1
+Xing/Xing_02
+  rotate: false
+  xy: 2, 245
+  size: 408, 100
+  orig: 411, 159
+  offset: 3, 3
+  index: -1
+Xing/Xing_03
+  rotate: false
+  xy: 415, 353
+  size: 411, 93
+  orig: 411, 159
+  offset: 0, 2
+  index: -1
+Xing/Xing_04
+  rotate: false
+  xy: 2, 347
+  size: 411, 99
+  orig: 411, 159
+  offset: 0, 1
+  index: -1
+Xing/Xing_05
+  rotate: false
+  xy: 1005, 443
+  size: 411, 86
+  orig: 411, 159
+  offset: 0, 2
+  index: -1
+Xing/Xing_06
+  rotate: false
+  xy: 1418, 442
+  size: 411, 87
+  orig: 411, 159
+  offset: 0, 1
+  index: -1
+Xing/Xing_07
+  rotate: false
+  xy: 415, 263
+  size: 411, 88
+  orig: 411, 159
+  offset: 0, 3
+  index: -1
+Xing/Xing_08
+  rotate: false
+  xy: 412, 80
+  size: 411, 86
+  orig: 411, 159
+  offset: 0, 7
+  index: -1
+Xing/Xing_09
+  rotate: false
+  xy: 828, 255
+  size: 411, 86
+  orig: 411, 159
+  offset: 0, 8
+  index: -1
+Xing/Xing_10
+  rotate: false
+  xy: 825, 164
+  size: 411, 89
+  orig: 411, 159
+  offset: 0, 8
+  index: -1
+Xing/Xing_11
+  rotate: false
+  xy: 412, 168
+  size: 410, 93
+  orig: 411, 159
+  offset: 1, 5
+  index: -1
+Xing/Xing_12
+  rotate: false
+  xy: 2, 148
+  size: 408, 95
+  orig: 411, 159
+  offset: 2, 4
+  index: -1
+Xing/Xing_13
+  rotate: false
+  xy: 2, 49
+  size: 406, 97
+  orig: 411, 159
+  offset: 3, 3
+  index: -1
+Xing/Xing_14
+  rotate: false
+  xy: 828, 343
+  size: 403, 98
+  orig: 411, 159
+  offset: 4, 3
+  index: -1
+Xing/Xing_15
+  rotate: false
+  xy: 1241, 248
+  size: 399, 93
+  orig: 411, 159
+  offset: 6, 4
+  index: -1
+Xing/Xing_16
+  rotate: false
+  xy: 1229, 51
+  size: 388, 95
+  orig: 411, 159
+  offset: 7, 4
+  index: -1
+Xing/Xing_17
+  rotate: false
+  xy: 1642, 247
+  size: 386, 94
+  orig: 411, 159
+  offset: 9, 4
+  index: -1
+Xing/Xing_18
+  rotate: false
+  xy: 1631, 343
+  size: 387, 97
+  orig: 411, 159
+  offset: 11, 3
+  index: -1
+Xing/Xing_19
+  rotate: false
+  xy: 1238, 148
+  size: 389, 98
+  orig: 411, 159
+  offset: 17, 4
+  index: -1
+white_01
+  rotate: false
+  xy: 2, 448
+  size: 1001, 81
+  orig: 1001, 129
+  offset: 0, 20
+  index: -1

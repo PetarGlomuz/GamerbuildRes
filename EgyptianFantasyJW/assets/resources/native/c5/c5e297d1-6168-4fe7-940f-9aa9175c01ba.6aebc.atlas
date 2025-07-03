@@ -1,0 +1,13 @@
+
+boxshine.png
+size: 470,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Box_shine
+  rotate: false
+  xy: 2, 138
+  size: 466, 328
+  orig: 466, 328
+  offset: 0, 0
+  index: -1

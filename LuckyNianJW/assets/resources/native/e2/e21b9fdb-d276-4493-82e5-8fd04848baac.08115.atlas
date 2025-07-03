@@ -1,0 +1,118 @@
+
+TC_TY_btn.png
+size: 998,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CN_collect
+  rotate: false
+  xy: 675, 3
+  size: 92, 47
+  orig: 170, 47
+  offset: 39, 0
+  index: -1
+COLLECT
+  rotate: false
+  xy: 391, 8
+  size: 170, 37
+  orig: 170, 37
+  offset: 0, 0
+  index: -1
+START
+  rotate: true
+  xy: 315, 32
+  size: 123, 38
+  orig: 123, 38
+  offset: 0, 0
+  index: -1
+biankuan_24
+  rotate: false
+  xy: 2, 11
+  size: 311, 144
+  orig: 400, 150
+  offset: 45, 6
+  index: -1
+btn_cor/btn_green
+  rotate: false
+  xy: 663, 52
+  size: 302, 103
+  orig: 302, 103
+  offset: 0, 0
+  index: -1
+btn_cor/btn_red
+  rotate: false
+  xy: 355, 47
+  size: 306, 108
+  orig: 306, 108
+  offset: 0, 0
+  index: -1
+sg/btn_an00
+  rotate: false
+  xy: 2, 6
+  size: 2, 3
+  orig: 150, 50
+  offset: 21, 36
+  index: -1
+sg/btn_an01
+  rotate: false
+  xy: 315, 2
+  size: 24, 28
+  orig: 150, 50
+  offset: 20, 14
+  index: -1
+sg/btn_an02
+  rotate: true
+  xy: 360, 3
+  size: 42, 29
+  orig: 150, 50
+  offset: 20, 13
+  index: -1
+sg/btn_an03
+  rotate: false
+  xy: 769, 21
+  size: 61, 29
+  orig: 150, 50
+  offset: 20, 13
+  index: -1
+sg/btn_an04
+  rotate: true
+  xy: 967, 78
+  size: 77, 29
+  orig: 150, 50
+  offset: 22, 13
+  index: -1
+sg/btn_an05
+  rotate: false
+  xy: 594, 16
+  size: 79, 29
+  orig: 150, 50
+  offset: 39, 13
+  index: -1
+sg/btn_an06
+  rotate: true
+  xy: 967, 4
+  size: 72, 29
+  orig: 150, 50
+  offset: 58, 13
+  index: -1
+sg/btn_an07
+  rotate: false
+  xy: 832, 21
+  size: 54, 29
+  orig: 150, 50
+  offset: 76, 13
+  index: -1
+sg/btn_an08
+  rotate: true
+  xy: 563, 10
+  size: 35, 29
+  orig: 150, 50
+  offset: 95, 13
+  index: -1
+sg/btn_an09
+  rotate: false
+  xy: 341, 4
+  size: 17, 26
+  orig: 150, 50
+  offset: 113, 13
+  index: -1

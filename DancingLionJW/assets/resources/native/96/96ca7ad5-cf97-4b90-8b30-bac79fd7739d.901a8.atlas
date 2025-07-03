@@ -1,0 +1,174 @@
+
+BG_GuoChang.png
+size: 974,656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/4j1
+  rotate: true
+  xy: 905, 192
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+images/4j13
+  rotate: true
+  xy: 845, 354
+  size: 300, 127
+  orig: 300, 134
+  offset: 0, 7
+  index: -1
+images/4j2
+  rotate: false
+  xy: 769, 104
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+images/4j2s
+  rotate: false
+  xy: 837, 115
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+images/4j3
+  rotate: true
+  xy: 913, 124
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+images/4j3s
+  rotate: true
+  xy: 879, 39
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+images/4qiandai
+  rotate: false
+  xy: 2, 8
+  size: 414, 244
+  orig: 414, 244
+  offset: 0, 0
+  index: -1
+images/4sui1
+  rotate: false
+  xy: 575, 182
+  size: 108, 128
+  orig: 109, 128
+  offset: 0, 0
+  index: -1
+images/4sui2
+  rotate: false
+  xy: 685, 148
+  size: 115, 83
+  orig: 115, 83
+  offset: 0, 0
+  index: -1
+images/4sui2s
+  rotate: false
+  xy: 685, 233
+  size: 123, 77
+  orig: 123, 77
+  offset: 0, 0
+  index: -1
+images/g4_000
+  rotate: false
+  xy: 404, 312
+  size: 439, 342
+  orig: 440, 350
+  offset: 1, 0
+  index: -1
+images/g8/g8_000
+  rotate: false
+  xy: 418, 60
+  size: 150, 98
+  orig: 150, 100
+  offset: 0, 2
+  index: -1
+images/glow
+  rotate: false
+  xy: 2, 254
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+images/glow2
+  rotate: false
+  xy: 418, 160
+  size: 155, 150
+  orig: 163, 150
+  offset: 4, 0
+  index: -1
+images/jb/coin_00
+  rotate: false
+  xy: 810, 167
+  size: 93, 93
+  orig: 125, 125
+  offset: 16, 16
+  index: -1
+images/jb/coin_01
+  rotate: true
+  xy: 845, 262
+  size: 90, 95
+  orig: 125, 125
+  offset: 15, 15
+  index: -1
+images/jb/coin_02
+  rotate: true
+  xy: 575, 99
+  size: 81, 95
+  orig: 125, 125
+  offset: 17, 15
+  index: -1
+images/jb/coin_03
+  rotate: false
+  xy: 745, 7
+  size: 65, 95
+  orig: 125, 125
+  offset: 24, 15
+  index: -1
+images/jb/coin_04
+  rotate: true
+  xy: 418, 16
+  size: 42, 95
+  orig: 125, 125
+  offset: 37, 15
+  index: -1
+images/jb/coin_05
+  rotate: false
+  xy: 942, 257
+  size: 17, 95
+  orig: 125, 125
+  offset: 54, 15
+  index: -1
+images/jb/coin_06
+  rotate: true
+  xy: 672, 104
+  size: 42, 95
+  orig: 125, 125
+  offset: 46, 15
+  index: -1
+images/jb/coin_07
+  rotate: false
+  xy: 812, 7
+  size: 65, 95
+  orig: 125, 125
+  offset: 36, 15
+  index: -1
+images/jb/coin_08
+  rotate: false
+  xy: 662, 2
+  size: 81, 95
+  orig: 125, 125
+  offset: 27, 15
+  index: -1
+images/jb/coin_09
+  rotate: false
+  xy: 570, 2
+  size: 90, 95
+  orig: 125, 125
+  offset: 20, 15
+  index: -1

@@ -1,0 +1,111 @@
+
+NG_menSG.png
+size: 289,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+men/men_00
+  rotate: false
+  xy: 52, 10
+  size: 14, 22
+  orig: 73, 130
+  offset: 0, 94
+  index: -1
+men/men_01
+  rotate: true
+  xy: 2, 4
+  size: 28, 48
+  orig: 73, 130
+  offset: 0, 79
+  index: -1
+men/men_02
+  rotate: true
+  xy: 75, 129
+  size: 37, 69
+  orig: 73, 130
+  offset: 0, 60
+  index: -1
+men/men_03
+  rotate: false
+  xy: 122, 26
+  size: 42, 86
+  orig: 73, 130
+  offset: 3, 43
+  index: -1
+men/men_04
+  rotate: true
+  xy: 146, 176
+  size: 51, 122
+  orig: 73, 130
+  offset: 0, 7
+  index: -1
+men/men_05
+  rotate: true
+  xy: 146, 229
+  size: 58, 129
+  orig: 73, 130
+  offset: 0, 0
+  index: -1
+men/men_06
+  rotate: false
+  xy: 2, 34
+  size: 64, 128
+  orig: 73, 130
+  offset: 0, 0
+  index: -1
+men/men_07
+  rotate: false
+  xy: 2, 164
+  size: 71, 123
+  orig: 73, 130
+  offset: 0, 0
+  index: -1
+men/men_08
+  rotate: false
+  xy: 75, 168
+  size: 69, 119
+  orig: 73, 130
+  offset: 4, 0
+  index: -1
+men/men_09
+  rotate: true
+  xy: 146, 114
+  size: 60, 113
+  orig: 73, 130
+  offset: 13, 0
+  index: -1
+men/men_10
+  rotate: false
+  xy: 68, 2
+  size: 52, 110
+  orig: 73, 130
+  offset: 21, 0
+  index: -1
+men/men_11
+  rotate: false
+  xy: 166, 29
+  size: 38, 83
+  orig: 73, 130
+  offset: 30, 0
+  index: -1
+men/men_12
+  rotate: false
+  xy: 206, 49
+  size: 35, 63
+  orig: 73, 130
+  offset: 38, 0
+  index: -1
+men/men_13
+  rotate: false
+  xy: 261, 134
+  size: 26, 40
+  orig: 73, 130
+  offset: 47, 0
+  index: -1
+men/men_14
+  rotate: false
+  xy: 270, 202
+  size: 17, 25
+  orig: 73, 130
+  offset: 56, 0
+  index: -1

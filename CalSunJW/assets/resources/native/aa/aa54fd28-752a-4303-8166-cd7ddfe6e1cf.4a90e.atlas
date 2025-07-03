@@ -1,0 +1,146 @@
+
+Fly_zuanshi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zuanshi/zuanshi_00
+  rotate: true
+  xy: 187, 309
+  size: 100, 65
+  orig: 150, 150
+  offset: 28, 46
+  index: -1
+zuanshi/zuanshi_01
+  rotate: true
+  xy: 144, 115
+  size: 93, 67
+  orig: 150, 150
+  offset: 37, 48
+  index: -1
+zuanshi/zuanshi_02
+  rotate: false
+  xy: 213, 125
+  size: 79, 86
+  orig: 150, 150
+  offset: 48, 35
+  index: -1
+zuanshi/zuanshi_03
+  rotate: false
+  xy: 2, 99
+  size: 72, 101
+  orig: 150, 150
+  offset: 52, 21
+  index: -1
+zuanshi/zuanshi_04
+  rotate: false
+  xy: 103, 307
+  size: 82, 102
+  orig: 150, 150
+  offset: 43, 16
+  index: -1
+zuanshi/zuanshi_05
+  rotate: false
+  xy: 108, 411
+  size: 97, 99
+  orig: 150, 150
+  offset: 31, 16
+  index: -1
+zuanshi/zuanshi_06
+  rotate: false
+  xy: 2, 411
+  size: 104, 99
+  orig: 150, 150
+  offset: 23, 16
+  index: -1
+zuanshi/zuanshi_07
+  rotate: false
+  xy: 2, 306
+  size: 99, 103
+  orig: 150, 150
+  offset: 22, 16
+  index: -1
+zuanshi/zuanshi_08
+  rotate: false
+  xy: 2, 202
+  size: 91, 102
+  orig: 150, 150
+  offset: 23, 19
+  index: -1
+zuanshi/zuanshi_09
+  rotate: false
+  xy: 207, 421
+  size: 88, 89
+  orig: 150, 150
+  offset: 23, 31
+  index: -1
+zuanshi/zuanshi_10
+  rotate: true
+  xy: 171, 213
+  size: 92, 69
+  orig: 150, 150
+  offset: 21, 48
+  index: -1
+zuanshi/zuanshi_11
+  rotate: true
+  xy: 76, 104
+  size: 96, 66
+  orig: 150, 150
+  offset: 20, 44
+  index: -1
+zuanshi/zuanshi_12
+  rotate: true
+  xy: 322, 336
+  size: 97, 67
+  orig: 150, 150
+  offset: 22, 42
+  index: -1
+zuanshi/zuanshi_13
+  rotate: false
+  xy: 393, 438
+  size: 96, 72
+  orig: 150, 150
+  offset: 25, 42
+  index: -1
+zuanshi/zuanshi_14
+  rotate: false
+  xy: 297, 435
+  size: 94, 75
+  orig: 150, 150
+  offset: 27, 44
+  index: -1
+zuanshi/zuanshi_15
+  rotate: true
+  xy: 148, 20
+  size: 93, 75
+  orig: 150, 150
+  offset: 27, 45
+  index: -1
+zuanshi/zuanshi_16
+  rotate: true
+  xy: 95, 210
+  size: 94, 74
+  orig: 150, 150
+  offset: 24, 45
+  index: -1
+zuanshi/zuanshi_17
+  rotate: true
+  xy: 2, 2
+  size: 95, 73
+  orig: 150, 150
+  offset: 22, 44
+  index: -1
+zuanshi/zuanshi_18
+  rotate: true
+  xy: 77, 7
+  size: 95, 69
+  orig: 150, 150
+  offset: 22, 44
+  index: -1
+zuanshi/zuanshi_19
+  rotate: true
+  xy: 254, 320
+  size: 99, 66
+  orig: 150, 150
+  offset: 21, 45
+  index: -1

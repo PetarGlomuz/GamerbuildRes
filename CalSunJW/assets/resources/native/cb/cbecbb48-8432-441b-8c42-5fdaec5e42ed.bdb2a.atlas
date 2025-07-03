@@ -1,0 +1,111 @@
+
+MiniGame_yingfenkuang.png
+size: 913,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+win_lizi_00
+  rotate: false
+  xy: 2, 131
+  size: 237, 63
+  orig: 927, 438
+  offset: 636, 147
+  index: -1
+win_lizi_01
+  rotate: false
+  xy: 2, 66
+  size: 237, 63
+  orig: 927, 438
+  offset: 636, 147
+  index: -1
+win_lizi_02
+  rotate: false
+  xy: 241, 3
+  size: 237, 63
+  orig: 927, 438
+  offset: 636, 147
+  index: -1
+win_lizi_03
+  rotate: false
+  xy: 482, 197
+  size: 239, 62
+  orig: 927, 438
+  offset: 635, 147
+  index: -1
+win_lizi_04
+  rotate: false
+  xy: 2, 2
+  size: 237, 62
+  orig: 927, 438
+  offset: 636, 147
+  index: -1
+win_lizi_05
+  rotate: true
+  xy: 723, 20
+  size: 239, 62
+  orig: 927, 438
+  offset: 635, 147
+  index: -1
+win_lizi_06
+  rotate: true
+  xy: 787, 20
+  size: 239, 62
+  orig: 927, 438
+  offset: 635, 147
+  index: -1
+win_lizi_07
+  rotate: true
+  xy: 851, 20
+  size: 239, 60
+  orig: 927, 438
+  offset: 635, 148
+  index: -1
+win_lizi_08
+  rotate: false
+  xy: 482, 133
+  size: 239, 62
+  orig: 927, 438
+  offset: 635, 147
+  index: -1
+win_lizi_09
+  rotate: false
+  xy: 241, 132
+  size: 239, 62
+  orig: 927, 438
+  offset: 635, 147
+  index: -1
+win_lizi_10
+  rotate: false
+  xy: 482, 69
+  size: 239, 62
+  orig: 927, 438
+  offset: 635, 147
+  index: -1
+win_lizi_11
+  rotate: false
+  xy: 241, 68
+  size: 239, 62
+  orig: 927, 438
+  offset: 635, 147
+  index: -1
+win_lizi_12
+  rotate: false
+  xy: 482, 5
+  size: 239, 62
+  orig: 927, 438
+  offset: 635, 147
+  index: -1
+win_lizi_13
+  rotate: false
+  xy: 2, 196
+  size: 239, 63
+  orig: 927, 438
+  offset: 635, 147
+  index: -1
+win_lizi_14
+  rotate: false
+  xy: 243, 196
+  size: 237, 63
+  orig: 927, 438
+  offset: 636, 147
+  index: -1

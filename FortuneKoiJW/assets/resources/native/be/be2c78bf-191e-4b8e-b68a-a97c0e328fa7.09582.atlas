@@ -1,0 +1,41 @@
+
+BG_coin_glow.png
+size: 521,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan1
+  rotate: true
+  xy: 121, 3
+  size: 105, 98
+  orig: 150, 150
+  offset: 23, 29
+  index: -1
+quan2
+  rotate: true
+  xy: 221, 3
+  size: 105, 98
+  orig: 150, 150
+  offset: 23, 29
+  index: -1
+quan3
+  rotate: true
+  xy: 321, 3
+  size: 105, 98
+  orig: 150, 150
+  offset: 23, 29
+  index: -1
+quan4
+  rotate: true
+  xy: 421, 3
+  size: 105, 98
+  orig: 150, 150
+  offset: 23, 29
+  index: -1
+quan5
+  rotate: false
+  xy: 2, 2
+  size: 117, 106
+  orig: 150, 150
+  offset: 17, 23
+  index: -1

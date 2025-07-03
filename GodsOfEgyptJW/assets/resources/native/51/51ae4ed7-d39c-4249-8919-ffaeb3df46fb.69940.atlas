@@ -1,0 +1,258 @@
+
+ng_multi_symbol.png
+size: 1846,659
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/01/1_00
+  rotate: false
+  xy: 1665, 478
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/01/1_01
+  rotate: true
+  xy: 1769, 561
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/01/1_02
+  rotate: false
+  xy: 938, 63
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/01/1_03
+  rotate: false
+  xy: 1037, 142
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/01/1_04
+  rotate: false
+  xy: 1665, 401
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/01/1_05
+  rotate: false
+  xy: 1665, 324
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/01/1_06
+  rotate: false
+  xy: 1665, 247
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/01/1_07
+  rotate: false
+  xy: 1665, 170
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/01/1_08
+  rotate: false
+  xy: 938, 140
+  size: 97, 77
+  orig: 288, 288
+  offset: 96, 106
+  index: -1
+images/01/1_09
+  rotate: false
+  xy: 1665, 93
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/01/1_10
+  rotate: false
+  xy: 1665, 16
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/01/1_11
+  rotate: true
+  xy: 1763, 457
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/01/1_12
+  rotate: true
+  xy: 1763, 359
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/01/1_13
+  rotate: true
+  xy: 1763, 261
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/01/1_14
+  rotate: true
+  xy: 1763, 163
+  size: 96, 75
+  orig: 288, 288
+  offset: 97, 107
+  index: -1
+images/glow
+  rotate: false
+  xy: 1665, 555
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+images/sha/1_00
+  rotate: false
+  xy: 1192, 221
+  size: 235, 216
+  orig: 400, 400
+  offset: 77, 94
+  index: -1
+images/sha/1_01
+  rotate: false
+  xy: 1430, 4
+  size: 233, 216
+  orig: 400, 400
+  offset: 77, 94
+  index: -1
+images/sha/1_02
+  rotate: false
+  xy: 1429, 222
+  size: 234, 216
+  orig: 400, 400
+  offset: 77, 94
+  index: -1
+images/sha/1_03
+  rotate: false
+  xy: 1192, 439
+  size: 234, 218
+  orig: 400, 400
+  offset: 77, 93
+  index: -1
+images/sha/1_04
+  rotate: false
+  xy: 1428, 440
+  size: 235, 217
+  orig: 400, 400
+  offset: 77, 94
+  index: -1
+images/sha/1_05
+  rotate: false
+  xy: 2, 439
+  size: 236, 218
+  orig: 400, 400
+  offset: 77, 93
+  index: -1
+images/sha/1_06
+  rotate: false
+  xy: 2, 219
+  size: 236, 218
+  orig: 400, 400
+  offset: 77, 93
+  index: -1
+images/sha/1_07
+  rotate: false
+  xy: 240, 439
+  size: 236, 218
+  orig: 400, 400
+  offset: 77, 93
+  index: -1
+images/sha/1_08
+  rotate: false
+  xy: 240, 219
+  size: 236, 218
+  orig: 400, 400
+  offset: 77, 93
+  index: -1
+images/sha/1_09
+  rotate: false
+  xy: 478, 439
+  size: 236, 218
+  orig: 400, 400
+  offset: 77, 93
+  index: -1
+images/sha/1_10
+  rotate: false
+  xy: 478, 219
+  size: 236, 218
+  orig: 400, 400
+  offset: 77, 93
+  index: -1
+images/sha/1_11
+  rotate: false
+  xy: 716, 439
+  size: 236, 218
+  orig: 400, 400
+  offset: 77, 93
+  index: -1
+images/sha/1_12
+  rotate: false
+  xy: 716, 219
+  size: 236, 218
+  orig: 400, 400
+  offset: 77, 93
+  index: -1
+images/sha/1_13
+  rotate: false
+  xy: 954, 439
+  size: 236, 218
+  orig: 400, 400
+  offset: 77, 93
+  index: -1
+images/sha/1_14
+  rotate: false
+  xy: 954, 219
+  size: 236, 218
+  orig: 400, 400
+  offset: 77, 93
+  index: -1
+images/sha/1_15
+  rotate: false
+  xy: 1192, 3
+  size: 236, 216
+  orig: 400, 400
+  offset: 77, 94
+  index: -1
+images/sha/1_16
+  rotate: false
+  xy: 2, 2
+  size: 235, 215
+  orig: 400, 400
+  offset: 77, 94
+  index: -1
+images/sha/1_17
+  rotate: false
+  xy: 239, 3
+  size: 232, 214
+  orig: 400, 400
+  offset: 80, 95
+  index: -1
+images/sha/1_18
+  rotate: false
+  xy: 473, 4
+  size: 231, 213
+  orig: 400, 400
+  offset: 79, 95
+  index: -1
+images/sha/1_19
+  rotate: false
+  xy: 706, 6
+  size: 230, 211
+  orig: 400, 400
+  offset: 79, 95
+  index: -1

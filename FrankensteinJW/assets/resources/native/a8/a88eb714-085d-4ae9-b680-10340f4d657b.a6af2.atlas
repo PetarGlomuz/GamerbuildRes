@@ -1,0 +1,111 @@
+
+BG_tingpai.png
+size: 2018,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tingpai/tingpai_00000
+  rotate: true
+  xy: 1611, 398
+  size: 196, 400
+  orig: 284, 458
+  offset: 47, 27
+  index: -1
+tingpai/tingpai_00001
+  rotate: true
+  xy: 2, 399
+  size: 195, 400
+  orig: 284, 458
+  offset: 47, 28
+  index: -1
+tingpai/tingpai_00002
+  rotate: true
+  xy: 404, 399
+  size: 195, 401
+  orig: 284, 458
+  offset: 48, 28
+  index: -1
+tingpai/tingpai_00003
+  rotate: true
+  xy: 2, 201
+  size: 196, 401
+  orig: 284, 458
+  offset: 47, 27
+  index: -1
+tingpai/tingpai_00004
+  rotate: true
+  xy: 405, 201
+  size: 196, 402
+  orig: 284, 458
+  offset: 47, 27
+  index: -1
+tingpai/tingpai_00005
+  rotate: true
+  xy: 809, 201
+  size: 196, 399
+  orig: 284, 458
+  offset: 47, 30
+  index: -1
+tingpai/tingpai_00006
+  rotate: true
+  xy: 1611, 200
+  size: 196, 404
+  orig: 284, 458
+  offset: 47, 25
+  index: -1
+tingpai/tingpai_00007
+  rotate: true
+  xy: 807, 399
+  size: 195, 399
+  orig: 284, 458
+  offset: 48, 30
+  index: -1
+tingpai/tingpai_00008
+  rotate: true
+  xy: 1210, 201
+  size: 196, 399
+  orig: 284, 458
+  offset: 47, 29
+  index: -1
+tingpai/tingpai_00009
+  rotate: true
+  xy: 2, 3
+  size: 196, 399
+  orig: 284, 458
+  offset: 47, 28
+  index: -1
+tingpai/tingpai_00010
+  rotate: true
+  xy: 403, 3
+  size: 196, 401
+  orig: 284, 458
+  offset: 47, 27
+  index: -1
+tingpai/tingpai_00011
+  rotate: true
+  xy: 1208, 399
+  size: 195, 401
+  orig: 284, 458
+  offset: 47, 26
+  index: -1
+tingpai/tingpai_00012
+  rotate: true
+  xy: 806, 3
+  size: 196, 402
+  orig: 284, 458
+  offset: 47, 26
+  index: -1
+tingpai/tingpai_00013
+  rotate: true
+  xy: 1210, 2
+  size: 196, 401
+  orig: 284, 458
+  offset: 47, 27
+  index: -1
+tingpai/tingpai_00014
+  rotate: true
+  xy: 1613, 2
+  size: 196, 403
+  orig: 284, 458
+  offset: 47, 26
+  index: -1

@@ -1,0 +1,34 @@
+
+LJ_03.png
+size: 1050,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JZ/JZ_01
+  rotate: false
+  xy: 857, 102
+  size: 191, 218
+  orig: 191, 218
+  offset: 0, 0
+  index: -1
+JZ/JZ_02
+  rotate: false
+  xy: 646, 105
+  size: 209, 215
+  orig: 209, 215
+  offset: 0, 0
+  index: -1
+JZ/JZ_03
+  rotate: false
+  xy: 387, 47
+  size: 257, 273
+  orig: 257, 273
+  offset: 0, 0
+  index: -1
+JZ/JZ_04
+  rotate: false
+  xy: 2, 2
+  size: 383, 318
+  orig: 383, 318
+  offset: 0, 0
+  index: -1

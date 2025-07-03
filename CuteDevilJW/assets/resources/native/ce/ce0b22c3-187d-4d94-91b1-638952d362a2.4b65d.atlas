@@ -1,0 +1,62 @@
+
+BG_scatter.png
+size: 327,327
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dadi
+  rotate: false
+  xy: 2, 159
+  size: 167, 166
+  orig: 167, 166
+  offset: 0, 0
+  index: -1
+g_1
+  rotate: false
+  xy: 252, 12
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 117, 108
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+sanjiao1
+  rotate: false
+  xy: 171, 78
+  size: 130, 114
+  orig: 130, 114
+  offset: 0, 0
+  index: -1
+sanjiao1_00
+  rotate: true
+  xy: 117, 2
+  size: 74, 67
+  orig: 130, 114
+  offset: 28, 24
+  index: -1
+sanjiao2
+  rotate: true
+  xy: 2, 27
+  size: 130, 113
+  orig: 130, 113
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 171, 194
+  size: 131, 137
+  orig: 132, 137
+  offset: 1, 0
+  index: -1
+zi
+  rotate: false
+  xy: 186, 11
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1

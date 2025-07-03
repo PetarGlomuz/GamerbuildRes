@@ -1,0 +1,111 @@
+
+FG_TP.png
+size: 1725,848
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TP/1_00000
+  rotate: false
+  xy: 653, 3
+  size: 215, 420
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00001
+  rotate: false
+  xy: 2, 425
+  size: 215, 421
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00002
+  rotate: false
+  xy: 870, 426
+  size: 215, 420
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00003
+  rotate: false
+  xy: 870, 5
+  size: 215, 419
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00004
+  rotate: true
+  xy: 1087, 631
+  size: 215, 419
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00005
+  rotate: false
+  xy: 1508, 7
+  size: 215, 418
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00006
+  rotate: false
+  xy: 1508, 427
+  size: 215, 419
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00007
+  rotate: true
+  xy: 1087, 414
+  size: 215, 419
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00008
+  rotate: false
+  xy: 2, 2
+  size: 215, 421
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00009
+  rotate: false
+  xy: 219, 425
+  size: 215, 421
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00010
+  rotate: false
+  xy: 219, 2
+  size: 215, 421
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00011
+  rotate: true
+  xy: 1087, 197
+  size: 215, 417
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00012
+  rotate: false
+  xy: 436, 425
+  size: 215, 421
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00013
+  rotate: false
+  xy: 436, 2
+  size: 215, 421
+  orig: 259, 469
+  offset: 0, 33
+  index: -1
+TP/1_00014
+  rotate: false
+  xy: 653, 425
+  size: 215, 421
+  orig: 259, 469
+  offset: 0, 33
+  index: -1

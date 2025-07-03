@@ -1,0 +1,153 @@
+
+Pick_bg.png
+size: 1949,1109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 386
+  size: 1561, 721
+  orig: 1561, 721
+  offset: 0, 0
+  index: -1
+yinghuochong/10_00
+  rotate: false
+  xy: 1565, 890
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_01
+  rotate: false
+  xy: 1565, 671
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_02
+  rotate: false
+  xy: 1565, 452
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_03
+  rotate: false
+  xy: 1565, 233
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_04
+  rotate: false
+  xy: 1757, 890
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_05
+  rotate: false
+  xy: 1757, 671
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_06
+  rotate: false
+  xy: 1757, 452
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_07
+  rotate: false
+  xy: 1757, 233
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_08
+  rotate: true
+  xy: 2, 194
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_09
+  rotate: true
+  xy: 221, 194
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_10
+  rotate: true
+  xy: 440, 194
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_11
+  rotate: true
+  xy: 659, 194
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_12
+  rotate: true
+  xy: 878, 194
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_13
+  rotate: true
+  xy: 1097, 194
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_14
+  rotate: false
+  xy: 1316, 167
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_15
+  rotate: true
+  xy: 1508, 41
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_16
+  rotate: false
+  xy: 1727, 14
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_17
+  rotate: true
+  xy: 2, 2
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_18
+  rotate: true
+  xy: 221, 2
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1
+yinghuochong/10_19
+  rotate: true
+  xy: 440, 2
+  size: 190, 217
+  orig: 190, 217
+  offset: 0, 0
+  index: -1

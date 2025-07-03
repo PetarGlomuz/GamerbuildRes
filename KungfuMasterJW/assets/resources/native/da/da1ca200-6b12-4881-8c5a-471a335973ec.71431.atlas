@@ -1,0 +1,237 @@
+
+yingfenlan.png
+size: 1995,1041
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/baokai/1_00001
+  rotate: false
+  xy: 1608, 523
+  size: 385, 128
+  orig: 457, 175
+  offset: 41, 10
+  index: -1
+image/baokai/1_00002
+  rotate: false
+  xy: 1604, 781
+  size: 389, 128
+  orig: 457, 175
+  offset: 37, 10
+  index: -1
+image/baokai/1_00003
+  rotate: false
+  xy: 1204, 618
+  size: 392, 144
+  orig: 457, 175
+  offset: 34, 10
+  index: -1
+image/baokai/1_00004
+  rotate: false
+  xy: 1204, 764
+  size: 398, 145
+  orig: 457, 175
+  offset: 28, 9
+  index: -1
+image/baokai/1_00005
+  rotate: false
+  xy: 2, 476
+  size: 419, 154
+  orig: 457, 175
+  offset: 19, 0
+  index: -1
+image/baokai/1_00006
+  rotate: false
+  xy: 771, 885
+  size: 417, 154
+  orig: 457, 175
+  offset: 17, 0
+  index: -1
+image/baokai/1_00007
+  rotate: false
+  xy: 756, 499
+  size: 427, 124
+  orig: 457, 175
+  offset: 12, 30
+  index: -1
+image/baokai/1_00008
+  rotate: true
+  xy: 392, 44
+  size: 430, 124
+  orig: 457, 175
+  offset: 10, 30
+  index: -1
+image/baokai/1_00009
+  rotate: true
+  xy: 1608, 132
+  size: 389, 125
+  orig: 457, 175
+  offset: 37, 29
+  index: -1
+image/baokai/1_00010
+  rotate: true
+  xy: 1862, 134
+  size: 387, 125
+  orig: 457, 175
+  offset: 37, 28
+  index: -1
+image/baokai/1_00011
+  rotate: false
+  xy: 1604, 653
+  size: 389, 126
+  orig: 457, 175
+  offset: 37, 27
+  index: -1
+image/baokai/1_00012
+  rotate: true
+  xy: 1735, 131
+  size: 390, 125
+  orig: 457, 175
+  offset: 37, 26
+  index: -1
+image/baokai/1_00013
+  rotate: false
+  xy: 1162, 31
+  size: 391, 124
+  orig: 457, 175
+  offset: 37, 26
+  index: -1
+image/baokai/1_00014
+  rotate: false
+  xy: 1166, 157
+  size: 393, 96
+  orig: 457, 175
+  offset: 37, 25
+  index: -1
+image/baokai/1_00015
+  rotate: true
+  xy: 643, 111
+  size: 395, 98
+  orig: 457, 175
+  offset: 37, 25
+  index: -1
+image/baokai/1_00016
+  rotate: false
+  xy: 1555, 9
+  size: 390, 120
+  orig: 457, 175
+  offset: 42, 24
+  index: -1
+image/baokai/1_00017
+  rotate: false
+  xy: 743, 2
+  size: 328, 122
+  orig: 457, 175
+  offset: 70, 24
+  index: -1
+image/baokai/1_00018
+  rotate: false
+  xy: 1623, 914
+  size: 328, 125
+  orig: 457, 175
+  offset: 70, 23
+  index: -1
+image/baokai/1_00019
+  rotate: false
+  xy: 423, 508
+  size: 331, 122
+  orig: 457, 175
+  offset: 67, 27
+  index: -1
+image/faguang/1_00001
+  rotate: true
+  xy: 518, 85
+  size: 421, 123
+  orig: 457, 175
+  offset: 17, 22
+  index: -1
+image/faguang/1_00002
+  rotate: true
+  xy: 2, 43
+  size: 431, 128
+  orig: 457, 175
+  offset: 12, 20
+  index: -1
+image/faguang/1_00003
+  rotate: false
+  xy: 1190, 911
+  size: 431, 128
+  orig: 457, 175
+  offset: 12, 20
+  index: -1
+image/faguang/1_00004
+  rotate: true
+  xy: 132, 43
+  size: 431, 128
+  orig: 457, 175
+  offset: 12, 20
+  index: -1
+image/faguang/1_00005
+  rotate: true
+  xy: 262, 43
+  size: 431, 128
+  orig: 457, 175
+  offset: 12, 20
+  index: -1
+image/faguang/1_00006
+  rotate: false
+  xy: 771, 755
+  size: 431, 128
+  orig: 457, 175
+  offset: 12, 20
+  index: -1
+image/faguang/1_00007
+  rotate: false
+  xy: 771, 625
+  size: 431, 128
+  orig: 457, 175
+  offset: 12, 20
+  index: -1
+image/faguang/1_00008
+  rotate: false
+  xy: 1185, 493
+  size: 421, 123
+  orig: 457, 175
+  offset: 17, 22
+  index: -1
+image/faguang/1_00009
+  rotate: false
+  xy: 743, 374
+  size: 421, 123
+  orig: 457, 175
+  offset: 17, 22
+  index: -1
+image/faguang/1_00010
+  rotate: false
+  xy: 743, 249
+  size: 421, 123
+  orig: 457, 175
+  offset: 17, 22
+  index: -1
+image/faguang/1_00011
+  rotate: false
+  xy: 743, 126
+  size: 417, 121
+  orig: 457, 175
+  offset: 19, 23
+  index: -1
+image/faguang/1_00012
+  rotate: false
+  xy: 1166, 372
+  size: 414, 119
+  orig: 457, 175
+  offset: 20, 24
+  index: -1
+image/faguang/1_00013
+  rotate: false
+  xy: 1166, 255
+  size: 407, 115
+  orig: 457, 175
+  offset: 24, 26
+  index: -1
+image/gc
+  rotate: false
+  xy: 2, 632
+  size: 767, 407
+  orig: 960, 540
+  offset: 88, 74
+  index: -1

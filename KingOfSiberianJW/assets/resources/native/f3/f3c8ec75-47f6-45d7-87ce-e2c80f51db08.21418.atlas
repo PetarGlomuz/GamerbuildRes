@@ -1,0 +1,132 @@
+
+JP_JieSuo.png
+size: 1722,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/lizi/jP_lizi_001
+  rotate: false
+  xy: 1108, 12
+  size: 211, 48
+  orig: 232, 68
+  offset: 13, 9
+  index: -1
+images/lizi/jP_lizi_002
+  rotate: false
+  xy: 2, 6
+  size: 216, 53
+  orig: 232, 68
+  offset: 12, 6
+  index: -1
+images/lizi/jP_lizi_003
+  rotate: false
+  xy: 675, 2
+  size: 220, 58
+  orig: 232, 68
+  offset: 12, 4
+  index: -1
+images/lizi/jP_lizi_004
+  rotate: false
+  xy: 452, 2
+  size: 221, 59
+  orig: 232, 68
+  offset: 11, 5
+  index: -1
+images/lizi/jP_lizi_005
+  rotate: false
+  xy: 452, 63
+  size: 223, 61
+  orig: 232, 68
+  offset: 9, 4
+  index: -1
+images/lizi/jP_lizi_006
+  rotate: false
+  xy: 1335, 64
+  size: 217, 60
+  orig: 232, 68
+  offset: 8, 5
+  index: -1
+images/lizi/jP_lizi_007
+  rotate: false
+  xy: 677, 62
+  size: 220, 62
+  orig: 232, 68
+  offset: 6, 3
+  index: -1
+images/lizi/jP_lizi_008
+  rotate: false
+  xy: 228, 61
+  size: 222, 63
+  orig: 232, 68
+  offset: 5, 2
+  index: -1
+images/lizi/jP_lizi_009
+  rotate: false
+  xy: 2, 61
+  size: 224, 63
+  orig: 232, 68
+  offset: 5, 1
+  index: -1
+images/lizi/jP_lizi_010
+  rotate: false
+  xy: 899, 62
+  size: 216, 62
+  orig: 232, 68
+  offset: 13, 2
+  index: -1
+images/lizi/jP_lizi_011
+  rotate: false
+  xy: 1117, 62
+  size: 216, 62
+  orig: 232, 68
+  offset: 13, 2
+  index: -1
+images/lizi/jP_lizi_012
+  rotate: false
+  xy: 897, 2
+  size: 209, 58
+  orig: 232, 68
+  offset: 13, 5
+  index: -1
+images/lizi/jP_lizi_013
+  rotate: false
+  xy: 220, 5
+  size: 193, 54
+  orig: 232, 68
+  offset: 18, 5
+  index: -1
+images/lizi/jP_lizi_014
+  rotate: false
+  xy: 1335, 9
+  size: 184, 53
+  orig: 232, 68
+  offset: 20, 5
+  index: -1
+images/lizi/jP_lizi_015
+  rotate: false
+  xy: 1521, 16
+  size: 178, 46
+  orig: 232, 68
+  offset: 25, 11
+  index: -1
+images/lizi/jP_lizi_016
+  rotate: false
+  xy: 1554, 84
+  size: 166, 40
+  orig: 232, 68
+  offset: 26, 12
+  index: -1
+images/lizi/jP_lizi_017
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/lizi/jP_lizi_000
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

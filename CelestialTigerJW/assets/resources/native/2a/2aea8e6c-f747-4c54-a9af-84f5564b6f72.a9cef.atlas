@@ -1,0 +1,111 @@
+
+Respin_dajiang.png
+size: 1816,935
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/01/1_00
+  rotate: true
+  xy: 1589, 480
+  size: 453, 225
+  orig: 500, 300
+  offset: 0, 74
+  index: -1
+images/01/1_01
+  rotate: true
+  xy: 951, 3
+  size: 461, 225
+  orig: 500, 300
+  offset: 0, 74
+  index: -1
+images/01/1_02
+  rotate: true
+  xy: 2, 456
+  size: 477, 225
+  orig: 500, 300
+  offset: 0, 74
+  index: -1
+images/01/1_03
+  rotate: false
+  xy: 2, 229
+  size: 477, 225
+  orig: 500, 300
+  offset: 0, 74
+  index: -1
+images/01/1_04
+  rotate: true
+  xy: 229, 457
+  size: 476, 224
+  orig: 500, 300
+  offset: 1, 75
+  index: -1
+images/01/1_05
+  rotate: true
+  xy: 455, 464
+  size: 469, 224
+  orig: 500, 300
+  offset: 8, 75
+  index: -1
+images/01/1_06
+  rotate: false
+  xy: 476, 2
+  size: 471, 225
+  orig: 500, 300
+  offset: 5, 74
+  index: -1
+images/01/1_07
+  rotate: false
+  xy: 2, 2
+  size: 472, 225
+  orig: 500, 300
+  offset: 3, 74
+  index: -1
+images/01/1_08
+  rotate: true
+  xy: 1178, 2
+  size: 463, 225
+  orig: 500, 300
+  offset: 5, 74
+  index: -1
+images/01/1_09
+  rotate: true
+  xy: 681, 466
+  size: 467, 225
+  orig: 500, 300
+  offset: 2, 74
+  index: -1
+images/01/1_10
+  rotate: false
+  xy: 481, 237
+  size: 468, 225
+  orig: 500, 300
+  offset: 3, 74
+  index: -1
+images/01/1_11
+  rotate: true
+  xy: 1135, 467
+  size: 466, 225
+  orig: 500, 300
+  offset: 4, 74
+  index: -1
+images/01/1_12
+  rotate: true
+  xy: 1362, 467
+  size: 466, 225
+  orig: 500, 300
+  offset: 3, 74
+  index: -1
+images/01/1_13
+  rotate: true
+  xy: 908, 466
+  size: 467, 225
+  orig: 500, 300
+  offset: 1, 74
+  index: -1
+images/01/1_14
+  rotate: true
+  xy: 1405, 2
+  size: 463, 225
+  orig: 500, 300
+  offset: 0, 74
+  index: -1

@@ -1,0 +1,41 @@
+
+bg_box_light.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caiseg1_00
+  rotate: false
+  xy: 2, 2
+  size: 811, 636
+  orig: 952, 754
+  offset: 83, 47
+  index: -1
+dg
+  rotate: false
+  xy: 815, 158
+  size: 477, 480
+  orig: 490, 490
+  offset: 6, 4
+  index: -1
+dianG2_00
+  rotate: false
+  xy: 2, 640
+  size: 1191, 1174
+  orig: 1288, 1206
+  offset: 97, 15
+  index: -1
+gxx
+  rotate: false
+  xy: 1195, 816
+  size: 497, 484
+  orig: 512, 512
+  offset: 8, 14
+  index: -1
+xx
+  rotate: false
+  xy: 1195, 1302
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

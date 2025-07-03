@@ -1,0 +1,223 @@
+
+FG_tanchuang_kuang.png
+size: 1943,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KSG/1_00000
+  rotate: true
+  xy: 1602, 128
+  size: 32, 72
+  orig: 404, 132
+  offset: 19, 22
+  index: -1
+KSG/1_00001
+  rotate: true
+  xy: 1856, 10
+  size: 51, 83
+  orig: 404, 132
+  offset: 19, 21
+  index: -1
+KSG/1_00002
+  rotate: true
+  xy: 1856, 121
+  size: 70, 85
+  orig: 404, 132
+  offset: 19, 19
+  index: -1
+KSG/1_00003
+  rotate: true
+  xy: 1064, 14
+  size: 96, 85
+  orig: 404, 132
+  offset: 19, 19
+  index: -1
+KSG/1_00004
+  rotate: true
+  xy: 890, 2
+  size: 108, 85
+  orig: 404, 132
+  offset: 19, 19
+  index: -1
+KSG/1_00005
+  rotate: true
+  xy: 1769, 50
+  size: 127, 85
+  orig: 404, 132
+  offset: 19, 19
+  index: -1
+KSG/1_00006
+  rotate: true
+  xy: 1682, 15
+  size: 145, 85
+  orig: 404, 132
+  offset: 19, 19
+  index: -1
+KSG/1_00007
+  rotate: false
+  xy: 1518, 25
+  size: 162, 85
+  orig: 404, 132
+  offset: 19, 19
+  index: -1
+KSG/1_00008
+  rotate: false
+  xy: 191, 3
+  size: 179, 85
+  orig: 404, 132
+  offset: 19, 19
+  index: -1
+KSG/1_00009
+  rotate: false
+  xy: 1151, 23
+  size: 196, 87
+  orig: 404, 132
+  offset: 19, 17
+  index: -1
+KSG/1_00010
+  rotate: true
+  xy: 786, 106
+  size: 210, 92
+  orig: 404, 132
+  offset: 19, 16
+  index: -1
+KSG/1_00011
+  rotate: true
+  xy: 492, 96
+  size: 220, 96
+  orig: 404, 132
+  offset: 26, 14
+  index: -1
+KSG/1_00012
+  rotate: true
+  xy: 394, 95
+  size: 221, 96
+  orig: 404, 132
+  offset: 37, 14
+  index: -1
+KSG/1_00013
+  rotate: true
+  xy: 198, 91
+  size: 225, 96
+  orig: 404, 132
+  offset: 57, 14
+  index: -1
+KSG/1_00014
+  rotate: true
+  xy: 688, 101
+  size: 215, 96
+  orig: 404, 132
+  offset: 75, 14
+  index: -1
+KSG/1_00015
+  rotate: true
+  xy: 100, 90
+  size: 226, 96
+  orig: 404, 132
+  offset: 91, 14
+  index: -1
+KSG/1_00016
+  rotate: true
+  xy: 296, 94
+  size: 222, 96
+  orig: 404, 132
+  offset: 108, 14
+  index: -1
+KSG/1_00017
+  rotate: true
+  xy: 590, 97
+  size: 219, 96
+  orig: 404, 132
+  offset: 124, 14
+  index: -1
+KSG/1_00018
+  rotate: true
+  xy: 2, 89
+  size: 227, 96
+  orig: 404, 132
+  offset: 138, 14
+  index: -1
+KSG/1_00019
+  rotate: false
+  xy: 670, 2
+  size: 218, 93
+  orig: 404, 132
+  offset: 158, 17
+  index: -1
+KSG/1_00020
+  rotate: false
+  xy: 459, 2
+  size: 209, 91
+  orig: 404, 132
+  offset: 168, 19
+  index: -1
+KSG/1_00021
+  rotate: false
+  xy: 2, 2
+  size: 187, 85
+  orig: 404, 132
+  offset: 190, 19
+  index: -1
+KSG/1_00022
+  rotate: false
+  xy: 1349, 25
+  size: 167, 85
+  orig: 404, 132
+  offset: 211, 19
+  index: -1
+KSG/1_00023
+  rotate: true
+  xy: 1602, 162
+  size: 154, 85
+  orig: 404, 132
+  offset: 224, 19
+  index: -1
+KSG/1_00024
+  rotate: true
+  xy: 1689, 179
+  size: 137, 85
+  orig: 404, 132
+  offset: 241, 19
+  index: -1
+KSG/1_00025
+  rotate: true
+  xy: 1856, 193
+  size: 123, 85
+  orig: 404, 132
+  offset: 255, 19
+  index: -1
+KSG/1_00026
+  rotate: true
+  xy: 977, 4
+  size: 106, 85
+  orig: 404, 132
+  offset: 272, 19
+  index: -1
+KSG/1_00027
+  rotate: true
+  xy: 372, 2
+  size: 90, 85
+  orig: 404, 132
+  offset: 288, 19
+  index: -1
+KSG/1_00028
+  rotate: false
+  xy: 1776, 231
+  size: 74, 85
+  orig: 404, 132
+  offset: 304, 19
+  index: -1
+KSG/1_00029
+  rotate: true
+  xy: 1856, 63
+  size: 56, 84
+  orig: 404, 132
+  offset: 322, 20
+  index: -1
+coin_frame
+  rotate: false
+  xy: 880, 112
+  size: 720, 204
+  orig: 720, 204
+  offset: 0, 0
+  index: -1

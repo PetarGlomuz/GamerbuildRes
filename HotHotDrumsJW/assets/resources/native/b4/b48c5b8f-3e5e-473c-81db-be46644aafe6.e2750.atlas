@@ -1,0 +1,265 @@
+
+jiesuo.png
+size: 899,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang_00
+  rotate: false
+  xy: 663, 23
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+faguang_01
+  rotate: false
+  xy: 745, 23
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+images/ban
+  rotate: false
+  xy: 2, 99
+  size: 132, 70
+  orig: 132, 70
+  offset: 0, 0
+  index: -1
+images/bancn
+  rotate: false
+  xy: 2, 28
+  size: 131, 69
+  orig: 131, 69
+  offset: 0, 0
+  index: -1
+images/lian1
+  rotate: false
+  xy: 277, 191
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+images/lian2
+  rotate: false
+  xy: 143, 195
+  size: 132, 70
+  orig: 132, 70
+  offset: 0, 0
+  index: -1
+images/suo
+  rotate: true
+  xy: 840, 64
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+images/suo2
+  rotate: false
+  xy: 2, 11
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+images/yinying
+  rotate: false
+  xy: 2, 171
+  size: 139, 94
+  orig: 139, 94
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_00
+  rotate: false
+  xy: 362, 204
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_01
+  rotate: false
+  xy: 450, 204
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_02
+  rotate: false
+  xy: 538, 204
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_03
+  rotate: false
+  xy: 626, 204
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_04
+  rotate: false
+  xy: 714, 204
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_05
+  rotate: false
+  xy: 802, 204
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_06
+  rotate: false
+  xy: 143, 132
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_07
+  rotate: false
+  xy: 136, 69
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_08
+  rotate: false
+  xy: 135, 6
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_09
+  rotate: false
+  xy: 362, 141
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_10
+  rotate: false
+  xy: 450, 141
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_11
+  rotate: false
+  xy: 538, 141
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_12
+  rotate: false
+  xy: 626, 141
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_13
+  rotate: false
+  xy: 714, 141
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_14
+  rotate: false
+  xy: 802, 141
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_15
+  rotate: false
+  xy: 231, 128
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_16
+  rotate: false
+  xy: 224, 65
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_17
+  rotate: false
+  xy: 223, 2
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_18
+  rotate: false
+  xy: 311, 2
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_19
+  rotate: false
+  xy: 312, 65
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_20
+  rotate: false
+  xy: 399, 2
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_21
+  rotate: false
+  xy: 400, 78
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_22
+  rotate: false
+  xy: 488, 78
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_23
+  rotate: false
+  xy: 576, 78
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_24
+  rotate: false
+  xy: 664, 78
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_25
+  rotate: false
+  xy: 752, 78
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_26
+  rotate: false
+  xy: 487, 15
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1
+rongjie/rongjie_27
+  rotate: false
+  xy: 575, 15
+  size: 86, 61
+  orig: 86, 61
+  offset: 0, 0
+  index: -1

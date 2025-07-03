@@ -1,0 +1,146 @@
+
+Map_guochang.png
+size: 1797,1075
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_00
+  rotate: false
+  xy: 1247, 43
+  size: 132, 176
+  orig: 132, 176
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1624, 37
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 999, 221
+  size: 335, 308
+  orig: 335, 308
+  offset: 0, 0
+  index: -1
+yun10
+  rotate: true
+  xy: 763, 50
+  size: 416, 234
+  orig: 416, 234
+  offset: 0, 0
+  index: -1
+yun11
+  rotate: true
+  xy: 1561, 708
+  size: 365, 234
+  orig: 365, 234
+  offset: 0, 0
+  index: -1
+yun12
+  rotate: true
+  xy: 585, 434
+  size: 32, 103
+  orig: 32, 103
+  offset: 0, 0
+  index: -1
+yun13
+  rotate: false
+  xy: 959, 531
+  size: 402, 288
+  orig: 402, 288
+  offset: 0, 0
+  index: -1
+yun14
+  rotate: false
+  xy: 2, 400
+  size: 581, 302
+  orig: 581, 302
+  offset: 0, 0
+  index: -1
+yun15
+  rotate: false
+  xy: 585, 468
+  size: 372, 369
+  orig: 372, 369
+  offset: 0, 0
+  index: -1
+yun16
+  rotate: true
+  xy: 1363, 550
+  size: 269, 178
+  orig: 269, 178
+  offset: 0, 0
+  index: -1
+yun17
+  rotate: false
+  xy: 585, 839
+  size: 525, 234
+  orig: 525, 234
+  offset: 0, 0
+  index: -1
+yun18
+  rotate: false
+  xy: 1381, 20
+  size: 241, 152
+  orig: 241, 152
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: true
+  xy: 439, 31
+  size: 367, 322
+  orig: 528, 322
+  offset: 161, 0
+  index: -1
+yun3
+  rotate: false
+  xy: 2, 2
+  size: 435, 396
+  orig: 435, 396
+  offset: 0, 0
+  index: -1
+yun4
+  rotate: true
+  xy: 1543, 398
+  size: 308, 252
+  orig: 308, 252
+  offset: 0, 0
+  index: -1
+yun5
+  rotate: false
+  xy: 1112, 821
+  size: 447, 252
+  orig: 447, 252
+  offset: 0, 0
+  index: -1
+yun6
+  rotate: false
+  xy: 1336, 286
+  size: 162, 243
+  orig: 162, 243
+  offset: 0, 0
+  index: -1
+yun7
+  rotate: true
+  xy: 999, 26
+  size: 193, 246
+  orig: 193, 246
+  offset: 0, 0
+  index: -1
+yun8
+  rotate: true
+  xy: 1500, 174
+  size: 222, 286
+  orig: 372, 286
+  offset: 0, 0
+  index: -1
+yun9
+  rotate: false
+  xy: 2, 704
+  size: 581, 369
+  orig: 581, 369
+  offset: 0, 0
+  index: -1

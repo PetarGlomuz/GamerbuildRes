@@ -1,0 +1,153 @@
+
+TC_fgshouji_jifen.png
+size: 1640,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fgshouji_jifen
+  rotate: false
+  xy: 2, 192
+  size: 947, 199
+  orig: 947, 199
+  offset: 0, 0
+  index: -1
+images/jifenkuang/1_00
+  rotate: false
+  xy: 1561, 110
+  size: 67, 91
+  orig: 947, 199
+  offset: 240, 57
+  index: -1
+images/jifenkuang/1_01
+  rotate: true
+  xy: 1545, 4
+  size: 102, 93
+  orig: 947, 199
+  offset: 240, 55
+  index: -1
+images/jifenkuang/1_02
+  rotate: false
+  xy: 1291, 13
+  size: 138, 93
+  orig: 947, 199
+  offset: 240, 55
+  index: -1
+images/jifenkuang/1_03
+  rotate: false
+  xy: 1386, 108
+  size: 173, 93
+  orig: 947, 199
+  offset: 240, 55
+  index: -1
+images/jifenkuang/1_04
+  rotate: false
+  xy: 1176, 108
+  size: 208, 93
+  orig: 947, 199
+  offset: 240, 55
+  index: -1
+images/jifenkuang/1_05
+  rotate: false
+  xy: 643, 2
+  size: 244, 93
+  orig: 947, 199
+  offset: 240, 55
+  index: -1
+images/jifenkuang/1_06
+  rotate: false
+  xy: 1277, 203
+  size: 279, 93
+  orig: 947, 199
+  offset: 240, 55
+  index: -1
+images/jifenkuang/1_07
+  rotate: false
+  xy: 1302, 298
+  size: 315, 93
+  orig: 947, 199
+  offset: 240, 55
+  index: -1
+images/jifenkuang/1_08
+  rotate: false
+  xy: 354, 97
+  size: 344, 93
+  orig: 947, 199
+  offset: 246, 55
+  index: -1
+images/jifenkuang/1_09
+  rotate: false
+  xy: 2, 97
+  size: 350, 93
+  orig: 947, 199
+  offset: 276, 55
+  index: -1
+images/jifenkuang/1_10
+  rotate: false
+  xy: 951, 298
+  size: 349, 93
+  orig: 947, 199
+  offset: 312, 55
+  index: -1
+images/jifenkuang/1_11
+  rotate: false
+  xy: 2, 2
+  size: 348, 93
+  orig: 947, 199
+  offset: 347, 55
+  index: -1
+images/jifenkuang/1_12
+  rotate: false
+  xy: 951, 203
+  size: 324, 93
+  orig: 947, 199
+  offset: 382, 55
+  index: -1
+images/jifenkuang/1_13
+  rotate: false
+  xy: 352, 2
+  size: 289, 93
+  orig: 947, 199
+  offset: 418, 55
+  index: -1
+images/jifenkuang/1_14
+  rotate: false
+  xy: 700, 97
+  size: 254, 93
+  orig: 947, 199
+  offset: 453, 55
+  index: -1
+images/jifenkuang/1_15
+  rotate: false
+  xy: 956, 108
+  size: 218, 93
+  orig: 947, 199
+  offset: 489, 55
+  index: -1
+images/jifenkuang/1_16
+  rotate: false
+  xy: 956, 13
+  size: 183, 93
+  orig: 947, 199
+  offset: 524, 55
+  index: -1
+images/jifenkuang/1_17
+  rotate: false
+  xy: 1141, 13
+  size: 148, 93
+  orig: 947, 199
+  offset: 559, 55
+  index: -1
+images/jifenkuang/1_18
+  rotate: false
+  xy: 1431, 13
+  size: 112, 93
+  orig: 947, 199
+  offset: 595, 55
+  index: -1
+images/jifenkuang/1_19
+  rotate: false
+  xy: 1558, 203
+  size: 77, 93
+  orig: 947, 199
+  offset: 630, 55
+  index: -1

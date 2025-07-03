@@ -1,0 +1,153 @@
+
+GoldCollect.png
+size: 1657,766
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/sg/J_001
+  rotate: true
+  xy: 2, 2
+  size: 238, 254
+  orig: 260, 280
+  offset: 12, 13
+  index: -1
+images/sg/J_002
+  rotate: true
+  xy: 2, 504
+  size: 260, 280
+  orig: 260, 280
+  offset: 0, 0
+  index: -1
+images/sg/J_003
+  rotate: true
+  xy: 284, 504
+  size: 260, 280
+  orig: 260, 280
+  offset: 0, 0
+  index: -1
+images/sg/J_004
+  rotate: true
+  xy: 566, 504
+  size: 260, 280
+  orig: 260, 280
+  offset: 0, 0
+  index: -1
+images/sg/J_005
+  rotate: true
+  xy: 848, 504
+  size: 260, 280
+  orig: 260, 280
+  offset: 0, 0
+  index: -1
+images/sg/J_006
+  rotate: false
+  xy: 1130, 484
+  size: 260, 280
+  orig: 260, 280
+  offset: 0, 0
+  index: -1
+images/sg/J_007
+  rotate: false
+  xy: 1392, 484
+  size: 260, 280
+  orig: 260, 280
+  offset: 0, 0
+  index: -1
+images/sg/J_008
+  rotate: true
+  xy: 2, 242
+  size: 260, 280
+  orig: 260, 280
+  offset: 0, 0
+  index: -1
+images/sg/J_009
+  rotate: true
+  xy: 284, 242
+  size: 260, 280
+  orig: 260, 280
+  offset: 0, 0
+  index: -1
+images/sg/J_010
+  rotate: true
+  xy: 566, 242
+  size: 260, 280
+  orig: 260, 280
+  offset: 0, 0
+  index: -1
+images/sg/J_011
+  rotate: false
+  xy: 848, 222
+  size: 260, 280
+  orig: 260, 280
+  offset: 0, 0
+  index: -1
+images/sg/J_012
+  rotate: true
+  xy: 1110, 222
+  size: 260, 280
+  orig: 260, 280
+  offset: 0, 0
+  index: -1
+images/sg/J_013
+  rotate: false
+  xy: 1392, 212
+  size: 253, 270
+  orig: 260, 280
+  offset: 4, 5
+  index: -1
+images/sg/J_014
+  rotate: true
+  xy: 258, 7
+  size: 233, 248
+  orig: 260, 280
+  offset: 14, 16
+  index: -1
+images/sg/J_015
+  rotate: true
+  xy: 508, 38
+  size: 202, 216
+  orig: 260, 280
+  offset: 29, 33
+  index: -1
+images/sg/J_016
+  rotate: true
+  xy: 1140, 36
+  size: 184, 212
+  orig: 260, 280
+  offset: 38, 35
+  index: -1
+images/sg/J_017
+  rotate: true
+  xy: 930, 34
+  size: 186, 208
+  orig: 260, 280
+  offset: 37, 38
+  index: -1
+images/sg/J_018
+  rotate: true
+  xy: 726, 33
+  size: 187, 202
+  orig: 260, 280
+  offset: 37, 39
+  index: -1
+images/sg/J_019
+  rotate: true
+  xy: 1354, 34
+  size: 176, 198
+  orig: 260, 280
+  offset: 36, 37
+  index: -1
+images/sg/J_020
+  rotate: false
+  xy: 1654, 763
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/sg/J_000
+  rotate: false
+  xy: 1654, 763
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

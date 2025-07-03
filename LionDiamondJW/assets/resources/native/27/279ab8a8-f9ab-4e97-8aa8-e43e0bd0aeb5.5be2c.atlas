@@ -1,0 +1,13 @@
+
+H2.png
+size: 120,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h2_1
+  rotate: false
+  xy: 2, 2
+  size: 116, 94
+  orig: 116, 94
+  offset: 0, 0
+  index: -1

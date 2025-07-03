@@ -1,0 +1,34 @@
+
+Map_dianji.png
+size: 407,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan
+  rotate: false
+  xy: 305, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+shou_01
+  rotate: false
+  xy: 2, 2
+  size: 99, 122
+  orig: 99, 122
+  offset: 0, 0
+  index: -1
+shou_02
+  rotate: false
+  xy: 103, 2
+  size: 99, 122
+  orig: 99, 122
+  offset: 0, 0
+  index: -1
+shou_04
+  rotate: false
+  xy: 204, 2
+  size: 99, 122
+  orig: 99, 122
+  offset: 0, 0
+  index: -1

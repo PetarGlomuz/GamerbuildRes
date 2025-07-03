@@ -1,0 +1,216 @@
+
+JP_zhongjiang.png
+size: 870,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1_00
+  rotate: true
+  xy: 2, 497
+  size: 281, 104
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_01
+  rotate: true
+  xy: 2, 214
+  size: 281, 104
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_02
+  rotate: true
+  xy: 108, 497
+  size: 281, 103
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_03
+  rotate: true
+  xy: 108, 214
+  size: 281, 103
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_04
+  rotate: true
+  xy: 318, 497
+  size: 281, 102
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_05
+  rotate: true
+  xy: 213, 497
+  size: 281, 103
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_06
+  rotate: true
+  xy: 422, 497
+  size: 281, 102
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_07
+  rotate: true
+  xy: 318, 214
+  size: 281, 102
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_08
+  rotate: true
+  xy: 213, 214
+  size: 281, 103
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_09
+  rotate: false
+  xy: 285, 109
+  size: 281, 103
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_10
+  rotate: false
+  xy: 285, 4
+  size: 281, 103
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_11
+  rotate: false
+  xy: 568, 675
+  size: 281, 103
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_12
+  rotate: true
+  xy: 422, 214
+  size: 281, 102
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_13
+  rotate: false
+  xy: 2, 108
+  size: 281, 104
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+1/1_14
+  rotate: false
+  xy: 2, 2
+  size: 281, 104
+  orig: 308, 107
+  offset: 12, 0
+  index: -1
+2/2_00
+  rotate: false
+  xy: 568, 85
+  size: 184, 57
+  orig: 219, 74
+  offset: 24, 7
+  index: -1
+2/2_01
+  rotate: true
+  xy: 716, 273
+  size: 196, 60
+  orig: 219, 74
+  offset: 13, 5
+  index: -1
+2/2_02
+  rotate: false
+  xy: 526, 475
+  size: 198, 62
+  orig: 219, 74
+  offset: 11, 4
+  index: -1
+2/2_03
+  rotate: false
+  xy: 526, 539
+  size: 198, 63
+  orig: 219, 74
+  offset: 11, 4
+  index: -1
+2/2_04
+  rotate: true
+  xy: 526, 270
+  size: 199, 64
+  orig: 219, 74
+  offset: 10, 3
+  index: -1
+2/2_05
+  rotate: true
+  xy: 801, 269
+  size: 201, 65
+  orig: 219, 74
+  offset: 9, 3
+  index: -1
+2/2_06
+  rotate: true
+  xy: 801, 472
+  size: 201, 67
+  orig: 219, 74
+  offset: 9, 2
+  index: -1
+2/2_07
+  rotate: false
+  xy: 526, 604
+  size: 202, 69
+  orig: 219, 74
+  offset: 8, 1
+  index: -1
+2/2_08
+  rotate: true
+  xy: 730, 471
+  size: 202, 69
+  orig: 219, 74
+  offset: 7, 1
+  index: -1
+2/2_09
+  rotate: false
+  xy: 568, 5
+  size: 202, 57
+  orig: 219, 74
+  offset: 7, 13
+  index: -1
+2/2_10
+  rotate: true
+  xy: 770, 64
+  size: 203, 58
+  orig: 219, 74
+  offset: 7, 12
+  index: -1
+2/2_11
+  rotate: true
+  xy: 592, 273
+  size: 200, 60
+  orig: 219, 74
+  offset: 7, 11
+  index: -1
+2/2_12
+  rotate: true
+  xy: 654, 274
+  size: 199, 60
+  orig: 219, 74
+  offset: 8, 10
+  index: -1
+2/2_13
+  rotate: false
+  xy: 568, 207
+  size: 200, 61
+  orig: 219, 74
+  offset: 8, 9
+  index: -1
+2/2_14
+  rotate: false
+  xy: 568, 144
+  size: 184, 61
+  orig: 219, 74
+  offset: 24, 8
+  index: -1

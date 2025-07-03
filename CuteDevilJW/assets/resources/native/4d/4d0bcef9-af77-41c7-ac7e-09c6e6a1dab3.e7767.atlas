@@ -1,0 +1,181 @@
+
+H4.png
+size: 308,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 144, 152
+  size: 56, 57
+  orig: 60, 59
+  offset: 0, 1
+  index: -1
+hongzuan
+  rotate: false
+  xy: 129, 3
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+jia1
+  rotate: false
+  xy: 2, 52
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+jia2
+  rotate: false
+  xy: 153, 250
+  size: 111, 56
+  orig: 111, 56
+  offset: 0, 0
+  index: -1
+jia3
+  rotate: false
+  xy: 153, 211
+  size: 79, 37
+  orig: 79, 37
+  offset: 0, 0
+  index: -1
+jia_g/jia_g_00
+  rotate: false
+  xy: 234, 219
+  size: 25, 29
+  orig: 91, 67
+  offset: 14, 13
+  index: -1
+jia_g/jia_g_01
+  rotate: false
+  xy: 244, 34
+  size: 33, 35
+  orig: 91, 67
+  offset: 12, 11
+  index: -1
+jia_g/jia_g_02
+  rotate: true
+  xy: 266, 217
+  size: 39, 40
+  orig: 91, 67
+  offset: 12, 10
+  index: -1
+jia_g/jia_g_03
+  rotate: false
+  xy: 198, 67
+  size: 44, 43
+  orig: 91, 67
+  offset: 12, 10
+  index: -1
+jia_g/jia_g_04
+  rotate: false
+  xy: 253, 117
+  size: 46, 46
+  orig: 91, 67
+  offset: 14, 10
+  index: -1
+jia_g/jia_g_05
+  rotate: false
+  xy: 2, 2
+  size: 48, 48
+  orig: 91, 67
+  offset: 16, 10
+  index: -1
+jia_g/jia_g_06
+  rotate: false
+  xy: 145, 99
+  size: 51, 51
+  orig: 91, 67
+  offset: 18, 9
+  index: -1
+jia_g/jia_g_07
+  rotate: false
+  xy: 145, 46
+  size: 51, 51
+  orig: 91, 67
+  offset: 21, 10
+  index: -1
+jia_g/jia_g_08
+  rotate: false
+  xy: 202, 158
+  size: 49, 51
+  orig: 91, 67
+  offset: 24, 10
+  index: -1
+jia_g/jia_g_09
+  rotate: false
+  xy: 253, 165
+  size: 47, 50
+  orig: 91, 67
+  offset: 26, 10
+  index: -1
+jia_g/jia_g_10
+  rotate: true
+  xy: 202, 112
+  size: 44, 49
+  orig: 91, 67
+  offset: 29, 11
+  index: -1
+jia_g/jia_g_11
+  rotate: false
+  xy: 266, 258
+  size: 40, 48
+  orig: 91, 67
+  offset: 33, 12
+  index: -1
+jia_g/jia_g_12
+  rotate: true
+  xy: 80, 7
+  size: 36, 47
+  orig: 91, 67
+  offset: 37, 13
+  index: -1
+jia_g/jia_g_13
+  rotate: true
+  xy: 198, 33
+  size: 32, 44
+  orig: 91, 67
+  offset: 41, 15
+  index: -1
+jia_g/jia_g_14
+  rotate: false
+  xy: 52, 10
+  size: 26, 40
+  orig: 91, 67
+  offset: 47, 18
+  index: -1
+xiaobaiXX_c
+  rotate: true
+  xy: 244, 71
+  size: 39, 38
+  orig: 40, 39
+  offset: 1, 0
+  index: -1
+xingguang
+  rotate: false
+  xy: 2, 133
+  size: 140, 90
+  orig: 148, 100
+  offset: 2, 9
+  index: -1
+yayingzi
+  rotate: false
+  xy: 2, 225
+  size: 149, 81
+  orig: 182, 133
+  offset: 24, 4
+  index: -1
+zizuan
+  rotate: false
+  xy: 166, 20
+  size: 28, 24
+  orig: 30, 26
+  offset: 1, 1
+  index: -1
+zuanshi
+  rotate: true
+  xy: 84, 45
+  size: 86, 59
+  orig: 86, 59
+  offset: 0, 0
+  index: -1

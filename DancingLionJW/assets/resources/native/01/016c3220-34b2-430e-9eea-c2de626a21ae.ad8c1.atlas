@@ -1,0 +1,27 @@
+
+NG_L4.png
+size: 355,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang
+  rotate: false
+  xy: 2, 2
+  size: 165, 119
+  orig: 165, 119
+  offset: 0, 0
+  index: -1
+sahnzi
+  rotate: false
+  xy: 169, 21
+  size: 132, 100
+  orig: 132, 100
+  offset: 0, 0
+  index: -1
+xx_1x
+  rotate: false
+  xy: 303, 71
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

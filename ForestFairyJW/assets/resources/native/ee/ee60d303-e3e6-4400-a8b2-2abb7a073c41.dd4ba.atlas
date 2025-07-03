@@ -1,0 +1,223 @@
+
+JinDuTiaoJieSuo.png
+size: 1010,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/j1/j1_000
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/j1/j1_016
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/js/js_000
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/js/js_013
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/j1/j1_001
+  rotate: false
+  xy: 886, 207
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+images/j1/j1_002
+  rotate: false
+  xy: 948, 207
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+images/j1/j1_003
+  rotate: false
+  xy: 843, 77
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+images/j1/j1_004
+  rotate: false
+  xy: 880, 144
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+images/j1/j1_005
+  rotate: false
+  xy: 942, 145
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+images/j1/j1_006
+  rotate: false
+  xy: 905, 82
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+images/j1/j1_007
+  rotate: false
+  xy: 905, 20
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+images/j1/j1_008
+  rotate: false
+  xy: 824, 15
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+images/j1/j1_009
+  rotate: true
+  xy: 567, 3
+  size: 54, 59
+  orig: 60, 60
+  offset: 5, 1
+  index: -1
+images/j1/j1_010
+  rotate: false
+  xy: 628, 11
+  size: 44, 46
+  orig: 60, 60
+  offset: 8, 7
+  index: -1
+images/j1/j1_011
+  rotate: false
+  xy: 254, 13
+  size: 39, 47
+  orig: 60, 60
+  offset: 13, 7
+  index: -1
+images/j1/j1_012
+  rotate: false
+  xy: 674, 15
+  size: 38, 42
+  orig: 60, 60
+  offset: 12, 8
+  index: -1
+images/j1/j1_013
+  rotate: false
+  xy: 714, 20
+  size: 37, 37
+  orig: 60, 60
+  offset: 12, 12
+  index: -1
+images/j1/j1_014
+  rotate: false
+  xy: 753, 25
+  size: 39, 32
+  orig: 60, 60
+  offset: 11, 10
+  index: -1
+images/j1/j1_015
+  rotate: false
+  xy: 967, 106
+  size: 33, 37
+  orig: 60, 60
+  offset: 17, 10
+  index: -1
+images/js/js_001
+  rotate: false
+  xy: 2, 129
+  size: 294, 67
+  orig: 300, 80
+  offset: 6, 8
+  index: -1
+images/js/js_002
+  rotate: false
+  xy: 2, 198
+  size: 294, 69
+  orig: 300, 80
+  offset: 6, 7
+  index: -1
+images/js/js_003
+  rotate: false
+  xy: 298, 200
+  size: 290, 67
+  orig: 300, 80
+  offset: 6, 7
+  index: -1
+images/js/js_004
+  rotate: false
+  xy: 2, 62
+  size: 292, 65
+  orig: 300, 80
+  offset: 4, 9
+  index: -1
+images/js/js_005
+  rotate: false
+  xy: 590, 206
+  size: 294, 61
+  orig: 300, 80
+  offset: 2, 9
+  index: -1
+images/js/js_006
+  rotate: false
+  xy: 298, 135
+  size: 291, 63
+  orig: 300, 80
+  offset: 2, 9
+  index: -1
+images/js/js_007
+  rotate: false
+  xy: 591, 139
+  size: 287, 65
+  orig: 300, 80
+  offset: 7, 9
+  index: -1
+images/js/js_008
+  rotate: false
+  xy: 298, 69
+  size: 280, 64
+  orig: 300, 80
+  offset: 14, 11
+  index: -1
+images/js/js_009
+  rotate: false
+  xy: 296, 4
+  size: 269, 63
+  orig: 300, 80
+  offset: 20, 11
+  index: -1
+images/js/js_010
+  rotate: false
+  xy: 2, 5
+  size: 250, 55
+  orig: 300, 80
+  offset: 24, 12
+  index: -1
+images/js/js_011
+  rotate: false
+  xy: 591, 90
+  size: 250, 47
+  orig: 300, 80
+  offset: 24, 18
+  index: -1
+images/js/js_012
+  rotate: false
+  xy: 580, 59
+  size: 242, 29
+  orig: 300, 80
+  offset: 29, 31
+  index: -1

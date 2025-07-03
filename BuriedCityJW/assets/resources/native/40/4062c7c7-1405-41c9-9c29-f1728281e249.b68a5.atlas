@@ -1,0 +1,174 @@
+
+ng_l3.png
+size: 968,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L3
+  rotate: true
+  xy: 128, 18
+  size: 104, 117
+  orig: 104, 117
+  offset: 0, 0
+  index: -1
+L3yinying
+  rotate: true
+  xy: 2, 11
+  size: 111, 124
+  orig: 111, 124
+  offset: 0, 0
+  index: -1
+l3/L3_000
+  rotate: true
+  xy: 247, 63
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_001
+  rotate: true
+  xy: 313, 63
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_002
+  rotate: true
+  xy: 379, 63
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_003
+  rotate: true
+  xy: 445, 63
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_004
+  rotate: true
+  xy: 511, 63
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_005
+  rotate: true
+  xy: 577, 63
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_006
+  rotate: true
+  xy: 643, 63
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_007
+  rotate: true
+  xy: 709, 63
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_008
+  rotate: true
+  xy: 775, 63
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_009
+  rotate: true
+  xy: 841, 63
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_010
+  rotate: false
+  xy: 907, 58
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_011
+  rotate: true
+  xy: 247, 2
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_012
+  rotate: true
+  xy: 313, 2
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_013
+  rotate: true
+  xy: 379, 2
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_014
+  rotate: true
+  xy: 445, 2
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_015
+  rotate: true
+  xy: 511, 2
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_016
+  rotate: true
+  xy: 577, 2
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_017
+  rotate: true
+  xy: 643, 2
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_018
+  rotate: true
+  xy: 709, 2
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_019
+  rotate: true
+  xy: 775, 2
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+l3/L3_020
+  rotate: true
+  xy: 841, 2
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 907, 6
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

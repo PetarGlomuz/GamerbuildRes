@@ -1,0 +1,320 @@
+
+JackpotWin.png
+size: 2037,2044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baby_Grand
+  rotate: true
+  xy: 767, 35
+  size: 223, 222
+  orig: 225, 224
+  offset: 1, 1
+  index: -1
+baby_Major
+  rotate: false
+  xy: 918, 821
+  size: 227, 226
+  orig: 229, 228
+  offset: 1, 1
+  index: -1
+di_Grand
+  rotate: false
+  xy: 678, 1718
+  size: 623, 324
+  orig: 625, 326
+  offset: 1, 1
+  index: -1
+di_Major
+  rotate: false
+  xy: 1303, 1718
+  size: 623, 324
+  orig: 625, 326
+  offset: 1, 1
+  index: -1
+di_Mini
+  rotate: false
+  xy: 678, 1392
+  size: 623, 324
+  orig: 625, 326
+  offset: 1, 1
+  index: -1
+di_Minor
+  rotate: false
+  xy: 2, 1342
+  size: 623, 324
+  orig: 625, 326
+  offset: 1, 1
+  index: -1
+glow/glow_00
+  rotate: false
+  xy: 1147, 680
+  size: 338, 222
+  orig: 500, 400
+  offset: 78, 74
+  index: -1
+glow/glow_01
+  rotate: false
+  xy: 1141, 455
+  size: 337, 223
+  orig: 500, 400
+  offset: 79, 74
+  index: -1
+glow/glow_02
+  rotate: false
+  xy: 573, 482
+  size: 338, 222
+  orig: 500, 400
+  offset: 78, 75
+  index: -1
+glow/glow_03
+  rotate: false
+  xy: 2, 1119
+  size: 341, 221
+  orig: 500, 400
+  offset: 75, 76
+  index: -1
+glow/glow_04
+  rotate: false
+  xy: 2, 217
+  size: 338, 219
+  orig: 500, 400
+  offset: 77, 77
+  index: -1
+glow/glow_05
+  rotate: false
+  xy: 767, 260
+  size: 336, 220
+  orig: 500, 400
+  offset: 78, 76
+  index: -1
+glow/glow_06
+  rotate: true
+  xy: 1548, 7
+  size: 334, 218
+  orig: 500, 400
+  offset: 79, 77
+  index: -1
+glow/glow_07
+  rotate: true
+  xy: 1327, 119
+  size: 334, 219
+  orig: 500, 400
+  offset: 78, 76
+  index: -1
+glow/glow_08
+  rotate: false
+  xy: 1480, 458
+  size: 334, 219
+  orig: 500, 400
+  offset: 78, 76
+  index: -1
+glow/glow_09
+  rotate: true
+  xy: 1816, 343
+  size: 334, 219
+  orig: 500, 400
+  offset: 78, 75
+  index: -1
+glow/glow_10
+  rotate: false
+  xy: 991, 36
+  size: 334, 222
+  orig: 500, 400
+  offset: 78, 75
+  index: -1
+glow/glow_11
+  rotate: false
+  xy: 430, 99
+  size: 335, 224
+  orig: 500, 400
+  offset: 78, 75
+  index: -1
+glow/glow_12
+  rotate: true
+  xy: 344, 664
+  size: 335, 227
+  orig: 500, 400
+  offset: 79, 75
+  index: -1
+glow/glow_13
+  rotate: false
+  xy: 2, 438
+  size: 338, 226
+  orig: 500, 400
+  offset: 78, 75
+  index: -1
+glow/glow_14
+  rotate: false
+  xy: 1204, 904
+  size: 341, 225
+  orig: 500, 400
+  offset: 76, 75
+  index: -1
+glow/glow_15
+  rotate: false
+  xy: 577, 931
+  size: 339, 228
+  orig: 500, 400
+  offset: 77, 75
+  index: -1
+glow/glow_16
+  rotate: true
+  xy: 345, 1001
+  size: 339, 230
+  orig: 500, 400
+  offset: 78, 75
+  index: -1
+glow/glow_17
+  rotate: false
+  xy: 1204, 1131
+  size: 342, 229
+  orig: 500, 400
+  offset: 79, 75
+  index: -1
+glow/glow_18
+  rotate: true
+  xy: 972, 1049
+  size: 341, 230
+  orig: 500, 400
+  offset: 80, 75
+  index: -1
+glow/glow_19
+  rotate: false
+  xy: 627, 1161
+  size: 343, 229
+  orig: 500, 400
+  offset: 78, 75
+  index: -1
+glow/glow_20
+  rotate: false
+  xy: 1548, 1133
+  size: 342, 226
+  orig: 500, 400
+  offset: 79, 76
+  index: -1
+glow/glow_21
+  rotate: false
+  xy: 1547, 679
+  size: 341, 224
+  orig: 500, 400
+  offset: 80, 78
+  index: -1
+glow/glow_22
+  rotate: false
+  xy: 2, 892
+  size: 340, 225
+  orig: 500, 400
+  offset: 81, 79
+  index: -1
+glow/glow_23
+  rotate: true
+  xy: 913, 482
+  size: 337, 226
+  orig: 500, 400
+  offset: 81, 80
+  index: -1
+glow/glow_24
+  rotate: true
+  xy: 342, 325
+  size: 337, 225
+  orig: 500, 400
+  offset: 82, 80
+  index: -1
+glow/glow_25
+  rotate: false
+  xy: 573, 706
+  size: 338, 223
+  orig: 500, 400
+  offset: 83, 81
+  index: -1
+glow/glow_26
+  rotate: false
+  xy: 2, 666
+  size: 339, 224
+  orig: 500, 400
+  offset: 83, 79
+  index: -1
+glow/glow_27
+  rotate: false
+  xy: 1548, 905
+  size: 342, 226
+  orig: 500, 400
+  offset: 80, 77
+  index: -1
+glow/glow_28
+  rotate: false
+  xy: 1651, 1361
+  size: 345, 228
+  orig: 500, 400
+  offset: 77, 74
+  index: -1
+glow/glow_29
+  rotate: false
+  xy: 1303, 1362
+  size: 346, 227
+  orig: 500, 400
+  offset: 77, 73
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 1668
+  size: 674, 374
+  orig: 676, 376
+  offset: 1, 1
+  index: -1
+kuang2
+  rotate: false
+  xy: 1303, 1591
+  size: 609, 125
+  orig: 609, 125
+  offset: 0, 0
+  index: -1
+pai_Grand
+  rotate: false
+  xy: 2, 2
+  size: 212, 213
+  orig: 214, 215
+  offset: 1, 1
+  index: -1
+pai_Major
+  rotate: false
+  xy: 216, 2
+  size: 212, 213
+  orig: 214, 215
+  offset: 1, 1
+  index: -1
+pai_Mini
+  rotate: true
+  xy: 1768, 129
+  size: 212, 213
+  orig: 214, 215
+  offset: 1, 1
+  index: -1
+
+JackpotWin2.png
+size: 642,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baby_Mini
+  rotate: true
+  xy: 217, 10
+  size: 204, 213
+  orig: 206, 215
+  offset: 1, 1
+  index: -1
+baby_Minor
+  rotate: false
+  xy: 432, 11
+  size: 208, 203
+  orig: 210, 205
+  offset: 1, 1
+  index: -1
+pai_Minor
+  rotate: true
+  xy: 2, 2
+  size: 212, 213
+  orig: 214, 215
+  offset: 1, 1
+  index: -1

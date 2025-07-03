@@ -1,0 +1,377 @@
+
+ng_bgchip1.png
+size: 970,970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g2
+  rotate: true
+  xy: 687, 361
+  size: 126, 125
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+images/g4
+  rotate: false
+  xy: 788, 498
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_00
+  rotate: false
+  xy: 918, 500
+  size: 34, 55
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_01
+  rotate: false
+  xy: 918, 557
+  size: 42, 69
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_02
+  rotate: false
+  xy: 499, 722
+  size: 51, 80
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_03
+  rotate: false
+  xy: 793, 274
+  size: 60, 85
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_04
+  rotate: false
+  xy: 432, 710
+  size: 65, 91
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_05
+  rotate: false
+  xy: 727, 177
+  size: 71, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_06
+  rotate: true
+  xy: 539, 92
+  size: 75, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_07
+  rotate: true
+  xy: 633, 91
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_08
+  rotate: false
+  xy: 727, 83
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_09
+  rotate: true
+  xy: 676, 5
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_10
+  rotate: true
+  xy: 770, 5
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_11
+  rotate: false
+  xy: 800, 180
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_12
+  rotate: false
+  xy: 805, 86
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_13
+  rotate: false
+  xy: 855, 280
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lan_g/lan_g_14
+  rotate: false
+  xy: 878, 186
+  size: 74, 92
+  orig: 76, 92
+  offset: 2, 0
+  index: -1
+images/lan_g/lan_g_15
+  rotate: false
+  xy: 900, 405
+  size: 68, 91
+  orig: 76, 92
+  offset: 8, 1
+  index: -1
+images/lan_g/lan_g_16
+  rotate: false
+  xy: 531, 2
+  size: 62, 88
+  orig: 76, 92
+  offset: 14, 4
+  index: -1
+images/lan_g/lan_g_17
+  rotate: false
+  xy: 864, 2
+  size: 56, 82
+  orig: 76, 92
+  offset: 20, 10
+  index: -1
+images/lan_g/lan_g_18
+  rotate: false
+  xy: 186, 642
+  size: 47, 77
+  orig: 76, 92
+  offset: 29, 15
+  index: -1
+images/lan_g/lan_g_19
+  rotate: false
+  xy: 922, 28
+  size: 37, 62
+  orig: 76, 92
+  offset: 39, 30
+  index: -1
+images/lanse1
+  rotate: false
+  xy: 883, 92
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+images/lanse2_00
+  rotate: false
+  xy: 641, 169
+  size: 84, 100
+  orig: 112, 136
+  offset: 14, 18
+  index: -1
+images/lanse4_00
+  rotate: true
+  xy: 687, 271
+  size: 88, 104
+  orig: 120, 146
+  offset: 16, 21
+  index: -1
+images/treasure_light_21
+  rotate: false
+  xy: 2, 721
+  size: 247, 247
+  orig: 256, 256
+  offset: 4, 0
+  index: -1
+images/xiaobaiXX_c
+  rotate: false
+  xy: 595, 2
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/zha/zha_01
+  rotate: true
+  xy: 814, 374
+  size: 122, 84
+  orig: 326, 197
+  offset: 90, 58
+  index: -1
+images/zha/zha_02
+  rotate: true
+  xy: 539, 169
+  size: 142, 100
+  orig: 326, 197
+  offset: 83, 49
+  index: -1
+images/zha/zha_03
+  rotate: true
+  xy: 670, 489
+  size: 153, 116
+  orig: 326, 197
+  offset: 77, 40
+  index: -1
+images/zha/zha_04
+  rotate: true
+  xy: 365, 476
+  size: 163, 129
+  orig: 326, 197
+  offset: 71, 32
+  index: -1
+images/zha/zha_05
+  rotate: false
+  xy: 185, 11
+  size: 171, 142
+  orig: 326, 197
+  offset: 68, 25
+  index: -1
+images/zha/zha_06
+  rotate: true
+  xy: 364, 300
+  size: 174, 152
+  orig: 326, 197
+  offset: 67, 19
+  index: -1
+images/zha/zha_07
+  rotate: false
+  xy: 186, 317
+  size: 176, 158
+  orig: 326, 197
+  offset: 66, 16
+  index: -1
+images/zha/zha_08
+  rotate: false
+  xy: 251, 641
+  size: 179, 160
+  orig: 326, 197
+  offset: 63, 15
+  index: -1
+images/zha/zha_09
+  rotate: true
+  xy: 801, 787
+  size: 181, 162
+  orig: 326, 197
+  offset: 62, 14
+  index: -1
+images/zha/zha_10
+  rotate: false
+  xy: 435, 804
+  size: 181, 164
+  orig: 326, 197
+  offset: 62, 13
+  index: -1
+images/zha/zha_11
+  rotate: false
+  xy: 2, 222
+  size: 181, 164
+  orig: 326, 197
+  offset: 62, 13
+  index: -1
+images/zha/zha_12
+  rotate: false
+  xy: 2, 554
+  size: 182, 165
+  orig: 326, 197
+  offset: 61, 12
+  index: -1
+images/zha/zha_13
+  rotate: false
+  xy: 251, 803
+  size: 182, 165
+  orig: 326, 197
+  offset: 61, 12
+  index: -1
+images/zha/zha_14
+  rotate: false
+  xy: 2, 388
+  size: 182, 164
+  orig: 326, 197
+  offset: 61, 13
+  index: -1
+images/zha/zha_15
+  rotate: false
+  xy: 618, 805
+  size: 181, 163
+  orig: 326, 197
+  offset: 62, 13
+  index: -1
+images/zha/zha_16
+  rotate: false
+  xy: 2, 57
+  size: 181, 163
+  orig: 326, 197
+  offset: 62, 13
+  index: -1
+images/zha/zha_17
+  rotate: false
+  xy: 186, 477
+  size: 177, 162
+  orig: 326, 197
+  offset: 62, 14
+  index: -1
+images/zha/zha_18
+  rotate: false
+  xy: 185, 155
+  size: 175, 160
+  orig: 326, 197
+  offset: 63, 15
+  index: -1
+images/zha/zha_19
+  rotate: false
+  xy: 362, 138
+  size: 175, 160
+  orig: 326, 197
+  offset: 63, 15
+  index: -1
+images/zha/zha_20
+  rotate: false
+  xy: 618, 644
+  size: 174, 159
+  orig: 326, 197
+  offset: 63, 16
+  index: -1
+images/zha/zha_21
+  rotate: false
+  xy: 794, 628
+  size: 173, 157
+  orig: 326, 197
+  offset: 64, 17
+  index: -1
+images/zha/zha_22
+  rotate: false
+  xy: 496, 485
+  size: 172, 157
+  orig: 326, 197
+  offset: 65, 17
+  index: -1
+images/zha/zha_23
+  rotate: false
+  xy: 358, 22
+  size: 171, 114
+  orig: 326, 197
+  offset: 65, 59
+  index: -1
+images/zha/zha_24
+  rotate: true
+  xy: 518, 313
+  size: 170, 114
+  orig: 326, 197
+  offset: 66, 59
+  index: -1
+images/zha/zha_25
+  rotate: false
+  xy: 2, 3
+  size: 170, 52
+  orig: 326, 197
+  offset: 66, 59
+  index: -1
+images/zha/zha_26
+  rotate: true
+  xy: 634, 314
+  size: 169, 51
+  orig: 326, 197
+  offset: 67, 59
+  index: -1

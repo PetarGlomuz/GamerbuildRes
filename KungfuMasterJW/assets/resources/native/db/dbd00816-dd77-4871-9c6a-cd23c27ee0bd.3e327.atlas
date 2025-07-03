@@ -1,0 +1,20 @@
+
+ditu.png
+size: 29,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huaban
+  rotate: true
+  xy: 2, 18
+  size: 12, 24
+  orig: 32, 32
+  offset: 10, 4
+  index: -1
+zhuye
+  rotate: true
+  xy: 2, 2
+  size: 14, 25
+  orig: 25, 25
+  offset: 7, 0
+  index: -1

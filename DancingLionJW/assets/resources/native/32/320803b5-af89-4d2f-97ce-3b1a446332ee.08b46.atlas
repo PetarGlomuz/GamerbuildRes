@@ -1,0 +1,159 @@
+
+TC_FG_diban.png
+size: 2025,2036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/bian_00000
+  rotate: false
+  xy: 1963, 1957
+  size: 60, 77
+  orig: 275, 175
+  offset: 3, 3
+  index: -1
+image/bian_00001
+  rotate: false
+  xy: 1419, 521
+  size: 91, 117
+  orig: 275, 175
+  offset: 2, 1
+  index: -1
+image/bian_00002
+  rotate: false
+  xy: 1050, 140
+  size: 121, 154
+  orig: 275, 175
+  offset: 2, 1
+  index: -1
+image/bian_00003
+  rotate: false
+  xy: 1696, 1348
+  size: 150, 167
+  orig: 275, 175
+  offset: 2, 1
+  index: -1
+image/bian_00004
+  rotate: false
+  xy: 1050, 296
+  size: 180, 169
+  orig: 275, 175
+  offset: 2, 1
+  index: -1
+image/bian_00005
+  rotate: false
+  xy: 1314, 640
+  size: 209, 172
+  orig: 275, 175
+  offset: 2, 1
+  index: -1
+image/bian_00006
+  rotate: false
+  xy: 1696, 1688
+  size: 239, 172
+  orig: 275, 175
+  offset: 2, 1
+  index: -1
+image/bian_00007
+  rotate: false
+  xy: 1050, 814
+  size: 266, 172
+  orig: 275, 175
+  offset: 2, 1
+  index: -1
+image/bian_00008
+  rotate: false
+  xy: 1050, 640
+  size: 262, 172
+  orig: 275, 175
+  offset: 7, 1
+  index: -1
+image/bian_00009
+  rotate: false
+  xy: 1696, 1862
+  size: 265, 172
+  orig: 275, 175
+  offset: 7, 1
+  index: -1
+image/bian_00010
+  rotate: false
+  xy: 1318, 814
+  size: 242, 172
+  orig: 275, 175
+  offset: 31, 1
+  index: -1
+image/bian_00011
+  rotate: false
+  xy: 1050, 467
+  size: 212, 171
+  orig: 275, 175
+  offset: 61, 2
+  index: -1
+image/bian_00012
+  rotate: false
+  xy: 1696, 1517
+  size: 183, 169
+  orig: 275, 175
+  offset: 90, 4
+  index: -1
+image/bian_00013
+  rotate: false
+  xy: 1264, 472
+  size: 153, 166
+  orig: 275, 175
+  offset: 120, 7
+  index: -1
+image/bian_00014
+  rotate: false
+  xy: 1562, 830
+  size: 124, 156
+  orig: 275, 175
+  offset: 149, 17
+  index: -1
+image/bian_00015
+  rotate: true
+  xy: 2, 2
+  size: 94, 118
+  orig: 275, 175
+  offset: 179, 55
+  index: -1
+image/diban
+  rotate: false
+  xy: 2, 744
+  size: 1046, 644
+  orig: 1046, 644
+  offset: 0, 0
+  index: -1
+image/huang
+  rotate: true
+  xy: 1050, 988
+  size: 1046, 644
+  orig: 1046, 644
+  offset: 0, 0
+  index: -1
+image/lan
+  rotate: false
+  xy: 2, 98
+  size: 1046, 644
+  orig: 1046, 644
+  offset: 0, 0
+  index: -1
+image/zi
+  rotate: false
+  xy: 2, 1390
+  size: 1046, 644
+  orig: 1046, 644
+  offset: 0, 0
+  index: -1
+
+TC_FG_diban2.png
+size: 1050,648
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/lv
+  rotate: false
+  xy: 2, 2
+  size: 1046, 644
+  orig: 1046, 644
+  offset: 0, 0
+  index: -1

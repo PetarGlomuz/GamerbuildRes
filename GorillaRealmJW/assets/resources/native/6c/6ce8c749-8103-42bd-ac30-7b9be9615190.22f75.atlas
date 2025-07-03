@@ -1,0 +1,153 @@
+
+FG_cong_zi.png
+size: 694,692
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/CONG_zi
+  rotate: false
+  xy: 2, 614
+  size: 682, 76
+  orig: 688, 79
+  offset: 3, 1
+  index: -1
+wenjian/cong_g/cong_g_00
+  rotate: false
+  xy: 2, 216
+  size: 66, 38
+  orig: 348, 40
+  offset: 0, 2
+  index: -1
+wenjian/cong_g/cong_g_01
+  rotate: false
+  xy: 609, 574
+  size: 83, 38
+  orig: 348, 40
+  offset: 1, 2
+  index: -1
+wenjian/cong_g/cong_g_02
+  rotate: false
+  xy: 2, 336
+  size: 102, 38
+  orig: 348, 40
+  offset: 2, 2
+  index: -1
+wenjian/cong_g/cong_g_03
+  rotate: false
+  xy: 2, 376
+  size: 116, 38
+  orig: 348, 40
+  offset: 6, 2
+  index: -1
+wenjian/cong_g/cong_g_04
+  rotate: false
+  xy: 2, 574
+  size: 122, 38
+  orig: 348, 40
+  offset: 18, 2
+  index: -1
+wenjian/cong_g/cong_g_05
+  rotate: false
+  xy: 2, 534
+  size: 121, 38
+  orig: 348, 40
+  offset: 37, 2
+  index: -1
+wenjian/cong_g/cong_g_06
+  rotate: false
+  xy: 2, 495
+  size: 121, 37
+  orig: 348, 40
+  offset: 55, 3
+  index: -1
+wenjian/cong_g/cong_g_07
+  rotate: false
+  xy: 125, 535
+  size: 121, 37
+  orig: 348, 40
+  offset: 71, 3
+  index: -1
+wenjian/cong_g/cong_g_08
+  rotate: false
+  xy: 249, 575
+  size: 121, 37
+  orig: 348, 40
+  offset: 89, 3
+  index: -1
+wenjian/cong_g/cong_g_09
+  rotate: false
+  xy: 126, 574
+  size: 121, 38
+  orig: 348, 40
+  offset: 106, 2
+  index: -1
+wenjian/cong_g/cong_g_10
+  rotate: false
+  xy: 372, 575
+  size: 119, 37
+  orig: 348, 40
+  offset: 125, 3
+  index: -1
+wenjian/cong_g/cong_g_11
+  rotate: false
+  xy: 124, 417
+  size: 117, 37
+  orig: 348, 40
+  offset: 144, 3
+  index: -1
+wenjian/cong_g/cong_g_12
+  rotate: false
+  xy: 2, 456
+  size: 121, 37
+  orig: 348, 40
+  offset: 158, 3
+  index: -1
+wenjian/cong_g/cong_g_13
+  rotate: false
+  xy: 125, 496
+  size: 121, 37
+  orig: 348, 40
+  offset: 175, 3
+  index: -1
+wenjian/cong_g/cong_g_14
+  rotate: false
+  xy: 2, 416
+  size: 120, 38
+  orig: 348, 40
+  offset: 192, 2
+  index: -1
+wenjian/cong_g/cong_g_15
+  rotate: false
+  xy: 125, 456
+  size: 119, 38
+  orig: 348, 40
+  offset: 211, 2
+  index: -1
+wenjian/cong_g/cong_g_16
+  rotate: false
+  xy: 493, 575
+  size: 114, 37
+  orig: 348, 40
+  offset: 230, 3
+  index: -1
+wenjian/cong_g/cong_g_17
+  rotate: false
+  xy: 2, 296
+  size: 101, 38
+  orig: 348, 40
+  offset: 245, 2
+  index: -1
+wenjian/cong_g/cong_g_18
+  rotate: false
+  xy: 2, 256
+  size: 82, 38
+  orig: 348, 40
+  offset: 265, 2
+  index: -1
+wenjian/cong_g/cong_g_19
+  rotate: false
+  xy: 2, 177
+  size: 64, 37
+  orig: 348, 40
+  offset: 283, 3
+  index: -1

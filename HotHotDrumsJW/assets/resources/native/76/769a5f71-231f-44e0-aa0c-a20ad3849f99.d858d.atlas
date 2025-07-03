@@ -1,0 +1,55 @@
+
+yv.png
+size: 388,111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huan_00
+  rotate: false
+  xy: 298, 54
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+images/beijing
+  rotate: false
+  xy: 0, 0
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+images/huan
+  rotate: false
+  xy: 113, 10
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+images/yvqi1
+  rotate: false
+  xy: 358, 56
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+images/yvqi2
+  rotate: false
+  xy: 337, 23
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+images/yvshen
+  rotate: false
+  xy: 216, 18
+  size: 80, 93
+  orig: 80, 93
+  offset: 0, 0
+  index: -1
+images/yvtou
+  rotate: false
+  xy: 298, 18
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1

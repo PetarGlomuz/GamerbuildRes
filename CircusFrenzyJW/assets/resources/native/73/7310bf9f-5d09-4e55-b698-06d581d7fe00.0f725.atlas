@@ -1,0 +1,97 @@
+
+QuanPanJiang.png
+size: 899,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/k5/k5_000
+  rotate: true
+  xy: 815, 3
+  size: 20, 14
+  orig: 180, 165
+  offset: 153, 10
+  index: -1
+images/k5/k5_002
+  rotate: true
+  xy: 871, 7
+  size: 80, 26
+  orig: 180, 165
+  offset: 91, 4
+  index: -1
+images/k5/k5_004
+  rotate: true
+  xy: 843, 33
+  size: 138, 26
+  orig: 180, 165
+  offset: 32, 4
+  index: -1
+images/k5/k5_006
+  rotate: true
+  xy: 752, 9
+  size: 162, 61
+  orig: 180, 165
+  offset: 7, 4
+  index: -1
+images/k5/k5_008
+  rotate: true
+  xy: 444, 10
+  size: 161, 120
+  orig: 180, 165
+  offset: 7, 4
+  index: -1
+images/k5/k5_010
+  rotate: true
+  xy: 158, 13
+  size: 158, 156
+  orig: 180, 165
+  offset: 7, 4
+  index: -1
+images/k5/k5_012
+  rotate: false
+  xy: 566, 16
+  size: 117, 155
+  orig: 180, 165
+  offset: 7, 5
+  index: -1
+images/k5/k5_014
+  rotate: true
+  xy: 2, 2
+  size: 169, 154
+  orig: 180, 165
+  offset: 7, 6
+  index: -1
+images/k5/k5_016
+  rotate: true
+  xy: 316, 2
+  size: 169, 126
+  orig: 180, 165
+  offset: 7, 34
+  index: -1
+images/k5/k5_018
+  rotate: true
+  xy: 685, 3
+  size: 168, 65
+  orig: 180, 165
+  offset: 8, 95
+  index: -1
+images/k5/k5_020
+  rotate: true
+  xy: 815, 25
+  size: 146, 26
+  orig: 180, 165
+  offset: 30, 134
+  index: -1
+images/k5/k5_022
+  rotate: true
+  xy: 871, 89
+  size: 82, 26
+  orig: 180, 165
+  offset: 94, 134
+  index: -1
+images/k5/k5_024
+  rotate: false
+  xy: 158, 4
+  size: 24, 7
+  orig: 180, 165
+  offset: 145, 144
+  index: -1

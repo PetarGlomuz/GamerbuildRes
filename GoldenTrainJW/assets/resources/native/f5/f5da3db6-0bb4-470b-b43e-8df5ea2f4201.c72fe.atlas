@@ -1,0 +1,111 @@
+
+BG_yinfenkuang.png
+size: 662,1105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yfk/yfk_00
+  rotate: false
+  xy: 425, 2
+  size: 223, 193
+  orig: 250, 250
+  offset: 11, 29
+  index: -1
+images/yfk/yfk_01
+  rotate: false
+  xy: 198, 94
+  size: 225, 192
+  orig: 250, 250
+  offset: 10, 29
+  index: -1
+images/yfk/yfk_02
+  rotate: true
+  xy: 467, 876
+  size: 227, 192
+  orig: 250, 250
+  offset: 8, 29
+  index: -1
+images/yfk/yfk_03
+  rotate: true
+  xy: 466, 647
+  size: 227, 194
+  orig: 250, 250
+  offset: 7, 27
+  index: -1
+images/yfk/yfk_04
+  rotate: true
+  xy: 2, 33
+  size: 223, 192
+  orig: 250, 250
+  offset: 13, 28
+  index: -1
+images/yfk/yfk_05
+  rotate: true
+  xy: 2, 258
+  size: 223, 194
+  orig: 250, 250
+  offset: 13, 26
+  index: -1
+images/yfk/yfk_06
+  rotate: true
+  xy: 449, 197
+  size: 223, 195
+  orig: 250, 250
+  offset: 13, 24
+  index: -1
+images/yfk/yfk_07
+  rotate: false
+  xy: 225, 288
+  size: 222, 197
+  orig: 250, 250
+  offset: 14, 22
+  index: -1
+images/yfk/yfk_08
+  rotate: false
+  xy: 2, 483
+  size: 221, 201
+  orig: 250, 250
+  offset: 14, 20
+  index: -1
+images/yfk/yfk_09
+  rotate: true
+  xy: 455, 422
+  size: 223, 204
+  orig: 250, 250
+  offset: 12, 18
+  index: -1
+images/yfk/yfk_10
+  rotate: false
+  xy: 229, 487
+  size: 224, 207
+  orig: 250, 250
+  offset: 12, 15
+  index: -1
+images/yfk/yfk_11
+  rotate: false
+  xy: 2, 686
+  size: 225, 209
+  orig: 250, 250
+  offset: 12, 13
+  index: -1
+images/yfk/yfk_12
+  rotate: false
+  xy: 236, 897
+  size: 229, 206
+  orig: 250, 250
+  offset: 12, 16
+  index: -1
+images/yfk/yfk_13
+  rotate: false
+  xy: 2, 897
+  size: 232, 206
+  orig: 250, 250
+  offset: 12, 16
+  index: -1
+images/yfk/yfk_14
+  rotate: false
+  xy: 229, 696
+  size: 235, 199
+  orig: 250, 250
+  offset: 12, 24
+  index: -1

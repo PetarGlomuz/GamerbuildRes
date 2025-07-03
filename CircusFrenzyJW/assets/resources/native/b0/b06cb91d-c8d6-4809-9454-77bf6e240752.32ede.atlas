@@ -1,0 +1,174 @@
+
+FuZhiTiShiKuang.png
+size: 787,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bian/bian_000
+  rotate: true
+  xy: 2, 324
+  size: 59, 173
+  orig: 65, 175
+  offset: 6, 2
+  index: -1
+images/bian/bian_002
+  rotate: true
+  xy: 342, 318
+  size: 65, 175
+  orig: 65, 175
+  offset: 0, 0
+  index: -1
+images/bian/bian_004
+  rotate: true
+  xy: 519, 318
+  size: 65, 173
+  orig: 65, 175
+  offset: 0, 0
+  index: -1
+images/bian/bian_006
+  rotate: true
+  xy: 176, 251
+  size: 65, 174
+  orig: 65, 175
+  offset: 0, 0
+  index: -1
+images/bian/bian_008
+  rotate: true
+  xy: 352, 251
+  size: 65, 174
+  orig: 65, 175
+  offset: 0, 0
+  index: -1
+images/bian/bian_010
+  rotate: true
+  xy: 528, 251
+  size: 65, 175
+  orig: 65, 175
+  offset: 0, 0
+  index: -1
+images/bian/bian_012
+  rotate: true
+  xy: 2, 184
+  size: 65, 175
+  orig: 65, 175
+  offset: 0, 0
+  index: -1
+images/bian/bian_014
+  rotate: true
+  xy: 2, 257
+  size: 65, 172
+  orig: 65, 175
+  offset: 0, 1
+  index: -1
+images/bian/bian_016
+  rotate: true
+  xy: 177, 322
+  size: 61, 163
+  orig: 65, 175
+  offset: 0, 4
+  index: -1
+images/k2/k2_000
+  rotate: false
+  xy: 705, 233
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_002
+  rotate: true
+  xy: 179, 174
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_004
+  rotate: true
+  xy: 331, 174
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_006
+  rotate: true
+  xy: 483, 174
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_008
+  rotate: true
+  xy: 635, 156
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_010
+  rotate: true
+  xy: 2, 107
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_012
+  rotate: true
+  xy: 154, 97
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_014
+  rotate: true
+  xy: 306, 97
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_016
+  rotate: true
+  xy: 458, 97
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_018
+  rotate: true
+  xy: 610, 79
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_020
+  rotate: true
+  xy: 2, 30
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_022
+  rotate: true
+  xy: 154, 20
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_024
+  rotate: true
+  xy: 306, 20
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_026
+  rotate: true
+  xy: 458, 20
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+images/k2/k2_028
+  rotate: true
+  xy: 610, 2
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+TingPai.png
+size: 1822,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/t1/TingPai1_000
+  rotate: false
+  xy: 1262, 262
+  size: 110, 230
+  orig: 110, 230
+  offset: 0, 0
+  index: -1
+images/t1/TingPai1_001
+  rotate: false
+  xy: 1262, 30
+  size: 110, 230
+  orig: 110, 230
+  offset: 0, 0
+  index: -1
+images/t1/TingPai1_002
+  rotate: false
+  xy: 1374, 262
+  size: 110, 230
+  orig: 110, 230
+  offset: 0, 0
+  index: -1
+images/t1/TingPai1_003
+  rotate: false
+  xy: 1374, 30
+  size: 110, 230
+  orig: 110, 230
+  offset: 0, 0
+  index: -1
+images/t1/TingPai1_004
+  rotate: false
+  xy: 1486, 262
+  size: 110, 230
+  orig: 110, 230
+  offset: 0, 0
+  index: -1
+images/t1/TingPai1_005
+  rotate: false
+  xy: 1486, 30
+  size: 110, 230
+  orig: 110, 230
+  offset: 0, 0
+  index: -1
+images/t1/TingPai1_006
+  rotate: false
+  xy: 1598, 262
+  size: 110, 230
+  orig: 110, 230
+  offset: 0, 0
+  index: -1
+images/t1/TingPai1_007
+  rotate: false
+  xy: 1598, 30
+  size: 110, 230
+  orig: 110, 230
+  offset: 0, 0
+  index: -1
+images/t1/TingPai1_008
+  rotate: false
+  xy: 1710, 262
+  size: 110, 230
+  orig: 110, 230
+  offset: 0, 0
+  index: -1
+images/t1/TingPai1_009
+  rotate: false
+  xy: 1710, 30
+  size: 110, 230
+  orig: 110, 230
+  offset: 0, 0
+  index: -1
+images/t2/TingPai2_000
+  rotate: false
+  xy: 2, 2
+  size: 124, 490
+  orig: 124, 490
+  offset: 0, 0
+  index: -1
+images/t2/TingPai2_001
+  rotate: false
+  xy: 128, 2
+  size: 124, 490
+  orig: 124, 490
+  offset: 0, 0
+  index: -1
+images/t2/TingPai2_002
+  rotate: false
+  xy: 254, 2
+  size: 124, 490
+  orig: 124, 490
+  offset: 0, 0
+  index: -1
+images/t2/TingPai2_003
+  rotate: false
+  xy: 380, 2
+  size: 124, 490
+  orig: 124, 490
+  offset: 0, 0
+  index: -1
+images/t2/TingPai2_004
+  rotate: false
+  xy: 506, 2
+  size: 124, 490
+  orig: 124, 490
+  offset: 0, 0
+  index: -1
+images/t2/TingPai2_005
+  rotate: false
+  xy: 632, 2
+  size: 124, 490
+  orig: 124, 490
+  offset: 0, 0
+  index: -1
+images/t2/TingPai2_006
+  rotate: false
+  xy: 758, 2
+  size: 124, 490
+  orig: 124, 490
+  offset: 0, 0
+  index: -1
+images/t2/TingPai2_007
+  rotate: false
+  xy: 884, 2
+  size: 124, 490
+  orig: 124, 490
+  offset: 0, 0
+  index: -1
+images/t2/TingPai2_008
+  rotate: false
+  xy: 1010, 2
+  size: 124, 490
+  orig: 124, 490
+  offset: 0, 0
+  index: -1
+images/t2/TingPai2_009
+  rotate: false
+  xy: 1136, 2
+  size: 124, 490
+  orig: 124, 490
+  offset: 0, 0
+  index: -1

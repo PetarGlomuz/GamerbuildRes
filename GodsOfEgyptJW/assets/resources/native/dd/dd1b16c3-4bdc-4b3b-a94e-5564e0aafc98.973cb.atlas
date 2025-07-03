@@ -1,0 +1,132 @@
+
+loading_trans.png
+size: 1921,1921
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J_0ke
+  rotate: false
+  xy: 2, 89
+  size: 245, 154
+  orig: 245, 156
+  offset: 0, 2
+  index: -1
+J_0tui1
+  rotate: true
+  xy: 1425, 670
+  size: 76, 159
+  orig: 76, 159
+  offset: 0, 0
+  index: -1
+J_0tui2
+  rotate: false
+  xy: 1175, 497
+  size: 136, 108
+  orig: 137, 109
+  offset: 0, 0
+  index: -1
+J_0tui3
+  rotate: false
+  xy: 1175, 607
+  size: 248, 139
+  orig: 249, 139
+  offset: 1, 0
+  index: -1
+J_0tui4
+  rotate: false
+  xy: 249, 152
+  size: 161, 91
+  orig: 162, 92
+  offset: 0, 0
+  index: -1
+J_0tui5
+  rotate: false
+  xy: 1645, 969
+  size: 139, 123
+  orig: 139, 123
+  offset: 0, 0
+  index: -1
+J_0tui6
+  rotate: false
+  xy: 412, 159
+  size: 129, 84
+  orig: 130, 87
+  offset: 0, 0
+  index: -1
+J_0tui7
+  rotate: false
+  xy: 2, 2
+  size: 143, 51
+  orig: 143, 53
+  offset: 0, 1
+  index: -1
+baoshi
+  rotate: false
+  xy: 1175, 465
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+lanchong_00
+  rotate: false
+  xy: 1786, 1060
+  size: 36, 32
+  orig: 125, 110
+  offset: 45, 40
+  index: -1
+lanchongguang_00
+  rotate: false
+  xy: 1645, 857
+  size: 125, 110
+  orig: 125, 110
+  offset: 0, 0
+  index: -1
+ng_background
+  rotate: false
+  xy: 2, 245
+  size: 1171, 1674
+  orig: 1171, 1674
+  offset: 0, 0
+  index: -1
+qianjing
+  rotate: true
+  xy: 1175, 748
+  size: 1171, 468
+  orig: 1171, 468
+  offset: 0, 0
+  index: -1
+xian_00
+  rotate: true
+  xy: 2, 55
+  size: 32, 227
+  orig: 50, 250
+  offset: 8, 0
+  index: -1
+xsheni
+  rotate: false
+  xy: 231, 61
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+xtui
+  rotate: false
+  xy: 1313, 577
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+xyingzi
+  rotate: false
+  xy: 249, 118
+  size: 33, 32
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 1645, 1094
+  size: 825, 263
+  orig: 856, 281
+  offset: 28, 15
+  index: -1

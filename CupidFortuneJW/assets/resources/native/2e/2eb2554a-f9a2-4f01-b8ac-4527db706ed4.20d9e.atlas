@@ -1,0 +1,62 @@
+
+TC_FG_jpwheel_tishi.png
+size: 452,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PRESS
+  rotate: true
+  xy: 386, 257
+  size: 193, 59
+  orig: 193, 59
+  offset: 0, 0
+  index: -1
+START
+  rotate: true
+  xy: 326, 253
+  size: 197, 58
+  orig: 197, 58
+  offset: 0, 0
+  index: -1
+TO
+  rotate: true
+  xy: 251, 31
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+board
+  rotate: false
+  xy: 2, 122
+  size: 322, 328
+  orig: 326, 335
+  offset: 2, 5
+  index: -1
+board_xiao
+  rotate: false
+  xy: 311, 64
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+board_xin
+  rotate: true
+  xy: 2, 2
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+dianji
+  rotate: true
+  xy: 326, 121
+  size: 130, 75
+  orig: 130, 75
+  offset: 0, 0
+  index: -1
+qidongzhuanlun
+  rotate: false
+  xy: 2, 46
+  size: 247, 74
+  orig: 247, 74
+  offset: 0, 0
+  index: -1

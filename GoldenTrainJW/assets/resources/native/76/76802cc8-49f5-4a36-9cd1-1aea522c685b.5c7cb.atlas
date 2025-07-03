@@ -1,0 +1,153 @@
+
+TC_FGzhongjiang_title.png
+size: 278,1038
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cong
+  rotate: true
+  xy: 2, 214
+  size: 822, 88
+  orig: 823, 88
+  offset: 1, 0
+  index: -1
+cong/sg_00
+  rotate: true
+  xy: 186, 29
+  size: 68, 43
+  orig: 791, 94
+  offset: 191, 26
+  index: -1
+cong/sg_01
+  rotate: true
+  xy: 232, 88
+  size: 104, 44
+  orig: 791, 94
+  offset: 190, 25
+  index: -1
+cong/sg_02
+  rotate: true
+  xy: 186, 99
+  size: 138, 44
+  orig: 791, 94
+  offset: 190, 25
+  index: -1
+cong/sg_03
+  rotate: true
+  xy: 186, 239
+  size: 176, 44
+  orig: 791, 94
+  offset: 190, 25
+  index: -1
+cong/sg_04
+  rotate: true
+  xy: 2, 2
+  size: 210, 44
+  orig: 791, 94
+  offset: 190, 25
+  index: -1
+cong/sg_05
+  rotate: true
+  xy: 94, 33
+  size: 242, 44
+  orig: 791, 94
+  offset: 190, 25
+  index: -1
+cong/sg_06
+  rotate: true
+  xy: 230, 754
+  size: 282, 44
+  orig: 791, 94
+  offset: 190, 25
+  index: -1
+cong/sg_07
+  rotate: true
+  xy: 184, 720
+  size: 316, 44
+  orig: 791, 94
+  offset: 191, 25
+  index: -1
+cong/sg_08
+  rotate: true
+  xy: 138, 685
+  size: 351, 44
+  orig: 791, 94
+  offset: 191, 25
+  index: -1
+cong/sg_09
+  rotate: true
+  xy: 92, 652
+  size: 384, 44
+  orig: 791, 94
+  offset: 194, 25
+  index: -1
+cong/sg_10
+  rotate: true
+  xy: 92, 277
+  size: 373, 44
+  orig: 791, 94
+  offset: 227, 25
+  index: -1
+cong/sg_11
+  rotate: true
+  xy: 138, 346
+  size: 337, 44
+  orig: 791, 94
+  offset: 263, 25
+  index: -1
+cong/sg_12
+  rotate: true
+  xy: 184, 417
+  size: 301, 44
+  orig: 791, 94
+  offset: 300, 25
+  index: -1
+cong/sg_13
+  rotate: true
+  xy: 230, 485
+  size: 267, 44
+  orig: 791, 94
+  offset: 334, 25
+  index: -1
+cong/sg_14
+  rotate: true
+  xy: 140, 112
+  size: 232, 44
+  orig: 791, 94
+  offset: 369, 25
+  index: -1
+cong/sg_15
+  rotate: true
+  xy: 48, 16
+  size: 196, 44
+  orig: 791, 94
+  offset: 405, 25
+  index: -1
+cong/sg_16
+  rotate: true
+  xy: 232, 322
+  size: 161, 44
+  orig: 791, 94
+  offset: 440, 25
+  index: -1
+cong/sg_17
+  rotate: true
+  xy: 232, 194
+  size: 126, 44
+  orig: 791, 94
+  offset: 475, 25
+  index: -1
+cong/sg_18
+  rotate: true
+  xy: 140, 20
+  size: 90, 44
+  orig: 791, 94
+  offset: 511, 25
+  index: -1
+cong/sg_19
+  rotate: true
+  xy: 231, 34
+  size: 52, 43
+  orig: 791, 94
+  offset: 548, 26
+  index: -1

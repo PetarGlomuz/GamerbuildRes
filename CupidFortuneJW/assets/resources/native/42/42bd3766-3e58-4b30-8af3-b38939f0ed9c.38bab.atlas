@@ -1,0 +1,111 @@
+
+jp_coin_zhongjiang.png
+size: 578,576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zj/zj_00
+  rotate: false
+  xy: 245, 23
+  size: 240, 73
+  orig: 360, 256
+  offset: 76, 86
+  index: -1
+zj/zj_01
+  rotate: false
+  xy: 246, 98
+  size: 241, 75
+  orig: 360, 256
+  offset: 75, 85
+  index: -1
+zj/zj_02
+  rotate: false
+  xy: 246, 175
+  size: 241, 76
+  orig: 360, 256
+  offset: 75, 84
+  index: -1
+zj/zj_03
+  rotate: false
+  xy: 2, 172
+  size: 242, 78
+  orig: 360, 256
+  offset: 74, 83
+  index: -1
+zj/zj_04
+  rotate: false
+  xy: 246, 253
+  size: 242, 78
+  orig: 360, 256
+  offset: 74, 83
+  index: -1
+zj/zj_05
+  rotate: false
+  xy: 2, 252
+  size: 242, 79
+  orig: 360, 256
+  offset: 74, 82
+  index: -1
+zj/zj_06
+  rotate: false
+  xy: 248, 333
+  size: 242, 79
+  orig: 360, 256
+  offset: 74, 82
+  index: -1
+zj/zj_07
+  rotate: false
+  xy: 2, 15
+  size: 241, 76
+  orig: 360, 256
+  offset: 74, 81
+  index: -1
+zj/zj_08
+  rotate: true
+  xy: 499, 332
+  size: 242, 77
+  orig: 360, 256
+  offset: 73, 81
+  index: -1
+zj/zj_09
+  rotate: false
+  xy: 2, 93
+  size: 241, 77
+  orig: 360, 256
+  offset: 73, 81
+  index: -1
+zj/zj_10
+  rotate: false
+  xy: 251, 414
+  size: 243, 79
+  orig: 360, 256
+  offset: 72, 80
+  index: -1
+zj/zj_11
+  rotate: false
+  xy: 2, 333
+  size: 244, 79
+  orig: 360, 256
+  offset: 71, 80
+  index: -1
+zj/zj_12
+  rotate: false
+  xy: 251, 495
+  size: 246, 79
+  orig: 360, 256
+  offset: 71, 80
+  index: -1
+zj/zj_13
+  rotate: false
+  xy: 2, 495
+  size: 247, 79
+  orig: 360, 256
+  offset: 70, 80
+  index: -1
+zj/zj_14
+  rotate: false
+  xy: 2, 414
+  size: 247, 79
+  orig: 360, 256
+  offset: 70, 80
+  index: -1

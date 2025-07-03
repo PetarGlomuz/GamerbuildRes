@@ -1,0 +1,181 @@
+
+NG_dianji.png
+size: 428,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianji/1_00001
+  rotate: true
+  xy: 334, 28
+  size: 96, 91
+  orig: 152, 137
+  offset: 26, 19
+  index: -1
+dianji/1_00002
+  rotate: false
+  xy: 310, 935
+  size: 116, 100
+  orig: 152, 137
+  offset: 9, 14
+  index: -1
+dianji/1_00003
+  rotate: true
+  xy: 232, 4
+  size: 120, 100
+  orig: 152, 137
+  offset: 5, 14
+  index: -1
+dianji/1_00004
+  rotate: true
+  xy: 129, 2
+  size: 122, 101
+  orig: 152, 137
+  offset: 3, 13
+  index: -1
+dianji/1_00005
+  rotate: true
+  xy: 309, 232
+  size: 142, 105
+  orig: 152, 137
+  offset: 1, 11
+  index: -1
+dianji/1_00006
+  rotate: true
+  xy: 310, 647
+  size: 146, 113
+  orig: 152, 137
+  offset: 0, 7
+  index: -1
+dianji/1_00007
+  rotate: false
+  xy: 2, 140
+  size: 149, 120
+  orig: 152, 137
+  offset: 0, 6
+  index: -1
+dianji/1_00008
+  rotate: false
+  xy: 156, 261
+  size: 151, 124
+  orig: 152, 137
+  offset: 0, 5
+  index: -1
+dianji/1_00009
+  rotate: false
+  xy: 156, 768
+  size: 152, 132
+  orig: 152, 137
+  offset: 0, 4
+  index: -1
+dianji/1_00010
+  rotate: false
+  xy: 2, 902
+  size: 152, 133
+  orig: 152, 137
+  offset: 0, 4
+  index: -1
+dianji/1_00011
+  rotate: false
+  xy: 2, 635
+  size: 152, 130
+  orig: 152, 137
+  offset: 0, 7
+  index: -1
+dianji/1_00012
+  rotate: false
+  xy: 156, 634
+  size: 152, 132
+  orig: 152, 137
+  offset: 0, 5
+  index: -1
+dianji/1_00013
+  rotate: false
+  xy: 156, 902
+  size: 152, 133
+  orig: 152, 137
+  offset: 0, 4
+  index: -1
+dianji/1_00014
+  rotate: false
+  xy: 2, 767
+  size: 152, 133
+  orig: 152, 137
+  offset: 0, 4
+  index: -1
+dianji/1_00015
+  rotate: false
+  xy: 156, 387
+  size: 152, 121
+  orig: 152, 137
+  offset: 0, 1
+  index: -1
+dianji/1_00016
+  rotate: false
+  xy: 156, 510
+  size: 152, 122
+  orig: 152, 137
+  offset: 0, 0
+  index: -1
+dianji/1_00017
+  rotate: false
+  xy: 2, 262
+  size: 151, 122
+  orig: 152, 137
+  offset: 1, 0
+  index: -1
+dianji/1_00018
+  rotate: false
+  xy: 2, 386
+  size: 152, 122
+  orig: 152, 137
+  offset: 0, 0
+  index: -1
+dianji/1_00019
+  rotate: false
+  xy: 2, 510
+  size: 152, 123
+  orig: 152, 137
+  offset: 0, 0
+  index: -1
+dianji/1_00020
+  rotate: false
+  xy: 153, 134
+  size: 143, 125
+  orig: 152, 137
+  offset: 0, 0
+  index: -1
+dianji/1_00021
+  rotate: true
+  xy: 310, 795
+  size: 138, 114
+  orig: 152, 137
+  offset: 5, 12
+  index: -1
+dianji/1_00022
+  rotate: true
+  xy: 310, 508
+  size: 137, 107
+  orig: 152, 137
+  offset: 5, 13
+  index: -1
+dianji/1_00023
+  rotate: true
+  xy: 310, 376
+  size: 130, 106
+  orig: 152, 137
+  offset: 5, 13
+  index: -1
+dianji/1_00024
+  rotate: false
+  xy: 2, 35
+  size: 125, 103
+  orig: 152, 137
+  offset: 6, 16
+  index: -1
+dianji/1_00025
+  rotate: false
+  xy: 298, 126
+  size: 126, 104
+  orig: 152, 137
+  offset: 6, 15
+  index: -1

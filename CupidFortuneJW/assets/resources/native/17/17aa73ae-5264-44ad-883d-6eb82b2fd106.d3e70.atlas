@@ -1,0 +1,118 @@
+
+Map_xin.png
+size: 700,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: false
+  xy: 274, 2
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 563, 31
+  size: 186, 100
+  orig: 186, 100
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 2, 342
+  size: 152, 181
+  orig: 152, 181
+  offset: 0, 0
+  index: -1
+zha/zha_00
+  rotate: true
+  xy: 2, 189
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+zha/zha_02
+  rotate: true
+  xy: 2, 36
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+zha/zha_04
+  rotate: true
+  xy: 138, 189
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+zha/zha_06
+  rotate: true
+  xy: 156, 372
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+zha/zha_08
+  rotate: true
+  xy: 138, 36
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+zha/zha_10
+  rotate: true
+  xy: 274, 219
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+zha/zha_12
+  rotate: true
+  xy: 292, 372
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+zha/zha_14
+  rotate: true
+  xy: 274, 66
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+zha/zha_16
+  rotate: false
+  xy: 410, 236
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+zha/zha_18
+  rotate: true
+  xy: 428, 372
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+zha/zha_20
+  rotate: true
+  xy: 563, 219
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+zha/zha_22
+  rotate: true
+  xy: 564, 372
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+zha/zha_24
+  rotate: false
+  xy: 410, 100
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1

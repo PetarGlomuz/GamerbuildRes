@@ -1,0 +1,153 @@
+
+MAP_tanchuang_Total.png
+size: 677,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+totalwin
+  rotate: false
+  xy: 233, 80
+  size: 442, 73
+  orig: 442, 73
+  offset: 0, 0
+  index: -1
+totalwinSG/1_00000
+  rotate: true
+  xy: 181, 4
+  size: 35, 30
+  orig: 218, 62
+  offset: 11, 13
+  index: -1
+totalwinSG/1_00001
+  rotate: true
+  xy: 398, 31
+  size: 47, 31
+  orig: 218, 62
+  offset: 10, 12
+  index: -1
+totalwinSG/1_00002
+  rotate: true
+  xy: 332, 15
+  size: 63, 31
+  orig: 218, 62
+  offset: 10, 12
+  index: -1
+totalwinSG/1_00003
+  rotate: true
+  xy: 233, 2
+  size: 76, 31
+  orig: 218, 62
+  offset: 10, 12
+  index: -1
+totalwinSG/1_00004
+  rotate: false
+  xy: 544, 14
+  size: 88, 31
+  orig: 218, 62
+  offset: 11, 12
+  index: -1
+totalwinSG/1_00005
+  rotate: false
+  xy: 463, 47
+  size: 102, 31
+  orig: 218, 62
+  offset: 11, 12
+  index: -1
+totalwinSG/1_00006
+  rotate: true
+  xy: 167, 41
+  size: 112, 31
+  orig: 218, 62
+  offset: 11, 12
+  index: -1
+totalwinSG/1_00007
+  rotate: false
+  xy: 431, 11
+  size: 111, 31
+  orig: 218, 62
+  offset: 14, 12
+  index: -1
+totalwinSG/1_00008
+  rotate: true
+  xy: 101, 31
+  size: 122, 31
+  orig: 218, 62
+  offset: 27, 12
+  index: -1
+totalwinSG/1_00009
+  rotate: true
+  xy: 68, 30
+  size: 123, 31
+  orig: 218, 62
+  offset: 40, 12
+  index: -1
+totalwinSG/1_00010
+  rotate: true
+  xy: 2, 29
+  size: 124, 31
+  orig: 218, 62
+  offset: 55, 12
+  index: -1
+totalwinSG/1_00011
+  rotate: true
+  xy: 35, 29
+  size: 124, 31
+  orig: 218, 62
+  offset: 66, 12
+  index: -1
+totalwinSG/1_00012
+  rotate: true
+  xy: 134, 34
+  size: 119, 31
+  orig: 218, 62
+  offset: 85, 12
+  index: -1
+totalwinSG/1_00013
+  rotate: true
+  xy: 200, 41
+  size: 112, 31
+  orig: 218, 62
+  offset: 93, 12
+  index: -1
+totalwinSG/1_00014
+  rotate: false
+  xy: 567, 47
+  size: 100, 31
+  orig: 218, 62
+  offset: 106, 12
+  index: -1
+totalwinSG/1_00015
+  rotate: true
+  xy: 266, 3
+  size: 75, 31
+  orig: 218, 62
+  offset: 131, 12
+  index: -1
+totalwinSG/1_00016
+  rotate: true
+  xy: 299, 5
+  size: 73, 31
+  orig: 218, 62
+  offset: 133, 12
+  index: -1
+totalwinSG/1_00017
+  rotate: true
+  xy: 365, 18
+  size: 60, 31
+  orig: 218, 62
+  offset: 146, 12
+  index: -1
+totalwinSG/1_00018
+  rotate: false
+  xy: 134, 2
+  size: 45, 30
+  orig: 218, 62
+  offset: 161, 13
+  index: -1
+totalwinSG/1_00019
+  rotate: true
+  xy: 431, 44
+  size: 34, 30
+  orig: 218, 62
+  offset: 172, 13
+  index: -1

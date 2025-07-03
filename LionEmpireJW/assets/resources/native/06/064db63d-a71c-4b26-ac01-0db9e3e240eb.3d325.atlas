@@ -1,0 +1,258 @@
+
+NG_choice_lion.png
+size: 914,1066
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lion_add
+  rotate: false
+  xy: 406, 914
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_00
+  rotate: false
+  xy: 2, 308
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_01
+  rotate: false
+  xy: 204, 510
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_02
+  rotate: false
+  xy: 406, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_03
+  rotate: false
+  xy: 558, 914
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_04
+  rotate: false
+  xy: 2, 156
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_05
+  rotate: false
+  xy: 558, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_06
+  rotate: false
+  xy: 710, 914
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_07
+  rotate: false
+  xy: 2, 4
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_08
+  rotate: false
+  xy: 710, 762
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_09
+  rotate: false
+  xy: 406, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_10
+  rotate: false
+  xy: 558, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_11
+  rotate: false
+  xy: 710, 610
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_12
+  rotate: false
+  xy: 154, 308
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_13
+  rotate: false
+  xy: 154, 156
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_14
+  rotate: false
+  xy: 154, 4
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_15
+  rotate: false
+  xy: 356, 458
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_16
+  rotate: false
+  xy: 508, 458
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_17
+  rotate: false
+  xy: 660, 458
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_18
+  rotate: false
+  xy: 306, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_19
+  rotate: false
+  xy: 306, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_20
+  rotate: false
+  xy: 458, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_21
+  rotate: false
+  xy: 458, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_22
+  rotate: false
+  xy: 610, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_23
+  rotate: false
+  xy: 610, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_24
+  rotate: false
+  xy: 306, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_25
+  rotate: false
+  xy: 458, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_26
+  rotate: false
+  xy: 610, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_27
+  rotate: false
+  xy: 762, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_28
+  rotate: false
+  xy: 762, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Lion_glow/Lion_glow_29
+  rotate: false
+  xy: 762, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+choice_black
+  rotate: false
+  xy: 2, 864
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+choice_green
+  rotate: false
+  xy: 2, 662
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+choice_mystery
+  rotate: false
+  xy: 204, 864
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+choice_red
+  rotate: false
+  xy: 2, 460
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+choice_yellow
+  rotate: false
+  xy: 204, 662
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

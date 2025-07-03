@@ -1,0 +1,97 @@
+
+NG_H3.png
+size: 617,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 251, 212
+  size: 313, 241
+  orig: 313, 241
+  offset: 0, 0
+  index: -1
+glow_00000
+  rotate: true
+  xy: 92, 5
+  size: 205, 203
+  orig: 317, 207
+  offset: 56, 2
+  index: -1
+huapen
+  rotate: true
+  xy: 2, 3
+  size: 207, 88
+  orig: 207, 88
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: true
+  xy: 2, 212
+  size: 313, 247
+  orig: 313, 247
+  offset: 0, 0
+  index: -1
+shengzi
+  rotate: true
+  xy: 448, 39
+  size: 171, 40
+  orig: 171, 40
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 490, 81
+  size: 125, 129
+  orig: 125, 129
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: true
+  xy: 297, 5
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: true
+  xy: 490, 4
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 494, 255
+  size: 32, 58
+  orig: 33, 58
+  offset: 1, 0
+  index: -1
+yezi2
+  rotate: true
+  xy: 494, 315
+  size: 210, 92
+  orig: 210, 92
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: true
+  xy: 565, 50
+  size: 29, 39
+  orig: 29, 42
+  offset: 0, 2
+  index: -1
+yezi4
+  rotate: true
+  xy: 448, 2
+  size: 35, 32
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+zizu
+  rotate: true
+  xy: 297, 16
+  size: 194, 149
+  orig: 195, 152
+  offset: 0, 0
+  index: -1
